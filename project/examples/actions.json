@@ -1,0 +1,57 @@
+[
+  {
+    "sailorId": 2,
+    "type": "MOVING",
+    "xdistance": 1,
+    "ydistance": 0
+  },
+  {
+    "sailorId": 5,
+    "type": "MOVING",
+    "xdistance": 2,
+    "ydistance": -2
+  },
+  {
+    "sailorId": 4,
+    "type": "MOVING",
+    "xdistance": 2,
+    "ydistance": 1
+  },
+  {
+    "sailorId": 1,
+    "type": "MOVING",
+    "xdistance": 2,
+    "ydistance": 0
+  },
+  {
+    "sailorId": 0,
+    "type": "MOVING",
+    "xdistance": 5,
+    "ydistance": 0
+  },
+  {
+    "sailorId": 0,
+    "type": "TURN",
+    "rotation": 0
+  },
+  {
+    "sailorId": 2,
+    "type": "OAR"
+  },
+  {
+    "sailorId": 4,
+    "type": "OAR"
+  },
+  {
+    "sailorId": 3,
+    "type": "OAR"
+  },
+  {
+    "sailorId": 5,
+    "type": "OAR"
+  },
+  {
+    "sailorId": 1,
+    "type": "LIFT_SAIL"
+  }
+]
