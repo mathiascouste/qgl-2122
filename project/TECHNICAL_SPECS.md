@@ -1,6 +1,7 @@
 
 
 
+
 # Spécifications techniques
 
 *Ce document est soumis à évolution*
@@ -240,12 +241,12 @@ Par exemple, un carré de coté 2 représenté tel un polygone aura pour sommets
 
 ### MOVING
 
-| Propriétés | Type |
-|--|--|
-| sailorId | integer |
-| type | "MOVING" |
-| xdistance | integer |
-| ydistance | integer |
+| Propriétés | Type | Contraintes |
+|--|--|--|
+| sailorId | integer | |
+| type | "MOVING" | |
+| xdistance | integer | absolute(xdistance) + absolute(ydistance) <= 5 |
+| ydistance | integer | absolute(xdistance) + absolute(ydistance) <= 5 |
 
 ### LIFT_SAIL
 
