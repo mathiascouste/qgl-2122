@@ -1,39 +1,14 @@
-Init game input: {"goal":{"mode":"REGATTA","checkpoints":[{"position":{"x":-200.0,"y":1000.0,"orientation":0.0},"shape":{"type":"circle","radius":80.0}}]},"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"Mugiwara_Cook","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"sailors":[{"x":0,"y":0,"id":0,"name":"Tom Pouce"},{"x":0,"y":1,"id":1,"name":"Luffy Pouce"},{"x":1,"y":0,"id":2,"name":"Luffy Teach"},{"x":1,"y":1,"id":3,"name":"Jack Teach"}],"shipCount":1}
-Next round input: {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"Mugiwara_Cook","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Mugiwara_Cook IS ELIMINATED: fr.unice.polytech.si3.qgl.frigatesengine.interfaces.GenericClientError
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Init game input: {"goal":{"mode":"REGATTA","checkpoints":[{"position":{"x":-200.0,"y":1000.0,"orientation":0.0},"shape":{"type":"circle","radius":80.0}}]},"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"Mugiwara_Cook","deck":{"width":2,"length":3},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":3.0,"orientation":0.0}},"sailors":[{"x":0,"y":0,"id":0,"name":"Jack Pouce"},{"x":0,"y":1,"id":1,"name":"Jack Pouce"},{"x":1,"y":0,"id":2,"name":"Edward Teach"},{"x":1,"y":1,"id":3,"name":"Tom Teach"}],"shipCount":1}
+Next round input: {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"Mugiwara_Cook","deck":{"width":2,"length":3},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":3.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Next round input: {"ship":{"type":"ship","position":{"x":52.93255129340979,"y":52.10755129340978,"orientation":1.5707963267948943},"name":"Mugiwara_Cook","deck":{"width":2,"length":3},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":3.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Next round input: {"ship":{"type":"ship","position":{"x":52.93255129340979,"y":134.60755129340993,"orientation":1.5707963267948943},"name":"Mugiwara_Cook","deck":{"width":2,"length":3},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":3.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Next round input: {"ship":{"type":"ship","position":{"x":52.93255129340979,"y":217.1075512934088,"orientation":1.5707963267948943},"name":"Mugiwara_Cook","deck":{"width":2,"length":3},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":3.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Next round input: {"ship":{"type":"ship","position":{"x":52.93255129340979,"y":299.60755129340765,"orientation":1.5707963267948943},"name":"Mugiwara_Cook","deck":{"width":2,"length":3},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":3.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Next round input: {"ship":{"type":"ship","position":{"x":52.93255129340979,"y":382.1075512934065,"orientation":1.5707963267948943},"name":"Mugiwara_Cook","deck":{"width":2,"length":3},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":3.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Next round input: {"ship":{"type":"ship","position":{"x":37.69538796375855,"y":419.3058176559451,"orientation":2.356194490192338},"name":"Mugiwara_Cook","deck":{"width":2,"length":3},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":3.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Next round input: {"ship":{"type":"ship","position":{"x":-8.891146666913494,"y":530.5381613852785,"orientation":1.5707963267948943},"name":"Mugiwara_Cook","deck":{"width":2,"length":3},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":3.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Next round input: {"ship":{"type":"ship","position":{"x":-24.12830999656472,"y":567.736427747817,"orientation":2.356194490192338},"name":"Mugiwara_Cook","deck":{"width":2,"length":3},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":3.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Next round input: {"ship":{"type":"ship","position":{"x":-70.7148446272368,"y":678.9687714771501,"orientation":1.5707963267948943},"name":"Mugiwara_Cook","deck":{"width":2,"length":3},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":3.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Next round input: {"ship":{"type":"ship","position":{"x":-85.95200795688814,"y":716.1670378396885,"orientation":2.356194490192338},"name":"Mugiwara_Cook","deck":{"width":2,"length":3},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":3.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Next round input: {"ship":{"type":"ship","position":{"x":-132.53854258756013,"y":827.3993815690217,"orientation":1.5707963267948943},"name":"Mugiwara_Cook","deck":{"width":2,"length":3},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":3.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Next round input: {"ship":{"type":"ship","position":{"x":-147.77570591721127,"y":864.5976479315601,"orientation":2.356194490192338},"name":"Mugiwara_Cook","deck":{"width":2,"length":3},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":3.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
