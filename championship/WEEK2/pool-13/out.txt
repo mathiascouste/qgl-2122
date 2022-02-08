@@ -1,0 +1,61 @@
+Init game input: {"goal":{"mode":"REGATTA","checkpoints":[{"position":{"x":-200.0,"y":1000.0,"orientation":0.0},"shape":{"type":"circle","radius":80.0}}]},"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"sailors":[{"x":0,"y":0,"id":0,"name":"Jack Teach"},{"x":0,"y":1,"id":1,"name":"Edward Pouce"},{"x":1,"y":0,"id":2,"name":"Jack Pouce"},{"x":1,"y":1,"id":3,"name":"Tom Pouce"}],"shipCount":1}
+Next round input: {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+1.7681918866447774
+0.0
+0.5235987755982988
+[{"sailorId":3,"type":"OAR"},{"sailorId":0,"type":"MOVING","xdistance":2,"ydistance":0},{"sailorId":1,"type":"MOVING","xdistance":2,"ydistance":0}]
+Next round input: {"ship":{"type":"ship","position":{"x":26.27892712142193,"y":6.967731272222775,"orientation":0.5235987755982993},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+1.7948375981687277
+0.5235987755982993
+1.047197551196598
+1.570796326794897
+[{"sailorId":1,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":52.77740973441455,"y":52.31444948140662,"orientation":1.5707963267948983},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+1.8314590705866758
+1.5707963267948983
+[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":52.77740973441455,"y":162.31444948140614,"orientation":1.5707963267948983},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+1.863864191946186
+1.5707963267948983
+2.0943951023931975
+2.094395102393197
+[{"sailorId":1,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":45.80967846219186,"y":188.5933766028282,"orientation":2.094395102393191},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+1.8649506154012165
+2.094395102393191
+[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":-9.190321537807774,"y":283.85617101911663,"orientation":2.094395102393191},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+1.8311875012209793
+2.094395102393191
+1.5707963267948921
+[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":-30.506015354475846,"y":362.58242334150475,"orientation":1.5707963267948983},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+1.8306896291932184
+1.5707963267948983
+[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":-30.5060153544762,"y":472.582423341507,"orientation":1.5707963267948983},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+1.8817377356148854
+1.5707963267948983
+2.0943951023931975
+2.094395102393197
+[{"sailorId":1,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":-37.47374662669889,"y":498.86135046292895,"orientation":2.094395102393191},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+1.8844075892276024
+2.094395102393191
+[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":-92.4737466266986,"y":594.1241448792223,"orientation":2.094395102393191},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+1.8297710390012907
+2.094395102393191
+1.5707963267948921
+[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":1,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":-113.78944044336662,"y":672.8503972016099,"orientation":1.5707963267948983},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+1.828458939463752
+1.5707963267948983
+[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":-113.78944044336662,"y":782.8503972016122,"orientation":1.5707963267948983},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+1.9487224461949901
+1.5707963267948983
+[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":-134.69263426003457,"y":861.6871785658776,"orientation":2.094395102393191},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2.0119342934091367
+[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"}]

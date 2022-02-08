@@ -1,0 +1,144 @@
+[1, 0]
+[1, 0]
+[1, 0]
+[1, 0]
+Direction du bateau : 0.0
+Direction vers le checkpoint : 281.30993247402023
+Angle a prendre : -78.69006752597977
+0   0.0
+1   45.0
+2   90.0
+
+
+2
+TurnInfos{turnDirection=LEFT, angle=258.69006752597977}
+Direction du bateau : -60.00000000000005
+Direction vers le checkpoint : 283.46280174495143
+Angle a prendre : -16.53719825504851
+0   0.0
+1   45.0
+2   90.0
+
+
+2
+TurnInfos{turnDirection=LEFT, angle=196.5371982550485}
+Direction du bateau : -120.00000000000001
+Direction vers le checkpoint : 282.8433251065526
+Angle a prendre : 42.843325106552584
+0   0.0
+1   45.0
+2   90.0
+
+
+2
+TurnInfos{turnDirection=LEFT, angle=137.15667489344742}
+Direction du bateau : -179.99999999999883
+Direction vers le checkpoint : 280.28644562137856
+Angle a prendre : 100.28644562137742
+0   0.0
+1   45.0
+2   90.0
+
+
+2
+TurnInfos{turnDirection=LEFT, angle=79.71355437862258}
+Direction du bateau : -239.9999999999981
+Direction vers le checkpoint : 278.1708278011719
+Angle a prendre : 158.17082780117005
+0   0.0
+1   45.0
+2   90.0
+
+
+0
+TurnInfos{turnDirection=LEFT, angle=21.82917219882995}
+Direction du bateau : -239.9999999999981
+Direction vers le checkpoint : 275.8001128061862
+Angle a prendre : 155.8001128061843
+0   0.0
+1   45.0
+2   90.0
+
+
+1
+TurnInfos{turnDirection=LEFT, angle=24.199887193815698}
+Direction du bateau : -269.99999999999625
+Direction vers le checkpoint : 274.9643571195561
+Angle a prendre : 184.96435711955235
+0   0.0
+1   45.0
+2   90.0
+
+
+0
+TurnInfos{turnDirection=RIGHT, angle=4.964357119552346}
+Direction du bateau : -269.99999999999625
+Direction vers le checkpoint : 275.6470511281593
+Angle a prendre : 185.64705112815557
+0   0.0
+1   45.0
+2   90.0
+
+
+0
+TurnInfos{turnDirection=RIGHT, angle=5.647051128155567}
+Direction du bateau : -269.99999999999625
+Direction vers le checkpoint : 276.5465036020782
+Angle a prendre : 186.54650360207438
+0   0.0
+1   45.0
+2   90.0
+
+
+0
+TurnInfos{turnDirection=RIGHT, angle=6.546503602074381}
+Direction du bateau : -269.99999999999625
+Direction vers le checkpoint : 277.78466998811854
+Angle a prendre : 187.78466998811473
+0   0.0
+1   45.0
+2   90.0
+
+
+0
+TurnInfos{turnDirection=RIGHT, angle=7.784669988114729}
+Direction du bateau : -269.99999999999625
+Direction vers le checkpoint : 279.59504527668844
+Angle a prendre : 189.5950452766847
+0   0.0
+1   45.0
+2   90.0
+
+
+0
+TurnInfos{turnDirection=RIGHT, angle=9.595045276684687}
+Direction du bateau : -269.99999999999625
+Direction vers le checkpoint : 282.48528026236943
+Angle a prendre : 192.48528026236568
+0   0.0
+1   45.0
+2   90.0
+
+
+0
+TurnInfos{turnDirection=RIGHT, angle=12.485280262365677}
+Direction du bateau : -269.99999999999625
+Direction vers le checkpoint : 287.78771141836046
+Angle a prendre : 197.7877114183567
+0   0.0
+1   45.0
+2   90.0
+
+
+0
+TurnInfos{turnDirection=RIGHT, angle=17.787711418356707}
+Direction du bateau : -269.99999999999625
+Direction vers le checkpoint : 300.2073529615542
+Angle a prendre : 210.20735296155044
+0   0.0
+1   45.0
+2   90.0
+
+
+1
+TurnInfos{turnDirection=RIGHT, angle=30.20735296155044}
