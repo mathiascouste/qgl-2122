@@ -1,0 +1,6 @@
+févr. 22, 2022 8:56:44 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.Cockpit initGame
+INFO: 
+
+Une partie commence
+
+

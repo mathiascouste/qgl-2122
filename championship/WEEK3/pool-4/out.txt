@@ -1,0 +1,26 @@
+Ship must be turned by : 1.7681918866447774 (101.30993247402021 degrees) to be aligned with the checkpoint
+Oar to active : [0, 2]
+Entity to activate : [{"x": 1,"y": 1,"type": "oar"}, {"x": 2,"y": 1,"type": "oar"}]
+Ship must be turned by : 0.26076118728152453 (14.940515492051796 degrees) to be aligned with the checkpoint
+Oar to active : [2, 2]
+Entity to activate : [{"x": 1,"y": 0,"type": "oar"}, {"x": 1,"y": 1,"type": "oar"}, {"x": 2,"y": 0,"type": "oar"}, {"x": 2,"y": 1,"type": "oar"}]
+Ship must be turned by : 0.3124893250427636 (17.904319467842097 degrees) to be aligned with the checkpoint
+Oar to active : [2, 2]
+Entity to activate : [{"x": 1,"y": 0,"type": "oar"}, {"x": 1,"y": 1,"type": "oar"}, {"x": 2,"y": 0,"type": "oar"}, {"x": 2,"y": 1,"type": "oar"}]
+Ship must be turned by : 0.38853825718625656 (22.26160231614103 degrees) to be aligned with the checkpoint
+Oar to active : [2, 2]
+Entity to activate : [{"x": 1,"y": 0,"type": "oar"}, {"x": 1,"y": 1,"type": "oar"}, {"x": 2,"y": 0,"type": "oar"}, {"x": 2,"y": 1,"type": "oar"}]
+Ship must be turned by : 0.509332426891131 (29.182598430017364 degrees) to be aligned with the checkpoint
+Best angle : 0,785398163397449 (45.0 degrees)
+Oar to active : [1, 2]
+Entity to activate : [{"x": 1,"y": 0,"type": "oar"}, {"x": 1,"y": 1,"type": "oar"}, {"x": 2,"y": 1,"type": "oar"}]
+Ship must be turned by : -0.2397331943442813 (-13.735700245116858 degrees) to be aligned with the checkpoint
+Oar to active : [2, 2]
+Entity to activate : [{"x": 1,"y": 0,"type": "oar"}, {"x": 1,"y": 1,"type": "oar"}, {"x": 2,"y": 0,"type": "oar"}, {"x": 2,"y": 1,"type": "oar"}]
+Ship must be turned by : -0.40221421900850807 (-23.045177209338082 degrees) to be aligned with the checkpoint
+Best angle : -0,785398163397448 (-45.0 degrees)
+Oar to active : [2, 1]
+Entity to activate : [{"x": 1,"y": 0,"type": "oar"}, {"x": 1,"y": 1,"type": "oar"}, {"x": 2,"y": 0,"type": "oar"}]
+Ship must be turned by : 0.36985481644460516 (21.191120014861628 degrees) to be aligned with the checkpoint
+Oar to active : [2, 2]
+Entity to activate : [{"x": 1,"y": 0,"type": "oar"}, {"x": 1,"y": 1,"type": "oar"}, {"x": 2,"y": 0,"type": "oar"}, {"x": 2,"y": 1,"type": "oar"}]

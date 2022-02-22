@@ -1,0 +1,90 @@
+OarConfiguration{leftOar=3, rightOar=2, totalOar=6, angle=-0.5235987755982988}
+[Oar sailorId=0, Oar sailorId=1, Oar sailorId=2, Oar sailorId=3, Oar sailorId=4]
+OarConfiguration{leftOar=3, rightOar=3, totalOar=6, angle=0.0}
+[Oar sailorId=0, Oar sailorId=1, Oar sailorId=2, Oar sailorId=3, Oar sailorId=4, Oar sailorId=5]
+OarConfiguration{leftOar=3, rightOar=2, totalOar=6, angle=-0.5235987755982988}
+[Oar sailorId=0, Oar sailorId=1, Oar sailorId=2, Oar sailorId=3, Oar sailorId=4]
+OarConfiguration{leftOar=3, rightOar=3, totalOar=6, angle=0.0}
+[Oar sailorId=0, Oar sailorId=1, Oar sailorId=2, Oar sailorId=3, Oar sailorId=4, Oar sailorId=5]
+OarConfiguration{leftOar=2, rightOar=3, totalOar=6, angle=0.5235987755982988}
+[Oar sailorId=0, Oar sailorId=1, Oar sailorId=3, Oar sailorId=4, Oar sailorId=5]
+OarConfiguration{leftOar=3, rightOar=3, totalOar=6, angle=0.0}
+[Oar sailorId=0, Oar sailorId=1, Oar sailorId=2, Oar sailorId=3, Oar sailorId=4, Oar sailorId=5]
+OarConfiguration{leftOar=3, rightOar=2, totalOar=6, angle=-0.5235987755982988}
+[Oar sailorId=0, Oar sailorId=1, Oar sailorId=2, Oar sailorId=3, Oar sailorId=4]
+OarConfiguration{leftOar=3, rightOar=3, totalOar=6, angle=0.0}
+[Oar sailorId=0, Oar sailorId=1, Oar sailorId=2, Oar sailorId=3, Oar sailorId=4, Oar sailorId=5]
+OarConfiguration{leftOar=2, rightOar=3, totalOar=6, angle=0.5235987755982988}
+[Oar sailorId=0, Oar sailorId=1, Oar sailorId=3, Oar sailorId=4, Oar sailorId=5]
+OarConfiguration{leftOar=3, rightOar=3, totalOar=6, angle=0.0}
+[Oar sailorId=0, Oar sailorId=1, Oar sailorId=2, Oar sailorId=3, Oar sailorId=4, Oar sailorId=5]
+OarConfiguration{leftOar=3, rightOar=2, totalOar=6, angle=-0.5235987755982988}
+[Oar sailorId=0, Oar sailorId=1, Oar sailorId=2, Oar sailorId=3, Oar sailorId=4]
+OarConfiguration{leftOar=3, rightOar=3, totalOar=6, angle=0.0}
+[Oar sailorId=0, Oar sailorId=1, Oar sailorId=2, Oar sailorId=3, Oar sailorId=4, Oar sailorId=5]
+OarConfiguration{leftOar=2, rightOar=3, totalOar=6, angle=0.5235987755982988}
+[Oar sailorId=0, Oar sailorId=1, Oar sailorId=3, Oar sailorId=4, Oar sailorId=5]
+OarConfiguration{leftOar=3, rightOar=3, totalOar=6, angle=0.0}
+[Oar sailorId=0, Oar sailorId=1, Oar sailorId=2, Oar sailorId=3, Oar sailorId=4, Oar sailorId=5]
+OarConfiguration{leftOar=3, rightOar=2, totalOar=6, angle=-0.5235987755982988}
+[Oar sailorId=0, Oar sailorId=1, Oar sailorId=2, Oar sailorId=3, Oar sailorId=4]
+OarConfiguration{leftOar=3, rightOar=3, totalOar=6, angle=0.0}
+[Oar sailorId=0, Oar sailorId=1, Oar sailorId=2, Oar sailorId=3, Oar sailorId=4, Oar sailorId=5]
+OarConfiguration{leftOar=2, rightOar=3, totalOar=6, angle=0.5235987755982988}
+[Oar sailorId=0, Oar sailorId=1, Oar sailorId=3, Oar sailorId=4, Oar sailorId=5]
+OarConfiguration{leftOar=3, rightOar=3, totalOar=6, angle=0.0}
+[Oar sailorId=0, Oar sailorId=1, Oar sailorId=2, Oar sailorId=3, Oar sailorId=4, Oar sailorId=5]
+OarConfiguration{leftOar=0, rightOar=3, totalOar=6, angle=1.5707963267948966}
+[Oar sailorId=3, Oar sailorId=4, Oar sailorId=5]
+OarConfiguration{leftOar=1, rightOar=3, totalOar=6, angle=1.0471975511965976}
+[Oar sailorId=0, Oar sailorId=3, Oar sailorId=4, Oar sailorId=5]
+OarConfiguration{leftOar=3, rightOar=3, totalOar=6, angle=0.0}
+[Oar sailorId=0, Oar sailorId=1, Oar sailorId=2, Oar sailorId=3, Oar sailorId=4, Oar sailorId=5]
+OarConfiguration{leftOar=3, rightOar=3, totalOar=6, angle=0.0}
+[Oar sailorId=0, Oar sailorId=1, Oar sailorId=2, Oar sailorId=3, Oar sailorId=4, Oar sailorId=5]
+OarConfiguration{leftOar=3, rightOar=3, totalOar=6, angle=0.0}
+[Oar sailorId=0, Oar sailorId=1, Oar sailorId=2, Oar sailorId=3, Oar sailorId=4, Oar sailorId=5]
+OarConfiguration{leftOar=3, rightOar=3, totalOar=6, angle=0.0}
+[Oar sailorId=0, Oar sailorId=1, Oar sailorId=2, Oar sailorId=3, Oar sailorId=4, Oar sailorId=5]
+OarConfiguration{leftOar=3, rightOar=3, totalOar=6, angle=0.0}
+[Oar sailorId=0, Oar sailorId=1, Oar sailorId=2, Oar sailorId=3, Oar sailorId=4, Oar sailorId=5]
+OarConfiguration{leftOar=3, rightOar=3, totalOar=6, angle=0.0}
+[Oar sailorId=0, Oar sailorId=1, Oar sailorId=2, Oar sailorId=3, Oar sailorId=4, Oar sailorId=5]
+OarConfiguration{leftOar=3, rightOar=3, totalOar=6, angle=0.0}
+[Oar sailorId=0, Oar sailorId=1, Oar sailorId=2, Oar sailorId=3, Oar sailorId=4, Oar sailorId=5]
+OarConfiguration{leftOar=3, rightOar=3, totalOar=6, angle=0.0}
+[Oar sailorId=0, Oar sailorId=1, Oar sailorId=2, Oar sailorId=3, Oar sailorId=4, Oar sailorId=5]
+OarConfiguration{leftOar=3, rightOar=3, totalOar=6, angle=0.0}
+[Oar sailorId=0, Oar sailorId=1, Oar sailorId=2, Oar sailorId=3, Oar sailorId=4, Oar sailorId=5]
+OarConfiguration{leftOar=3, rightOar=3, totalOar=6, angle=0.0}
+[Oar sailorId=0, Oar sailorId=1, Oar sailorId=2, Oar sailorId=3, Oar sailorId=4, Oar sailorId=5]
+OarConfiguration{leftOar=3, rightOar=3, totalOar=6, angle=0.0}
+[Oar sailorId=0, Oar sailorId=1, Oar sailorId=2, Oar sailorId=3, Oar sailorId=4, Oar sailorId=5]
+OarConfiguration{leftOar=3, rightOar=3, totalOar=6, angle=0.0}
+[Oar sailorId=0, Oar sailorId=1, Oar sailorId=2, Oar sailorId=3, Oar sailorId=4, Oar sailorId=5]
+OarConfiguration{leftOar=3, rightOar=3, totalOar=6, angle=0.0}
+[Oar sailorId=0, Oar sailorId=1, Oar sailorId=2, Oar sailorId=3, Oar sailorId=4, Oar sailorId=5]
+OarConfiguration{leftOar=3, rightOar=3, totalOar=6, angle=0.0}
+[Oar sailorId=0, Oar sailorId=1, Oar sailorId=2, Oar sailorId=3, Oar sailorId=4, Oar sailorId=5]
+OarConfiguration{leftOar=3, rightOar=3, totalOar=6, angle=0.0}
+[Oar sailorId=0, Oar sailorId=1, Oar sailorId=2, Oar sailorId=3, Oar sailorId=4, Oar sailorId=5]
+OarConfiguration{leftOar=3, rightOar=3, totalOar=6, angle=0.0}
+[Oar sailorId=0, Oar sailorId=1, Oar sailorId=2, Oar sailorId=3, Oar sailorId=4, Oar sailorId=5]
+OarConfiguration{leftOar=3, rightOar=3, totalOar=6, angle=0.0}
+[Oar sailorId=0, Oar sailorId=1, Oar sailorId=2, Oar sailorId=3, Oar sailorId=4, Oar sailorId=5]
+OarConfiguration{leftOar=3, rightOar=3, totalOar=6, angle=0.0}
+[Oar sailorId=0, Oar sailorId=1, Oar sailorId=2, Oar sailorId=3, Oar sailorId=4, Oar sailorId=5]
+OarConfiguration{leftOar=3, rightOar=3, totalOar=6, angle=0.0}
+[Oar sailorId=0, Oar sailorId=1, Oar sailorId=2, Oar sailorId=3, Oar sailorId=4, Oar sailorId=5]
+OarConfiguration{leftOar=3, rightOar=3, totalOar=6, angle=0.0}
+[Oar sailorId=0, Oar sailorId=1, Oar sailorId=2, Oar sailorId=3, Oar sailorId=4, Oar sailorId=5]
+OarConfiguration{leftOar=3, rightOar=3, totalOar=6, angle=0.0}
+[Oar sailorId=0, Oar sailorId=1, Oar sailorId=2, Oar sailorId=3, Oar sailorId=4, Oar sailorId=5]
+OarConfiguration{leftOar=3, rightOar=3, totalOar=6, angle=0.0}
+[Oar sailorId=0, Oar sailorId=1, Oar sailorId=2, Oar sailorId=3, Oar sailorId=4, Oar sailorId=5]
+OarConfiguration{leftOar=3, rightOar=3, totalOar=6, angle=0.0}
+[Oar sailorId=0, Oar sailorId=1, Oar sailorId=2, Oar sailorId=3, Oar sailorId=4, Oar sailorId=5]
+OarConfiguration{leftOar=2, rightOar=3, totalOar=6, angle=0.5235987755982988}
+[Oar sailorId=0, Oar sailorId=1, Oar sailorId=3, Oar sailorId=4, Oar sailorId=5]
+OarConfiguration{leftOar=3, rightOar=3, totalOar=6, angle=0.0}
+[Oar sailorId=0, Oar sailorId=1, Oar sailorId=2, Oar sailorId=3, Oar sailorId=4, Oar sailorId=5]

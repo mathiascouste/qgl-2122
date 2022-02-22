@@ -1,0 +1,167 @@
+Init game input: {"goal":{"mode":"REGATTA","checkpoints":[{"position":{"x":1890.4823989569727,"y":-1738.2812500000007,"orientation":0.0},"shape":{"type":"circle","radius":100.0}},{"position":{"x":-143.41590612777003,"y":1861.9791666666665,"orientation":0.0},"shape":{"type":"circle","radius":100.0}}]},"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"sailors":[{"x":0,"y":0,"id":0,"name":"Jack Pouce"},{"x":0,"y":1,"id":1,"name":"Luffy Teach"},{"x":1,"y":0,"id":2,"name":"Luffy Teach"},{"x":1,"y":1,"id":3,"name":"Jack Teach"},{"x":2,"y":0,"id":4,"name":"Edward Teach"},{"x":2,"y":1,"id":5,"name":"Jack Pouce"}],"shipCount":1}
+Next round input: {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+-0.74347975637695
+0.0
+-0.5235987755982991
+[{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":0,"type":"MOVING","xdistance":3,"ydistance":0},{"sailorId":1,"type":"MOVING","xdistance":3,"ydistance":0}]
+Next round input: {"ship":{"type":"ship","position":{"x":78.83678136426575,"y":-20.90319381666833,"orientation":-0.5235987755982993},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+-0.7586924343797112
+-0.5235987755982991
+[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":5,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":221.7309729886984,"y":-103.40319381666856,"orientation":-0.5235987755982993},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+-0.7751451422924502
+-0.5235987755982991
+[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":5,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":364.6251646131289,"y":-185.90319381666785,"orientation":-0.5235987755982993},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+-0.794013543043892
+-0.5235987755982991
+-1.0471975511965983
+[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":460.996928789328,"y":-281.7716730626636,"orientation":-1.0471975511965979},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+-0.7947617681596252
+-1.0471975511965983
+[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":5,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":543.4969287893291,"y":-424.6658646870934,"orientation":-1.0471975511965979},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+-0.7728565094549544
+-1.0471975511965983
+-0.5235987755982991
+[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":5,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":639.3654080353248,"y":-521.0376288632928,"orientation":-0.5235987755982993},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+-0.7716760016112122
+-0.5235987755982991
+[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":5,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":782.2595996597546,"y":-603.5376288632973,"orientation":-0.5235987755982993},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+-0.7972216065710981
+-0.5235987755982991
+-1.0471975511965983
+[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":878.6313638359538,"y":-699.4061081092931,"orientation":-1.0471975511965979},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+-0.7985752237699939
+-1.0471975511965983
+[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":5,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":961.1313638359584,"y":-842.3002997337229,"orientation":-1.0471975511965979},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+-0.7671185472890107
+-1.0471975511965983
+-0.5235987755982991
+[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":5,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":1056.9998430819544,"y":-938.6720639099223,"orientation":-0.5235987755982993},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+-0.7646592713654122
+-0.5235987755982991
+[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":5,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":1199.8940347063956,"y":-1021.1720639099268,"orientation":-0.5235987755982993},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+-0.8042357927817788
+-0.5235987755982991
+-1.0471975511965983
+[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":1296.2657988825945,"y":-1117.0405431559225,"orientation":-1.0471975511965979},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+-0.8076281956077684
+-1.0471975511965983
+[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":5,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":1378.765798882599,"y":-1259.9347347803637,"orientation":-1.0471975511965979},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+-0.7517059103475712
+-1.0471975511965983
+-0.5235987755982991
+[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":5,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":1474.6342781285944,"y":-1356.3064989565628,"orientation":-0.5235987755982993},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+-0.7429663914145774
+-0.5235987755982991
+[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":5,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":1617.5284697530356,"y":-1438.8064989565673,"orientation":-0.5235987755982993},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+-0.8316954079180459
+-0.5235987755982991
+[{"sailorId":0,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":3,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":1713.9002339292344,"y":-1534.674978202563,"orientation":-1.0471975511965979},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+-0.8563596358754486
+[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":5,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":1796.400233929239,"y":-1677.569169827004,"orientation":-1.0471975511965979},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+-0.5730705260552035
+[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":5,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":1878.9002339292435,"y":-1820.4633614514453,"orientation":-1.0471975511965979},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2.073008165656112
+-1.0471975511965983
+-1.5707963267948966
+-2.0943951023931957
+-2.6179938779914944
+0.5235987755982987
+[{"sailorId":1,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":5,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":1950.4929727250421,"y":-1840.2505199119566,"orientation":0.5235987755982997},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2.085522781884759
+0.5235987755982996
+1.0471975511965987
+1.5707963267948974
+[{"sailorId":1,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":5,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":1970.2801311855535,"y":-1768.6577811161578,"orientation":2.094395102393191},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2.098012256438336
+[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":5,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":1887.780131185549,"y":-1625.7635894917166,"orientation":2.094395102393191},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2.098160129149868
+[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":5,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":1805.2801311855444,"y":-1482.8693978672754,"orientation":2.094395102393191},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2.098320607484523
+[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":5,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":1722.7801311855399,"y":-1339.9752062428342,"orientation":2.094395102393191},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2.098495375071841
+[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":5,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":1640.2801311855353,"y":-1197.081014618393,"orientation":2.094395102393191},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2.0986864293345406
+[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":5,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":1557.7801311855308,"y":-1054.1868229939519,"orientation":2.094395102393191},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2.098896158166379
+[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":5,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":1475.2801311855262,"y":-911.2926313695197,"orientation":2.094395102393191},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2.0991274402493527
+[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":5,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":1392.7801311855217,"y":-768.3984397450898,"orientation":2.094395102393191},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2.0993837779732294
+[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":5,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":1310.2801311855171,"y":-625.50424812066,"orientation":2.094395102393191},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2.0996694760266053
+[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":5,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":1227.7801311855126,"y":-482.610056496229,"orientation":2.094395102393191},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2.0999898850798076
+[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":5,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":1145.280131185508,"y":-339.7158648717935,"orientation":2.094395102393191},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2.1003517400277123
+[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":5,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":1062.7801311855035,"y":-196.82167324735917,"orientation":2.094395102393191},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2.1007636385610207
+[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":5,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":980.2801311854989,"y":-53.92748162292651,"orientation":2.094395102393191},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2.1012367330321338
+[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":5,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":897.7801311854944,"y":88.96671000150617,"orientation":2.094395102393191},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2.101785755420099
+[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":5,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":815.2801311854898,"y":231.86090162593885,"orientation":2.094395102393191},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2.102430578812318
+[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":5,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":732.7801311854853,"y":374.7550932503739,"orientation":2.094395102393191},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2.1031986743557303
+[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":5,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":650.2801311854807,"y":517.6492848748092,"orientation":2.094395102393191},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2.1041291260878197
+[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":5,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":567.7801311854762,"y":660.543476499239,"orientation":2.094395102393191},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2.1052794922153035
+[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":5,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":485.2801311854735,"y":803.4376681236688,"orientation":2.094395102393191},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2.106738182623561
+[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":5,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":402.78013118547466,"y":946.3318597480986,"orientation":2.094395102393191},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2.1086483267701635
+[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":5,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":320.2801311854758,"y":1089.2260513725337,"orientation":2.094395102393191},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2.111257853104034
+[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":5,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":237.78013118547693,"y":1232.1202429969749,"orientation":2.094395102393191},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2.115036880831735
+[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":5,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":155.28013118547807,"y":1375.014434621416,"orientation":2.094395102393191},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2.12099841909111
+[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":5,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":72.7801311854792,"y":1517.9086262458572,"orientation":2.094395102393191},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2.1317995737026028
+[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":5,"type":"OAR"}]
+Next round input: {"ship":{"type":"ship","position":{"x":-9.719868814520156,"y":1660.8028178702984,"orientation":2.094395102393191},"name":"lata","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+2.157346921964494
+[{"sailorId":0,"type":"OAR"},{"sailorId":1,"type":"OAR"},{"sailorId":2,"type":"OAR"},{"sailorId":3,"type":"OAR"},{"sailorId":4,"type":"OAR"},{"sailorId":5,"type":"OAR"}]

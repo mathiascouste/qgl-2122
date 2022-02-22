@@ -1,0 +1,177 @@
+Init game input: {"goal":{"mode":"REGATTA","checkpoints":[{"position":{"x":1890.4823989569727,"y":-1738.2812500000007,"orientation":0.0},"shape":{"type":"circle","radius":100.0}},{"position":{"x":-143.41590612777003,"y":1861.9791666666665,"orientation":0.0},"shape":{"type":"circle","radius":100.0}}]},"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"deadbeef","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"sailors":[{"x":0,"y":0,"id":0,"name":"Jack Teach"},{"x":0,"y":1,"id":1,"name":"Tom Pouce"},{"x":1,"y":0,"id":2,"name":"Tom Pouce"},{"x":1,"y":1,"id":3,"name":"Edward Teach"},{"x":2,"y":0,"id":4,"name":"Edward Pouce"},{"x":2,"y":1,"id":5,"name":"Luffy Teach"}],"shipCount":1}
+Next round input: {"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"deadbeef","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Current turn: 0
+sailorsNotRowing : 1
+radian : -0.7853981633974483
+Next round input: {"ship":{"type":"ship","position":{"x":131.39463560710956,"y":-34.83865636111389,"orientation":-0.5235987755982993},"name":"deadbeef","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Current turn: 1
+sailorsNotRowing : 0
+radian : 0.0
+Next round input: {"ship":{"type":"ship","position":{"x":274.28882723154186,"y":-117.33865636111418,"orientation":-0.5235987755982993},"name":"deadbeef","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Current turn: 2
+sailorsNotRowing : 0
+radian : 0.0
+Next round input: {"ship":{"type":"ship","position":{"x":417.1830188559717,"y":-199.8386563611132,"orientation":-0.5235987755982993},"name":"deadbeef","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Current turn: 3
+sailorsNotRowing : 0
+radian : 0.0
+Next round input: {"ship":{"type":"ship","position":{"x":560.0772104804015,"y":-282.3386563611121,"orientation":-0.5235987755982993},"name":"deadbeef","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Current turn: 4
+sailorsNotRowing : 0
+radian : 0.0
+Next round input: {"ship":{"type":"ship","position":{"x":702.9714021048313,"y":-364.83865636111096,"orientation":-0.5235987755982993},"name":"deadbeef","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Current turn: 5
+sailorsNotRowing : 0
+radian : 0.0
+Next round input: {"ship":{"type":"ship","position":{"x":845.8655937292611,"y":-447.3386563611098,"orientation":-0.5235987755982993},"name":"deadbeef","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Current turn: 6
+sailorsNotRowing : 0
+radian : 0.0
+Next round input: {"ship":{"type":"ship","position":{"x":988.759785353691,"y":-529.8386563611099,"orientation":-0.5235987755982993},"name":"deadbeef","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Current turn: 7
+sailorsNotRowing : 1
+radian : -0.7853981633974483
+Next round input: {"ship":{"type":"ship","position":{"x":1085.1315495298898,"y":-625.7071356071057,"orientation":-1.0471975511965979},"name":"deadbeef","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Current turn: 8
+sailorsNotRowing : 0
+radian : 0.0
+Next round input: {"ship":{"type":"ship","position":{"x":1167.6315495298943,"y":-768.6013272315355,"orientation":-1.0471975511965979},"name":"deadbeef","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Current turn: 9
+sailorsNotRowing : 0
+radian : 0.0
+Next round input: {"ship":{"type":"ship","position":{"x":1250.1315495298988,"y":-911.4955188559653,"orientation":-1.0471975511965979},"name":"deadbeef","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Current turn: 10
+sailorsNotRowing : 0
+radian : 0.0
+Next round input: {"ship":{"type":"ship","position":{"x":1332.6315495299034,"y":-1054.3897104803975,"orientation":-1.0471975511965979},"name":"deadbeef","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Current turn: 11
+sailorsNotRowing : 0
+radian : 0.0
+Next round input: {"ship":{"type":"ship","position":{"x":1415.131549529908,"y":-1197.2839021048387,"orientation":-1.0471975511965979},"name":"deadbeef","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Current turn: 12
+sailorsNotRowing : 0
+radian : 0.0
+Next round input: {"ship":{"type":"ship","position":{"x":1497.6315495299125,"y":-1340.17809372928,"orientation":-1.0471975511965979},"name":"deadbeef","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Current turn: 13
+sailorsNotRowing : 0
+radian : 0.0
+Next round input: {"ship":{"type":"ship","position":{"x":1580.131549529917,"y":-1483.072285353721,"orientation":-1.0471975511965979},"name":"deadbeef","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Current turn: 14
+sailorsNotRowing : 0
+radian : 0.0
+Next round input: {"ship":{"type":"ship","position":{"x":1662.6315495299216,"y":-1625.9664769781623,"orientation":-1.0471975511965979},"name":"deadbeef","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Current turn: 15
+sailorsNotRowing : 1
+radian : 0.7853981633974483
+Next round input: {"ship":{"type":"ship","position":{"x":1758.500028775917,"y":-1722.3382411543614,"orientation":-0.5235987755982993},"name":"deadbeef","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Current turn: 16
+sailorsNotRowing : 1
+radian : 0.7853981633974483
+Next round input: {"ship":{"type":"ship","position":{"x":1889.7104493132301,"y":-1757.8643975154753,"orientation":8.153200337090993E-17},"name":"deadbeef","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Current turn: 17
+sailorsNotRowing : 2
+radian : 1.5707963267948966
+Next round input: {"ship":{"type":"ship","position":{"x":1980.953885731597,"y":-1705.8200602336528,"orientation":1.0471975511965987},"name":"deadbeef","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Current turn: 18
+sailorsNotRowing : 1
+radian : 0.7853981633974483
+Next round input: {"ship":{"type":"ship","position":{"x":2016.480042092711,"y":-1574.6096396963396,"orientation":1.5707963267948872},"name":"deadbeef","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Current turn: 19
+sailorsNotRowing : 1
+radian : 0.7853981633974483
+Next round input: {"ship":{"type":"ship","position":{"x":1981.6413857316004,"y":-1443.2150040892295,"orientation":2.0943951023931797},"name":"deadbeef","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Current turn: 20
+sailorsNotRowing : 0
+radian : 0.0
+Next round input: {"ship":{"type":"ship","position":{"x":1899.1413857315958,"y":-1300.3208124647883,"orientation":2.0943951023931797},"name":"deadbeef","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Current turn: 21
+sailorsNotRowing : 0
+radian : 0.0
+Next round input: {"ship":{"type":"ship","position":{"x":1816.6413857315913,"y":-1157.4266208403471,"orientation":2.0943951023931797},"name":"deadbeef","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Current turn: 22
+sailorsNotRowing : 0
+radian : 0.0
+Next round input: {"ship":{"type":"ship","position":{"x":1734.1413857315868,"y":-1014.5324292159067,"orientation":2.0943951023931797},"name":"deadbeef","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Current turn: 23
+sailorsNotRowing : 0
+radian : 0.0
+Next round input: {"ship":{"type":"ship","position":{"x":1651.6413857315822,"y":-871.6382375914769,"orientation":2.0943951023931797},"name":"deadbeef","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Current turn: 24
+sailorsNotRowing : 0
+radian : 0.0
+Next round input: {"ship":{"type":"ship","position":{"x":1569.1413857315777,"y":-728.7440459670471,"orientation":2.0943951023931797},"name":"deadbeef","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Current turn: 25
+sailorsNotRowing : 0
+radian : 0.0
+Next round input: {"ship":{"type":"ship","position":{"x":1486.641385731573,"y":-585.8498543426173,"orientation":2.0943951023931797},"name":"deadbeef","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Current turn: 26
+sailorsNotRowing : 0
+radian : 0.0
+Next round input: {"ship":{"type":"ship","position":{"x":1404.1413857315686,"y":-442.95566271818467,"orientation":2.0943951023931797},"name":"deadbeef","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Current turn: 27
+sailorsNotRowing : 0
+radian : 0.0
+Next round input: {"ship":{"type":"ship","position":{"x":1321.641385731564,"y":-300.06147109374916,"orientation":2.0943951023931797},"name":"deadbeef","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Current turn: 28
+sailorsNotRowing : 0
+radian : 0.0
+Next round input: {"ship":{"type":"ship","position":{"x":1239.1413857315595,"y":-157.16727946931564,"orientation":2.0943951023931797},"name":"deadbeef","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Current turn: 29
+sailorsNotRowing : 0
+radian : 0.0
+Next round input: {"ship":{"type":"ship","position":{"x":1156.641385731555,"y":-14.273087844882046,"orientation":2.0943951023931797},"name":"deadbeef","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Current turn: 30
+sailorsNotRowing : 0
+radian : 0.0
+Next round input: {"ship":{"type":"ship","position":{"x":1074.1413857315504,"y":128.62110377955176,"orientation":2.0943951023931797},"name":"deadbeef","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Current turn: 31
+sailorsNotRowing : 0
+radian : 0.0
+Next round input: {"ship":{"type":"ship","position":{"x":991.6413857315504,"y":271.51529540398474,"orientation":2.0943951023931797},"name":"deadbeef","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Current turn: 32
+sailorsNotRowing : 0
+radian : 0.0
+Next round input: {"ship":{"type":"ship","position":{"x":909.1413857315572,"y":414.40948702842024,"orientation":2.0943951023931797},"name":"deadbeef","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Current turn: 33
+sailorsNotRowing : 0
+radian : 0.0
+Next round input: {"ship":{"type":"ship","position":{"x":826.641385731564,"y":557.3036786528539,"orientation":2.0943951023931797},"name":"deadbeef","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Current turn: 34
+sailorsNotRowing : 0
+radian : 0.0
+Next round input: {"ship":{"type":"ship","position":{"x":744.1413857315708,"y":700.1978702772838,"orientation":2.0943951023931797},"name":"deadbeef","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Current turn: 35
+sailorsNotRowing : 0
+radian : 0.0
+Next round input: {"ship":{"type":"ship","position":{"x":661.6413857315777,"y":843.0920619017136,"orientation":2.0943951023931797},"name":"deadbeef","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Current turn: 36
+sailorsNotRowing : 0
+radian : 0.0
+Next round input: {"ship":{"type":"ship","position":{"x":579.1413857315845,"y":985.9862535261434,"orientation":2.0943951023931797},"name":"deadbeef","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Current turn: 37
+sailorsNotRowing : 0
+radian : 0.0
+Next round input: {"ship":{"type":"ship","position":{"x":496.6413857315902,"y":1128.8804451505816,"orientation":2.0943951023931797},"name":"deadbeef","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Current turn: 38
+sailorsNotRowing : 0
+radian : 0.0
+Next round input: {"ship":{"type":"ship","position":{"x":414.14138573159136,"y":1271.7746367750228,"orientation":2.0943951023931797},"name":"deadbeef","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Current turn: 39
+sailorsNotRowing : 0
+radian : 0.0
+Next round input: {"ship":{"type":"ship","position":{"x":331.6413857315925,"y":1414.668828399464,"orientation":2.0943951023931797},"name":"deadbeef","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Current turn: 40
+sailorsNotRowing : 0
+radian : 0.0
+Next round input: {"ship":{"type":"ship","position":{"x":249.14138573159363,"y":1557.5630200239052,"orientation":2.0943951023931797},"name":"deadbeef","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Current turn: 41
+sailorsNotRowing : 0
+radian : 0.0
+Next round input: {"ship":{"type":"ship","position":{"x":166.64138573159477,"y":1700.4572116483464,"orientation":2.0943951023931797},"name":"deadbeef","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Current turn: 42
+sailorsNotRowing : 1
+radian : 0.7853981633974483
+Next round input: {"ship":{"type":"ship","position":{"x":70.77290648560002,"y":1796.828975824546,"orientation":2.6179938779914904},"name":"deadbeef","deck":{"width":2,"length":4},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":3,"y":1,"type":"oar"}],"life":400,"shape":{"type":"rectangle","width":2.0,"height":4.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":0.0}}
+Current turn: 43
+sailorsNotRowing : 0
+radian : 0.0

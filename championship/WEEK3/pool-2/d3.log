@@ -1,0 +1,31 @@
+Marin{id=0, x=2, y=0, name='Luffy Teach'} move => Marin{id=0, x=2, y=0, name='Luffy Teach'}
+Marin{id=1, x=2, y=1, name='Luffy Teach'} move => Marin{id=1, x=2, y=1, name='Luffy Teach'}
+Marin{id=1, x=2, y=1, name='Luffy Teach'} active Oar
+Marin{id=3, x=1, y=1, name='Luffy Teach'} active Oar
+Marin{id=0, x=2, y=0, name='Luffy Teach'} active Oar
+Marin{id=2, x=1, y=0, name='Jack Pouce'} active Oar
+Marin{id=1, x=2, y=1, name='Luffy Teach'} active Oar
+Marin{id=3, x=1, y=1, name='Luffy Teach'} active Oar
+Marin{id=0, x=2, y=0, name='Luffy Teach'} active Oar
+Marin{id=2, x=1, y=0, name='Jack Pouce'} active Oar
+Marin{id=1, x=2, y=1, name='Luffy Teach'} active Oar
+Marin{id=3, x=1, y=1, name='Luffy Teach'} active Oar
+Marin{id=0, x=2, y=0, name='Luffy Teach'} active Oar
+Marin{id=2, x=1, y=0, name='Jack Pouce'} active Oar
+Marin{id=1, x=2, y=1, name='Luffy Teach'} active Oar
+Marin{id=3, x=1, y=1, name='Luffy Teach'} active Oar
+Marin{id=1, x=2, y=1, name='Luffy Teach'} active Oar
+Marin{id=0, x=2, y=0, name='Luffy Teach'} active Oar
+Marin{id=2, x=1, y=0, name='Jack Pouce'} active Oar
+Marin{id=1, x=2, y=1, name='Luffy Teach'} active Oar
+Marin{id=3, x=1, y=1, name='Luffy Teach'} active Oar
+Marin{id=0, x=2, y=0, name='Luffy Teach'} active Oar
+Marin{id=0, x=2, y=0, name='Luffy Teach'} active Oar
+Marin{id=2, x=1, y=0, name='Jack Pouce'} active Oar
+Marin{id=1, x=2, y=1, name='Luffy Teach'} active Oar
+Marin{id=3, x=1, y=1, name='Luffy Teach'} active Oar
+Marin{id=1, x=2, y=1, name='Luffy Teach'} active Oar
+Marin{id=0, x=2, y=0, name='Luffy Teach'} active Oar
+Marin{id=2, x=1, y=0, name='Jack Pouce'} active Oar
+Marin{id=1, x=2, y=1, name='Luffy Teach'} active Oar
+Marin{id=3, x=1, y=1, name='Luffy Teach'} active Oar

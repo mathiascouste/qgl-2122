@@ -1,0 +1,232 @@
+angle init = -0.743
+Boucle:
+angle init = -0.789
+Boucle:
+angle init = -0.271
+Boucle:
+angle init = -0.277
+Boucle:
+angle init = -0.284
+Boucle:
+angle init = -0.291
+Boucle:
+angle init = -0.298
+Boucle:
+angle init = -0.305
+Boucle:
+angle init = -0.313
+Boucle:
+angle init = -0.321
+Boucle:
+angle init = -0.33
+Boucle:
+angle init = -0.339
+Boucle:
+angle init = -0.349
+Boucle:
+angle init = -0.359
+Boucle:
+angle init = -0.37
+Boucle:
+angle init = -0.381
+Boucle:
+angle init = -0.393
+Boucle:
+angle init = -0.406
+Boucle:
+angle init = -0.419
+Boucle:
+angle init = -0.434
+Boucle:
+angle init = -0.449
+Boucle:
+angle init = -0.466
+Boucle:
+angle init = -0.484
+Boucle:
+angle init = -0.503
+Boucle:
+angle init = -0.568
+Boucle:
+angle init = -0.651
+Boucle:
+angle init = -0.757
+Boucle:
+angle init = -0.894
+Boucle:
+angle init = -0.39
+Boucle:
+angle init = -0.418
+Boucle:
+angle init = -0.449
+Boucle:
+angle init = -0.485
+Boucle:
+angle init = -0.527
+Boucle:
+angle init = -0.575
+Boucle:
+angle init = -0.633
+Boucle:
+angle init = -0.701
+Boucle:
+angle init = -0.782
+Boucle:
+angle init = -0.879
+Boucle:
+angle init = -0.397
+Boucle:
+angle init = -0.461
+Boucle:
+angle init = -0.549
+Boucle:
+angle init = -0.671
+Boucle:
+angle init = -0.846
+Boucle:
+angle init = -0.409
+Boucle:
+angle init = -0.585
+Boucle:
+angle init = -2.085
+Boucle:
+angle init = -0.532
+Boucle:
+angle init = -0.552
+Boucle:
+angle init = -0.575
+Boucle:
+angle init = -0.599
+Boucle:
+angle init = -0.625
+Boucle:
+angle init = -0.653
+Boucle:
+angle init = -0.683
+Boucle:
+angle init = -0.715
+Boucle:
+angle init = -0.75
+Boucle:
+angle init = -0.788
+Boucle:
+angle init = -0.269
+Boucle:
+angle init = -0.274
+Boucle:
+angle init = -0.279
+Boucle:
+angle init = -0.285
+Boucle:
+angle init = -0.29
+Boucle:
+angle init = -0.296
+Boucle:
+angle init = -0.302
+Boucle:
+angle init = -0.309
+Boucle:
+angle init = -0.315
+Boucle:
+angle init = -0.322
+Boucle:
+angle init = -0.33
+Boucle:
+angle init = -0.337
+Boucle:
+angle init = -0.345
+Boucle:
+angle init = -0.353
+Boucle:
+angle init = -0.362
+Boucle:
+angle init = -0.371
+Boucle:
+angle init = -0.38
+Boucle:
+angle init = -0.39
+Boucle:
+angle init = -0.401
+Boucle:
+angle init = -0.411
+Boucle:
+angle init = -0.423
+Boucle:
+angle init = -0.435
+Boucle:
+angle init = -0.448
+Boucle:
+angle init = -0.462
+Boucle:
+angle init = -0.476
+Boucle:
+angle init = -0.491
+Boucle:
+angle init = -0.507
+Boucle:
+angle init = -0.524
+Boucle:
+angle init = -0.542
+Boucle:
+angle init = -0.562
+Boucle:
+angle init = -0.582
+Boucle:
+angle init = -0.604
+Boucle:
+angle init = -0.628
+Boucle:
+angle init = -0.653
+Boucle:
+angle init = -0.68
+Boucle:
+angle init = -0.708
+Boucle:
+angle init = -0.739
+Boucle:
+angle init = -0.772
+Boucle:
+angle init = -0.807
+Boucle:
+angle init = -0.297
+Boucle:
+angle init = -0.313
+Boucle:
+angle init = -0.331
+Boucle:
+angle init = -0.351
+Boucle:
+angle init = -0.373
+Boucle:
+angle init = -0.398
+Boucle:
+angle init = -0.426
+Boucle:
+angle init = -0.459
+Boucle:
+angle init = -0.496
+Boucle:
+angle init = -0.539
+Boucle:
+angle init = -0.59
+Boucle:
+angle init = -0.65
+Boucle:
+angle init = -0.72
+Boucle:
+angle init = -0.804
+Boucle:
+angle init = -0.315
+Boucle:
+angle init = -0.363
+Boucle:
+angle init = -0.427
+Boucle:
+angle init = -0.516
+Boucle:
+angle init = -0.646
+Boucle:
+angle init = -0.842
+Boucle:
+angle init = -0.42
+Boucle:
