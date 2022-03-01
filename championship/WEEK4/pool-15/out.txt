@@ -1,0 +1,412 @@
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@6764ef05
+[{"sailorId":4,"type":"MOVING","xdistance":2,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":-0.04780387637391881},{"sailorId":1,"type":"MOVING","xdistance":1,"ydistance":1},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@3f9d3b18
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":-8.854744631832112E-4},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@34839af1
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":-1.7029610632102177E-5},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@aea9cd2
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":-3.4048350050497334E-7},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@2ee61e9b
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":-7.0881134295319725E-9},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@3730cc5f
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":-1.5391021790378545E-10},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@6a0afbc6
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":-3.4852121189032914E-12},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@2525382c
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":-8.43769498715119E-14},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@42b85e78
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":1.1546319456101628E-14},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@413413b8
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":-3.552713678800501E-15},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@7d3f8cd6
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":-7.105427357601002E-15},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@1f407bb
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":-3.552713678800501E-15},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@4186b348
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":3.552713678800501E-15},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@2b90e233
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":7.105427357601002E-15},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@6acb116
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":1.0658141036401503E-14},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@5d5d6f78
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":1.7763568394002505E-14},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@de8061c
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":2.6645352591003757E-15},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@51a61719
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":9.769962616701378E-15},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@3ff56cfb
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":1.3322676295501878E-14},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@6601c760
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":8.881784197001252E-15},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@519ea1f3
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":2.3092638912203256E-14},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@367240ef
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":1.509903313490213E-14},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@29ba8b4d
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":1.7763568394002505E-14},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@1d8efdf4
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":2.7533531010703882E-14},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@1b600289
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":5.1514348342607263E-14},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@3ae2edc8
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":-1.0658141036401503E-14},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@377e575b
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":-9.592326932761353E-14},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@4d4e53d3
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":-2.1316282072803006E-14},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@425ee119
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":0.7853981633974483},{"sailorId":0,"type":"MOVING","xdistance":2,"ydistance":2},]
+[0, 3]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@7f95df54
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":0.7853981633974483},{"sailorId":0,"type":"MOVING","xdistance":-2,"ydistance":-2},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@6a6aa5d2
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":0.08779889971503252},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@50f40382
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":0.0036905421356818735},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@55e624aa
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":1.69332100625752E-4},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@3a5a7c14
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":8.545878332988366E-6},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@5c9fe37a
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":4.791827672434579E-7},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@cb758ce
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":3.022459882373596E-8},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@6350a3b3
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":2.178500935201555E-9},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@2edd9661
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":1.8314327832058552E-10},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@4543d5d1
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":1.8477663843441405E-11},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@6481412f
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":2.3288038164537284E-12},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@1b73b0fa
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":4.156675004196586E-13},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@1766093
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":6.927791673660977E-14},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@67f91b1d
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":-5.1514348342607263E-14},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@568bb9ba
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":-0.7853981633974483},{"sailorId":0,"type":"MOVING","xdistance":2,"ydistance":2},]
+[0, 3]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@31e859ff
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":-0.7853981633974483},]
+[0, 3]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@35c38da8
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":0.6089804254187394},{"sailorId":0,"type":"MOVING","xdistance":-2,"ydistance":-2},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@4d38dd9c
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":0.022507303457990235},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@19ebfe40
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":9.282831433738981E-4},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@86237d9
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":4.1692604028420455E-5},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@261fef27
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":2.0553683420798663E-6},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@7f28ad67
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":1.1228736529478311E-7},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@407dcd0d
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":6.878521308095742E-9},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@38040a9e
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":4.795365216025971E-10},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@1f7a3324
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":3.878242171850843E-11},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@183a67b2
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":3.738342968517827E-12},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@7f49037a
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":4.410916076835747E-13},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@6c033e3c
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":5.795364188543317E-14},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@21e39ade
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":5.517808432387028E-14},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@7292700b
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":1.3733458814613186E-13},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@55f46ee2
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":0.7853981633974483},{"sailorId":0,"type":"MOVING","xdistance":2,"ydistance":2},]
+[0, 3]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@3e3c204a
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":0.7054628064361061},{"sailorId":0,"type":"MOVING","xdistance":-2,"ydistance":-2},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@3aed817b
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":0.0250456467674689},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@746261b1
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":0.001000585926898001},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@258ccfd8
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":4.34103708473188E-5},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@3116e497
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":2.060364502565193E-6},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@74ed5b52
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":1.0793425708754967E-7},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@299d1f43
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":6.308690458922683E-9},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@3a6e1a5c
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":4.1700554120893685E-10},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@14e9f058
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":3.172262452721952E-11},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@5c89fa8a
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":2.8563817977556027E-12},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@3079e55d
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":3.268496584496461E-13},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@15bd6647
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":6.217248937900877E-14},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@5b0c271e
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":7.993605777301127E-15},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@10dc07fc
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":-1.4210854715202004E-14},]
+[2, 2]
+COUCOUCOCUOCUCU
+pzoiejfoznbvoizbfoizbgLDDJCBKZBVIKABFIHZVJUAVHF
+fr.unice.polytech.si3.qgl.ship.Entities@5392cb2f
+[{"sailorId":4,"type":"MOVING","xdistance":0,"ydistance":0},{"sailorId":4,"type":"TURN","rotation":-0.7853981633974483},]
+[3, 2]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+lata IS ELIMINATED: fr.unice.polytech.si3.qgl.frigatesengine.interfaces.GenericClientError
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
