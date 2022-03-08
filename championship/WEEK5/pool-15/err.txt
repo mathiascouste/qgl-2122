@@ -1,0 +1,16 @@
+mars 08, 2022 10:14:11 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.Cockpit initGame
+INFO: 
+
+Une partie commence
+
+
+mars 08, 2022 10:14:12 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.ShipDirectionHelper useSail
+INFO: Ouverture de la voile
+mars 08, 2022 10:14:12 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.ShipDirectionHelper useSail
+INFO: Fermeture de la voile
+mars 08, 2022 10:14:12 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.ShipDirectionHelper useSail
+INFO: Ouverture de la voile
+mars 08, 2022 10:14:12 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.ShipDirectionHelper useSail
+INFO: Fermeture de la voile
+mars 08, 2022 10:14:12 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.ShipDirectionHelper useSail
+INFO: Ouverture de la voile

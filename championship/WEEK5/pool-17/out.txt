@@ -1,0 +1,1412 @@
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 8
+true
+true
+true
+true
+true
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Luffy Pouce 4, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 8
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Luffy Pouce 4]
+Right -> [Jack Teach 9, Edward Pouce 6, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> [Jack Teach 1]
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Luffy Pouce 4]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> [Jack Teach 1]
+End of turn, nbAssociation -> 9
+true
+true
+true
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 6
+-- Left right --
+Left -> []
+Right -> [Jack Teach 9, Edward Teach 3, Jack Teach 10, Luffy Teach 8, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> [Jack Teach 9, Edward Teach 3, Jack Teach 10, Luffy Teach 8, Edward Pouce 7, Jack Teach 1]
+End of turn, nbAssociation -> 6
+-- Left right --
+Left -> [Jack Teach 9, Jack Teach 10, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Teach 3, Jack Teach 10, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> [Edward Teach 3]
+End of turn, nbAssociation -> 7
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Luffy Pouce 4, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Luffy Pouce 4, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+End of turn, nbAssociation -> 0
+End of turn, nbAssociation -> 1
+-- Left right --
+Left -> []
+Right -> [Jack Teach 9, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Luffy Teach 8, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> [Jack Teach 9, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Luffy Teach 8, Jack Teach 1]
+End of turn, nbAssociation -> 6
+-- Left right --
+Left -> [Jack Teach 9, Luffy Pouce 5, Jack Teach 10, Luffy Teach 8]
+Right -> [Jack Teach 9, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Luffy Teach 8, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> [Edward Teach 3, Jack Teach 1]
+End of turn, nbAssociation -> 8
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 6
+-- Left right --
+Left -> [Jack Teach 9, Jack Teach 10, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Teach 3, Jack Teach 10, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> [Edward Teach 3]
+End of turn, nbAssociation -> 7
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Luffy Pouce 4, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Luffy Pouce 4, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 8
+End of turn, nbAssociation -> 1
+-- Left right --
+Left -> []
+Right -> [Jack Teach 9, Edward Teach 3, Edward Pouce 2, Luffy Teach 8, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> [Jack Teach 9, Edward Teach 3, Edward Pouce 2, Luffy Teach 8, Edward Pouce 7, Jack Teach 1]
+End of turn, nbAssociation -> 6
+-- Left right --
+Left -> [Jack Teach 9, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Edward Pouce 7]
+Right -> [Jack Teach 9, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> [Edward Teach 3, Jack Teach 1]
+End of turn, nbAssociation -> 7
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 8
+-- Left right --
+Left -> []
+Right -> [Jack Teach 9, Edward Teach 3, Edward Pouce 2, Luffy Teach 11, Luffy Pouce 4, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> [Jack Teach 9, Edward Teach 3, Edward Pouce 2, Luffy Teach 11, Luffy Pouce 4, Jack Teach 1]
+End of turn, nbAssociation -> 6
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Luffy Pouce 4, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Luffy Pouce 5, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Luffy Pouce 5, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Luffy Pouce 4, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 8
+End of turn, nbAssociation -> 1
+-- Left right --
+Left -> []
+Right -> [Jack Teach 9, Edward Teach 3, Edward Pouce 2, Luffy Teach 8, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> [Jack Teach 9, Edward Teach 3, Edward Pouce 2, Luffy Teach 8, Edward Pouce 7, Jack Teach 1]
+End of turn, nbAssociation -> 6
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 11
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10
+-- Left right --
+Left -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+Right -> [Jack Teach 9, Edward Pouce 6, Edward Teach 3, Jack Teach 10, Edward Pouce 2, Luffy Teach 8, Luffy Teach 11, Edward Pouce 0, Edward Pouce 7, Jack Teach 1]
+-- Left right remove double--
+Left -> []
+Right -> []
+End of turn, nbAssociation -> 10

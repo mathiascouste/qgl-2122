@@ -1,0 +1,100 @@
+Marin{id=6, x=3, y=1, name='Tom Pouce'} move => Marin{id=6, x=3, y=1, name='Tom Pouce'}
+Marin{id=4, x=2, y=0, name='Luffy Pouce'} move => Marin{id=4, x=2, y=0, name='Luffy Pouce'}
+Marin{id=1, x=2, y=2, name='Edward Teach'} move => Marin{id=1, x=2, y=2, name='Edward Teach'}
+Marin{id=6, x=3, y=1, name='Tom Pouce'} use rudder with rotation of -0.047803876373950116
+Marin{id=0, x=0, y=0, name='Tom Pouce'} active Oar
+Marin{id=3, x=1, y=0, name='Luffy Teach'} active Oar
+Marin{id=4, x=2, y=0, name='Luffy Pouce'} active Oar
+Marin{id=1, x=2, y=2, name='Edward Teach'} active Oar
+Marin{id=2, x=0, y=2, name='Edward Teach'} active Oar
+Marin{id=5, x=1, y=2, name='Jack Pouce'} active Oar
+Marin{id=6, x=3, y=1, name='Tom Pouce'} use rudder with rotation of -0.0013530203662643903
+Marin{id=0, x=0, y=0, name='Tom Pouce'} active Oar
+Marin{id=3, x=1, y=0, name='Luffy Teach'} active Oar
+Marin{id=4, x=2, y=0, name='Luffy Pouce'} active Oar
+Marin{id=1, x=2, y=2, name='Edward Teach'} active Oar
+Marin{id=2, x=0, y=2, name='Edward Teach'} active Oar
+Marin{id=5, x=1, y=2, name='Jack Pouce'} active Oar
+Marin{id=6, x=3, y=1, name='Tom Pouce'} use rudder with rotation of -4.0577315207679376E-5
+Marin{id=0, x=0, y=0, name='Tom Pouce'} active Oar
+Marin{id=3, x=1, y=0, name='Luffy Teach'} active Oar
+Marin{id=4, x=2, y=0, name='Luffy Pouce'} active Oar
+Marin{id=1, x=2, y=2, name='Edward Teach'} active Oar
+Marin{id=2, x=0, y=2, name='Edward Teach'} active Oar
+Marin{id=5, x=1, y=2, name='Jack Pouce'} active Oar
+Marin{id=6, x=3, y=1, name='Tom Pouce'} use rudder with rotation of -1.2937525706302466E-6
+Marin{id=0, x=0, y=0, name='Tom Pouce'} active Oar
+Marin{id=3, x=1, y=0, name='Luffy Teach'} active Oar
+Marin{id=4, x=2, y=0, name='Luffy Pouce'} active Oar
+Marin{id=1, x=2, y=2, name='Edward Teach'} active Oar
+Marin{id=2, x=0, y=2, name='Edward Teach'} active Oar
+Marin{id=5, x=1, y=2, name='Jack Pouce'} active Oar
+Marin{id=6, x=3, y=1, name='Tom Pouce'} use rudder with rotation of -4.402918740709083E-8
+Marin{id=0, x=0, y=0, name='Tom Pouce'} active Oar
+Marin{id=3, x=1, y=0, name='Luffy Teach'} active Oar
+Marin{id=4, x=2, y=0, name='Luffy Pouce'} active Oar
+Marin{id=1, x=2, y=2, name='Edward Teach'} active Oar
+Marin{id=2, x=0, y=2, name='Edward Teach'} active Oar
+Marin{id=5, x=1, y=2, name='Jack Pouce'} active Oar
+Marin{id=6, x=3, y=1, name='Tom Pouce'} use rudder with rotation of -1.606887956029368E-9
+Marin{id=0, x=0, y=0, name='Tom Pouce'} active Oar
+Marin{id=3, x=1, y=0, name='Luffy Teach'} active Oar
+Marin{id=4, x=2, y=0, name='Luffy Pouce'} active Oar
+Marin{id=1, x=2, y=2, name='Edward Teach'} active Oar
+Marin{id=2, x=0, y=2, name='Edward Teach'} active Oar
+Marin{id=5, x=1, y=2, name='Jack Pouce'} active Oar
+Marin{id=6, x=3, y=1, name='Tom Pouce'} use rudder with rotation of -6.311062783481702E-11
+Marin{id=0, x=0, y=0, name='Tom Pouce'} active Oar
+Marin{id=3, x=1, y=0, name='Luffy Teach'} active Oar
+Marin{id=4, x=2, y=0, name='Luffy Pouce'} active Oar
+Marin{id=1, x=2, y=2, name='Edward Teach'} active Oar
+Marin{id=2, x=0, y=2, name='Edward Teach'} active Oar
+Marin{id=5, x=1, y=2, name='Jack Pouce'} active Oar
+Marin{id=6, x=3, y=1, name='Tom Pouce'} use rudder with rotation of -2.559508160970836E-12
+Marin{id=0, x=0, y=0, name='Tom Pouce'} active Oar
+Marin{id=3, x=1, y=0, name='Luffy Teach'} active Oar
+Marin{id=4, x=2, y=0, name='Luffy Pouce'} active Oar
+Marin{id=1, x=2, y=2, name='Edward Teach'} active Oar
+Marin{id=2, x=0, y=2, name='Edward Teach'} active Oar
+Marin{id=5, x=1, y=2, name='Jack Pouce'} active Oar
+Marin{id=6, x=3, y=1, name='Tom Pouce'} use rudder with rotation of -4.18332035678759E-13
+Marin{id=0, x=0, y=0, name='Tom Pouce'} active Oar
+Marin{id=3, x=1, y=0, name='Luffy Teach'} active Oar
+Marin{id=4, x=2, y=0, name='Luffy Pouce'} active Oar
+Marin{id=1, x=2, y=2, name='Edward Teach'} active Oar
+Marin{id=2, x=0, y=2, name='Edward Teach'} active Oar
+Marin{id=5, x=1, y=2, name='Jack Pouce'} active Oar
+Marin{id=6, x=3, y=1, name='Tom Pouce'} use rudder with rotation of 2.8199664825478976E-14
+Marin{id=0, x=0, y=0, name='Tom Pouce'} active Oar
+Marin{id=3, x=1, y=0, name='Luffy Teach'} active Oar
+Marin{id=4, x=2, y=0, name='Luffy Pouce'} active Oar
+Marin{id=1, x=2, y=2, name='Edward Teach'} active Oar
+Marin{id=2, x=0, y=2, name='Edward Teach'} active Oar
+Marin{id=5, x=1, y=2, name='Jack Pouce'} active Oar
+Marin{id=6, x=3, y=1, name='Tom Pouce'} use rudder with rotation of 3.6637359812630166E-14
+Marin{id=0, x=0, y=0, name='Tom Pouce'} active Oar
+Marin{id=3, x=1, y=0, name='Luffy Teach'} active Oar
+Marin{id=4, x=2, y=0, name='Luffy Pouce'} active Oar
+Marin{id=1, x=2, y=2, name='Edward Teach'} active Oar
+Marin{id=2, x=0, y=2, name='Edward Teach'} active Oar
+Marin{id=5, x=1, y=2, name='Jack Pouce'} active Oar
+Marin{id=6, x=3, y=1, name='Tom Pouce'} use rudder with rotation of 3.8191672047105385E-14
+Marin{id=0, x=0, y=0, name='Tom Pouce'} active Oar
+Marin{id=3, x=1, y=0, name='Luffy Teach'} active Oar
+Marin{id=4, x=2, y=0, name='Luffy Pouce'} active Oar
+Marin{id=1, x=2, y=2, name='Edward Teach'} active Oar
+Marin{id=2, x=0, y=2, name='Edward Teach'} active Oar
+Marin{id=5, x=1, y=2, name='Jack Pouce'} active Oar
+Marin{id=6, x=3, y=1, name='Tom Pouce'} use rudder with rotation of 3.9968028886505635E-14
+Marin{id=0, x=0, y=0, name='Tom Pouce'} active Oar
+Marin{id=3, x=1, y=0, name='Luffy Teach'} active Oar
+Marin{id=4, x=2, y=0, name='Luffy Pouce'} active Oar
+Marin{id=1, x=2, y=2, name='Edward Teach'} active Oar
+Marin{id=2, x=0, y=2, name='Edward Teach'} active Oar
+Marin{id=5, x=1, y=2, name='Jack Pouce'} active Oar
+Marin{id=6, x=3, y=1, name='Tom Pouce'} use rudder with rotation of 4.263256414560601E-14
+Marin{id=0, x=0, y=0, name='Tom Pouce'} active Oar
+Marin{id=3, x=1, y=0, name='Luffy Teach'} active Oar
+Marin{id=4, x=2, y=0, name='Luffy Pouce'} active Oar
+Marin{id=1, x=2, y=2, name='Edward Teach'} active Oar
+Marin{id=2, x=0, y=2, name='Edward Teach'} active Oar

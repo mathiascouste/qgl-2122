@@ -1,0 +1,39 @@
+Init game input: {"goal":{"mode":"REGATTA","checkpoints":[{"position":{"x":-5586.701434159062,"y":-195.31249999999972,"orientation":0.0},"shape":{"type":"circle","radius":200.0}},{"position":{"x":-3259.452411994781,"y":1835.937500000001,"orientation":0.0},"shape":{"type":"circle","radius":200.0}},{"position":{"x":-1401.564537157755,"y":4108.072916666667,"orientation":0.0},"shape":{"type":"circle","radius":200.0}},{"position":{"x":-3650.5867014341584,"y":1529.9479166666674,"orientation":0.0},"shape":{"type":"circle","radius":200.0}},{"position":{"x":-5495.436766623214,"y":4127.604166666669,"orientation":0.0},"shape":{"type":"circle","radius":200.0}},{"position":{"x":-1140.8083441981753,"y":-273.43749999999847,"orientation":0.0},"shape":{"type":"circle","radius":200.0}},{"position":{"x":-3604.9543676662297,"y":2154.9479166666674,"orientation":0.0},"shape":{"type":"circle","radius":200.0}},{"position":{"x":3337.6792698826616,"y":1809.8958333333335,"orientation":0.0},"shape":{"type":"circle","radius":200.0}}]},"ship":{"type":"ship","position":{"x":-3650.58670143416,"y":1842.4479166666663,"orientation":-2.740166925631097},"name":"bc","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":false},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"sailors":[{"x":0,"y":0,"id":0,"name":"Luffy Teach"},{"x":0,"y":1,"id":1,"name":"Edward Teach"},{"x":0,"y":2,"id":2,"name":"Edward Pouce"},{"x":1,"y":0,"id":3,"name":"Jack Teach"},{"x":1,"y":1,"id":4,"name":"Tom Teach"},{"x":1,"y":2,"id":5,"name":"Jack Teach"},{"x":2,"y":0,"id":6,"name":"Tom Pouce"},{"x":2,"y":1,"id":7,"name":"Tom Pouce"},{"x":2,"y":2,"id":8,"name":"Edward Pouce"},{"x":3,"y":0,"id":9,"name":"Tom Teach"},{"x":3,"y":1,"id":10,"name":"Luffy Teach"},{"x":3,"y":2,"id":11,"name":"Luffy Pouce"}],"shipCount":1}
+Next round input: {"ship":{"type":"ship","position":{"x":-3650.58670143416,"y":1842.4479166666663,"orientation":-2.740166925631097},"name":"bc","deck":{"width":3,"length":7},"entities":[{"x":6,"y":1,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":false},{"x":1,"y":2,"type":"oar"},{"x":2,"y":2,"type":"oar"},{"x":3,"y":2,"type":"oar"},{"x":4,"y":2,"type":"oar"},{"x":5,"y":2,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"}],"life":1050,"shape":{"type":"rectangle","width":3.0,"height":7.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":100.0}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bc IS ELIMINATED: fr.unice.polytech.si3.qgl.frigatesengine.interfaces.GenericClientError
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

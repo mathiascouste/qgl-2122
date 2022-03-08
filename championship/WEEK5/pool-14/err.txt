@@ -1,0 +1,10 @@
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at fr.unice.polytech.si3.qgl.frigatesengine.interfaces.Cockpit$2.run(Cockpit.java:91)
+Caused by: java.lang.NullPointerException: Cannot invoke "fr.unice.polytech.si3.qgl.bc.actions.Action.toString()" because the return value of "fr.unice.polytech.si3.qgl.bc.seaEntities.ship.entities.ShipEntity.getAction()" is null
+	at fr.unice.polytech.si3.qgl.bc.seaEntities.ship.Ship.determineActivedEntity(Ship.java:66)
+	at fr.unice.polytech.si3.qgl.bc.Cockpit.nextRound(Cockpit.java:64)
+	... 5 more

@@ -1,0 +1,252 @@
+Init
+{"goal":{"mode":"REGATTA","checkpoints":[{"position":{"x":-200.0,"y":1000.0,"orientation":0.0},"shape":{"type":"circle","radius":80.0}}]},"ship":{"type":"ship","position":{"x":0.0,"y":0.0,"orientation":0.0},"name":"b3s","deck":{"width":2,"length":3},"entities":[{"x":1,"y":0,"type":"oar"},{"x":1,"y":1,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":2,"y":1,"type":"oar"}],"life":300,"shape":{"type":"rectangle","width":2.0,"height":3.0,"orientation":0.0}},"sailors":[{"x":0,"y":0,"id":0,"name":"Jack Pouce"},{"x":0,"y":1,"id":1,"name":"Luffy Teach"},{"x":1,"y":0,"id":2,"name":"Luffy Pouce"},{"x":1,"y":1,"id":3,"name":"Jack Pouce"}],"shipCount":1}
+Init Done
+Ship{name='b3s', entities=[Oar{isUsed=false, x=1, y=0, type='oar'}, Oar{isUsed=false, x=1, y=1, type='oar'}, Oar{isUsed=false, x=2, y=0, type='oar'}, Oar{isUsed=false, x=2, y=1, type='oar'}], position=Position{x=0.0, y=0.0, orientation=0.0}, life=300, deck=Deck{width=2, length=3}, type='ship', rudder=null}
+----------------------------------------------------------------
+Next round
+The ship is in Position{x=0.0, y=0.0, orientation=0.0}
+We are heading towards the checkpoint : 0
+CheckPoint{position=Position{x=-200.0, y=1000.0, orientation=0.0}, shape=Circle{radius=80.0, type='circle'}}
+checkCheckpoint : false
+checkpointNumber : 0
+checkpointNumber set sailor : 0
+CheckPoint{position=Position{x=-200.0, y=1000.0, orientation=0.0}, shape=Circle{radius=80.0, type='circle'}}
+The angle is between the ship and the checkpoint is : 1.768191886644777
+1.768191886644777
+the sailor 0 has moved 1 squares along the X axis and 1 squares along the Y axis
+The sailor is now in x : 1, y : 1
+Optional[Moving{sailorId=0, type=MOVING, xDistance=1, yDistance=1}]
+the sailor 0 is now using Oar{isUsed=true, x=1, y=1, type='oar'}
+0.9827937232473287
+the sailor 1 has moved 2 squares along the X axis and 0 squares along the Y axis
+The sailor is now in x : 2, y : 1
+Optional[Moving{sailorId=1, type=MOVING, xDistance=2, yDistance=0}]
+the sailor 1 is now using Oar{isUsed=true, x=2, y=1, type='oar'}
+cap : 0.19739555984988044
+rudder
+Actions du tour  : 0-------------------------------------------------
+[Moving{sailorId=0, type=MOVING, xDistance=1, yDistance=1}, {sailorId=0, type=OAR}, Moving{sailorId=1, type=MOVING, xDistance=2, yDistance=0}, {sailorId=1, type=OAR}]
+-----------------------------------------------------------------
+----------------------------------------------------------------
+Next round
+The ship is in Position{x=52.93255129340979, y=52.10755129340978, orientation=1.5707963267948943}
+We are heading towards the checkpoint : 0
+CheckPoint{position=Position{x=-200.0, y=1000.0, orientation=0.0}, shape=Circle{radius=80.0, type='circle'}}
+checkCheckpoint : false
+checkpointNumber : 0
+checkpointNumber set sailor : 0
+CheckPoint{position=Position{x=-200.0, y=1000.0, orientation=0.0}, shape=Circle{radius=80.0, type='circle'}}
+The angle is between the ship and the checkpoint is : 0.2607611584146401
+cap : 0.2607611584146401
+rudder
+go tout droit
+the sailor 0 has moved 0 squares along the X axis and 0 squares along the Y axis
+The sailor is now in x : 1, y : 1
+Optional[Moving{sailorId=0, type=MOVING, xDistance=0, yDistance=0}]
+the sailor 0 is now using Oar{isUsed=true, x=1, y=1, type='oar'}
+the sailor 1 has moved 0 squares along the X axis and -1 squares along the Y axis
+The sailor is now in x : 2, y : 0
+Optional[Moving{sailorId=1, type=MOVING, xDistance=0, yDistance=-1}]
+the sailor 1 is now using Oar{isUsed=true, x=2, y=0, type='oar'}
+go tout droit
+the sailor 2 has moved 1 squares along the X axis and 1 squares along the Y axis
+The sailor is now in x : 2, y : 1
+Optional[Moving{sailorId=2, type=MOVING, xDistance=1, yDistance=1}]
+the sailor 2 is now using Oar{isUsed=true, x=2, y=1, type='oar'}
+the sailor 3 has moved 0 squares along the X axis and -1 squares along the Y axis
+The sailor is now in x : 1, y : 0
+Optional[Moving{sailorId=3, type=MOVING, xDistance=0, yDistance=-1}]
+the sailor 3 is now using Oar{isUsed=true, x=1, y=0, type='oar'}
+Actions du tour  : 1-------------------------------------------------
+[Moving{sailorId=0, type=MOVING, xDistance=0, yDistance=0}, {sailorId=0, type=OAR}, Moving{sailorId=1, type=MOVING, xDistance=0, yDistance=-1}, {sailorId=1, type=OAR}, Moving{sailorId=2, type=MOVING, xDistance=1, yDistance=1}, {sailorId=2, type=OAR}, Moving{sailorId=3, type=MOVING, xDistance=0, yDistance=-1}, {sailorId=3, type=OAR}]
+-----------------------------------------------------------------
+----------------------------------------------------------------
+Next round
+The ship is in Position{x=52.9325512934105, y=217.1075512934103, orientation=1.5707963267948943}
+We are heading towards the checkpoint : 0
+CheckPoint{position=Position{x=-200.0, y=1000.0, orientation=0.0}, shape=Circle{radius=80.0, type='circle'}}
+checkCheckpoint : false
+checkpointNumber : 0
+checkpointNumber set sailor : 0
+CheckPoint{position=Position{x=-200.0, y=1000.0, orientation=0.0}, shape=Circle{radius=80.0, type='circle'}}
+The angle is between the ship and the checkpoint is : 0.31248948945203026
+cap : 0.31248948945203026
+rudder
+go tout droit
+the sailor 0 has moved 0 squares along the X axis and 0 squares along the Y axis
+The sailor is now in x : 1, y : 1
+Optional[Moving{sailorId=0, type=MOVING, xDistance=0, yDistance=0}]
+the sailor 0 is now using Oar{isUsed=true, x=1, y=1, type='oar'}
+the sailor 1 has moved 0 squares along the X axis and 0 squares along the Y axis
+The sailor is now in x : 2, y : 0
+Optional[Moving{sailorId=1, type=MOVING, xDistance=0, yDistance=0}]
+the sailor 1 is now using Oar{isUsed=true, x=2, y=0, type='oar'}
+go tout droit
+the sailor 2 has moved 0 squares along the X axis and 0 squares along the Y axis
+The sailor is now in x : 2, y : 1
+Optional[Moving{sailorId=2, type=MOVING, xDistance=0, yDistance=0}]
+the sailor 2 is now using Oar{isUsed=true, x=2, y=1, type='oar'}
+the sailor 3 has moved 0 squares along the X axis and 0 squares along the Y axis
+The sailor is now in x : 1, y : 0
+Optional[Moving{sailorId=3, type=MOVING, xDistance=0, yDistance=0}]
+the sailor 3 is now using Oar{isUsed=true, x=1, y=0, type='oar'}
+Actions du tour  : 2-------------------------------------------------
+[Moving{sailorId=0, type=MOVING, xDistance=0, yDistance=0}, {sailorId=0, type=OAR}, Moving{sailorId=1, type=MOVING, xDistance=0, yDistance=0}, {sailorId=1, type=OAR}, Moving{sailorId=2, type=MOVING, xDistance=0, yDistance=0}, {sailorId=2, type=OAR}, Moving{sailorId=3, type=MOVING, xDistance=0, yDistance=0}, {sailorId=3, type=OAR}]
+-----------------------------------------------------------------
+----------------------------------------------------------------
+Next round
+The ship is in Position{x=52.93255129341121, y=382.1075512934087, orientation=1.5707963267948943}
+We are heading towards the checkpoint : 0
+CheckPoint{position=Position{x=-200.0, y=1000.0, orientation=0.0}, shape=Circle{radius=80.0, type='circle'}}
+checkCheckpoint : false
+checkpointNumber : 0
+checkpointNumber set sailor : 0
+CheckPoint{position=Position{x=-200.0, y=1000.0, orientation=0.0}, shape=Circle{radius=80.0, type='circle'}}
+The angle is between the ship and the checkpoint is : 0.3885388188255181
+cap : 0.3885388188255181
+rudder
+go tout droit
+the sailor 0 has moved 0 squares along the X axis and 0 squares along the Y axis
+The sailor is now in x : 1, y : 1
+Optional[Moving{sailorId=0, type=MOVING, xDistance=0, yDistance=0}]
+the sailor 0 is now using Oar{isUsed=true, x=1, y=1, type='oar'}
+the sailor 1 has moved 0 squares along the X axis and 0 squares along the Y axis
+The sailor is now in x : 2, y : 0
+Optional[Moving{sailorId=1, type=MOVING, xDistance=0, yDistance=0}]
+the sailor 1 is now using Oar{isUsed=true, x=2, y=0, type='oar'}
+go tout droit
+the sailor 2 has moved 0 squares along the X axis and 0 squares along the Y axis
+The sailor is now in x : 2, y : 1
+Optional[Moving{sailorId=2, type=MOVING, xDistance=0, yDistance=0}]
+the sailor 2 is now using Oar{isUsed=true, x=2, y=1, type='oar'}
+the sailor 3 has moved 0 squares along the X axis and 0 squares along the Y axis
+The sailor is now in x : 1, y : 0
+Optional[Moving{sailorId=3, type=MOVING, xDistance=0, yDistance=0}]
+the sailor 3 is now using Oar{isUsed=true, x=1, y=0, type='oar'}
+Actions du tour  : 3-------------------------------------------------
+[Moving{sailorId=0, type=MOVING, xDistance=0, yDistance=0}, {sailorId=0, type=OAR}, Moving{sailorId=1, type=MOVING, xDistance=0, yDistance=0}, {sailorId=1, type=OAR}, Moving{sailorId=2, type=MOVING, xDistance=0, yDistance=0}, {sailorId=2, type=OAR}, Moving{sailorId=3, type=MOVING, xDistance=0, yDistance=0}, {sailorId=3, type=OAR}]
+-----------------------------------------------------------------
+----------------------------------------------------------------
+Next round
+The ship is in Position{x=52.93255129341192, y=547.1075512934065, orientation=1.5707963267948943}
+We are heading towards the checkpoint : 0
+CheckPoint{position=Position{x=-200.0, y=1000.0, orientation=0.0}, shape=Circle{radius=80.0, type='circle'}}
+checkCheckpoint : false
+checkpointNumber : 0
+checkpointNumber set sailor : 0
+CheckPoint{position=Position{x=-200.0, y=1000.0, orientation=0.0}, shape=Circle{radius=80.0, type='circle'}}
+The angle is between the ship and the checkpoint is : 0.5093314966416251
+0.5093314966416251
+the sailor 0 has moved 0 squares along the X axis and 0 squares along the Y axis
+The sailor is now in x : 1, y : 1
+Optional[Moving{sailorId=0, type=MOVING, xDistance=0, yDistance=0}]
+the sailor 0 is now using Oar{isUsed=true, x=1, y=1, type='oar'}
+cap : -0.27606666675582314
+rudder
+go tout droit
+the sailor 1 has moved 0 squares along the X axis and 1 squares along the Y axis
+The sailor is now in x : 2, y : 1
+Optional[Moving{sailorId=1, type=MOVING, xDistance=0, yDistance=1}]
+the sailor 1 is now using Oar{isUsed=true, x=2, y=1, type='oar'}
+the sailor 2 has moved 0 squares along the X axis and -1 squares along the Y axis
+The sailor is now in x : 2, y : 0
+Optional[Moving{sailorId=2, type=MOVING, xDistance=0, yDistance=-1}]
+the sailor 2 is now using Oar{isUsed=true, x=2, y=0, type='oar'}
+Actions du tour  : 4-------------------------------------------------
+[Moving{sailorId=0, type=MOVING, xDistance=0, yDistance=0}, {sailorId=0, type=OAR}, Moving{sailorId=1, type=MOVING, xDistance=0, yDistance=1}, {sailorId=1, type=OAR}, Moving{sailorId=2, type=MOVING, xDistance=0, yDistance=-1}, {sailorId=2, type=OAR}]
+-----------------------------------------------------------------
+----------------------------------------------------------------
+Next round
+The ship is in Position{x=7.221061304458246, y=658.7023503810212, orientation=2.356194490192338}
+We are heading towards the checkpoint : 0
+CheckPoint{position=Position{x=-200.0, y=1000.0, orientation=0.0}, shape=Circle{radius=80.0, type='circle'}}
+checkCheckpoint : false
+checkpointNumber : 0
+checkpointNumber set sailor : 0
+CheckPoint{position=Position{x=-200.0, y=1000.0, orientation=0.0}, shape=Circle{radius=80.0, type='circle'}}
+The angle is between the ship and the checkpoint is : -0.23973265202679528
+cap : -0.23973265202679528
+rudder
+go tout droit
+the sailor 0 has moved 0 squares along the X axis and 0 squares along the Y axis
+The sailor is now in x : 1, y : 1
+Optional[Moving{sailorId=0, type=MOVING, xDistance=0, yDistance=0}]
+the sailor 0 is now using Oar{isUsed=true, x=1, y=1, type='oar'}
+the sailor 1 has moved 0 squares along the X axis and -1 squares along the Y axis
+The sailor is now in x : 2, y : 0
+Optional[Moving{sailorId=1, type=MOVING, xDistance=0, yDistance=-1}]
+the sailor 1 is now using Oar{isUsed=true, x=2, y=0, type='oar'}
+go tout droit
+the sailor 2 has moved 0 squares along the X axis and 1 squares along the Y axis
+The sailor is now in x : 2, y : 1
+Optional[Moving{sailorId=2, type=MOVING, xDistance=0, yDistance=1}]
+the sailor 2 is now using Oar{isUsed=true, x=2, y=1, type='oar'}
+the sailor 3 has moved 0 squares along the X axis and 0 squares along the Y axis
+The sailor is now in x : 1, y : 0
+Optional[Moving{sailorId=3, type=MOVING, xDistance=0, yDistance=0}]
+the sailor 3 is now using Oar{isUsed=true, x=1, y=0, type='oar'}
+Actions du tour  : 5-------------------------------------------------
+[Moving{sailorId=0, type=MOVING, xDistance=0, yDistance=0}, {sailorId=0, type=OAR}, Moving{sailorId=1, type=MOVING, xDistance=0, yDistance=-1}, {sailorId=1, type=OAR}, Moving{sailorId=2, type=MOVING, xDistance=0, yDistance=1}, {sailorId=2, type=OAR}, Moving{sailorId=3, type=MOVING, xDistance=0, yDistance=0}, {sailorId=3, type=OAR}]
+-----------------------------------------------------------------
+----------------------------------------------------------------
+Next round
+The ship is in Position{x=-109.45155759132132, y=775.3749692768008, orientation=2.356194490192338}
+We are heading towards the checkpoint : 0
+CheckPoint{position=Position{x=-200.0, y=1000.0, orientation=0.0}, shape=Circle{radius=80.0, type='circle'}}
+checkCheckpoint : false
+checkpointNumber : 0
+checkpointNumber set sailor : 0
+CheckPoint{position=Position{x=-200.0, y=1000.0, orientation=0.0}, shape=Circle{radius=80.0, type='circle'}}
+The angle is between the ship and the checkpoint is : -0.40221468417992945
+-0.40221468417992945
+the sailor 0 has moved 0 squares along the X axis and -1 squares along the Y axis
+The sailor is now in x : 1, y : 0
+Optional[Moving{sailorId=0, type=MOVING, xDistance=0, yDistance=-1}]
+the sailor 0 is now using Oar{isUsed=true, x=1, y=0, type='oar'}
+cap : 0.38318347921751883
+rudder
+go tout droit
+the sailor 1 has moved 0 squares along the X axis and 1 squares along the Y axis
+The sailor is now in x : 2, y : 1
+Optional[Moving{sailorId=1, type=MOVING, xDistance=0, yDistance=1}]
+the sailor 1 is now using Oar{isUsed=true, x=2, y=1, type='oar'}
+the sailor 2 has moved 0 squares along the X axis and -1 squares along the Y axis
+The sailor is now in x : 2, y : 0
+Optional[Moving{sailorId=2, type=MOVING, xDistance=0, yDistance=-1}]
+the sailor 2 is now using Oar{isUsed=true, x=2, y=0, type='oar'}
+Actions du tour  : 6-------------------------------------------------
+[Moving{sailorId=0, type=MOVING, xDistance=0, yDistance=-1}, {sailorId=0, type=OAR}, Moving{sailorId=1, type=MOVING, xDistance=0, yDistance=1}, {sailorId=1, type=OAR}, Moving{sailorId=2, type=MOVING, xDistance=0, yDistance=-1}, {sailorId=2, type=OAR}]
+-----------------------------------------------------------------
+----------------------------------------------------------------
+Next round
+The ship is in Position{x=-156.0380922219933, y=886.607313006134, orientation=1.5707963267948943}
+We are heading towards the checkpoint : 0
+CheckPoint{position=Position{x=-200.0, y=1000.0, orientation=0.0}, shape=Circle{radius=80.0, type='circle'}}
+checkCheckpoint : false
+checkpointNumber : 0
+checkpointNumber set sailor : 0
+CheckPoint{position=Position{x=-200.0, y=1000.0, orientation=0.0}, shape=Circle{radius=80.0, type='circle'}}
+The angle is between the ship and the checkpoint is : 0.36985475636183907
+cap : 0.36985475636183907
+rudder
+go tout droit
+the sailor 0 has moved 0 squares along the X axis and 1 squares along the Y axis
+The sailor is now in x : 1, y : 1
+Optional[Moving{sailorId=0, type=MOVING, xDistance=0, yDistance=1}]
+the sailor 0 is now using Oar{isUsed=true, x=1, y=1, type='oar'}
+the sailor 1 has moved 0 squares along the X axis and -1 squares along the Y axis
+The sailor is now in x : 2, y : 0
+Optional[Moving{sailorId=1, type=MOVING, xDistance=0, yDistance=-1}]
+the sailor 1 is now using Oar{isUsed=true, x=2, y=0, type='oar'}
+go tout droit
+the sailor 2 has moved 0 squares along the X axis and 1 squares along the Y axis
+The sailor is now in x : 2, y : 1
+Optional[Moving{sailorId=2, type=MOVING, xDistance=0, yDistance=1}]
+the sailor 2 is now using Oar{isUsed=true, x=2, y=1, type='oar'}
+the sailor 3 has moved 0 squares along the X axis and 0 squares along the Y axis
+The sailor is now in x : 1, y : 0
+Optional[Moving{sailorId=3, type=MOVING, xDistance=0, yDistance=0}]
+the sailor 3 is now using Oar{isUsed=true, x=1, y=0, type='oar'}
+Actions du tour  : 7-------------------------------------------------
+[Moving{sailorId=0, type=MOVING, xDistance=0, yDistance=1}, {sailorId=0, type=OAR}, Moving{sailorId=1, type=MOVING, xDistance=0, yDistance=-1}, {sailorId=1, type=OAR}, Moving{sailorId=2, type=MOVING, xDistance=0, yDistance=1}, {sailorId=2, type=OAR}, Moving{sailorId=3, type=MOVING, xDistance=0, yDistance=0}, {sailorId=3, type=OAR}]
+-----------------------------------------------------------------
