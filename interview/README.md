@@ -24,16 +24,16 @@ Des slides sont les bienvenues et sont même attendues - si vous pensez pouvoir 
 
 ## Dates et horaires de passage
 
-| Créneau | 25 Mars 2021 | 1 Avril 2021 |
+| Créneau | 24 Mars 2022 | 31 Mars 2022 |
 |--|--|--|
-| ***08:20 - 08:40*** | gottagofast |  |
-| ***08:40 - 09:00*** | onmkgl |  |
-| ***09:00 - 09:20*** | directionmiage | cash_a_l_eau |
-| ***09:20 - 09:40*** | qualidad | jerapah_corp |
-| ***09:40 - 10:00*** | smartware | geforce |
-| ***10:00 - 10:20*** |  | qualituriers |
-| ***10:20 - 10:40*** | prima |  |
-| ***10:40 - 11:00*** | teletravail | sunny1000 |
-| ***11:00 - 11:20*** | queleglitch | oceanshadows |
-| ***11:20 - 11:40*** | detritus | soyouz |
-| ***11:40 - 12:00*** | nautilus | kubancrew |
+| ***08:20 - 08:40*** | TBD | TBD |
+| ***08:40 - 09:00*** | TBD | TBD |
+| ***09:00 - 09:20*** | TBD | TBD |
+| ***09:20 - 09:40*** | TBD | TBD |
+| ***09:40 - 10:00*** | TBD |  |
+| ***10:00 - 10:20*** |  | TBD |
+| ***10:20 - 10:40*** | TBD | TBD |
+| ***10:40 - 11:00*** | TBD | TBD |
+| ***11:00 - 11:20*** | TBD |  |
+| ***11:20 - 11:40*** | TBD |  |
+| ***11:40 - 12:00*** |  |  |
