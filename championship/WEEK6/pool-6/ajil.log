@@ -1,0 +1,100 @@
+Début de la partie
+INIT GAME
+NextRound
+BarreurManageur est : 10
+Marin :  10veut aller vers Entity{x=6, y=1, type='rudder'}
+Marin mouvement :  X:3  Y:0
+Sail Manager est : 7
+Marin :  7veut aller vers Entity{x=3, y=1, type='sail'}
+Marin mouvement :  X:1  Y:0
+Marin :  0veut aller vers Entity{x=5, y=0, type='oar'}
+Marin mouvement :  X:5  Y:0
+Marin :  1veut aller vers Entity{x=4, y=0, type='oar'}
+Marin mouvement :  X:4  Y:-1
+Marin :  2veut aller vers Entity{x=3, y=0, type='oar'}
+Marin mouvement :  X:3  Y:-2
+Marin :  3veut aller vers Entity{x=2, y=0, type='oar'}
+Marin mouvement :  X:1  Y:0
+Marin :  4veut aller vers Entity{x=1, y=0, type='oar'}
+Marin mouvement :  X:0  Y:-1
+Marin :  5veut aller vers Entity{x=5, y=2, type='oar'}
+Marin mouvement :  X:4  Y:0
+Marin :  6veut aller vers Entity{x=4, y=2, type='oar'}
+Marin mouvement :  X:2  Y:2
+Marin :  8veut aller vers Entity{x=3, y=2, type='oar'}
+Marin mouvement :  X:1  Y:0
+Marin :  9veut aller vers Entity{x=1, y=2, type='oar'}
+Marin mouvement :  X:-2  Y:2
+Marin :  11veut aller vers Entity{x=2, y=2, type='oar'}
+Marin mouvement :  X:-1  Y:0
+Checkpoint visé : Checkpoint{position=Position{x=-5586.701434159062, y=-195.31249999999972, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+Prédiction :[165.0, 0.434, 132.0, 0.429, 99.0, 0.424, 66.0, 0.419, 33.0, 0.414]
+On tourne avec le gouvernail : 0.41
+DOWN
+[Action{sailorId=10, type=MOVING}, Action{sailorId=7, type=MOVING}, Action{sailorId=0, type=MOVING}, Action{sailorId=1, type=MOVING}, Action{sailorId=2, type=MOVING}, Action{sailorId=3, type=MOVING}, 
+NextRound
+Checkpoint visé : Checkpoint{position=Position{x=-5586.701434159062, y=-195.31249999999972, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+Prédiction :[165.0, 0.013, 132.0, 0.013, 99.0, 0.013, 66.0, 0.013, 33.0, 0.012]
+On tourne avec le gouvernail : 0.012
+DOWN
+[Action{sailorId=10, type=TURN}, Action{sailorId=0, type=OAR}, Action{sailorId=1, type=OAR}, Action{sailorId=2, type=OAR}, Action{sailorId=3, type=OAR}, Action{sailorId=4, type=OAR}, Action{sailorId=5
+NextRound
+Checkpoint visé : Checkpoint{position=Position{x=-5586.701434159062, y=-195.31249999999972, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+Prédiction :[165.0, 0.001, 132.0, 0.001, 99.0, 0.001, 66.0, 0.001, 33.0, 0.001]
+On tourne avec le gouvernail : 0.001
+DOWN
+[Action{sailorId=10, type=TURN}, Action{sailorId=0, type=OAR}, Action{sailorId=1, type=OAR}, Action{sailorId=2, type=OAR}, Action{sailorId=3, type=OAR}, Action{sailorId=4, type=OAR}, Action{sailorId=5
+NextRound
+Checkpoint visé : Checkpoint{position=Position{x=-5586.701434159062, y=-195.31249999999972, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+Prédiction :[165.0, 0.0, 132.0, 0.0, 99.0, 0.0, 66.0, 0.0, 33.0, 0.0]
+On tourne avec le gouvernail : 0.0
+DOWN
+[Action{sailorId=10, type=TURN}, Action{sailorId=0, type=OAR}, Action{sailorId=1, type=OAR}, Action{sailorId=2, type=OAR}, Action{sailorId=3, type=OAR}, Action{sailorId=4, type=OAR}, Action{sailorId=5
+NextRound
+Checkpoint visé : Checkpoint{position=Position{x=-5586.701434159062, y=-195.31249999999972, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+Prédiction :[165.0, 0.0, 132.0, 0.0, 99.0, 0.0, 66.0, 0.0, 33.0, 0.0]
+On tourne avec le gouvernail : 0.0
+DOWN
+[Action{sailorId=10, type=TURN}, Action{sailorId=0, type=OAR}, Action{sailorId=1, type=OAR}, Action{sailorId=2, type=OAR}, Action{sailorId=3, type=OAR}, Action{sailorId=4, type=OAR}, Action{sailorId=5
+NextRound
+Checkpoint visé : Checkpoint{position=Position{x=-5586.701434159062, y=-195.31249999999972, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+Prédiction :[165.0, 0.0, 132.0, 0.0, 99.0, 0.0, 66.0, 0.0, 33.0, 0.0]
+On tourne avec le gouvernail : 0.0
+DOWN
+[Action{sailorId=10, type=TURN}, Action{sailorId=0, type=OAR}, Action{sailorId=1, type=OAR}, Action{sailorId=2, type=OAR}, Action{sailorId=3, type=OAR}, Action{sailorId=4, type=OAR}, Action{sailorId=5
+NextRound
+Checkpoint visé : Checkpoint{position=Position{x=-5586.701434159062, y=-195.31249999999972, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+Prédiction :[165.0, 0.0, 132.0, 0.0, 99.0, 0.0, 66.0, 0.0, 33.0, 0.0]
+On tourne avec le gouvernail : 0.0
+DOWN
+[Action{sailorId=10, type=TURN}, Action{sailorId=0, type=OAR}, Action{sailorId=1, type=OAR}, Action{sailorId=2, type=OAR}, Action{sailorId=3, type=OAR}, Action{sailorId=4, type=OAR}, Action{sailorId=5
+NextRound
+Checkpoint visé : Checkpoint{position=Position{x=-5586.701434159062, y=-195.31249999999972, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+Prédiction :[165.0, -0.001, 132.0, -0.001, 99.0, -0.001, 66.0, -0.001, 33.0, 0.0]
+On tourne avec le gouvernail : 0.0
+DOWN
+[Action{sailorId=10, type=TURN}, Action{sailorId=0, type=OAR}, Action{sailorId=1, type=OAR}, Action{sailorId=2, type=OAR}, Action{sailorId=3, type=OAR}, Action{sailorId=4, type=OAR}, Action{sailorId=5
+NextRound
+Checkpoint visé : Checkpoint{position=Position{x=-5586.701434159062, y=-195.31249999999972, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+Prédiction :[165.0, -0.001, 132.0, -0.001, 99.0, -0.001, 66.0, -0.001, 33.0, -0.001]
+On tourne avec le gouvernail : -0.001
+DOWN
+[Action{sailorId=10, type=TURN}, Action{sailorId=0, type=OAR}, Action{sailorId=1, type=OAR}, Action{sailorId=2, type=OAR}, Action{sailorId=3, type=OAR}, Action{sailorId=4, type=OAR}, Action{sailorId=5
+NextRound
+Checkpoint visé : Checkpoint{position=Position{x=-5586.701434159062, y=-195.31249999999972, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+Prédiction :[165.0, 0.001, 132.0, 0.001, 99.0, 0.0, 66.0, 0.0, 33.0, 0.0]
+On tourne avec le gouvernail : 0.0
+DOWN
+[Action{sailorId=10, type=TURN}, Action{sailorId=0, type=OAR}, Action{sailorId=1, type=OAR}, Action{sailorId=2, type=OAR}, Action{sailorId=3, type=OAR}, Action{sailorId=4, type=OAR}, Action{sailorId=5
+NextRound
+Checkpoint visé : Checkpoint{position=Position{x=-5586.701434159062, y=-195.31249999999972, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+Prédiction :[165.0, 0.001, 132.0, 0.001, 99.0, 0.001, 66.0, 0.001, 33.0, 0.001]
+On tourne avec le gouvernail : 0.001
+DOWN
+[Action{sailorId=10, type=TURN}, Action{sailorId=0, type=OAR}, Action{sailorId=1, type=OAR}, Action{sailorId=2, type=OAR}, Action{sailorId=3, type=OAR}, Action{sailorId=4, type=OAR}, Action{sailorId=5
+NextRound
+Checkpoint visé : Checkpoint{position=Position{x=-5586.701434159062, y=-195.31249999999972, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+Prédiction :[165.0, -0.001, 132.0, -0.001, 99.0, -0.001, 66.0, -0.001, 33.0, 0.0]
+On tourne avec le gouvernail : 0.0
+DOWN
+[Action{sailorId=10, type=TURN}, Action{sailorId=0, type=OAR}, Action{sailorId=1, type=OAR}, Action{sailorId=2, type=OAR}, Action{sailorId=3, type=OAR}, Action{sailorId=4, type=OAR}, Action{sailorId=5
