@@ -26,14 +26,14 @@ Des slides sont les bienvenues et sont même attendues - si vous pensez pouvoir 
 
 | Créneau | 24 Mars 2022 | 31 Mars 2022 |
 |--|--|--|
-| ***08:20 - 08:40*** | TBD | TBD |
-| ***08:40 - 09:00*** | TBD | TBD |
-| ***09:00 - 09:20*** | TBD | TBD |
-| ***09:20 - 09:40*** | TBD | TBD |
-| ***09:40 - 10:00*** | TBD |  |
-| ***10:00 - 10:20*** |  | TBD |
-| ***10:20 - 10:40*** | TBD | TBD |
-| ***10:40 - 11:00*** | TBD | TBD |
-| ***11:00 - 11:20*** | TBD |  |
-| ***11:20 - 11:40*** | TBD |  |
+| ***08:20 - 08:40*** | les_gorilles_bronzes | les_gros_q |
+| ***08:40 - 09:00*** | kihm | Mugiwara_Cook |
+| ***09:00 - 09:20*** | flute | Capitaine_Igloo |
+| ***09:20 - 09:40*** | bojji_squad_corp | ajil |
+| ***09:40 - 10:00*** | les_genies |  |
+| ***10:00 - 10:20*** |  | b3s |
+| ***10:20 - 10:40*** | royal_fortune | d3 |
+| ***10:40 - 11:00*** | merj | bc |
+| ***11:00 - 11:20*** | deadbeef |  |
+| ***11:20 - 11:40*** | lata |  |
 | ***11:40 - 12:00*** |  |  |
