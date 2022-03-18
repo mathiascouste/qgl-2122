@@ -12,31 +12,31 @@ Votre projet doit conserver la structure telle que donnée dans le [template](ht
 Lorsque la commande `mvn clean package` est exécutée, un fichier jar nommé `<teamId>-0.1-SNAPSHOT.jar` doit être présent dans le répertoire `player/target`.
 
 ## Librairie externes
-L'utilisation de libraries externes de manière non-maîtrisée peut entraîner des erreurs lors de l'exécution.
-Si une erreur arrive suite à l'utilisation d'une librarie non incluse de base dans le template, votre livraison échoue.
-Il vous est donc fortement recommandé de ne pas ajouter de librairie dans votre projet.
+L'utilisation de librairies externes de manière non-maîtrisée peut entraîner des erreurs lors de l'exécution.
+Si une erreur arrive suite à l'utilisation d'une librairie non incluse de base dans le template, votre livraison échoue.
+Il vous est donc fortement recommandé de ne pas ajouter de librairies dans votre projet.
 
 ## Cockpit.java
-Votre projet doit obligatoirement contenir une classe nommée `Cockpit` tel que donnée dans le [template](https://github.com/mathiascouste/qgl-template/blob/master/player/src/main/java/fr/unice/polytech/si3/qgl/teamid/Cockpit.java).
+Votre projet doit obligatoirement contenir une classe nommée `Cockpit` telle que donnée dans le [template](https://github.com/mathiascouste/qgl-template/blob/master/player/src/main/java/fr/unice/polytech/si3/qgl/teamid/Cockpit.java).
 Cette classe doit être positionnée dans le package `fr.unice.polytech.si3.qgl.<teamid>`.
 
-La classe Cockpit doit contenir les méthodes suivantes:
+La classe Cockpit doit contenir les méthodes suivantes :
 ### InitGame
 
     public void initGame(String game);
 
-Cette méthode sera invoquée avec en paramètre une instance de String contenant un JSON au format initGame (voir définition plus bas ou [exemple](./examples/initGame.json)).
+Cette méthode sera invoquée avec en paramètre une instance de String contenant un JSON au format `initGame` (voir définition plus bas ou [exemple](./examples/initGame.json)).
 
 ### NextRound
 
     public String nextRound(String round);
     
 
-Cette méthode sera invoquée avec en paramètre une instance de String contenant un JSON au format nextRound (voir définition plus bas ou [exemple](./examples/nextRound.json)).
+Cette méthode sera invoquée avec en paramètre une instance de String contenant un JSON au format `nextRound` (voir définition plus bas ou [exemple](./examples/nextRound.json)).
 
-Cette méthode doit retourner une instance de String contenant un JSON au format actions (voir définition plus bas ou [exemple](./examples/actions.json)).
+Cette méthode doit retourner une instance de String contenant un JSON au format `actions` (voir définition plus bas ou [exemple](./examples/actions.json)).
 
-Les actions retournées sont vérifiées puis éxécutée. Si l'action n'est pas valide (voir [règles du jeu](./README.md) ou description JSON plus bas) alors elle sera ignorée.
+Les actions retournées sont vérifiées puis exécutées. Si l'action n'est pas valide (voir [règles du jeu](./README.md) ou description JSON plus bas) alors elle sera ignorée.
 
 ### GetLogs
 
@@ -47,7 +47,7 @@ Cette méthode est invoquée à la fin de la partie.
 Elle vous permets de générer vos propres logs.
 Vous pouvez retourner des chaînes de caractères dans le format de votre choix.
 
-**Seule limite:** vous ne pouvez retourner qu'un maximum de 100 Strings, et aucune ne doit dépasser les 200 caractères.
+**Seule limite :** vous ne pouvez retourner qu'un maximum de 100 Strings, et aucune ne doit dépasser les 200 caractères.
 
 Ces logs vous seront donnés dans le rapport d'exécution de la partie.
 
@@ -114,7 +114,7 @@ Ces logs vous seront donnés dans le rapport d'exécution de la partie.
 | vertices | Point[] |
 
 Les sommets du polygone sont positionnés par rapport à son centre.
-Par exemple, un carré de coté 2 représenté tel un polygone aura pour sommets: [1;1], [-1;1], [-1;-1], [1;-1]
+Par exemple, un carré de coté 2 représenté tel un polygone aura pour sommets : [1;1], [-1;1], [-1;-1], [1;-1]
 
 ### Point
 

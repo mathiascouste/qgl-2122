@@ -14,9 +14,9 @@
 
 ### Page 3 à 5 - Description technique
 
--   Architecture du projet: quelles sont les différentes phases de votre programme lors de la prise de décision. Quels sont les liens entre ces étapes ? Est-ce-que cette architecture est extensible: par exemple pour l’introduction d’un nouveau mode de jeu ? Expliquez et justifiez les choix de conception et les choix algorithmiques qui ont influencé ou limité l’architecture du projet (intégration des algorithmes, impact de l'intégration sur les performances de raisonnement, répartition des responsabilités, représentations et abstractions faites dans l'analyse, la prise de décision et l'exécution).
+-   Architecture du projet: quelles sont les différentes phases de votre programme lors de la prise de décision. Quels sont les liens entre ces étapes ? Est-ce-que cette architecture est extensible : par exemple pour l’introduction d’un nouveau mode de jeu ? Expliquez et justifiez les choix de conception et les choix algorithmiques qui ont influencé ou limité l’architecture du projet (intégration des algorithmes, impact de l'intégration sur les performances de raisonnement, répartition des responsabilités, représentations et abstractions faites dans l'analyse, la prise de décision et l'exécution).
     
--   Vous avez dû travailler dans l’interface imposée par ICockpit et par le schéma des JSONs initGame et nextRound. Quels ont été les impacts de ces contraintes sur votre architecture, ainsi que sur vos modèles de données ?
+-   Vous avez dû travailler dans l’interface imposée par ICockpit et par le schéma des JSONs `initGame` et `nextRound`. Quels ont été les impacts de ces contraintes sur votre architecture, ainsi que sur vos modèles de données ?
 
 ### Pages 6 à 8 - Application des concepts vu en cours
 
@@ -24,7 +24,7 @@
     
 -   Qualité du code : comment jugez-vous la qualité de votre code (tests et métriques sonar) ? En fonction de la qualité mesurée, quels seraient les impacts si la qualité était moindre, et quels seraient-ils si elle était plus élevée ? Comment la mesure de la qualité de votre projet à eu un impact sur vos livraisons et sur votre organisation ?
     
--   Combien de fois avez vous effectué des refactoring globaux de votre base de code? Décrivez un de ces refactorings en indiquant les choix qui ont été fait à ce moment.
+-   Combien de fois avez vous effectué des refactoring globaux de votre base de code ? Décrivez un de ces refactorings en indiquant les choix qui ont été fait à ce moment.
     
 -   Comment l’automatisation d’une partie des tâches de votre projet vous a-t-elle permis de gagner en efficacité et en qualité ?
 
@@ -54,7 +54,7 @@
 ### Contenu
 -   Votre rapport devra suivre le sommaire présenté plus haut.
 -   La taille des sections technique, concept et fonctionnelle peuvent varier de plus ou moins une page. En revanche, le total de ces trois sections ne doit pas dépasser 9 pages.
--   Votre rapport peut être rédigé en Français ou bien en Anglais (mais pas un mélange des deux).
+-   Votre rapport peut être rédigé en français ou bien en anglais (mais pas un mélange des deux).
 -   Le respect de la grammaire et l’orthographe est de rigueur.
 
 ### Attention !
