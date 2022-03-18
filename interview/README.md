@@ -8,7 +8,7 @@ Pendant les 13 premières minutes, vous devrez répondre aux questions suivantes
 
 1. Expliquez votre solution gagnante : comment gagner les courses ?
 2.  Présentez et défendez l'architecture de votre projet.
-3.  Pourquoi votre projet à la meilleure qualité possible?
+3.  Pourquoi votre projet a la meilleure qualité possible ?
 
 ### Questions :
 
@@ -16,7 +16,7 @@ Pendant les 5 dernières minutes de l'entretien, chaque membre de l'équipe se v
 
 ## Déroulé de l'entretien
 
-A l'heure prévue, l'ensemble des membres de l'équipe doivent être connecté dans un appel dans le canal de votre équipe  et être prêt à commencer l'entretien (n'attendez pas le dernier moment pour tester les outils).
+A l'heure prévue, l'ensemble des membres de l'équipe doivent être connectés dans un appel dans le canal de votre équipe et être prêts à commencer l'entretien (n'attendez pas le dernier moment pour tester les outils).
 
 L'entretien dure 18 minutes : 13 minutes de présentation et 5 minutes de questions.
 

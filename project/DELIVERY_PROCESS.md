@@ -32,7 +32,7 @@ Créez un tag `FINAL` contenant votre rapport avant le *21 Mai 2022*. (Ce rendu 
 
 ## Étapes de chaque livraison hebdomadaire
 ### Annonce de la livraison
-Au moins une semaine avant la date de livraison, seront données les informations suivantes:
+Au moins une semaine avant la date de livraison, seront données les informations suivantes :
 
  - Nom du tag de livraison.
  - Indication du mode de jeu de la prochaine partie.

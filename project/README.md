@@ -7,7 +7,7 @@
 Nous sommes en plein âge d'or de la piraterie.
 
 De nombreux équipages se font la guerre pour savoir qui sont les plus grands pirates de nos mers et océans.
-Après moultes disputes, les plus grands équipages pirates de ce monde ont décidé de s'affronter lors d'un grand tournoi de piraterie. A l'ordre du jour, régates et batailles navales.
+Après moult disputes, les plus grands équipages pirates de ce monde ont décidé de s'affronter lors d'un grand tournoi de piraterie. À l'ordre du jour, régates et batailles navales.
 
 Vous et votre équipe incarnez un des équipages engagés dans le tournoi.
 Vous êtes à la tête d’un navire qui doit être piloté avec précision afin d’être le premier à atteindre l’objectif de chaque partie.
@@ -36,7 +36,7 @@ Chaque élément à une forme définie tel qu'un rectangle (défini par sa haute
 
 ![sea_map](./assets/sea_map.png)
 ```
-Dans cet exemple, un bateau rectangulaire est positionné en [51,5; 75,8] et son orientation est de PI/4. Il fait face à un recif circulaire positionné en [120,2; 80,5].
+Dans cet exemple, un bateau rectangulaire est positionné en [51,5; 75,8] et son orientation est de PI/4. Il fait face à un récif circulaire positionné en [120,2; 80,5].
 ```
 ### Le vent
 Le vent est un élément non positionné, il souffle de manière constante sur l'ensemble de la mer.
@@ -58,9 +58,9 @@ Deux bateaux qui se percutent vont s'endommager l’un l’autre de manière ég
 
 ### La vision
 A chaque tour de jeu, vous recevez une liste d'éléments visibles présents dans la mer.
-Seuls les éléments présent dans votre champ de vision vous serons donné.
-Par defaut, la vision est de 1000.
-Si un marin exécute l'action surveiller sur la vigie, votre vision passe à 5000 pour le tour suivant.
+Seuls les éléments présent dans votre champ de vision vous seront donnés.
+Par défaut, le rayon du champ de vision est de 1000.
+Si un marin exécute l'action **surveiller** sur la vigie, votre rayon de vision passe à 5000 pour le tour suivant.
 
 ## Votre navire
 Le navire désigne l’embarcation pilotée par une équipe.
@@ -88,7 +88,7 @@ Un mât et sa voile permettent d'agir sur la vitesse du bateau.
 Une voile peux être hissée ou bien affalée.
 Les parties commencent avec les voiles baissées.
 
-Le voile levée permet d’agir sur la vitesse du bateau en fonction de l’angle relatif du vent dans la voile: le navire est accéléré s'il est dos au vent. Il est ralenti s'il fait face au vent.
+La voile levée permet d’agir sur la vitesse du bateau en fonction de l’angle relatif du vent dans la voile : le navire est accéléré s'il est dos au vent. Il est ralenti s'il fait face au vent.
 
 #### La vigie
 La vigie n’a pas d’effet sur les mouvements du bateau.
@@ -146,7 +146,7 @@ Une épreuve aura lieu chaque semaine.
 Le mode de jeu de l'épreuve sera communiqué à l'avance afin que chaque équipe puisse s'y préparer.  
 Chaque épreuve correspond à un livrable hebdomadaire, tel que décrit dans [ce document](./DELIVERY_PROCESS.md).  
 
-A chaque épreuve, entre 0 et 10 points seront donnés à chaque équipe en fonction de leur classement lors de la partie.
+À chaque épreuve, entre 0 et 10 points seront donnés à chaque équipe en fonction de leur classement lors de la partie.
 Le nombre total de points obtenus pendant le tournoi déterminera le classement final du tournoi.
 
 ## Déroulement d'une partie
@@ -168,8 +168,8 @@ Enfin, l’arbitre vérifie et exécute les actions données par chaque équipag
 ### Fin de la partie
 La partie se finit lorsqu'une des conditions suivantes est atteinte :
  - Le nombre de tours maximal de la partie est atteint
- - Pour une frégate: tous les navires ont atteint le point d'arrivée
- - Pour une bataille navale: il ne reste qu'un ou aucun navire
+ - Pour une frégate : tous les navires ont atteint le point d'arrivée
+ - Pour une bataille navale : il ne reste qu'un ou aucun navire
 
 ## Votre objectif
 Vous allez devoir développer un programme respectant [ces spécifications](./TECHNICAL_SPECS.md) afin de contrôler les marins de votre équipage.
