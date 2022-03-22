@@ -16,7 +16,7 @@ Pendant les 5 dernières minutes de l'entretien, chaque membre de l'équipe se v
 
 ## Déroulé de l'entretien
 
-A l'heure prévue, l'ensemble des membres de l'équipe doivent être connecté dans un appel dans le canal de votre équipe  et être prêt à commencer l'entretien (n'attendez pas le dernier moment pour tester les outils).
+A l'heure prévue, l'ensemble des membres de l'équipe doivent être devant la salle 0+307 et être prêt à commencer l'entretien (n'attendez pas le dernier moment pour tester les outils).
 
 L'entretien dure 18 minutes : 13 minutes de présentation et 5 minutes de questions.
 
