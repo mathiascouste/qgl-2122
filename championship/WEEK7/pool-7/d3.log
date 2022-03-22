@@ -1,0 +1,100 @@
+Next round0
+Marin{id=10, x=3, y=1, name='Jack Teach'} move => Marin{id=10, x=6, y=1, name='Jack Teach'}
+Marin{id=9, x=3, y=0, name='Edward Teach'} move => Marin{id=9, x=6, y=0, name='Edward Teach'}
+Marin{id=11, x=3, y=2, name='Jack Pouce'} move => Marin{id=11, x=6, y=2, name='Jack Pouce'}
+Marin{id=8, x=2, y=2, name='Edward Teach'} move => Marin{id=8, x=5, y=2, name='Edward Teach'}
+Marin{id=5, x=1, y=2, name='Jack Pouce'} move => Marin{id=5, x=4, y=2, name='Jack Pouce'}
+Marin{id=6, x=2, y=0, name='Edward Pouce'} move => Marin{id=6, x=4, y=0, name='Edward Pouce'}
+Marin{id=3, x=1, y=0, name='Jack Teach'} move => Marin{id=3, x=5, y=0, name='Jack Teach'}
+Marin{id=7, x=2, y=1, name='Tom Teach'} move => Marin{id=7, x=6, y=2, name='Tom Teach'}
+Marin{id=0, x=0, y=0, name='Tom Teach'} move => Marin{id=0, x=5, y=0, name='Tom Teach'}
+Marin{id=4, x=1, y=1, name='Tom Pouce'} use rudder with rotation of 0.0014724550438481418
+Marin{id=0, x=5, y=0, name='Tom Teach'} active Oar
+Marin{id=3, x=5, y=0, name='Jack Teach'} active Oar
+Marin{id=6, x=4, y=0, name='Edward Pouce'} active Oar
+Marin{id=9, x=6, y=0, name='Edward Teach'} active Oar
+Marin{id=5, x=4, y=2, name='Jack Pouce'} active Oar
+Marin{id=7, x=6, y=2, name='Tom Teach'} active Oar
+Marin{id=8, x=5, y=2, name='Edward Teach'} active Oar
+Marin{id=11, x=6, y=2, name='Jack Pouce'} active Oar
+    - Rotation needed : 0.0014724550438481418
+    - Marin sur rames : false
+    - Marin sur rames à droite : [Marin{id=5, x=4, y=2, name='Jack Pouce'}, Marin{id=7, x=6, y=2, name='Tom Teach'}, Marin{id=8, x=5, y=2, name='Edward Teach'}, Marin{id=11, x=6, y=2, name='Jack Pouce
+    - Marin sur rames à gauche : [Marin{id=0, x=5, y=0, name='Tom Teach'}, Marin{id=3, x=5, y=0, name='Jack Teach'}, Marin{id=6, x=4, y=0, name='Edward Pouce'}, Marin{id=9, x=6, y=0, name='Edward Teac
+    - Marin sur gouvernail : Marin{id=4, x=1, y=1, name='Tom Pouce'}
+    - Marin sur voile : Marin{id=10, x=6, y=1, name='Jack Teach'}
+    - Marin qu'on va activé à droite : 4
+    - Marin qu'on va activé à gauche : 4
+    - Rotation du gouvernail : 0.0014724550438481418
+    - Marin qui doivent être activé à droite : 4.0
+    - Marin qui doivent être activé à gauche : 4.0
+Next round0
+Marin{id=2, x=0, y=2, name='Edward Pouce'} move => Marin{id=2, x=3, y=2, name='Edward Pouce'}
+Marin{id=0, x=5, y=0, name='Tom Teach'} move => Marin{id=0, x=3, y=0, name='Tom Teach'}
+Marin{id=7, x=6, y=2, name='Tom Teach'} move => Marin{id=7, x=7, y=2, name='Tom Teach'}
+Marin{id=4, x=1, y=1, name='Tom Pouce'} move => Marin{id=4, x=5, y=0, name='Tom Pouce'}
+Marin{id=0, x=3, y=0, name='Tom Teach'} active Oar
+Marin{id=3, x=5, y=0, name='Jack Teach'} active Oar
+Marin{id=4, x=5, y=0, name='Tom Pouce'} active Oar
+Marin{id=6, x=4, y=0, name='Edward Pouce'} active Oar
+Marin{id=9, x=6, y=0, name='Edward Teach'} active Oar
+Marin{id=2, x=3, y=2, name='Edward Pouce'} active Oar
+Marin{id=5, x=4, y=2, name='Jack Pouce'} active Oar
+Marin{id=7, x=7, y=2, name='Tom Teach'} active Oar
+Marin{id=8, x=5, y=2, name='Edward Teach'} active Oar
+Marin{id=11, x=6, y=2, name='Jack Pouce'} active Oar
+    - Rotation needed : 1.3553563281968294E-5
+    - Marin sur rames : false
+    - Marin sur rames à droite : [Marin{id=2, x=3, y=2, name='Edward Pouce'}, Marin{id=5, x=4, y=2, name='Jack Pouce'}, Marin{id=7, x=7, y=2, name='Tom Teach'}, Marin{id=8, x=5, y=2, name='Edward Teac
+    - Marin sur rames à gauche : [Marin{id=0, x=3, y=0, name='Tom Teach'}, Marin{id=3, x=5, y=0, name='Jack Teach'}, Marin{id=4, x=5, y=0, name='Tom Pouce'}, Marin{id=6, x=4, y=0, name='Edward Pouce'}
+    - Marin sur voile : Marin{id=10, x=6, y=1, name='Jack Teach'}
+    - Marin qu'on va activé à droite : 5
+    - Marin qu'on va activé à gauche : 5
+    - Rotation du gouvernail : 0.0
+    - Marin qui doivent être activé à droite : 5.0
+    - Marin qui doivent être activé à gauche : 5.0
+Next round0
+Marin{id=1, x=0, y=1, name='Jack Pouce'} move => Marin{id=1, x=1, y=1, name='Jack Pouce'}
+Marin{id=4, x=5, y=0, name='Tom Pouce'} move => Marin{id=4, x=7, y=0, name='Tom Pouce'}
+Marin{id=1, x=1, y=1, name='Jack Pouce'} use rudder with rotation of -0.3184791204581836
+Marin{id=0, x=3, y=0, name='Tom Teach'} active Oar
+Marin{id=3, x=5, y=0, name='Jack Teach'} active Oar
+Marin{id=4, x=7, y=0, name='Tom Pouce'} active Oar
+Marin{id=6, x=4, y=0, name='Edward Pouce'} active Oar
+Marin{id=9, x=6, y=0, name='Edward Teach'} active Oar
+Marin{id=2, x=3, y=2, name='Edward Pouce'} active Oar
+Marin{id=5, x=4, y=2, name='Jack Pouce'} active Oar
+Marin{id=7, x=7, y=2, name='Tom Teach'} active Oar
+Marin{id=8, x=5, y=2, name='Edward Teach'} active Oar
+Marin{id=11, x=6, y=2, name='Jack Pouce'} active Oar
+    - Rotation needed : -0.3184791204581836
+    - Marin sur rames : true
+    - Marin sur rames à droite : [Marin{id=2, x=3, y=2, name='Edward Pouce'}, Marin{id=5, x=4, y=2, name='Jack Pouce'}, Marin{id=7, x=7, y=2, name='Tom Teach'}, Marin{id=8, x=5, y=2, name='Edward Teac
+    - Marin sur rames à gauche : [Marin{id=0, x=3, y=0, name='Tom Teach'}, Marin{id=3, x=5, y=0, name='Jack Teach'}, Marin{id=4, x=7, y=0, name='Tom Pouce'}, Marin{id=6, x=4, y=0, name='Edward Pouce'}
+    - Marin sur gouvernail : Marin{id=1, x=1, y=1, name='Jack Pouce'}
+    - Marin sur voile : Marin{id=10, x=6, y=1, name='Jack Teach'}
+    - Marin qu'on va activé à droite : 5
+    - Marin qu'on va activé à gauche : 5
+    - Rotation du gouvernail : -0.3184791204581836
+    - Marin qui doivent être activé à droite : 5.0
+    - Marin qui doivent être activé à gauche : 5.0
+Next round0
+Marin{id=1, x=1, y=1, name='Jack Pouce'} use rudder with rotation of -0.00513570800189808
+Marin{id=0, x=3, y=0, name='Tom Teach'} active Oar
+Marin{id=3, x=5, y=0, name='Jack Teach'} active Oar
+Marin{id=4, x=7, y=0, name='Tom Pouce'} active Oar
+Marin{id=6, x=4, y=0, name='Edward Pouce'} active Oar
+Marin{id=9, x=6, y=0, name='Edward Teach'} active Oar
+Marin{id=2, x=3, y=2, name='Edward Pouce'} active Oar
+Marin{id=5, x=4, y=2, name='Jack Pouce'} active Oar
+Marin{id=7, x=7, y=2, name='Tom Teach'} active Oar
+Marin{id=8, x=5, y=2, name='Edward Teach'} active Oar
+Marin{id=11, x=6, y=2, name='Jack Pouce'} active Oar
+    - Rotation needed : -0.00513570800189808
+    - Marin sur rames : true
+    - Marin sur rames à droite : [Marin{id=2, x=3, y=2, name='Edward Pouce'}, Marin{id=5, x=4, y=2, name='Jack Pouce'}, Marin{id=7, x=7, y=2, name='Tom Teach'}, Marin{id=8, x=5, y=2, name='Edward Teac
+    - Marin sur rames à gauche : [Marin{id=0, x=3, y=0, name='Tom Teach'}, Marin{id=3, x=5, y=0, name='Jack Teach'}, Marin{id=4, x=7, y=0, name='Tom Pouce'}, Marin{id=6, x=4, y=0, name='Edward Pouce'}
+    - Marin sur gouvernail : Marin{id=1, x=1, y=1, name='Jack Pouce'}
+    - Marin sur voile : Marin{id=10, x=6, y=1, name='Jack Teach'}
+    - Marin qu'on va activé à droite : 5
+    - Marin qu'on va activé à gauche : 5

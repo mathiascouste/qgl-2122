@@ -1,0 +1,17 @@
+java.lang.reflect.InvocationTargetException
+	at jdk.internal.reflect.GeneratedMethodAccessor33.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at fr.unice.polytech.si3.qgl.frigatesengine.interfaces.Cockpit$2.run(Cockpit.java:91)
+Caused by: java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266)
+	at java.base/java.util.Objects.checkIndex(Objects.java:359)
+	at java.base/java.util.ArrayList.get(ArrayList.java:427)
+	at fr.unice.polytech.si3.qgl.Capitaine_Igloo.checkpoints.Checkpoints.get(Checkpoints.java:20)
+	at fr.unice.polytech.si3.qgl.Capitaine_Igloo.Think.thinkPath(Think.java:80)
+	at fr.unice.polytech.si3.qgl.Capitaine_Igloo.Think.forward(Think.java:63)
+	at fr.unice.polytech.si3.qgl.Capitaine_Igloo.Think.round(Think.java:59)
+	at fr.unice.polytech.si3.qgl.Capitaine_Igloo.Cockpit.nextRound(Cockpit.java:25)
+	... 4 more

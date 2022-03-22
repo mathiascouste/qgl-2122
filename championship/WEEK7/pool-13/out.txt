@@ -1,0 +1,52 @@
+Init game input: {"goal":{"mode":"REGATTA","checkpoints":[{"position":{"x":10006.518904824004,"y":3131.510416666667,"orientation":0.0},"shape":{"type":"circle","radius":200.0}},{"position":{"x":3552.8031290743315,"y":-2532.552083333334,"orientation":0.0},"shape":{"type":"circle","radius":200.0}},{"position":{"x":9719.687092568467,"y":514.3229166666661,"orientation":0.0},"shape":{"type":"circle","radius":200.0}},{"position":{"x":4478.487614080851,"y":4980.468749999999,"orientation":0.0},"shape":{"type":"circle","radius":200.0}}]},"ship":{"type":"ship","position":{"x":1336.3754889178724,"y":735.6770833333329,"orientation":0.0},"name":"les_gros_q","deck":{"width":4,"length":8},"entities":[{"x":1,"y":3,"type":"oar"},{"x":2,"y":3,"type":"oar"},{"x":3,"y":3,"type":"oar"},{"x":4,"y":3,"type":"oar"},{"x":5,"y":3,"type":"oar"},{"x":6,"y":3,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":6,"y":0,"type":"oar"},{"x":7,"y":2,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":false},{"x":7,"y":0,"type":"oar"},{"x":7,"y":3,"type":"oar"}],"life":1600,"shape":{"type":"rectangle","width":4.0,"height":8.0,"orientation":0.0}},"sailors":[{"x":0,"y":0,"id":0,"name":"Jack Teach"},{"x":0,"y":1,"id":1,"name":"Luffy Teach"},{"x":0,"y":2,"id":2,"name":"Luffy Teach"},{"x":0,"y":3,"id":3,"name":"Jack Teach"},{"x":1,"y":0,"id":4,"name":"Edward Teach"},{"x":1,"y":1,"id":5,"name":"Jack Teach"},{"x":1,"y":2,"id":6,"name":"Tom Pouce"},{"x":1,"y":3,"id":7,"name":"Luffy Teach"},{"x":2,"y":0,"id":8,"name":"Luffy Teach"},{"x":2,"y":1,"id":9,"name":"Jack Teach"},{"x":2,"y":2,"id":10,"name":"Jack Teach"},{"x":2,"y":3,"id":11,"name":"Luffy Pouce"},{"x":3,"y":0,"id":12,"name":"Jack Pouce"},{"x":3,"y":1,"id":13,"name":"Tom Teach"},{"x":3,"y":2,"id":14,"name":"Luffy Pouce"},{"x":3,"y":3,"id":15,"name":"Edward Teach"}],"shipCount":1}
+Game initialised : GameData{goal=fr.unice.polytech.si3.qgl.les_gros_q.objects.RegattaGoal@2c231e31, ship=Ship{type='ship', life=1600, position=Position{x=1336.3754889178724, y=735.6770833333329, orientation=0.0}, name='les_gros_q', deck=fr.unice.polytech.si3.qgl.les_gros_q.objects.Deck@59026bf6, entities=[oar[1,3], oar[2,3], oar[3,3], oar[4,3], oar[5,3], oar[6,3], oar[1,0], oar[2,0], oar[3,0], oar[4,0], oar[5,0], oar[6,0], rudder[7,2], sail[3,1], oar[7,0], oar[7,3]], shape=fr.unice.polytech.si3.qgl.les_gros_q.objects.shapes.Rectangle@23e3c323}, sailors=[fr.unice.polytech.si3.qgl.les_gros_q.objects.Sailor@637c2a5b, fr.unice.polytech.si3.qgl.les_gros_q.objects.Sailor@5403bd84, fr.unice.polytech.si3.qgl.les_gros_q.objects.Sailor@738e9f22, fr.unice.polytech.si3.qgl.les_gros_q.objects.Sailor@6789fe8f, fr.unice.polytech.si3.qgl.les_gros_q.objects.Sailor@65252ed7, fr.unice.polytech.si3.qgl.les_gros_q.objects.Sailor@2c83406a, fr.unice.polytech.si3.qgl.les_gros_q.objects.Sailor@2bf3ad57, fr.unice.polytech.si3.qgl.les_gros_q.objects.Sailor@3a64320, fr.unice.polytech.si3.qgl.les_gros_q.objects.Sailor@4f399615, fr.unice.polytech.si3.qgl.les_gros_q.objects.Sailor@790f0f88, fr.unice.polytech.si3.qgl.les_gros_q.objects.Sailor@4fa09ceb, fr.unice.polytech.si3.qgl.les_gros_q.objects.Sailor@7eae797c, fr.unice.polytech.si3.qgl.les_gros_q.objects.Sailor@7da4c182, fr.unice.polytech.si3.qgl.les_gros_q.objects.Sailor@7c56e2f1, fr.unice.polytech.si3.qgl.les_gros_q.objects.Sailor@37da6e54, fr.unice.polytech.si3.qgl.les_gros_q.objects.Sailor@3ab2844a], shipCount=1}
+Next round input: {"ship":{"type":"ship","position":{"x":1336.3754889178724,"y":735.6770833333329,"orientation":0.0},"name":"les_gros_q","deck":{"width":4,"length":8},"entities":[{"x":1,"y":3,"type":"oar"},{"x":2,"y":3,"type":"oar"},{"x":3,"y":3,"type":"oar"},{"x":4,"y":3,"type":"oar"},{"x":5,"y":3,"type":"oar"},{"x":6,"y":3,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":6,"y":0,"type":"oar"},{"x":7,"y":2,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":false},{"x":7,"y":0,"type":"oar"},{"x":7,"y":3,"type":"oar"}],"life":1600,"shape":{"type":"rectangle","width":4.0,"height":8.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":100.0}}
+JSON of actions initialized : [Lfr.unice.polytech.si3.qgl.les_gros_q.objects.actions.Action;@6950c3
+Next round input: {"ship":{"type":"ship","position":{"x":1597.0610397544212,"y":770.5935589643976,"orientation":0.2696036308928814},"name":"les_gros_q","deck":{"width":4,"length":8},"entities":[{"x":1,"y":3,"type":"oar"},{"x":2,"y":3,"type":"oar"},{"x":3,"y":3,"type":"oar"},{"x":4,"y":3,"type":"oar"},{"x":5,"y":3,"type":"oar"},{"x":6,"y":3,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":6,"y":0,"type":"oar"},{"x":7,"y":2,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":true},{"x":7,"y":0,"type":"oar"},{"x":7,"y":3,"type":"oar"}],"life":1600,"shape":{"type":"rectangle","width":4.0,"height":8.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":100.0}}
+JSON of actions initialized : [Lfr.unice.polytech.si3.qgl.les_gros_q.objects.actions.Action;@131a4254
+Next round input: {"ship":{"type":"ship","position":{"x":1848.8123416502615,"y":840.7100622422513,"orientation":0.2736998054961556},"name":"les_gros_q","deck":{"width":4,"length":8},"entities":[{"x":1,"y":3,"type":"oar"},{"x":2,"y":3,"type":"oar"},{"x":3,"y":3,"type":"oar"},{"x":4,"y":3,"type":"oar"},{"x":5,"y":3,"type":"oar"},{"x":6,"y":3,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":6,"y":0,"type":"oar"},{"x":7,"y":2,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":true},{"x":7,"y":0,"type":"oar"},{"x":7,"y":3,"type":"oar"}],"life":1600,"shape":{"type":"rectangle","width":4.0,"height":8.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":3044.3285528031342,"y":957.0312500000006,"orientation":-1.1344640137963142},"shape":{"type":"rectangle","width":400.0,"height":1800.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":100.0}}
+New graph. Best path : [fr.unice.polytech.si3.qgl.les_gros_q.dijkstra.Node@53883c9e, fr.unice.polytech.si3.qgl.les_gros_q.dijkstra.Node@66c0df6e]
+JSON of actions initialized : [Lfr.unice.polytech.si3.qgl.les_gros_q.objects.actions.Action;@24217052
+Next round input: {"ship":{"type":"ship","position":{"x":2073.1604269463915,"y":954.8475112397776,"orientation":0.6764290011205961},"name":"les_gros_q","deck":{"width":4,"length":8},"entities":[{"x":1,"y":3,"type":"oar"},{"x":2,"y":3,"type":"oar"},{"x":3,"y":3,"type":"oar"},{"x":4,"y":3,"type":"oar"},{"x":5,"y":3,"type":"oar"},{"x":6,"y":3,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":6,"y":0,"type":"oar"},{"x":7,"y":2,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":true},{"x":7,"y":0,"type":"oar"},{"x":7,"y":3,"type":"oar"}],"life":1600,"shape":{"type":"rectangle","width":4.0,"height":8.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":3044.3285528031342,"y":957.0312500000006,"orientation":-1.1344640137963142},"shape":{"type":"rectangle","width":400.0,"height":1800.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":100.0}}
+JSON of actions initialized : [Lfr.unice.polytech.si3.qgl.les_gros_q.objects.actions.Action;@171f4eb9
+Next round input: {"ship":{"type":"ship","position":{"x":2259.209770632123,"y":1109.4413069619372,"orientation":0.710599407685922},"name":"les_gros_q","deck":{"width":4,"length":8},"entities":[{"x":1,"y":3,"type":"oar"},{"x":2,"y":3,"type":"oar"},{"x":3,"y":3,"type":"oar"},{"x":4,"y":3,"type":"oar"},{"x":5,"y":3,"type":"oar"},{"x":6,"y":3,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":6,"y":0,"type":"oar"},{"x":7,"y":2,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":true},{"x":7,"y":0,"type":"oar"},{"x":7,"y":3,"type":"oar"}],"life":1600,"shape":{"type":"rectangle","width":4.0,"height":8.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":3044.3285528031342,"y":957.0312500000006,"orientation":-1.1344640137963142},"shape":{"type":"rectangle","width":400.0,"height":1800.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":100.0}}
+JSON of actions initialized : [Lfr.unice.polytech.si3.qgl.les_gros_q.objects.actions.Action;@5facb1c6
+Next round input: {"ship":{"type":"ship","position":{"x":2441.3886047998208,"y":1266.7390404324915,"orientation":0.7139070381871145},"name":"les_gros_q","deck":{"width":4,"length":8},"entities":[{"x":1,"y":3,"type":"oar"},{"x":2,"y":3,"type":"oar"},{"x":3,"y":3,"type":"oar"},{"x":4,"y":3,"type":"oar"},{"x":5,"y":3,"type":"oar"},{"x":6,"y":3,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":6,"y":0,"type":"oar"},{"x":7,"y":2,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":true},{"x":7,"y":0,"type":"oar"},{"x":7,"y":3,"type":"oar"}],"life":1600,"shape":{"type":"rectangle","width":4.0,"height":8.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":3044.3285528031342,"y":957.0312500000006,"orientation":-1.1344640137963142},"shape":{"type":"rectangle","width":400.0,"height":1800.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":100.0}}
+JSON of actions initialized : [Lfr.unice.polytech.si3.qgl.les_gros_q.objects.actions.Action;@2a569cce
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+les_gros_q IS ELIMINATED: fr.unice.polytech.si3.qgl.frigatesengine.interfaces.DestroyedShipError
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

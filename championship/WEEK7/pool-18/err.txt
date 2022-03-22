@@ -1,0 +1,2006 @@
+mars 22, 2022 8:47:54 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.Cockpit initGame
+INFO: 
+
+Une partie commence
+
+
+mars 22, 2022 8:47:54 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:54 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=8995, dte=0, nts=Node{id=0, cts=0, dte=8995, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:54 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:54 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=8995, dte=0, nts=Node{id=0, cts=0, dte=8995, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:54 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:54 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=8734, dte=0, nts=Node{id=0, cts=0, dte=8734, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:54 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 6 nodes pure initialisé
+mars 22, 2022 8:47:54 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=2, cts=1052, dte=7680, nts=Node{id=0, cts=0, dte=8473, nts=null, nh=2}, nh=3}
+mars 22, 2022 8:47:54 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 6 nodes pure initialisé
+mars 22, 2022 8:47:54 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=2, cts=829, dte=7680, nts=Node{id=0, cts=0, dte=8245, nts=null, nh=2}, nh=3}
+mars 22, 2022 8:47:54 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 6 nodes pure initialisé
+mars 22, 2022 8:47:54 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=2, cts=611, dte=7680, nts=Node{id=0, cts=0, dte=8084, nts=null, nh=2}, nh=3}
+mars 22, 2022 8:47:54 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 6 nodes pure initialisé
+mars 22, 2022 8:47:54 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=2, cts=397, dte=7680, nts=Node{id=0, cts=0, dte=7938, nts=null, nh=2}, nh=3}
+mars 22, 2022 8:47:54 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 6 nodes pure initialisé
+mars 22, 2022 8:47:54 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=2, cts=184, dte=7680, nts=Node{id=0, cts=0, dte=7798, nts=null, nh=2}, nh=3}
+mars 22, 2022 8:47:54 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 10 nodes pure initialisé
+mars 22, 2022 8:47:54 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=9, cts=409, dte=7262, nts=Node{id=0, cts=0, dte=7662, nts=null, nh=4}, nh=6}
+mars 22, 2022 8:47:54 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 10 nodes pure initialisé
+mars 22, 2022 8:47:54 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=7463, dte=0, nts=Node{id=0, cts=0, dte=7463, nts=null, nh=5}, nh=7}
+mars 22, 2022 8:47:54 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 10 nodes pure initialisé
+mars 22, 2022 8:47:54 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=7204, dte=0, nts=Node{id=0, cts=0, dte=7204, nts=null, nh=6}, nh=7}
+mars 22, 2022 8:47:54 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 10 nodes pure initialisé
+mars 22, 2022 8:47:54 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=6941, dte=0, nts=Node{id=0, cts=0, dte=6941, nts=null, nh=6}, nh=7}
+mars 22, 2022 8:47:54 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 6 nodes pure initialisé
+mars 22, 2022 8:47:54 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=6677, dte=0, nts=Node{id=0, cts=0, dte=6677, nts=null, nh=3}, nh=4}
+mars 22, 2022 8:47:54 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 6 nodes pure initialisé
+mars 22, 2022 8:47:54 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=6414, dte=0, nts=Node{id=0, cts=0, dte=6414, nts=null, nh=3}, nh=4}
+mars 22, 2022 8:47:54 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:54 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=6150, dte=0, nts=Node{id=0, cts=0, dte=6150, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:54 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:54 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=5886, dte=0, nts=Node{id=0, cts=0, dte=5886, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:54 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:54 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=5623, dte=0, nts=Node{id=0, cts=0, dte=5623, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:54 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:54 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=5359, dte=0, nts=Node{id=0, cts=0, dte=5359, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:54 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:54 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=5095, dte=0, nts=Node{id=0, cts=0, dte=5095, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:54 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:54 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=4832, dte=0, nts=Node{id=0, cts=0, dte=4832, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:54 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:54 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=4568, dte=0, nts=Node{id=0, cts=0, dte=4568, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:54 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:54 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=4304, dte=0, nts=Node{id=0, cts=0, dte=4304, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=4041, dte=0, nts=Node{id=0, cts=0, dte=4041, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=3777, dte=0, nts=Node{id=0, cts=0, dte=3777, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=3513, dte=0, nts=Node{id=0, cts=0, dte=3513, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=3250, dte=0, nts=Node{id=0, cts=0, dte=3250, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 6 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=4, cts=1457, dte=1621, nts=Node{id=0, cts=0, dte=2986, nts=null, nh=3}, nh=4}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 6 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=4, cts=1200, dte=1621, nts=Node{id=0, cts=0, dte=2729, nts=null, nh=3}, nh=4}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 6 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=4, cts=945, dte=1621, nts=Node{id=0, cts=0, dte=2485, nts=null, nh=2}, nh=4}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 6 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=4, cts=690, dte=1621, nts=Node{id=0, cts=0, dte=2245, nts=null, nh=2}, nh=4}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 6 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=4, cts=435, dte=1621, nts=Node{id=0, cts=0, dte=2009, nts=null, nh=2}, nh=4}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 10 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=4, cts=180, dte=1621, nts=Node{id=0, cts=0, dte=1779, nts=null, nh=5}, nh=7}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 10 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=1557, dte=0, nts=Node{id=0, cts=0, dte=1557, nts=null, nh=6}, nh=7}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 10 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=1310, dte=0, nts=Node{id=0, cts=0, dte=1310, nts=null, nh=5}, nh=7}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 10 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=1045, dte=0, nts=Node{id=0, cts=0, dte=1045, nts=null, nh=6}, nh=7}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 10 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=782, dte=0, nts=Node{id=0, cts=0, dte=782, nts=null, nh=7}, nh=7}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 10 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=518, dte=0, nts=Node{id=0, cts=0, dte=518, nts=null, nh=7}, nh=7}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 6 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=254, dte=0, nts=Node{id=0, cts=0, dte=254, nts=null, nh=4}, nh=4}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=8592, dte=0, nts=Node{id=0, cts=0, dte=8592, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=8764, dte=0, nts=Node{id=0, cts=0, dte=8764, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=8941, dte=0, nts=Node{id=0, cts=0, dte=8941, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=9121, dte=0, nts=Node{id=0, cts=0, dte=9121, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=9306, dte=0, nts=Node{id=0, cts=0, dte=9306, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=9494, dte=0, nts=Node{id=0, cts=0, dte=9494, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=9686, dte=0, nts=Node{id=0, cts=0, dte=9686, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=9881, dte=0, nts=Node{id=0, cts=0, dte=9881, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=10080, dte=0, nts=Node{id=0, cts=0, dte=10080, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=10281, dte=0, nts=Node{id=0, cts=0, dte=10281, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=10485, dte=0, nts=Node{id=0, cts=0, dte=10485, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=10692, dte=0, nts=Node{id=0, cts=0, dte=10692, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=10901, dte=0, nts=Node{id=0, cts=0, dte=10901, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=11112, dte=0, nts=Node{id=0, cts=0, dte=11112, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=11326, dte=0, nts=Node{id=0, cts=0, dte=11326, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=11541, dte=0, nts=Node{id=0, cts=0, dte=11541, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=11759, dte=0, nts=Node{id=0, cts=0, dte=11759, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=11979, dte=0, nts=Node{id=0, cts=0, dte=11979, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=12200, dte=0, nts=Node{id=0, cts=0, dte=12200, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=12423, dte=0, nts=Node{id=0, cts=0, dte=12423, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=12647, dte=0, nts=Node{id=0, cts=0, dte=12647, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=12873, dte=0, nts=Node{id=0, cts=0, dte=12873, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=13101, dte=0, nts=Node{id=0, cts=0, dte=13101, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=13330, dte=0, nts=Node{id=0, cts=0, dte=13330, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=13560, dte=0, nts=Node{id=0, cts=0, dte=13560, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=13791, dte=0, nts=Node{id=0, cts=0, dte=13791, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=14023, dte=0, nts=Node{id=0, cts=0, dte=14023, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=14257, dte=0, nts=Node{id=0, cts=0, dte=14257, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=14491, dte=0, nts=Node{id=0, cts=0, dte=14491, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=14727, dte=0, nts=Node{id=0, cts=0, dte=14727, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=14963, dte=0, nts=Node{id=0, cts=0, dte=14963, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=15201, dte=0, nts=Node{id=0, cts=0, dte=15201, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=15439, dte=0, nts=Node{id=0, cts=0, dte=15439, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=15678, dte=0, nts=Node{id=0, cts=0, dte=15678, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=15918, dte=0, nts=Node{id=0, cts=0, dte=15918, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=16159, dte=0, nts=Node{id=0, cts=0, dte=16159, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=16400, dte=0, nts=Node{id=0, cts=0, dte=16400, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=16642, dte=0, nts=Node{id=0, cts=0, dte=16642, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=16884, dte=0, nts=Node{id=0, cts=0, dte=16884, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=17128, dte=0, nts=Node{id=0, cts=0, dte=17128, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=17372, dte=0, nts=Node{id=0, cts=0, dte=17372, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=17616, dte=0, nts=Node{id=0, cts=0, dte=17616, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=17861, dte=0, nts=Node{id=0, cts=0, dte=17861, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=18107, dte=0, nts=Node{id=0, cts=0, dte=18107, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=18353, dte=0, nts=Node{id=0, cts=0, dte=18353, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=18599, dte=0, nts=Node{id=0, cts=0, dte=18599, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:55 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=18846, dte=0, nts=Node{id=0, cts=0, dte=18846, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=19094, dte=0, nts=Node{id=0, cts=0, dte=19094, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=19341, dte=0, nts=Node{id=0, cts=0, dte=19341, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=19590, dte=0, nts=Node{id=0, cts=0, dte=19590, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=19838, dte=0, nts=Node{id=0, cts=0, dte=19838, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=20087, dte=0, nts=Node{id=0, cts=0, dte=20087, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=20337, dte=0, nts=Node{id=0, cts=0, dte=20337, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=20587, dte=0, nts=Node{id=0, cts=0, dte=20587, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=20837, dte=0, nts=Node{id=0, cts=0, dte=20837, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=21087, dte=0, nts=Node{id=0, cts=0, dte=21087, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=21338, dte=0, nts=Node{id=0, cts=0, dte=21338, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=21589, dte=0, nts=Node{id=0, cts=0, dte=21589, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=21841, dte=0, nts=Node{id=0, cts=0, dte=21841, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=22092, dte=0, nts=Node{id=0, cts=0, dte=22092, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=22344, dte=0, nts=Node{id=0, cts=0, dte=22344, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=22597, dte=0, nts=Node{id=0, cts=0, dte=22597, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=22849, dte=0, nts=Node{id=0, cts=0, dte=22849, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=23102, dte=0, nts=Node{id=0, cts=0, dte=23102, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=23355, dte=0, nts=Node{id=0, cts=0, dte=23355, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=23608, dte=0, nts=Node{id=0, cts=0, dte=23608, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=23862, dte=0, nts=Node{id=0, cts=0, dte=23862, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=24115, dte=0, nts=Node{id=0, cts=0, dte=24115, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=24369, dte=0, nts=Node{id=0, cts=0, dte=24369, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=24623, dte=0, nts=Node{id=0, cts=0, dte=24623, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=24878, dte=0, nts=Node{id=0, cts=0, dte=24878, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=25132, dte=0, nts=Node{id=0, cts=0, dte=25132, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=25387, dte=0, nts=Node{id=0, cts=0, dte=25387, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=25642, dte=0, nts=Node{id=0, cts=0, dte=25642, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=25897, dte=0, nts=Node{id=0, cts=0, dte=25897, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=26152, dte=0, nts=Node{id=0, cts=0, dte=26152, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=26408, dte=0, nts=Node{id=0, cts=0, dte=26408, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=26663, dte=0, nts=Node{id=0, cts=0, dte=26663, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=26919, dte=0, nts=Node{id=0, cts=0, dte=26919, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=27175, dte=0, nts=Node{id=0, cts=0, dte=27175, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=27431, dte=0, nts=Node{id=0, cts=0, dte=27431, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=27687, dte=0, nts=Node{id=0, cts=0, dte=27687, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=27943, dte=0, nts=Node{id=0, cts=0, dte=27943, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=28200, dte=0, nts=Node{id=0, cts=0, dte=28200, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=28456, dte=0, nts=Node{id=0, cts=0, dte=28456, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=28713, dte=0, nts=Node{id=0, cts=0, dte=28713, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=28970, dte=0, nts=Node{id=0, cts=0, dte=28970, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=29227, dte=0, nts=Node{id=0, cts=0, dte=29227, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=29484, dte=0, nts=Node{id=0, cts=0, dte=29484, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=29741, dte=0, nts=Node{id=0, cts=0, dte=29741, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=29999, dte=0, nts=Node{id=0, cts=0, dte=29999, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=30256, dte=0, nts=Node{id=0, cts=0, dte=30256, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=30514, dte=0, nts=Node{id=0, cts=0, dte=30514, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=30771, dte=0, nts=Node{id=0, cts=0, dte=30771, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=31029, dte=0, nts=Node{id=0, cts=0, dte=31029, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=31287, dte=0, nts=Node{id=0, cts=0, dte=31287, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=31545, dte=0, nts=Node{id=0, cts=0, dte=31545, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=31803, dte=0, nts=Node{id=0, cts=0, dte=31803, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=32061, dte=0, nts=Node{id=0, cts=0, dte=32061, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=32320, dte=0, nts=Node{id=0, cts=0, dte=32320, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=32578, dte=0, nts=Node{id=0, cts=0, dte=32578, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=32836, dte=0, nts=Node{id=0, cts=0, dte=32836, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=33095, dte=0, nts=Node{id=0, cts=0, dte=33095, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=33353, dte=0, nts=Node{id=0, cts=0, dte=33353, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=33612, dte=0, nts=Node{id=0, cts=0, dte=33612, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=33871, dte=0, nts=Node{id=0, cts=0, dte=33871, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=34130, dte=0, nts=Node{id=0, cts=0, dte=34130, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=34389, dte=0, nts=Node{id=0, cts=0, dte=34389, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=34648, dte=0, nts=Node{id=0, cts=0, dte=34648, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=34907, dte=0, nts=Node{id=0, cts=0, dte=34907, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=35166, dte=0, nts=Node{id=0, cts=0, dte=35166, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=35425, dte=0, nts=Node{id=0, cts=0, dte=35425, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=35684, dte=0, nts=Node{id=0, cts=0, dte=35684, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=35944, dte=0, nts=Node{id=0, cts=0, dte=35944, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=36203, dte=0, nts=Node{id=0, cts=0, dte=36203, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=36463, dte=0, nts=Node{id=0, cts=0, dte=36463, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=36722, dte=0, nts=Node{id=0, cts=0, dte=36722, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=36982, dte=0, nts=Node{id=0, cts=0, dte=36982, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=37241, dte=0, nts=Node{id=0, cts=0, dte=37241, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:56 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=37501, dte=0, nts=Node{id=0, cts=0, dte=37501, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=37761, dte=0, nts=Node{id=0, cts=0, dte=37761, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=38021, dte=0, nts=Node{id=0, cts=0, dte=38021, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=38280, dte=0, nts=Node{id=0, cts=0, dte=38280, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=38540, dte=0, nts=Node{id=0, cts=0, dte=38540, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=38800, dte=0, nts=Node{id=0, cts=0, dte=38800, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=39060, dte=0, nts=Node{id=0, cts=0, dte=39060, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=39320, dte=0, nts=Node{id=0, cts=0, dte=39320, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=39581, dte=0, nts=Node{id=0, cts=0, dte=39581, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=39841, dte=0, nts=Node{id=0, cts=0, dte=39841, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=40101, dte=0, nts=Node{id=0, cts=0, dte=40101, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=40361, dte=0, nts=Node{id=0, cts=0, dte=40361, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=40622, dte=0, nts=Node{id=0, cts=0, dte=40622, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=40882, dte=0, nts=Node{id=0, cts=0, dte=40882, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=41142, dte=0, nts=Node{id=0, cts=0, dte=41142, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=41403, dte=0, nts=Node{id=0, cts=0, dte=41403, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=41663, dte=0, nts=Node{id=0, cts=0, dte=41663, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=41924, dte=0, nts=Node{id=0, cts=0, dte=41924, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=42184, dte=0, nts=Node{id=0, cts=0, dte=42184, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=42445, dte=0, nts=Node{id=0, cts=0, dte=42445, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=42706, dte=0, nts=Node{id=0, cts=0, dte=42706, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=42966, dte=0, nts=Node{id=0, cts=0, dte=42966, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=43227, dte=0, nts=Node{id=0, cts=0, dte=43227, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=43488, dte=0, nts=Node{id=0, cts=0, dte=43488, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=43749, dte=0, nts=Node{id=0, cts=0, dte=43749, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=44010, dte=0, nts=Node{id=0, cts=0, dte=44010, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=44270, dte=0, nts=Node{id=0, cts=0, dte=44270, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=44531, dte=0, nts=Node{id=0, cts=0, dte=44531, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=44792, dte=0, nts=Node{id=0, cts=0, dte=44792, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=45053, dte=0, nts=Node{id=0, cts=0, dte=45053, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=45314, dte=0, nts=Node{id=0, cts=0, dte=45314, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=45575, dte=0, nts=Node{id=0, cts=0, dte=45575, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=45836, dte=0, nts=Node{id=0, cts=0, dte=45836, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=46098, dte=0, nts=Node{id=0, cts=0, dte=46098, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=46359, dte=0, nts=Node{id=0, cts=0, dte=46359, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=46620, dte=0, nts=Node{id=0, cts=0, dte=46620, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=46881, dte=0, nts=Node{id=0, cts=0, dte=46881, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=47142, dte=0, nts=Node{id=0, cts=0, dte=47142, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=47404, dte=0, nts=Node{id=0, cts=0, dte=47404, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=47665, dte=0, nts=Node{id=0, cts=0, dte=47665, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=47926, dte=0, nts=Node{id=0, cts=0, dte=47926, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=48187, dte=0, nts=Node{id=0, cts=0, dte=48187, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=48449, dte=0, nts=Node{id=0, cts=0, dte=48449, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=48710, dte=0, nts=Node{id=0, cts=0, dte=48710, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=48972, dte=0, nts=Node{id=0, cts=0, dte=48972, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=49233, dte=0, nts=Node{id=0, cts=0, dte=49233, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=49495, dte=0, nts=Node{id=0, cts=0, dte=49495, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=49756, dte=0, nts=Node{id=0, cts=0, dte=49756, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=50018, dte=0, nts=Node{id=0, cts=0, dte=50018, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=50279, dte=0, nts=Node{id=0, cts=0, dte=50279, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=50541, dte=0, nts=Node{id=0, cts=0, dte=50541, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=50802, dte=0, nts=Node{id=0, cts=0, dte=50802, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=51064, dte=0, nts=Node{id=0, cts=0, dte=51064, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=51326, dte=0, nts=Node{id=0, cts=0, dte=51326, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=51587, dte=0, nts=Node{id=0, cts=0, dte=51587, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=51849, dte=0, nts=Node{id=0, cts=0, dte=51849, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=52111, dte=0, nts=Node{id=0, cts=0, dte=52111, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=52372, dte=0, nts=Node{id=0, cts=0, dte=52372, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=52634, dte=0, nts=Node{id=0, cts=0, dte=52634, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=52896, dte=0, nts=Node{id=0, cts=0, dte=52896, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=53158, dte=0, nts=Node{id=0, cts=0, dte=53158, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=53419, dte=0, nts=Node{id=0, cts=0, dte=53419, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=53681, dte=0, nts=Node{id=0, cts=0, dte=53681, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=53943, dte=0, nts=Node{id=0, cts=0, dte=53943, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=54205, dte=0, nts=Node{id=0, cts=0, dte=54205, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=54467, dte=0, nts=Node{id=0, cts=0, dte=54467, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=54729, dte=0, nts=Node{id=0, cts=0, dte=54729, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=54991, dte=0, nts=Node{id=0, cts=0, dte=54991, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=55253, dte=0, nts=Node{id=0, cts=0, dte=55253, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=55515, dte=0, nts=Node{id=0, cts=0, dte=55515, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=55777, dte=0, nts=Node{id=0, cts=0, dte=55777, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=56039, dte=0, nts=Node{id=0, cts=0, dte=56039, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=56301, dte=0, nts=Node{id=0, cts=0, dte=56301, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=56563, dte=0, nts=Node{id=0, cts=0, dte=56563, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=56825, dte=0, nts=Node{id=0, cts=0, dte=56825, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=57087, dte=0, nts=Node{id=0, cts=0, dte=57087, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=57349, dte=0, nts=Node{id=0, cts=0, dte=57349, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=57611, dte=0, nts=Node{id=0, cts=0, dte=57611, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=57873, dte=0, nts=Node{id=0, cts=0, dte=57873, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=58135, dte=0, nts=Node{id=0, cts=0, dte=58135, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=58397, dte=0, nts=Node{id=0, cts=0, dte=58397, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=58659, dte=0, nts=Node{id=0, cts=0, dte=58659, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=58922, dte=0, nts=Node{id=0, cts=0, dte=58922, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=59184, dte=0, nts=Node{id=0, cts=0, dte=59184, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:57 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=59446, dte=0, nts=Node{id=0, cts=0, dte=59446, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=59708, dte=0, nts=Node{id=0, cts=0, dte=59708, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=59970, dte=0, nts=Node{id=0, cts=0, dte=59970, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=60233, dte=0, nts=Node{id=0, cts=0, dte=60233, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=60495, dte=0, nts=Node{id=0, cts=0, dte=60495, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=60757, dte=0, nts=Node{id=0, cts=0, dte=60757, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=61019, dte=0, nts=Node{id=0, cts=0, dte=61019, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=61282, dte=0, nts=Node{id=0, cts=0, dte=61282, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=61544, dte=0, nts=Node{id=0, cts=0, dte=61544, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=61806, dte=0, nts=Node{id=0, cts=0, dte=61806, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=62069, dte=0, nts=Node{id=0, cts=0, dte=62069, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=62331, dte=0, nts=Node{id=0, cts=0, dte=62331, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=62593, dte=0, nts=Node{id=0, cts=0, dte=62593, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=62856, dte=0, nts=Node{id=0, cts=0, dte=62856, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=63118, dte=0, nts=Node{id=0, cts=0, dte=63118, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=63381, dte=0, nts=Node{id=0, cts=0, dte=63381, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=63643, dte=0, nts=Node{id=0, cts=0, dte=63643, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=63905, dte=0, nts=Node{id=0, cts=0, dte=63905, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=64168, dte=0, nts=Node{id=0, cts=0, dte=64168, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=64430, dte=0, nts=Node{id=0, cts=0, dte=64430, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=64693, dte=0, nts=Node{id=0, cts=0, dte=64693, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=64955, dte=0, nts=Node{id=0, cts=0, dte=64955, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=65218, dte=0, nts=Node{id=0, cts=0, dte=65218, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=65480, dte=0, nts=Node{id=0, cts=0, dte=65480, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=65743, dte=0, nts=Node{id=0, cts=0, dte=65743, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=66005, dte=0, nts=Node{id=0, cts=0, dte=66005, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=66268, dte=0, nts=Node{id=0, cts=0, dte=66268, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=66530, dte=0, nts=Node{id=0, cts=0, dte=66530, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=66793, dte=0, nts=Node{id=0, cts=0, dte=66793, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=67055, dte=0, nts=Node{id=0, cts=0, dte=67055, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=67318, dte=0, nts=Node{id=0, cts=0, dte=67318, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=67580, dte=0, nts=Node{id=0, cts=0, dte=67580, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=67843, dte=0, nts=Node{id=0, cts=0, dte=67843, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=68106, dte=0, nts=Node{id=0, cts=0, dte=68106, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=68368, dte=0, nts=Node{id=0, cts=0, dte=68368, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=68631, dte=0, nts=Node{id=0, cts=0, dte=68631, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=68893, dte=0, nts=Node{id=0, cts=0, dte=68893, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=69156, dte=0, nts=Node{id=0, cts=0, dte=69156, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=69419, dte=0, nts=Node{id=0, cts=0, dte=69419, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=69681, dte=0, nts=Node{id=0, cts=0, dte=69681, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=69944, dte=0, nts=Node{id=0, cts=0, dte=69944, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=70207, dte=0, nts=Node{id=0, cts=0, dte=70207, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=70469, dte=0, nts=Node{id=0, cts=0, dte=70469, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=70732, dte=0, nts=Node{id=0, cts=0, dte=70732, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=70995, dte=0, nts=Node{id=0, cts=0, dte=70995, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=71257, dte=0, nts=Node{id=0, cts=0, dte=71257, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=71520, dte=0, nts=Node{id=0, cts=0, dte=71520, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=71783, dte=0, nts=Node{id=0, cts=0, dte=71783, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=72046, dte=0, nts=Node{id=0, cts=0, dte=72046, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=72308, dte=0, nts=Node{id=0, cts=0, dte=72308, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=72571, dte=0, nts=Node{id=0, cts=0, dte=72571, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=72834, dte=0, nts=Node{id=0, cts=0, dte=72834, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=73097, dte=0, nts=Node{id=0, cts=0, dte=73097, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=73359, dte=0, nts=Node{id=0, cts=0, dte=73359, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=73622, dte=0, nts=Node{id=0, cts=0, dte=73622, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=73885, dte=0, nts=Node{id=0, cts=0, dte=73885, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=74148, dte=0, nts=Node{id=0, cts=0, dte=74148, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=74410, dte=0, nts=Node{id=0, cts=0, dte=74410, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=74673, dte=0, nts=Node{id=0, cts=0, dte=74673, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=74936, dte=0, nts=Node{id=0, cts=0, dte=74936, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=75199, dte=0, nts=Node{id=0, cts=0, dte=75199, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=75462, dte=0, nts=Node{id=0, cts=0, dte=75462, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=75725, dte=0, nts=Node{id=0, cts=0, dte=75725, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=75987, dte=0, nts=Node{id=0, cts=0, dte=75987, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=76250, dte=0, nts=Node{id=0, cts=0, dte=76250, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=76513, dte=0, nts=Node{id=0, cts=0, dte=76513, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=76776, dte=0, nts=Node{id=0, cts=0, dte=76776, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=77039, dte=0, nts=Node{id=0, cts=0, dte=77039, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=77302, dte=0, nts=Node{id=0, cts=0, dte=77302, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=77564, dte=0, nts=Node{id=0, cts=0, dte=77564, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=77827, dte=0, nts=Node{id=0, cts=0, dte=77827, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=78090, dte=0, nts=Node{id=0, cts=0, dte=78090, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=78353, dte=0, nts=Node{id=0, cts=0, dte=78353, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=78616, dte=0, nts=Node{id=0, cts=0, dte=78616, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=78879, dte=0, nts=Node{id=0, cts=0, dte=78879, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=79142, dte=0, nts=Node{id=0, cts=0, dte=79142, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=79405, dte=0, nts=Node{id=0, cts=0, dte=79405, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=79668, dte=0, nts=Node{id=0, cts=0, dte=79668, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=79931, dte=0, nts=Node{id=0, cts=0, dte=79931, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=80194, dte=0, nts=Node{id=0, cts=0, dte=80194, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=80457, dte=0, nts=Node{id=0, cts=0, dte=80457, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=80719, dte=0, nts=Node{id=0, cts=0, dte=80719, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=80982, dte=0, nts=Node{id=0, cts=0, dte=80982, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=81245, dte=0, nts=Node{id=0, cts=0, dte=81245, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=81508, dte=0, nts=Node{id=0, cts=0, dte=81508, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=81771, dte=0, nts=Node{id=0, cts=0, dte=81771, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:58 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=82034, dte=0, nts=Node{id=0, cts=0, dte=82034, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=82297, dte=0, nts=Node{id=0, cts=0, dte=82297, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=82560, dte=0, nts=Node{id=0, cts=0, dte=82560, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=82823, dte=0, nts=Node{id=0, cts=0, dte=82823, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=83086, dte=0, nts=Node{id=0, cts=0, dte=83086, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=83349, dte=0, nts=Node{id=0, cts=0, dte=83349, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=83612, dte=0, nts=Node{id=0, cts=0, dte=83612, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=83875, dte=0, nts=Node{id=0, cts=0, dte=83875, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=84138, dte=0, nts=Node{id=0, cts=0, dte=84138, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=84401, dte=0, nts=Node{id=0, cts=0, dte=84401, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=84664, dte=0, nts=Node{id=0, cts=0, dte=84664, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=84927, dte=0, nts=Node{id=0, cts=0, dte=84927, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=85190, dte=0, nts=Node{id=0, cts=0, dte=85190, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=85453, dte=0, nts=Node{id=0, cts=0, dte=85453, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=85717, dte=0, nts=Node{id=0, cts=0, dte=85717, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=85980, dte=0, nts=Node{id=0, cts=0, dte=85980, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=86243, dte=0, nts=Node{id=0, cts=0, dte=86243, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=86506, dte=0, nts=Node{id=0, cts=0, dte=86506, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=86769, dte=0, nts=Node{id=0, cts=0, dte=86769, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=87032, dte=0, nts=Node{id=0, cts=0, dte=87032, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=87295, dte=0, nts=Node{id=0, cts=0, dte=87295, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=87558, dte=0, nts=Node{id=0, cts=0, dte=87558, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=87821, dte=0, nts=Node{id=0, cts=0, dte=87821, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=88084, dte=0, nts=Node{id=0, cts=0, dte=88084, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=88347, dte=0, nts=Node{id=0, cts=0, dte=88347, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=88610, dte=0, nts=Node{id=0, cts=0, dte=88610, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=88873, dte=0, nts=Node{id=0, cts=0, dte=88873, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=89137, dte=0, nts=Node{id=0, cts=0, dte=89137, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=89400, dte=0, nts=Node{id=0, cts=0, dte=89400, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=89663, dte=0, nts=Node{id=0, cts=0, dte=89663, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=89926, dte=0, nts=Node{id=0, cts=0, dte=89926, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=90189, dte=0, nts=Node{id=0, cts=0, dte=90189, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=90452, dte=0, nts=Node{id=0, cts=0, dte=90452, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=90715, dte=0, nts=Node{id=0, cts=0, dte=90715, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=90978, dte=0, nts=Node{id=0, cts=0, dte=90978, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=91242, dte=0, nts=Node{id=0, cts=0, dte=91242, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=91505, dte=0, nts=Node{id=0, cts=0, dte=91505, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=91768, dte=0, nts=Node{id=0, cts=0, dte=91768, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=92031, dte=0, nts=Node{id=0, cts=0, dte=92031, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=92294, dte=0, nts=Node{id=0, cts=0, dte=92294, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=92557, dte=0, nts=Node{id=0, cts=0, dte=92557, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=92820, dte=0, nts=Node{id=0, cts=0, dte=92820, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=93084, dte=0, nts=Node{id=0, cts=0, dte=93084, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=93347, dte=0, nts=Node{id=0, cts=0, dte=93347, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=93610, dte=0, nts=Node{id=0, cts=0, dte=93610, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=93873, dte=0, nts=Node{id=0, cts=0, dte=93873, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=94136, dte=0, nts=Node{id=0, cts=0, dte=94136, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=94400, dte=0, nts=Node{id=0, cts=0, dte=94400, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=94663, dte=0, nts=Node{id=0, cts=0, dte=94663, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=94926, dte=0, nts=Node{id=0, cts=0, dte=94926, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=95189, dte=0, nts=Node{id=0, cts=0, dte=95189, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=95452, dte=0, nts=Node{id=0, cts=0, dte=95452, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=95716, dte=0, nts=Node{id=0, cts=0, dte=95716, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=95979, dte=0, nts=Node{id=0, cts=0, dte=95979, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=96242, dte=0, nts=Node{id=0, cts=0, dte=96242, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=96505, dte=0, nts=Node{id=0, cts=0, dte=96505, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=96768, dte=0, nts=Node{id=0, cts=0, dte=96768, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=97032, dte=0, nts=Node{id=0, cts=0, dte=97032, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=97295, dte=0, nts=Node{id=0, cts=0, dte=97295, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=97558, dte=0, nts=Node{id=0, cts=0, dte=97558, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=97821, dte=0, nts=Node{id=0, cts=0, dte=97821, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=98085, dte=0, nts=Node{id=0, cts=0, dte=98085, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=98348, dte=0, nts=Node{id=0, cts=0, dte=98348, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=98611, dte=0, nts=Node{id=0, cts=0, dte=98611, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=98874, dte=0, nts=Node{id=0, cts=0, dte=98874, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=99137, dte=0, nts=Node{id=0, cts=0, dte=99137, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=99401, dte=0, nts=Node{id=0, cts=0, dte=99401, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=99664, dte=0, nts=Node{id=0, cts=0, dte=99664, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=99927, dte=0, nts=Node{id=0, cts=0, dte=99927, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=100190, dte=0, nts=Node{id=0, cts=0, dte=100190, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=100454, dte=0, nts=Node{id=0, cts=0, dte=100454, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=100717, dte=0, nts=Node{id=0, cts=0, dte=100717, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=100980, dte=0, nts=Node{id=0, cts=0, dte=100980, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=101244, dte=0, nts=Node{id=0, cts=0, dte=101244, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=101507, dte=0, nts=Node{id=0, cts=0, dte=101507, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=101770, dte=0, nts=Node{id=0, cts=0, dte=101770, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=102033, dte=0, nts=Node{id=0, cts=0, dte=102033, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=102297, dte=0, nts=Node{id=0, cts=0, dte=102297, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=102560, dte=0, nts=Node{id=0, cts=0, dte=102560, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=102823, dte=0, nts=Node{id=0, cts=0, dte=102823, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=103087, dte=0, nts=Node{id=0, cts=0, dte=103087, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=103350, dte=0, nts=Node{id=0, cts=0, dte=103350, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=103613, dte=0, nts=Node{id=0, cts=0, dte=103613, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=103876, dte=0, nts=Node{id=0, cts=0, dte=103876, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=104140, dte=0, nts=Node{id=0, cts=0, dte=104140, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=104403, dte=0, nts=Node{id=0, cts=0, dte=104403, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=104666, dte=0, nts=Node{id=0, cts=0, dte=104666, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=104930, dte=0, nts=Node{id=0, cts=0, dte=104930, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=105193, dte=0, nts=Node{id=0, cts=0, dte=105193, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=105456, dte=0, nts=Node{id=0, cts=0, dte=105456, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=105720, dte=0, nts=Node{id=0, cts=0, dte=105720, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=105983, dte=0, nts=Node{id=0, cts=0, dte=105983, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=106246, dte=0, nts=Node{id=0, cts=0, dte=106246, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=106510, dte=0, nts=Node{id=0, cts=0, dte=106510, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=106773, dte=0, nts=Node{id=0, cts=0, dte=106773, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=107036, dte=0, nts=Node{id=0, cts=0, dte=107036, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:47:59 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=107300, dte=0, nts=Node{id=0, cts=0, dte=107300, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=107563, dte=0, nts=Node{id=0, cts=0, dte=107563, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=107826, dte=0, nts=Node{id=0, cts=0, dte=107826, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=108090, dte=0, nts=Node{id=0, cts=0, dte=108090, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=108353, dte=0, nts=Node{id=0, cts=0, dte=108353, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=108616, dte=0, nts=Node{id=0, cts=0, dte=108616, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=108880, dte=0, nts=Node{id=0, cts=0, dte=108880, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=109143, dte=0, nts=Node{id=0, cts=0, dte=109143, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=109406, dte=0, nts=Node{id=0, cts=0, dte=109406, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=109670, dte=0, nts=Node{id=0, cts=0, dte=109670, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=109933, dte=0, nts=Node{id=0, cts=0, dte=109933, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=110196, dte=0, nts=Node{id=0, cts=0, dte=110196, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=110460, dte=0, nts=Node{id=0, cts=0, dte=110460, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=110723, dte=0, nts=Node{id=0, cts=0, dte=110723, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=110986, dte=0, nts=Node{id=0, cts=0, dte=110986, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=111250, dte=0, nts=Node{id=0, cts=0, dte=111250, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=111513, dte=0, nts=Node{id=0, cts=0, dte=111513, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=111777, dte=0, nts=Node{id=0, cts=0, dte=111777, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=112040, dte=0, nts=Node{id=0, cts=0, dte=112040, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=112303, dte=0, nts=Node{id=0, cts=0, dte=112303, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=112567, dte=0, nts=Node{id=0, cts=0, dte=112567, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=112830, dte=0, nts=Node{id=0, cts=0, dte=112830, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=113093, dte=0, nts=Node{id=0, cts=0, dte=113093, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=113357, dte=0, nts=Node{id=0, cts=0, dte=113357, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=113620, dte=0, nts=Node{id=0, cts=0, dte=113620, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=113884, dte=0, nts=Node{id=0, cts=0, dte=113884, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=114147, dte=0, nts=Node{id=0, cts=0, dte=114147, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=114410, dte=0, nts=Node{id=0, cts=0, dte=114410, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=114674, dte=0, nts=Node{id=0, cts=0, dte=114674, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=114937, dte=0, nts=Node{id=0, cts=0, dte=114937, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=115201, dte=0, nts=Node{id=0, cts=0, dte=115201, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=115464, dte=0, nts=Node{id=0, cts=0, dte=115464, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=115727, dte=0, nts=Node{id=0, cts=0, dte=115727, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=115991, dte=0, nts=Node{id=0, cts=0, dte=115991, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=116254, dte=0, nts=Node{id=0, cts=0, dte=116254, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=116518, dte=0, nts=Node{id=0, cts=0, dte=116518, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=116781, dte=0, nts=Node{id=0, cts=0, dte=116781, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=117044, dte=0, nts=Node{id=0, cts=0, dte=117044, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=117308, dte=0, nts=Node{id=0, cts=0, dte=117308, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=117571, dte=0, nts=Node{id=0, cts=0, dte=117571, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=117835, dte=0, nts=Node{id=0, cts=0, dte=117835, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=118098, dte=0, nts=Node{id=0, cts=0, dte=118098, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=118361, dte=0, nts=Node{id=0, cts=0, dte=118361, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=118625, dte=0, nts=Node{id=0, cts=0, dte=118625, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=118888, dte=0, nts=Node{id=0, cts=0, dte=118888, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=119152, dte=0, nts=Node{id=0, cts=0, dte=119152, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=119415, dte=0, nts=Node{id=0, cts=0, dte=119415, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=119679, dte=0, nts=Node{id=0, cts=0, dte=119679, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=119942, dte=0, nts=Node{id=0, cts=0, dte=119942, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=120205, dte=0, nts=Node{id=0, cts=0, dte=120205, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=120469, dte=0, nts=Node{id=0, cts=0, dte=120469, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=120732, dte=0, nts=Node{id=0, cts=0, dte=120732, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=120996, dte=0, nts=Node{id=0, cts=0, dte=120996, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=121259, dte=0, nts=Node{id=0, cts=0, dte=121259, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=121523, dte=0, nts=Node{id=0, cts=0, dte=121523, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=121786, dte=0, nts=Node{id=0, cts=0, dte=121786, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=122050, dte=0, nts=Node{id=0, cts=0, dte=122050, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=122313, dte=0, nts=Node{id=0, cts=0, dte=122313, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=122576, dte=0, nts=Node{id=0, cts=0, dte=122576, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=122840, dte=0, nts=Node{id=0, cts=0, dte=122840, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=123103, dte=0, nts=Node{id=0, cts=0, dte=123103, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=123367, dte=0, nts=Node{id=0, cts=0, dte=123367, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=123630, dte=0, nts=Node{id=0, cts=0, dte=123630, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=123894, dte=0, nts=Node{id=0, cts=0, dte=123894, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=124157, dte=0, nts=Node{id=0, cts=0, dte=124157, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=124421, dte=0, nts=Node{id=0, cts=0, dte=124421, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=124684, dte=0, nts=Node{id=0, cts=0, dte=124684, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=124948, dte=0, nts=Node{id=0, cts=0, dte=124948, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=125211, dte=0, nts=Node{id=0, cts=0, dte=125211, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=125474, dte=0, nts=Node{id=0, cts=0, dte=125474, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=125738, dte=0, nts=Node{id=0, cts=0, dte=125738, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=126001, dte=0, nts=Node{id=0, cts=0, dte=126001, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=126265, dte=0, nts=Node{id=0, cts=0, dte=126265, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=126528, dte=0, nts=Node{id=0, cts=0, dte=126528, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=126792, dte=0, nts=Node{id=0, cts=0, dte=126792, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=127055, dte=0, nts=Node{id=0, cts=0, dte=127055, nts=null, nh=1}, nh=1}
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+mars 22, 2022 8:48:00 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{id=1, cts=127319, dte=0, nts=Node{id=0, cts=0, dte=127319, nts=null, nh=1}, nh=1}
