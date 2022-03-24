@@ -28,12 +28,12 @@ Des slides sont les bienvenues et sont même attendues - si vous pensez pouvoir 
 |--|--|--|
 | ***08:20 - 08:40*** | les_gorilles_bronzes | les_gros_q |
 | ***08:40 - 09:00*** | kihm | Mugiwara_Cook |
-| ***09:00 - 09:20*** | flute | Capitaine_Igloo |
+| ***09:00 - 09:20*** | *au feu* | Capitaine_Igloo |
 | ***09:20 - 09:40*** | bojji_squad_corp | ajil |
 | ***09:40 - 10:00*** | les_genies |  |
 | ***10:00 - 10:20*** |  | b3s |
 | ***10:20 - 10:40*** | royal_fortune | d3 |
 | ***10:40 - 11:00*** | merj | bc |
-| ***11:00 - 11:20*** | deadbeef |  |
+| ***11:00 - 11:20*** | deadbeef | flute |
 | ***11:20 - 11:40*** | lata |  |
 | ***11:40 - 12:00*** |  |  |
