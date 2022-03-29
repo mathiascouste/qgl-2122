@@ -1,0 +1,2490 @@
+
+----> Objectif <----
+Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 0.2696036308928813
+
+----> Objectif <----
+Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 0.0010721269674276446
+
+----> Objectif <----
+Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 1.4820757497036041E-5
+
+----> Objectif <----
+Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 2.3215283678768017E-7
+
+-------> Reef dans Direction <--------
+SeaEntitie{shape=Shape{shapeType=RECTANGLE, orientation=0.0}, position=Position{x=3044.3285528031342, y=957.0312500000006, orientation=-1.1344640137963142}, type=REEF}
+
+----> Objectif <----
+Checkpoint{Position{x=2084.03274519597, y=1833.2914635736306, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=2084.03274519597, y=1833.2914635736306, orientation=0.0}}
+]
+Rotation ---> 0.24077383436202426
+
+----> Objectif <----
+Checkpoint{Position{x=2084.03274519597, y=1833.2914635736306, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=2084.03274519597, y=1833.2914635736306, orientation=0.0}}
+]
+Rotation ---> 0.030783511231474492
+
+----> Objectif <----
+Checkpoint{Position{x=2084.03274519597, y=1833.2914635736306, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=2084.03274519597, y=1833.2914635736306, orientation=0.0}}
+]
+Rotation ---> 0.0053026595524299225
+
+----> Objectif <----
+Checkpoint{Position{x=2084.03274519597, y=1833.2914635736306, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=2084.03274519597, y=1833.2914635736306, orientation=0.0}}
+]
+Rotation ---> 0.0013864308872639786
+
+----> Objectif <----
+Checkpoint{Position{x=2084.03274519597, y=1833.2914635736306, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=2084.03274519597, y=1833.2914635736306, orientation=0.0}}
+]
+----> Nouveau Checkpoint
+
+----> Objectif <----
+Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 0.07200674167827836
+
+----> Objectif <----
+Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 0.0012474388901708433
+
+----> Objectif <----
+Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 2.2326534391020614E-5
+
+----> Objectif <----
+Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 4.142571639054182E-7
+
+----> Objectif <----
+Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 7.979412575132017E-9
+
+----> Objectif <----
+Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 1.5972809186415304E-10
+
+----> Objectif <----
+Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 3.2922276016478236E-12
+
+----> Objectif <----
+Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 1.5412671139358736E-13
+
+----> Objectif <----
+Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 8.026912468039882E-14
+
+----> Objectif <----
+Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 8.029688025601445E-14
+
+----> Objectif <----
+Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -3.717026686445024E-13
+
+----> Objectif <----
+Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 7.926992395823618E-14
+
+----> Objectif <----
+Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 9.250933352689117E-14
+
+----> Objectif <----
+Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 9.828249325494198E-14
+
+----> Objectif <----
+Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 1.0275114092905824E-13
+
+----> Objectif <----
+Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -3.4910963009338047E-13
+
+----> Objectif <----
+Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 1.0372258607560525E-13
+
+----> Objectif <----
+Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 1.1851630787873546E-13
+
+----> Objectif <----
+Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 1.2878587085651816E-13
+
+----> Objectif <----
+Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -3.2143732120459845E-13
+
+-------> Reef dans Direction <--------
+SeaEntitie{shape=Shape{shapeType=RECTANGLE, orientation=0.0}, position=Position{x=8331.16036505868, y=2662.7604166666665, orientation=0.9948376736367678}, type=REEF}
+
+----> Objectif <----
+Checkpoint{Position{x=8305.602780700721, y=3633.2483402812713, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=8305.602780700721, y=3633.2483402812713, orientation=0.0}}
+]
+Rotation ---> 0.0498874851766008
+
+----> Objectif <----
+Checkpoint{Position{x=8305.602780700721, y=3633.2483402812713, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=8305.602780700721, y=3633.2483402812713, orientation=0.0}}
+]
+Rotation ---> 0.005528873515229349
+
+----> Objectif <----
+Checkpoint{Position{x=8305.602780700721, y=3633.2483402812713, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=8305.602780700721, y=3633.2483402812713, orientation=0.0}}
+]
+Rotation ---> 7.753951504745338E-4
+
+----> Objectif <----
+Checkpoint{Position{x=8305.602780700721, y=3633.2483402812713, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=8305.602780700721, y=3633.2483402812713, orientation=0.0}}
+]
+Rotation ---> 1.503188653171339E-4
+
+----> Objectif <----
+Checkpoint{Position{x=8305.602780700721, y=3633.2483402812713, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=8305.602780700721, y=3633.2483402812713, orientation=0.0}}
+]
+Rotation ---> 4.7285039764255465E-5
+
+-------> Reef dans Direction <--------
+SeaEntitie{shape=Shape{shapeType=RECTANGLE, orientation=0.0}, position=Position{x=8904.82398956975, y=4446.614583333337, orientation=1.3962634015954636}, type=REEF}
+
+----> Objectif <----
+Checkpoint{Position{x=9249.626915058961, y=3522.7039044394946, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=8305.602780700721, y=3633.2483402812713, orientation=0.0}}
+, Checkpoint{Position{x=9249.626915058961, y=3522.7039044394946, orientation=0.0}}
+]
+Rotation ---> -0.07709965931649554
+
+----> Objectif <----
+Checkpoint{Position{x=9249.626915058961, y=3522.7039044394946, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=8305.602780700721, y=3633.2483402812713, orientation=0.0}}
+, Checkpoint{Position{x=9249.626915058961, y=3522.7039044394946, orientation=0.0}}
+]
+Rotation ---> -0.014040972191713658
+
+----> Objectif <----
+Checkpoint{Position{x=9249.626915058961, y=3522.7039044394946, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=8305.602780700721, y=3633.2483402812713, orientation=0.0}}
+, Checkpoint{Position{x=9249.626915058961, y=3522.7039044394946, orientation=0.0}}
+]
+Rotation ---> -0.004011713457629289
+
+----> Objectif <----
+Checkpoint{Position{x=9249.626915058961, y=3522.7039044394946, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=8305.602780700721, y=3633.2483402812713, orientation=0.0}}
+, Checkpoint{Position{x=9249.626915058961, y=3522.7039044394946, orientation=0.0}}
+]
+----> Nouveau Checkpoint
+
+----> Objectif <----
+Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -0.06897814382715728
+
+----> Objectif <----
+Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -0.01703114035275788
+
+----> Objectif <----
+Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -0.008095051544896259
+
+----> Objectif <----
+Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+----> Nouveau Checkpoint
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -0.0471185228700417
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -4.682519705268007E-4
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -4.747685276029756E-6
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -4.912382944866067E-8
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -5.18219689382704E-10
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -6.508127370352668E-12
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 7.8026474170656E-13
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -7.531752999057062E-13
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 7.736034035588091E-13
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -7.616129948928574E-13
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 7.647216193618078E-13
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -9.42801392511683E-13
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 9.316991622654314E-13
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -9.445777493510832E-13
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 9.299228054260311E-13
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -3.530509218307998E-13
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -1.6431300764452317E-14
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -1.6431300764452317E-14
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -1.6431300764452317E-14
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -1.021405182655144E-13
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -1.4210854715202004E-14
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -1.0658141036401503E-14
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -7.105427357601002E-15
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -2.6645352591003757E-15
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 1.3322676295501878E-15
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 5.773159728050814E-15
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -1.0658141036401503E-14
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -5.773159728050814E-15
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 4.884981308350689E-15
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 4.884981308350689E-15
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 1.1102230246251565E-14
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 3.952393967665557E-14
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 3.552713678800501E-15
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 1.1102230246251565E-14
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -2.5757174171303632E-14
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 7.016609515630989E-14
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -6.217248937900877E-15
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 3.552713678800501E-15
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 1.0036416142611415E-13
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -6.261657858885883E-14
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -5.1958437552457326E-14
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 1.3278267374516872E-13
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -2.6645352591003757E-14
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -1.6431300764452317E-14
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 5.773159728050814E-15
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 3.419486915845482E-14
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 6.084022174945858E-14
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 3.064215547965432E-14
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -7.549516567451064E-15
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -4.440892098500626E-14
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -1.2212453270876722E-13
+
+----> Objectif <----
+Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+----> Nouveau Checkpoint
+
+----> Objectif <----
+Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 0.5387607128565031
+
+-------> Reef dans Direction <--------
+SeaEntitie{shape=Shape{shapeType=RECTANGLE, orientation=0.0}, position=Position{x=4726.20599739245, y=-2102.8645833333326, orientation=0.8726646259971648}, type=REEF}
+
+----> Objectif <----
+Checkpoint{Position{x=4799.9605303482695, y=-1120.4261532683895, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=4799.9605303482695, y=-1120.4261532683895, orientation=0.0}}
+]
+Rotation ---> 0.021077565089446915
+
+----> Objectif <----
+Checkpoint{Position{x=4799.9605303482695, y=-1120.4261532683895, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=4799.9605303482695, y=-1120.4261532683895, orientation=0.0}}
+]
+Rotation ---> 0.0017490151427446143
+
+----> Objectif <----
+Checkpoint{Position{x=4799.9605303482695, y=-1120.4261532683895, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=4799.9605303482695, y=-1120.4261532683895, orientation=0.0}}
+]
+Rotation ---> 1.7256689026767802E-4
+
+----> Objectif <----
+Checkpoint{Position{x=4799.9605303482695, y=-1120.4261532683895, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=4799.9605303482695, y=-1120.4261532683895, orientation=0.0}}
+]
+Rotation ---> 2.11487281389644E-5
+
+----> Objectif <----
+Checkpoint{Position{x=4799.9605303482695, y=-1120.4261532683895, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=4799.9605303482695, y=-1120.4261532683895, orientation=0.0}}
+]
+Rotation ---> 3.4222056979338333E-6
+
+----> Objectif <----
+Checkpoint{Position{x=4799.9605303482695, y=-1120.4261532683895, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=4799.9605303482695, y=-1120.4261532683895, orientation=0.0}}
+]
+Rotation ---> 8.148708871003052E-7
+
+----> Objectif <----
+Checkpoint{Position{x=4799.9605303482695, y=-1120.4261532683895, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=4799.9605303482695, y=-1120.4261532683895, orientation=0.0}}
+]
+Rotation ---> 3.6714241280488835E-7
+
+----> Objectif <----
+Checkpoint{Position{x=4799.9605303482695, y=-1120.4261532683895, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=4799.9605303482695, y=-1120.4261532683895, orientation=0.0}}
+]
+----> Nouveau Checkpoint
+
+----> Objectif <----
+Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -0.014764885747145795
+
+-------> Reef dans Direction <--------
+SeaEntitie{shape=Shape{shapeType=RECTANGLE, orientation=0.0}, position=Position{x=5769.230769230781, y=-1191.4062499999998, orientation=0.767944870877505}, type=REEF}
+
+----> Objectif <----
+Checkpoint{Position{x=5820.623652922497, y=-272.9244747285202, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=5820.623652922497, y=-272.9244747285202, orientation=0.0}}
+]
+Rotation ---> 0.056601900744124634
+
+----> Objectif <----
+Checkpoint{Position{x=5820.623652922497, y=-272.9244747285202, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=5820.623652922497, y=-272.9244747285202, orientation=0.0}}
+]
+Rotation ---> 0.010840951489152761
+
+----> Objectif <----
+Checkpoint{Position{x=5820.623652922497, y=-272.9244747285202, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=5820.623652922497, y=-272.9244747285202, orientation=0.0}}
+]
+Rotation ---> 0.003282095548888919
+
+----> Objectif <----
+Checkpoint{Position{x=5820.623652922497, y=-272.9244747285202, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=5820.623652922497, y=-272.9244747285202, orientation=0.0}}
+]
+----> Nouveau Checkpoint
+
+----> Objectif <----
+Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -0.017623110019980404
+
+----> Objectif <----
+Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -6.475722120945215E-4
+
+----> Objectif <----
+Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -2.568983602310726E-5
+
+----> Objectif <----
+Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -1.1060675268736997E-6
+
+----> Objectif <----
+Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -5.206007144820113E-8
+
+----> Objectif <----
+Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -2.7020701509616885E-9
+
+----> Objectif <----
+Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -1.5629833538532978E-10
+
+----> Objectif <----
+Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -1.0314138432221398E-11
+
+----> Objectif <----
+Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -8.360534486939741E-13
+
+----> Objectif <----
+Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 9.825473767932635E-14
+
+----> Objectif <----
+Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 2.378652830259398E-14
+
+----> Objectif <----
+Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -3.3306690738754696E-14
+
+----> Objectif <----
+Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 2.148281552649678E-14
+
+----> Objectif <----
+Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 2.19824158875781E-14
+
+----> Objectif <----
+Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+----> Nouveau Checkpoint
+
+----> Objectif <----
+Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 0.09458322730593238
+
+----> Objectif <----
+Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 0.001194652865851964
+
+----> Objectif <----
+Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 1.5488345668668302E-5
+
+----> Objectif <----
+Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 2.0609233786217374E-7
+
+----> Objectif <----
+Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 2.816401778460431E-9
+
+----> Objectif <----
+Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 3.984368390774762E-11
+
+----> Objectif <----
+Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 1.0653700144303002E-12
+
+----> Objectif <----
+Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -8.051337374581635E-13
+
+----> Objectif <----
+Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 9.041656312547275E-13
+
+----> Objectif <----
+Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -7.966960424710123E-13
+
+----> Objectif <----
+Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 7.389644451905042E-13
+
+----> Objectif <----
+Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -7.891465259035613E-13
+
+----> Objectif <----
+Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 3.2596148002994596E-13
+
+----> Objectif <----
+Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -8.881784197001252E-15
+
+----> Objectif <----
+Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 1.6964207816272392E-13
+
+----> Objectif <----
+Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -1.6786572132332367E-13
+
+----> Objectif <----
+Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 1.8340884366807586E-13
+
+----> Objectif <----
+Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -1.532107773982716E-13
+
+----> Objectif <----
+Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 1.9939605522267811E-13
+
+----> Objectif <----
+Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -1.354472090042691E-13
+
+----> Objectif <----
+Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 2.184918912462308E-13
+
+----> Objectif <----
+Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -1.176836406102666E-13
+
+----> Objectif <----
+Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -1.1146639167236572E-13
+
+----> Objectif <----
+Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 2.4558133304708463E-13
+
+----> Objectif <----
+Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -8.704148513061227E-14
+
+----> Objectif <----
+Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -8.08242361927114E-14
+
+----> Objectif <----
+Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 2.8110846983508964E-13
+
+----> Objectif <----
+Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -5.1514348342607263E-14
+
+----> Objectif <----
+Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -4.4853010194856324E-14
+
+----> Objectif <----
+Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -3.730349362740526E-14
+
+----> Objectif <----
+Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -2.8421709430404007E-14
+
+----> Objectif <----
+Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -7.993605777301127E-15
+
+----> Objectif <----
+Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 2.9753977059954195E-14
+
+----> Objectif <----
+Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 4.072298054325074E-13
+
+----> Objectif <----
+Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -2.815525590449397E-13
+
+----> Objectif <----
+Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 3.89910326248355E-13
+
+----> Objectif <----
+Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -3.2818192607919627E-13
+
+----> Objectif <----
+Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -3.850253449400043E-13
+
+----> Objectif <----
+Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 3.2152058793144533E-13
+
+----> Objectif <----
+Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}}
+, Checkpoint{Position{x=3552.8031290743315, y=-2532.552083333334, orientation=0.0}}
+, Checkpoint{Position{x=9719.687092568467, y=514.3229166666661, orientation=0.0}}
+, Checkpoint{Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 3.7969627442180354E-13

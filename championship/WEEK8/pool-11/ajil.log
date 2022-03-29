@@ -1,0 +1,99 @@
+Début de la partie
+INIT GAME
+NextRound
+BarreurManageur est : 14
+Marin :  14veut aller vers Entity{x=7, y=2, type='rudder'}
+Marin mouvement :  X:4  Y:0
+Sail Manager est : 13
+Marin :  13veut aller vers Entity{x=3, y=1, type='sail'}
+Marin :  0veut aller vers Entity{x=7, y=0, type='oar'}
+Marin mouvement :  X:7  Y:0
+Marin :  1veut aller vers Entity{x=6, y=0, type='oar'}
+Marin mouvement :  X:6  Y:-1
+Marin :  2veut aller vers Entity{x=5, y=0, type='oar'}
+Marin mouvement :  X:5  Y:-2
+Marin :  3veut aller vers Entity{x=4, y=0, type='oar'}
+Marin mouvement :  X:4  Y:-3
+Marin :  4veut aller vers Entity{x=3, y=0, type='oar'}
+Marin mouvement :  X:2  Y:0
+Marin :  5veut aller vers Entity{x=2, y=0, type='oar'}
+Marin mouvement :  X:1  Y:-1
+Marin :  6veut aller vers Entity{x=1, y=0, type='oar'}
+Marin mouvement :  X:0  Y:-2
+Marin :  7veut aller vers Entity{x=7, y=3, type='oar'}
+Marin mouvement :  X:6  Y:0
+Marin :  8veut aller vers Entity{x=6, y=3, type='oar'}
+Marin mouvement :  X:4  Y:3
+Marin :  9veut aller vers Entity{x=5, y=3, type='oar'}
+Marin mouvement :  X:3  Y:2
+Marin :  10veut aller vers Entity{x=4, y=3, type='oar'}
+Marin mouvement :  X:2  Y:1
+Marin :  11veut aller vers Entity{x=3, y=3, type='oar'}
+Marin mouvement :  X:1  Y:0
+Marin :  12veut aller vers Entity{x=1, y=3, type='oar'}
+Marin mouvement :  X:-2  Y:3
+Marin :  15veut aller vers Entity{x=2, y=3, type='oar'}
+Marin mouvement :  X:-1  Y:0
+Checkpoint visé : Checkpoint{position=Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+Prédiction :[165.0, 0.266, 141.42857142857142, 0.265, 117.85714285714286, 0.264, 94.28571428571429, 0.264, 70.71428571428571, 0.263, 47.142857142857146, 0.262, 23.571428571428573, 0.261]
+On tourne avec le gouvernail : 0.261
+Voile UP
+[Action{sailorId=14, type=MOVING}, Action{sailorId=0, type=MOVING}, Action{sailorId=1, type=MOVING}, Action{sailorId=2, type=MOVING}, Action{sailorId=3, type=MOVING}, Action{sailorId=4, type=MOVING}, 
+NextRound
+Marin :  0veut aller vers Entity{x=7, y=0, type='oar'}
+Marin mouvement :  X:5  Y:0
+Marin :  1veut aller vers Entity{x=6, y=0, type='oar'}
+Marin mouvement :  X:4  Y:0
+Marin :  2veut aller vers Entity{x=5, y=0, type='oar'}
+Marin mouvement :  X:3  Y:0
+Marin :  3veut aller vers Entity{x=4, y=0, type='oar'}
+Marin mouvement :  X:2  Y:-1
+Marin :  4veut aller vers Entity{x=1, y=0, type='oar'}
+Marin mouvement :  X:-2  Y:0
+Marin :  5veut aller vers Entity{x=3, y=0, type='oar'}
+Marin mouvement :  X:1  Y:0
+Marin :  6veut aller vers Entity{x=2, y=0, type='oar'}
+Marin mouvement :  X:1  Y:0
+Marin :  7veut aller vers Entity{x=7, y=3, type='oar'}
+Marin mouvement :  X:4  Y:0
+Marin :  8veut aller vers Entity{x=1, y=3, type='oar'}
+Marin mouvement :  X:-3  Y:1
+Marin :  9veut aller vers Entity{x=2, y=3, type='oar'}
+Marin mouvement :  X:-3  Y:0
+Marin :  10veut aller vers Entity{x=6, y=3, type='oar'}
+Marin mouvement :  X:2  Y:0
+Marin :  11veut aller vers Entity{x=5, y=3, type='oar'}
+Marin mouvement :  X:2  Y:0
+Marin :  12veut aller vers Entity{x=4, y=3, type='oar'}
+Marin mouvement :  X:3  Y:0
+Marin :  15veut aller vers Entity{x=3, y=3, type='oar'}
+Marin mouvement :  X:1  Y:0
+Checkpoint visé : Checkpoint{position=Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+Prédiction :[165.0, -0.459, 141.42857142857142, -0.458, 117.85714285714286, -0.457, 94.28571428571429, -0.456, 70.71428571428571, -0.454, 47.142857142857146, -0.453, 23.571428571428573, -0.452]
+On tourne avec le gouvernail : -0.451
+Voile UP
+[Action{sailorId=0, type=MOVING}, Action{sailorId=1, type=MOVING}, Action{sailorId=2, type=MOVING}, Action{sailorId=3, type=MOVING}, Action{sailorId=4, type=MOVING}, Action{sailorId=5, type=MOVING}, A
+NextRound
+Checkpoint visé : Checkpoint{position=Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+Prédiction :[165.0, -0.007, 141.42857142857142, -0.007, 117.85714285714286, -0.007, 94.28571428571429, -0.007, 70.71428571428571, -0.007, 47.142857142857146, -0.006, 23.571428571428573, -0.006]
+On tourne avec le gouvernail : -0.006
+Voile UP
+[Action{sailorId=14, type=TURN}, Action{sailorId=0, type=OAR}, Action{sailorId=1, type=OAR}, Action{sailorId=2, type=OAR}, Action{sailorId=3, type=OAR}, Action{sailorId=4, type=OAR}, Action{sailorId=5
+NextRound
+Checkpoint visé : Checkpoint{position=Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+Prédiction :[165.0, -0.001, 141.42857142857142, -0.001, 117.85714285714286, -0.001, 94.28571428571429, -0.001, 70.71428571428571, -0.001, 47.142857142857146, -0.001, 23.571428571428573, -0.001]
+On tourne avec le gouvernail : -0.001
+Voile UP
+[Action{sailorId=14, type=TURN}, Action{sailorId=0, type=OAR}, Action{sailorId=1, type=OAR}, Action{sailorId=2, type=OAR}, Action{sailorId=3, type=OAR}, Action{sailorId=4, type=OAR}, Action{sailorId=5
+NextRound
+Checkpoint visé : Checkpoint{position=Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+Prédiction :[165.0, 0.0, 141.42857142857142, 0.0, 117.85714285714286, 0.0, 94.28571428571429, 0.0, 70.71428571428571, 0.0, 47.142857142857146, 0.0, 23.571428571428573, 0.0]
+On tourne avec le gouvernail : 0.0
+Voile UP
+[Action{sailorId=14, type=TURN}, Action{sailorId=0, type=OAR}, Action{sailorId=1, type=OAR}, Action{sailorId=2, type=OAR}, Action{sailorId=3, type=OAR}, Action{sailorId=4, type=OAR}, Action{sailorId=5
+NextRound
+Checkpoint visé : Checkpoint{position=Position{x=10006.518904824004, y=3131.510416666667, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+Prédiction :[165.0, 0.0, 141.42857142857142, 0.0, 117.85714285714286, 0.0, 94.28571428571429, 0.0, 70.71428571428571, 0.0, 47.142857142857146, 0.0, 23.571428571428573, 0.0]
+On tourne avec le gouvernail : 0.0
+Voile UP
+[Action{sailorId=14, type=TURN}, Action{sailorId=0, type=OAR}, Action{sailorId=1, type=OAR}, Action{sailorId=2, type=OAR}, Action{sailorId=3, type=OAR}, Action{sailorId=4, type=OAR}, Action{sailorId=5

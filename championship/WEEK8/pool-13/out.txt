@@ -1,0 +1,138 @@
+Init
+{"goal":{"mode":"REGATTA","checkpoints":[{"position":{"x":10006.518904824004,"y":3131.510416666667,"orientation":0.0},"shape":{"type":"circle","radius":200.0}},{"position":{"x":3552.8031290743315,"y":-2532.552083333334,"orientation":0.0},"shape":{"type":"circle","radius":200.0}},{"position":{"x":9719.687092568467,"y":514.3229166666661,"orientation":0.0},"shape":{"type":"circle","radius":200.0}},{"position":{"x":4478.487614080851,"y":4980.468749999999,"orientation":0.0},"shape":{"type":"circle","radius":200.0}}]},"ship":{"type":"ship","position":{"x":1336.3754889178724,"y":735.6770833333329,"orientation":0.0},"name":"b3s","deck":{"width":4,"length":8},"entities":[{"x":1,"y":3,"type":"oar"},{"x":2,"y":3,"type":"oar"},{"x":3,"y":3,"type":"oar"},{"x":4,"y":3,"type":"oar"},{"x":5,"y":3,"type":"oar"},{"x":6,"y":3,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":6,"y":0,"type":"oar"},{"x":7,"y":2,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":false},{"x":7,"y":0,"type":"oar"},{"x":7,"y":3,"type":"oar"}],"life":1600,"shape":{"type":"rectangle","width":4.0,"height":8.0,"orientation":0.0}},"sailors":[{"x":0,"y":0,"id":0,"name":"Jack Teach"},{"x":0,"y":1,"id":1,"name":"Edward Teach"},{"x":0,"y":2,"id":2,"name":"Edward Pouce"},{"x":0,"y":3,"id":3,"name":"Luffy Teach"},{"x":1,"y":0,"id":4,"name":"Luffy Pouce"},{"x":1,"y":1,"id":5,"name":"Tom Teach"},{"x":1,"y":2,"id":6,"name":"Luffy Teach"},{"x":1,"y":3,"id":7,"name":"Tom Pouce"},{"x":2,"y":0,"id":8,"name":"Tom Pouce"},{"x":2,"y":1,"id":9,"name":"Edward Pouce"},{"x":2,"y":2,"id":10,"name":"Luffy Teach"},{"x":2,"y":3,"id":11,"name":"Tom Teach"},{"x":3,"y":0,"id":12,"name":"Luffy Teach"},{"x":3,"y":1,"id":13,"name":"Luffy Teach"},{"x":3,"y":2,"id":14,"name":"Tom Teach"},{"x":3,"y":3,"id":15,"name":"Jack Teach"}],"shipCount":1}
+Init Done
+Ship{name='b3s', entities=[Oar{isUsed=false, x=1, y=3, type='oar'}, Oar{isUsed=false, x=2, y=3, type='oar'}, Oar{isUsed=false, x=3, y=3, type='oar'}, Oar{isUsed=false, x=4, y=3, type='oar'}, Oar{isUsed=false, x=5, y=3, type='oar'}, Oar{isUsed=false, x=6, y=3, type='oar'}, Oar{isUsed=false, x=1, y=0, type='oar'}, Oar{isUsed=false, x=2, y=0, type='oar'}, Oar{isUsed=false, x=3, y=0, type='oar'}, Oar{isUsed=false, x=4, y=0, type='oar'}, Oar{isUsed=false, x=5, y=0, type='oar'}, Oar{isUsed=false, x=6, y=0, type='oar'}, Rudder{isUsed=false, x=7, y=2, type='rudder'}, Sail{openned=false, x=3, y=1, type='sail'}, Oar{isUsed=false, x=7, y=0, type='oar'}, Oar{isUsed=false, x=7, y=3, type='oar'}], position=Position{x=1336.3754889178724, y=735.6770833333329, orientation=0.0}, life=1600, deck=Deck{width=4, length=8}, type='ship', rudder=[Rudder{isUsed=false, x=7, y=2, type='rudder'}]}
+----------------------------------------------------------------
+Next round
+{"ship":{"type":"ship","position":{"x":1336.3754889178724,"y":735.6770833333329,"orientation":0.0},"name":"b3s","deck":{"width":4,"length":8},"entities":[{"x":1,"y":3,"type":"oar"},{"x":2,"y":3,"type":"oar"},{"x":3,"y":3,"type":"oar"},{"x":4,"y":3,"type":"oar"},{"x":5,"y":3,"type":"oar"},{"x":6,"y":3,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":6,"y":0,"type":"oar"},{"x":7,"y":2,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":false},{"x":7,"y":0,"type":"oar"},{"x":7,"y":3,"type":"oar"}],"life":1600,"shape":{"type":"rectangle","width":4.0,"height":8.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":100.0}}
+[]
+test de la
+visibleEntities :[]
+sailorsListCopy : [Sailors{name='Jack Teach', id=0, x=0, y=0}, Sailors{name='Edward Teach', id=1, x=0, y=1}, Sailors{name='Edward Pouce', id=2, x=0, y=2}, Sailors{name='Luffy Teach', id=3, x=0, y=3}, Sailors{name='Luffy Pouce', id=4, x=1, y=0}, Sailors{name='Tom Teach', id=5, x=1, y=1}, Sailors{name='Luffy Teach', id=6, x=1, y=2}, Sailors{name='Tom Pouce', id=7, x=1, y=3}, Sailors{name='Tom Pouce', id=8, x=2, y=0}, Sailors{name='Edward Pouce', id=9, x=2, y=1}, Sailors{name='Luffy Teach', id=10, x=2, y=2}, Sailors{name='Tom Teach', id=11, x=2, y=3}, Sailors{name='Luffy Teach', id=12, x=3, y=0}, Sailors{name='Luffy Teach', id=13, x=3, y=1}, Sailors{name='Tom Teach', id=14, x=3, y=2}, Sailors{name='Jack Teach', id=15, x=3, y=3}]
+GetReefs
+Liste de reefs : []
+reef collision :null
+true
+[Sailors{name='Jack Teach', id=0, x=0, y=0}, Sailors{name='Edward Teach', id=1, x=0, y=1}, Sailors{name='Edward Pouce', id=2, x=0, y=2}, Sailors{name='Luffy Teach', id=3, x=0, y=3}, Sailors{name='Luffy Pouce', id=4, x=1, y=0}, Sailors{name='Tom Teach', id=5, x=1, y=1}, Sailors{name='Luffy Teach', id=6, x=1, y=2}, Sailors{name='Tom Pouce', id=7, x=1, y=3}, Sailors{name='Tom Pouce', id=8, x=2, y=0}, Sailors{name='Edward Pouce', id=9, x=2, y=1}, Sailors{name='Luffy Teach', id=10, x=2, y=2}, Sailors{name='Tom Teach', id=11, x=2, y=3}, Sailors{name='Luffy Teach', id=12, x=3, y=0}, Sailors{name='Luffy Teach', id=13, x=3, y=1}, Sailors{name='Tom Teach', id=14, x=3, y=2}, Sailors{name='Jack Teach', id=15, x=3, y=3}]
+false
+Sail{openned=false, x=3, y=1, type='sail'}
+Sail{openned=true, x=3, y=1, type='sail'}
+Actions du tour  : 0-------------------------------------------------
+[Moving{sailorId=0, type=MOVING, xDistance=1, yDistance=3}, {sailorId=0, type=OAR}, Moving{sailorId=10, type=MOVING, xDistance=5, yDistance=0}, Turn{sailorId=10, type=TURN, rotation=0.045202805125597045}, Moving{sailorId=1, type=MOVING, xDistance=3, yDistance=0}, Lift_Sail{sailorId=1, type=LIFT_SAIL}, Moving{sailorId=2, type=MOVING, xDistance=2, yDistance=1}, {sailorId=2, type=OAR}, Moving{sailorId=3, type=MOVING, xDistance=1, yDistance=-3}, {sailorId=3, type=OAR}, Moving{sailorId=4, type=MOVING, xDistance=2, yDistance=3}, {sailorId=4, type=OAR}, Moving{sailorId=5, type=MOVING, xDistance=1, yDistance=-1}, {sailorId=5, type=OAR}, Moving{sailorId=6, type=MOVING, xDistance=3, yDistance=1}, {sailorId=6, type=OAR}, Moving{sailorId=7, type=MOVING, xDistance=2, yDistance=-3}, {sailorId=7, type=OAR}, Moving{sailorId=9, type=MOVING, xDistance=3, yDistance=2}, {sailorId=9, type=OAR}, Moving{sailorId=11, type=MOVING, xDistance=2, yDistance=-3}, {sailorId=11, type=OAR}, Moving{sailorId=15, type=MOVING, xDistance=3, yDistance=0}, {sailorId=15, type=OAR}, Moving{sailorId=8, type=MOVING, xDistance=3, yDistance=0}, {sailorId=8, type=OAR}, Moving{sailorId=14, type=MOVING, xDistance=4, yDistance=1}, {sailorId=14, type=OAR}, Moving{sailorId=12, type=MOVING, xDistance=3, yDistance=0}, {sailorId=12, type=OAR}]
+-----------------------------------------------------------------
+----------------------------------------------------------------
+Next round
+{"ship":{"type":"ship","position":{"x":1585.4155035400076,"y":769.0299570905095,"orientation":0.269602280382011},"name":"b3s","deck":{"width":4,"length":8},"entities":[{"x":1,"y":3,"type":"oar"},{"x":2,"y":3,"type":"oar"},{"x":3,"y":3,"type":"oar"},{"x":4,"y":3,"type":"oar"},{"x":5,"y":3,"type":"oar"},{"x":6,"y":3,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":6,"y":0,"type":"oar"},{"x":7,"y":2,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":true},{"x":7,"y":0,"type":"oar"},{"x":7,"y":3,"type":"oar"}],"life":1600,"shape":{"type":"rectangle","width":4.0,"height":8.0,"orientation":0.0}},"visibleEntities":[],"wind":{"orientation":0.0,"strength":100.0}}
+[]
+test de la
+visibleEntities :[]
+sailorsListCopy : [Sailors{name='Jack Teach', id=0, x=1, y=3}, Sailors{name='Edward Teach', id=1, x=3, y=1}, Sailors{name='Edward Pouce', id=2, x=2, y=3}, Sailors{name='Luffy Teach', id=3, x=1, y=0}, Sailors{name='Luffy Pouce', id=4, x=3, y=3}, Sailors{name='Tom Teach', id=5, x=2, y=0}, Sailors{name='Luffy Teach', id=6, x=4, y=3}, Sailors{name='Tom Pouce', id=7, x=3, y=0}, Sailors{name='Tom Pouce', id=8, x=5, y=0}, Sailors{name='Edward Pouce', id=9, x=5, y=3}, Sailors{name='Luffy Teach', id=10, x=7, y=2}, Sailors{name='Tom Teach', id=11, x=4, y=0}, Sailors{name='Luffy Teach', id=12, x=6, y=0}, Sailors{name='Luffy Teach', id=13, x=3, y=1}, Sailors{name='Tom Teach', id=14, x=7, y=3}, Sailors{name='Jack Teach', id=15, x=6, y=3}]
+GetReefs
+Liste de reefs : []
+reef collision :null
+Sail{openned=true, x=3, y=1, type='sail'}
+Sail{openned=true, x=3, y=1, type='sail'}
+Actions du tour  : 1-------------------------------------------------
+[Moving{sailorId=1, type=MOVING, xDistance=4, yDistance=1}, Turn{sailorId=1, type=TURN, rotation=0.003907094304600511}, Moving{sailorId=14, type=MOVING, xDistance=-5, yDistance=0}, {sailorId=14, type=OAR}, Moving{sailorId=0, type=MOVING, xDistance=0, yDistance=-3}, {sailorId=0, type=OAR}, Moving{sailorId=3, type=MOVING, xDistance=0, yDistance=3}, {sailorId=3, type=OAR}, Moving{sailorId=2, type=MOVING, xDistance=0, yDistance=-3}, {sailorId=2, type=OAR}, Moving{sailorId=5, type=MOVING, xDistance=1, yDistance=3}, {sailorId=5, type=OAR}, Moving{sailorId=4, type=MOVING, xDistance=0, yDistance=-3}, {sailorId=4, type=OAR}, Moving{sailorId=7, type=MOVING, xDistance=1, yDistance=3}, {sailorId=7, type=OAR}, Moving{sailorId=11, type=MOVING, xDistance=0, yDistance=0}, {sailorId=11, type=OAR}, Moving{sailorId=6, type=MOVING, xDistance=1, yDistance=0}, {sailorId=6, type=OAR}, Moving{sailorId=13, type=MOVING, xDistance=2, yDistance=-1}, {sailorId=13, type=OAR}, Moving{sailorId=10, type=MOVING, xDistance=-1, yDistance=1}, {sailorId=10, type=OAR}, Moving{sailorId=15, type=MOVING, xDistance=0, yDistance=-3}, {sailorId=15, type=OAR}, Moving{sailorId=12, type=MOVING, xDistance=1, yDistance=3}, {sailorId=12, type=OAR}, Moving{sailorId=9, type=MOVING, xDistance=2, yDistance=-3}, {sailorId=9, type=OAR}]
+-----------------------------------------------------------------
+----------------------------------------------------------------
+Next round
+{"ship":{"type":"ship","position":{"x":1837.1759359966898,"y":839.1232499067432,"orientation":0.27350937468661146},"name":"b3s","deck":{"width":4,"length":8},"entities":[{"x":1,"y":3,"type":"oar"},{"x":2,"y":3,"type":"oar"},{"x":3,"y":3,"type":"oar"},{"x":4,"y":3,"type":"oar"},{"x":5,"y":3,"type":"oar"},{"x":6,"y":3,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":6,"y":0,"type":"oar"},{"x":7,"y":2,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":true},{"x":7,"y":0,"type":"oar"},{"x":7,"y":3,"type":"oar"}],"life":1600,"shape":{"type":"rectangle","width":4.0,"height":8.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":3044.3285528031342,"y":957.0312500000006,"orientation":-1.1344640137963142},"shape":{"type":"rectangle","width":400.0,"height":1800.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":100.0}}
+[{"type":"reef","position":{"x":3044.3285528031342,"y":957.0312500000006,"orientation":-1.1344640137963142},"shape":{"type":"rectangle","width":400.0,"height":1800.0,"orientation":0.0}}]
+test de la
+visibleEntities :[VisibleEntity{position=Position{x=3044.3285528031342, y=957.0312500000006, orientation=-1.1344640137963142}, shape=Shape{type='rectangle'}, blocked=null}]
+sailorsListCopy : [Sailors{name='Jack Teach', id=0, x=1, y=0}, Sailors{name='Edward Teach', id=1, x=7, y=2}, Sailors{name='Edward Pouce', id=2, x=2, y=0}, Sailors{name='Luffy Teach', id=3, x=1, y=3}, Sailors{name='Luffy Pouce', id=4, x=3, y=0}, Sailors{name='Tom Teach', id=5, x=3, y=3}, Sailors{name='Luffy Teach', id=6, x=5, y=3}, Sailors{name='Tom Pouce', id=7, x=4, y=3}, Sailors{name='Tom Pouce', id=8, x=5, y=0}, Sailors{name='Edward Pouce', id=9, x=7, y=0}, Sailors{name='Luffy Teach', id=10, x=6, y=3}, Sailors{name='Tom Teach', id=11, x=4, y=0}, Sailors{name='Luffy Teach', id=12, x=7, y=3}, Sailors{name='Luffy Teach', id=13, x=5, y=0}, Sailors{name='Tom Teach', id=14, x=2, y=3}, Sailors{name='Jack Teach', id=15, x=6, y=0}]
+GetReefs
+true
+Liste de reefs : [Reef{position=Position{x=3044.3285528031342, y=957.0312500000006, orientation=-1.1344640137963142}, shape=Shape{type='rectangle'}, blocked=false}]
+reef collision :null
+Sail{openned=true, x=3, y=1, type='sail'}
+Sail{openned=true, x=3, y=1, type='sail'}
+Actions du tour  : 2-------------------------------------------------
+[Moving{sailorId=1, type=MOVING, xDistance=0, yDistance=0}, Turn{sailorId=1, type=TURN, rotation=6.489158330552636E-5}, Moving{sailorId=0, type=MOVING, xDistance=0, yDistance=3}, {sailorId=0, type=OAR}, Moving{sailorId=3, type=MOVING, xDistance=0, yDistance=-3}, {sailorId=3, type=OAR}, Moving{sailorId=9, type=MOVING, xDistance=-2, yDistance=3}, {sailorId=9, type=OAR}, Moving{sailorId=12, type=MOVING, xDistance=-2, yDistance=-3}, {sailorId=12, type=OAR}, Moving{sailorId=14, type=MOVING, xDistance=0, yDistance=0}, {sailorId=14, type=OAR}, Moving{sailorId=2, type=MOVING, xDistance=0, yDistance=0}, {sailorId=2, type=OAR}, Moving{sailorId=4, type=MOVING, xDistance=0, yDistance=3}, {sailorId=4, type=OAR}, Moving{sailorId=5, type=MOVING, xDistance=0, yDistance=-3}, {sailorId=5, type=OAR}, Moving{sailorId=7, type=MOVING, xDistance=0, yDistance=0}, {sailorId=7, type=OAR}, Moving{sailorId=11, type=MOVING, xDistance=0, yDistance=0}, {sailorId=11, type=OAR}, Moving{sailorId=10, type=MOVING, xDistance=0, yDistance=0}, {sailorId=10, type=OAR}, Moving{sailorId=15, type=MOVING, xDistance=0, yDistance=0}, {sailorId=15, type=OAR}, Moving{sailorId=6, type=MOVING, xDistance=2, yDistance=0}, {sailorId=6, type=OAR}, Moving{sailorId=8, type=MOVING, xDistance=2, yDistance=0}, {sailorId=8, type=OAR}]
+-----------------------------------------------------------------
+----------------------------------------------------------------
+Next round
+{"ship":{"type":"ship","position":{"x":2088.743552032832,"y":909.7067456374265,"orientation":0.27357426626991826},"name":"b3s","deck":{"width":4,"length":8},"entities":[{"x":1,"y":3,"type":"oar"},{"x":2,"y":3,"type":"oar"},{"x":3,"y":3,"type":"oar"},{"x":4,"y":3,"type":"oar"},{"x":5,"y":3,"type":"oar"},{"x":6,"y":3,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":6,"y":0,"type":"oar"},{"x":7,"y":2,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":true},{"x":7,"y":0,"type":"oar"},{"x":7,"y":3,"type":"oar"}],"life":1600,"shape":{"type":"rectangle","width":4.0,"height":8.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":3044.3285528031342,"y":957.0312500000006,"orientation":-1.1344640137963142},"shape":{"type":"rectangle","width":400.0,"height":1800.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":100.0}}
+[{"type":"reef","position":{"x":3044.3285528031342,"y":957.0312500000006,"orientation":-1.1344640137963142},"shape":{"type":"rectangle","width":400.0,"height":1800.0,"orientation":0.0}}]
+test de la
+visibleEntities :[VisibleEntity{position=Position{x=3044.3285528031342, y=957.0312500000006, orientation=-1.1344640137963142}, shape=Shape{type='rectangle'}, blocked=null}]
+sailorsListCopy : [Sailors{name='Jack Teach', id=0, x=1, y=3}, Sailors{name='Edward Teach', id=1, x=7, y=2}, Sailors{name='Edward Pouce', id=2, x=2, y=0}, Sailors{name='Luffy Teach', id=3, x=1, y=0}, Sailors{name='Luffy Pouce', id=4, x=3, y=3}, Sailors{name='Tom Teach', id=5, x=3, y=0}, Sailors{name='Luffy Teach', id=6, x=7, y=3}, Sailors{name='Tom Pouce', id=7, x=4, y=3}, Sailors{name='Tom Pouce', id=8, x=7, y=0}, Sailors{name='Edward Pouce', id=9, x=5, y=3}, Sailors{name='Luffy Teach', id=10, x=6, y=3}, Sailors{name='Tom Teach', id=11, x=4, y=0}, Sailors{name='Luffy Teach', id=12, x=5, y=0}, Sailors{name='Luffy Teach', id=13, x=5, y=0}, Sailors{name='Tom Teach', id=14, x=2, y=3}, Sailors{name='Jack Teach', id=15, x=6, y=0}]
+GetReefs
+true
+Liste de reefs : [Reef{position=Position{x=3044.3285528031342, y=957.0312500000006, orientation=-1.1344640137963142}, shape=Shape{type='rectangle'}, blocked=false}]
+reef collision :null
+Sail{openned=true, x=3, y=1, type='sail'}
+Sail{openned=true, x=3, y=1, type='sail'}
+Actions du tour  : 3-------------------------------------------------
+[Moving{sailorId=1, type=MOVING, xDistance=0, yDistance=0}, Turn{sailorId=1, type=TURN, rotation=-1.27675647831893E-15}, Moving{sailorId=0, type=MOVING, xDistance=0, yDistance=0}, {sailorId=0, type=OAR}, Moving{sailorId=3, type=MOVING, xDistance=0, yDistance=0}, {sailorId=3, type=OAR}, Moving{sailorId=6, type=MOVING, xDistance=-5, yDistance=0}, {sailorId=6, type=OAR}, Moving{sailorId=2, type=MOVING, xDistance=0, yDistance=0}, {sailorId=2, type=OAR}, Moving{sailorId=14, type=MOVING, xDistance=1, yDistance=0}, {sailorId=14, type=OAR}, Moving{sailorId=4, type=MOVING, xDistance=0, yDistance=-3}, {sailorId=4, type=OAR}, Moving{sailorId=5, type=MOVING, xDistance=1, yDistance=3}, {sailorId=5, type=OAR}, Moving{sailorId=7, type=MOVING, xDistance=0, yDistance=-3}, {sailorId=7, type=OAR}, Moving{sailorId=11, type=MOVING, xDistance=1, yDistance=3}, {sailorId=11, type=OAR}, Moving{sailorId=8, type=MOVING, xDistance=-2, yDistance=0}, {sailorId=8, type=OAR}, Moving{sailorId=10, type=MOVING, xDistance=0, yDistance=0}, {sailorId=10, type=OAR}, Moving{sailorId=15, type=MOVING, xDistance=0, yDistance=0}, {sailorId=15, type=OAR}, Moving{sailorId=9, type=MOVING, xDistance=2, yDistance=0}, {sailorId=9, type=OAR}, Moving{sailorId=12, type=MOVING, xDistance=2, yDistance=0}, {sailorId=12, type=OAR}]
+-----------------------------------------------------------------
+----------------------------------------------------------------
+Next round
+{"ship":{"type":"ship","position":{"x":2340.308002559817,"y":980.2982460998027,"orientation":0.27357426626991826},"name":"b3s","deck":{"width":4,"length":8},"entities":[{"x":1,"y":3,"type":"oar"},{"x":2,"y":3,"type":"oar"},{"x":3,"y":3,"type":"oar"},{"x":4,"y":3,"type":"oar"},{"x":5,"y":3,"type":"oar"},{"x":6,"y":3,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":6,"y":0,"type":"oar"},{"x":7,"y":2,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":true},{"x":7,"y":0,"type":"oar"},{"x":7,"y":3,"type":"oar"}],"life":1600,"shape":{"type":"rectangle","width":4.0,"height":8.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":3044.3285528031342,"y":957.0312500000006,"orientation":-1.1344640137963142},"shape":{"type":"rectangle","width":400.0,"height":1800.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":100.0}}
+[{"type":"reef","position":{"x":3044.3285528031342,"y":957.0312500000006,"orientation":-1.1344640137963142},"shape":{"type":"rectangle","width":400.0,"height":1800.0,"orientation":0.0}}]
+test de la
+visibleEntities :[VisibleEntity{position=Position{x=3044.3285528031342, y=957.0312500000006, orientation=-1.1344640137963142}, shape=Shape{type='rectangle'}, blocked=null}]
+sailorsListCopy : [Sailors{name='Jack Teach', id=0, x=1, y=3}, Sailors{name='Edward Teach', id=1, x=7, y=2}, Sailors{name='Edward Pouce', id=2, x=2, y=0}, Sailors{name='Luffy Teach', id=3, x=1, y=0}, Sailors{name='Luffy Pouce', id=4, x=3, y=0}, Sailors{name='Tom Teach', id=5, x=4, y=3}, Sailors{name='Luffy Teach', id=6, x=2, y=3}, Sailors{name='Tom Pouce', id=7, x=4, y=0}, Sailors{name='Tom Pouce', id=8, x=5, y=0}, Sailors{name='Edward Pouce', id=9, x=7, y=3}, Sailors{name='Luffy Teach', id=10, x=6, y=3}, Sailors{name='Tom Teach', id=11, x=5, y=3}, Sailors{name='Luffy Teach', id=12, x=7, y=0}, Sailors{name='Luffy Teach', id=13, x=5, y=0}, Sailors{name='Tom Teach', id=14, x=3, y=3}, Sailors{name='Jack Teach', id=15, x=6, y=0}]
+GetReefs
+true
+Liste de reefs : [Reef{position=Position{x=3044.3285528031342, y=957.0312500000006, orientation=-1.1344640137963142}, shape=Shape{type='rectangle'}, blocked=false}]
+reef collision :null
+Sail{openned=true, x=3, y=1, type='sail'}
+Sail{openned=true, x=3, y=1, type='sail'}
+Actions du tour  : 4-------------------------------------------------
+[Moving{sailorId=1, type=MOVING, xDistance=0, yDistance=0}, Turn{sailorId=1, type=TURN, rotation=-1.27675647831893E-15}, Moving{sailorId=0, type=MOVING, xDistance=0, yDistance=0}, {sailorId=0, type=OAR}, Moving{sailorId=3, type=MOVING, xDistance=0, yDistance=0}, {sailorId=3, type=OAR}, Moving{sailorId=9, type=MOVING, xDistance=-5, yDistance=0}, {sailorId=9, type=OAR}, Moving{sailorId=2, type=MOVING, xDistance=0, yDistance=0}, {sailorId=2, type=OAR}, Moving{sailorId=6, type=MOVING, xDistance=1, yDistance=0}, {sailorId=6, type=OAR}, Moving{sailorId=4, type=MOVING, xDistance=0, yDistance=0}, {sailorId=4, type=OAR}, Moving{sailorId=14, type=MOVING, xDistance=1, yDistance=0}, {sailorId=14, type=OAR}, Moving{sailorId=5, type=MOVING, xDistance=0, yDistance=-3}, {sailorId=5, type=OAR}, Moving{sailorId=7, type=MOVING, xDistance=1, yDistance=3}, {sailorId=7, type=OAR}, Moving{sailorId=12, type=MOVING, xDistance=-2, yDistance=0}, {sailorId=12, type=OAR}, Moving{sailorId=10, type=MOVING, xDistance=0, yDistance=0}, {sailorId=10, type=OAR}, Moving{sailorId=15, type=MOVING, xDistance=0, yDistance=0}, {sailorId=15, type=OAR}, Moving{sailorId=11, type=MOVING, xDistance=2, yDistance=0}, {sailorId=11, type=OAR}, Moving{sailorId=8, type=MOVING, xDistance=2, yDistance=0}, {sailorId=8, type=OAR}]
+-----------------------------------------------------------------
+----------------------------------------------------------------
+Next round
+{"ship":{"type":"ship","position":{"x":2591.8724530868017,"y":1050.8897465621744,"orientation":0.27357426626991826},"name":"b3s","deck":{"width":4,"length":8},"entities":[{"x":1,"y":3,"type":"oar"},{"x":2,"y":3,"type":"oar"},{"x":3,"y":3,"type":"oar"},{"x":4,"y":3,"type":"oar"},{"x":5,"y":3,"type":"oar"},{"x":6,"y":3,"type":"oar"},{"x":1,"y":0,"type":"oar"},{"x":2,"y":0,"type":"oar"},{"x":3,"y":0,"type":"oar"},{"x":4,"y":0,"type":"oar"},{"x":5,"y":0,"type":"oar"},{"x":6,"y":0,"type":"oar"},{"x":7,"y":2,"type":"rudder"},{"x":3,"y":1,"type":"sail","openned":true},{"x":7,"y":0,"type":"oar"},{"x":7,"y":3,"type":"oar"}],"life":1600,"shape":{"type":"rectangle","width":4.0,"height":8.0,"orientation":0.0}},"visibleEntities":[{"type":"reef","position":{"x":3044.3285528031342,"y":957.0312500000006,"orientation":-1.1344640137963142},"shape":{"type":"rectangle","width":400.0,"height":1800.0,"orientation":0.0}}],"wind":{"orientation":0.0,"strength":100.0}}
+[{"type":"reef","position":{"x":3044.3285528031342,"y":957.0312500000006,"orientation":-1.1344640137963142},"shape":{"type":"rectangle","width":400.0,"height":1800.0,"orientation":0.0}}]
+test de la
+visibleEntities :[VisibleEntity{position=Position{x=3044.3285528031342, y=957.0312500000006, orientation=-1.1344640137963142}, shape=Shape{type='rectangle'}, blocked=null}]
+sailorsListCopy : [Sailors{name='Jack Teach', id=0, x=1, y=3}, Sailors{name='Edward Teach', id=1, x=7, y=2}, Sailors{name='Edward Pouce', id=2, x=2, y=0}, Sailors{name='Luffy Teach', id=3, x=1, y=0}, Sailors{name='Luffy Pouce', id=4, x=3, y=0}, Sailors{name='Tom Teach', id=5, x=4, y=0}, Sailors{name='Luffy Teach', id=6, x=3, y=3}, Sailors{name='Tom Pouce', id=7, x=5, y=3}, Sailors{name='Tom Pouce', id=8, x=7, y=0}, Sailors{name='Edward Pouce', id=9, x=2, y=3}, Sailors{name='Luffy Teach', id=10, x=6, y=3}, Sailors{name='Tom Teach', id=11, x=7, y=3}, Sailors{name='Luffy Teach', id=12, x=5, y=0}, Sailors{name='Luffy Teach', id=13, x=5, y=0}, Sailors{name='Tom Teach', id=14, x=4, y=3}, Sailors{name='Jack Teach', id=15, x=6, y=0}]
+GetReefs
+true
+Liste de reefs : [Reef{position=Position{x=3044.3285528031342, y=957.0312500000006, orientation=-1.1344640137963142}, shape=Shape{type='rectangle'}, blocked=false}]
+reef collision :null
+Sail{openned=true, x=3, y=1, type='sail'}
+Sail{openned=true, x=3, y=1, type='sail'}
+Actions du tour  : 5-------------------------------------------------
+[Moving{sailorId=1, type=MOVING, xDistance=0, yDistance=0}, Turn{sailorId=1, type=TURN, rotation=-1.27675647831893E-15}, Moving{sailorId=0, type=MOVING, xDistance=0, yDistance=0}, {sailorId=0, type=OAR}, Moving{sailorId=3, type=MOVING, xDistance=0, yDistance=0}, {sailorId=3, type=OAR}, Moving{sailorId=8, type=MOVING, xDistance=-2, yDistance=3}, {sailorId=8, type=OAR}, Moving{sailorId=11, type=MOVING, xDistance=-2, yDistance=-3}, {sailorId=11, type=OAR}, Moving{sailorId=9, type=MOVING, xDistance=0, yDistance=0}, {sailorId=9, type=OAR}, Moving{sailorId=2, type=MOVING, xDistance=0, yDistance=0}, {sailorId=2, type=OAR}, Moving{sailorId=4, type=MOVING, xDistance=0, yDistance=3}, {sailorId=4, type=OAR}, Moving{sailorId=6, type=MOVING, xDistance=0, yDistance=-3}, {sailorId=6, type=OAR}, Moving{sailorId=14, type=MOVING, xDistance=0, yDistance=0}, {sailorId=14, type=OAR}, Moving{sailorId=5, type=MOVING, xDistance=0, yDistance=0}, {sailorId=5, type=OAR}, Moving{sailorId=10, type=MOVING, xDistance=0, yDistance=0}, {sailorId=10, type=OAR}, Moving{sailorId=15, type=MOVING, xDistance=0, yDistance=0}, {sailorId=15, type=OAR}, Moving{sailorId=7, type=MOVING, xDistance=2, yDistance=0}, {sailorId=7, type=OAR}, Moving{sailorId=12, type=MOVING, xDistance=2, yDistance=0}, {sailorId=12, type=OAR}]
+-----------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b3s IS ELIMINATED: fr.unice.polytech.si3.qgl.frigatesengine.interfaces.DestroyedShipError
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
