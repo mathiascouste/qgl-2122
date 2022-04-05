@@ -21,22 +21,3 @@ Analysis run the 05/04/2022 at 09:24
 |ajil|<img src="../flags/ajil.png" width="150" height="" />|**Game not finished** (DESTROYED_SHIP)<br>[See details](./pool-8)|
 |deadbeef|<img src="../flags/deadbeef.png" width="150" height="" />|**Game not finished** (DESTROYED_SHIP)<br>[See details](./pool-17)|
 |bc|<img src="../flags/bc.png" width="150" height="" />|**Game not finished** (DESTROYED_SHIP)<br>[See details](./pool-10)|
-## Championship status
-
-|Rank|Team|Flag|Score|
-|--|--|--|--|
-|**1**|les_gorilles_bronzes|<img src="../flags/les_gorilles_bronzes.png" width="150" height="" />|**15**|
-|**2**|flute|<img src="../flags/flute.png" width="150" height="" />|**14**|
-|**3**|royal_fortune|<img src="../flags/royal_fortune.png" width="150" height="" />|**13**|
-|**4**|bojji_squad_corp|<img src="../flags/bojji_squad_corp.png" width="150" height="" />|**12**|
-|**5**|les_genies|<img src="../flags/les_genies.png" width="150" height="" />|**11**|
-|**6**|Capitaine_Igloo|<img src="../flags/Capitaine_Igloo.png" width="150" height="" />|**10**|
-|**7**|kihm|<img src="../flags/kihm.png" width="150" height="" />|**9**|
-|**8**|b3s|<img src="../flags/b3s.png" width="150" height="" />|**8**|
-|**8**|lata|<img src="../flags/lata.png" width="150" height="" />|**8**|
-|**10**|les_gros_q|<img src="../flags/les_gros_q.png" width="150" height="" />|**0**|
-|**10**|Mugiwara_Cook|<img src="../flags/Mugiwara_Cook.png" width="150" height="" />|**0**|
-|**10**|d3|<img src="../flags/d3.png" width="150" height="" />|**0**|
-|**10**|ajil|<img src="../flags/ajil.png" width="150" height="" />|**0**|
-|**10**|deadbeef|<img src="../flags/deadbeef.png" width="150" height="" />|**0**|
-|**10**|bc|<img src="../flags/bc.png" width="150" height="" />|**0**|
