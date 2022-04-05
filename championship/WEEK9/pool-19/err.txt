@@ -1,0 +1,774 @@
+avr. 05, 2022 9:23:26 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.Cockpit initGame
+INFO: 
+
+Une partie commence
+
+
+avr. 05, 2022 9:23:26 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+avr. 05, 2022 9:23:26 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(5061, 5309), id=1, neighborhood=1, costToStart=5246.722092895933, distanceToEnd=0.0, visited=true, isCheckpoint=true}
+avr. 05, 2022 9:23:26 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+SEVERE: Attention, les marins ne sont pas placé !
+avr. 05, 2022 9:23:26 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+avr. 05, 2022 9:23:26 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(5061, 5309), id=1, neighborhood=1, costToStart=5246.722092895933, distanceToEnd=0.0, visited=true, isCheckpoint=true}
+avr. 05, 2022 9:23:26 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Checkpoint Node direction
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(5061, 5309), id=1, neighborhood=1, costToStart=5076.930123949814, distanceToEnd=0.0, visited=true, isCheckpoint=true}
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Checkpoint Node direction
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 2 nodes pure initialisé
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(5061, 5309), id=1, neighborhood=1, costToStart=4883.915561463081, distanceToEnd=0.0, visited=true, isCheckpoint=true}
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Checkpoint Node direction
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 34 nodes pure initialisé
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(3457, 2424), id=30, neighborhood=3, costToStart=1484.3402088557875, distanceToEnd=3301.1210067118723, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 34 nodes pure initialisé
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(3353, 2339), id=29, neighborhood=3, costToStart=1153.9322094391193, distanceToEnd=3426.0029349470196, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 34 nodes pure initialisé
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(3353, 2339), id=29, neighborhood=3, costToStart=948.05074355219, distanceToEnd=3426.0029349470196, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 38 nodes pure initialisé
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(3353, 2339), id=29, neighborhood=5, costToStart=741.6034220406798, distanceToEnd=3426.0029349470196, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 38 nodes pure initialisé
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(3353, 2339), id=29, neighborhood=5, costToStart=535.0978498837585, distanceToEnd=3426.0029349470196, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 38 nodes pure initialisé
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(3353, 2339), id=29, neighborhood=5, costToStart=328.58369683851976, distanceToEnd=3426.0029349470196, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 38 nodes pure initialisé
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(3457, 2424), id=30, neighborhood=6, costToStart=255.6642130809499, distanceToEnd=3301.1210067118723, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 38 nodes pure initialisé
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(3542, 2528), id=31, neighborhood=7, costToStart=183.7640565041788, distanceToEnd=3169.479310677256, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 38 nodes pure initialisé
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(5061, 5309), id=1, neighborhood=20, costToStart=3158.0824252489438, distanceToEnd=0.0, visited=true, isCheckpoint=true}
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Checkpoint Node direction
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 38 nodes pure initialisé
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(5061, 5309), id=1, neighborhood=20, costToStart=2966.392932776589, distanceToEnd=0.0, visited=true, isCheckpoint=true}
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Checkpoint Node direction
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 38 nodes pure initialisé
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(5061, 5309), id=1, neighborhood=20, costToStart=2777.9340631805217, distanceToEnd=0.0, visited=true, isCheckpoint=true}
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Checkpoint Node direction
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 42 nodes pure initialisé
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(3987, 4382), id=41, neighborhood=19, costToStart=1370.6563706234383, distanceToEnd=1419.2191568814137, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 74 nodes pure initialisé
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(3987, 4382), id=41, neighborhood=19, costToStart=1196.522274124853, distanceToEnd=1419.2191568814137, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 74 nodes pure initialisé
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(3987, 4382), id=41, neighborhood=19, costToStart=1027.4828440556585, distanceToEnd=1419.2191568814137, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 74 nodes pure initialisé
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(3987, 4382), id=41, neighborhood=19, costToStart=859.218927314898, distanceToEnd=1419.2191568814137, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 74 nodes pure initialisé
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(3987, 4382), id=41, neighborhood=19, costToStart=691.022857488339, distanceToEnd=1419.2191568814137, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:27 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 110 nodes pure initialisé
+avr. 05, 2022 9:23:28 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(3987, 4382), id=41, neighborhood=32, costToStart=522.8333739946191, distanceToEnd=1419.2191568814137, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:28 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:28 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 110 nodes pure initialisé
+avr. 05, 2022 9:23:28 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(3987, 4382), id=41, neighborhood=32, costToStart=354.64476135873434, distanceToEnd=1419.2191568814137, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:28 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:28 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 110 nodes pure initialisé
+avr. 05, 2022 9:23:28 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(3987, 4382), id=41, neighborhood=32, costToStart=186.45658851549084, distanceToEnd=1419.2191568814137, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:28 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:28 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 110 nodes pure initialisé
+avr. 05, 2022 9:23:28 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(5061, 5309), id=1, neighborhood=22, costToStart=1432.0757556960755, distanceToEnd=0.0, visited=true, isCheckpoint=true}
+avr. 05, 2022 9:23:28 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Checkpoint Node direction
+avr. 05, 2022 9:23:28 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 110 nodes pure initialisé
+avr. 05, 2022 9:23:28 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(5061, 5309), id=1, neighborhood=22, costToStart=1265.5850259159668, distanceToEnd=0.0, visited=true, isCheckpoint=true}
+avr. 05, 2022 9:23:28 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Checkpoint Node direction
+avr. 05, 2022 9:23:28 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 110 nodes pure initialisé
+avr. 05, 2022 9:23:28 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(5061, 5309), id=1, neighborhood=22, costToStart=1062.296666402817, distanceToEnd=0.0, visited=true, isCheckpoint=true}
+avr. 05, 2022 9:23:28 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Checkpoint Node direction
+avr. 05, 2022 9:23:28 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 110 nodes pure initialisé
+avr. 05, 2022 9:23:28 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(5061, 5309), id=1, neighborhood=22, costToStart=857.9514077878058, distanceToEnd=0.0, visited=true, isCheckpoint=true}
+avr. 05, 2022 9:23:28 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Checkpoint Node direction
+avr. 05, 2022 9:23:28 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 114 nodes pure initialisé
+avr. 05, 2022 9:23:28 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(5061, 5309), id=1, neighborhood=22, costToStart=653.5145549802256, distanceToEnd=0.0, visited=true, isCheckpoint=true}
+avr. 05, 2022 9:23:28 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Checkpoint Node direction
+avr. 05, 2022 9:23:28 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 118 nodes pure initialisé
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(5061, 5309), id=1, neighborhood=22, costToStart=449.06634142435587, distanceToEnd=0.0, visited=true, isCheckpoint=true}
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Checkpoint Node direction
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 118 nodes pure initialisé
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(5061, 5309), id=1, neighborhood=22, costToStart=244.61597191590155, distanceToEnd=0.0, visited=true, isCheckpoint=true}
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Checkpoint Node direction
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 54 nodes pure initialisé
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(4039, 6160), id=42, neighborhood=14, costToStart=1321.3956253066922, distanceToEnd=5871.554750448718, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 54 nodes pure initialisé
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(4039, 6160), id=42, neighborhood=14, costToStart=1268.054647303657, distanceToEnd=5871.554750448718, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 54 nodes pure initialisé
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(4039, 6160), id=42, neighborhood=14, costToStart=1140.9561693259932, distanceToEnd=5871.554750448718, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 54 nodes pure initialisé
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(4039, 6160), id=42, neighborhood=14, costToStart=1015.8525412044726, distanceToEnd=5871.554750448718, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 54 nodes pure initialisé
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(4039, 6160), id=42, neighborhood=14, costToStart=890.8807861996199, distanceToEnd=5871.554750448718, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 54 nodes pure initialisé
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(4039, 6160), id=42, neighborhood=14, costToStart=765.9172002076299, distanceToEnd=5871.554750448718, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 54 nodes pure initialisé
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(4039, 6160), id=42, neighborhood=14, costToStart=640.9544008974516, distanceToEnd=5871.554750448718, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 54 nodes pure initialisé
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(4039, 6160), id=42, neighborhood=14, costToStart=515.9918655683932, distanceToEnd=5871.554750448718, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 54 nodes pure initialisé
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(4039, 6160), id=42, neighborhood=14, costToStart=391.02907148545563, distanceToEnd=5871.554750448718, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 54 nodes pure initialisé
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(4039, 6160), id=42, neighborhood=14, costToStart=266.0660134262726, distanceToEnd=5871.554750448718, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 54 nodes pure initialisé
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(4039, 6160), id=42, neighborhood=14, costToStart=141.1032141172197, distanceToEnd=5871.554750448718, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 54 nodes pure initialisé
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(4039, 6642), id=45, neighborhood=12, costToStart=491.83841001247345, distanceToEnd=5516.549765142649, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 54 nodes pure initialisé
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(4039, 6642), id=45, neighborhood=12, costToStart=375.82195164680707, distanceToEnd=5516.549765142649, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 54 nodes pure initialisé
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(4039, 6642), id=45, neighborhood=12, costToStart=206.36124692539363, distanceToEnd=5516.549765142649, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 54 nodes pure initialisé
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(7887, 10594), id=1, neighborhood=8, costToStart=5545.480806226358, distanceToEnd=0.0, visited=true, isCheckpoint=true}
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Checkpoint Node direction
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 54 nodes pure initialisé
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(7887, 10594), id=1, neighborhood=8, costToStart=5373.1460383982985, distanceToEnd=0.0, visited=true, isCheckpoint=true}
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Checkpoint Node direction
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 58 nodes pure initialisé
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(7887, 10594), id=1, neighborhood=4, costToStart=5173.222483263071, distanceToEnd=0.0, visited=true, isCheckpoint=true}
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Checkpoint Node direction
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 58 nodes pure initialisé
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(7887, 10594), id=1, neighborhood=4, costToStart=4973.095346473896, distanceToEnd=0.0, visited=true, isCheckpoint=true}
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Checkpoint Node direction
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 58 nodes pure initialisé
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(7887, 10594), id=1, neighborhood=4, costToStart=4772.964137332415, distanceToEnd=0.0, visited=true, isCheckpoint=true}
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Checkpoint Node direction
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 58 nodes pure initialisé
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(7887, 10594), id=1, neighborhood=4, costToStart=4572.8326146085365, distanceToEnd=0.0, visited=true, isCheckpoint=true}
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Checkpoint Node direction
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 58 nodes pure initialisé
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(7887, 10594), id=1, neighborhood=4, costToStart=4372.701091884892, distanceToEnd=0.0, visited=true, isCheckpoint=true}
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Checkpoint Node direction
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 62 nodes pure initialisé
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(5737, 8008), id=59, neighborhood=7, costToStart=870.1984661828186, distanceToEnd=3363.4796484181925, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 66 nodes pure initialisé
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(5737, 8008), id=59, neighborhood=7, costToStart=669.5888579888232, distanceToEnd=3363.4796484181925, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 66 nodes pure initialisé
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(5737, 8008), id=59, neighborhood=7, costToStart=459.267537967373, distanceToEnd=3363.4796484181925, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 66 nodes pure initialisé
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(5737, 8008), id=59, neighborhood=7, costToStart=248.18574315081904, distanceToEnd=3363.4796484181925, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:29 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:30 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 66 nodes pure initialisé
+avr. 05, 2022 9:23:30 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(5737, 8008), id=59, neighborhood=7, costToStart=36.937182266185914, distanceToEnd=3363.4796484181925, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:30 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:30 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 70 nodes pure initialisé
+avr. 05, 2022 9:23:30 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(7887, 10594), id=1, neighborhood=8, costToStart=3211.077685586235, distanceToEnd=0.0, visited=true, isCheckpoint=true}
+avr. 05, 2022 9:23:30 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Checkpoint Node direction
+avr. 05, 2022 9:23:30 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 74 nodes pure initialisé
+avr. 05, 2022 9:23:30 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(7493, 9912), id=71, neighborhood=10, costToStart=2237.500896070157, distanceToEnd=787.5573423092931, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:30 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:30 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 74 nodes pure initialisé
+avr. 05, 2022 9:23:30 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(7493, 9912), id=71, neighborhood=10, costToStart=2041.0585791165322, distanceToEnd=787.5573423092931, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:30 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:30 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 74 nodes pure initialisé
+avr. 05, 2022 9:23:30 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(7493, 9912), id=71, neighborhood=10, costToStart=1844.051775600148, distanceToEnd=787.5573423092931, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:30 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:30 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 74 nodes pure initialisé
+avr. 05, 2022 9:23:30 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(7493, 9912), id=71, neighborhood=10, costToStart=1647.0185365951806, distanceToEnd=787.5573423092931, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:30 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:30 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 74 nodes pure initialisé
+avr. 05, 2022 9:23:30 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(7493, 9912), id=71, neighborhood=10, costToStart=1449.983943964997, distanceToEnd=787.5573423092931, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:30 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:30 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 78 nodes pure initialisé
+avr. 05, 2022 9:23:30 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(7426, 9214), id=68, neighborhood=9, costToStart=781.2899943163891, distanceToEnd=1455.7411661603398, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:30 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:30 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 78 nodes pure initialisé
+avr. 05, 2022 9:23:30 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(7426, 9214), id=68, neighborhood=9, costToStart=587.771169662824, distanceToEnd=1455.7411661603398, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:30 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:30 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 78 nodes pure initialisé
+avr. 05, 2022 9:23:30 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(7426, 9214), id=68, neighborhood=9, costToStart=375.4241413744964, distanceToEnd=1455.7411661603398, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:30 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:30 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 86 nodes pure initialisé
+avr. 05, 2022 9:23:30 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(7426, 9214), id=68, neighborhood=10, costToStart=161.9089198209757, distanceToEnd=1455.7411661603398, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:30 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:30 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 118 nodes pure initialisé
+avr. 05, 2022 9:23:30 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(9161, 8666), id=75, neighborhood=21, costToStart=1775.505715174297, distanceToEnd=2311.2192257050706, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:30 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:30 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 118 nodes pure initialisé
+avr. 05, 2022 9:23:30 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(9161, 8666), id=75, neighborhood=21, costToStart=1572.2367369810277, distanceToEnd=2311.2192257050706, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:30 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:30 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 118 nodes pure initialisé
+avr. 05, 2022 9:23:30 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(9161, 8666), id=75, neighborhood=21, costToStart=1360.126478740524, distanceToEnd=2311.2192257050706, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:30 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:30 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 118 nodes pure initialisé
+avr. 05, 2022 9:23:30 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(9161, 8666), id=75, neighborhood=21, costToStart=1148.2943149063478, distanceToEnd=2311.2192257050706, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:30 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:30 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 118 nodes pure initialisé
+avr. 05, 2022 9:23:31 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(9161, 8666), id=75, neighborhood=21, costToStart=936.4891470529003, distanceToEnd=2311.2192257050706, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:31 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:31 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 118 nodes pure initialisé
+avr. 05, 2022 9:23:31 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(9161, 8666), id=75, neighborhood=21, costToStart=724.68645387496, distanceToEnd=2311.2192257050706, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:31 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:31 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 118 nodes pure initialisé
+avr. 05, 2022 9:23:31 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(9161, 8666), id=75, neighborhood=21, costToStart=512.8840677306216, distanceToEnd=2311.2192257050706, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:31 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:31 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 122 nodes pure initialisé
+avr. 05, 2022 9:23:31 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(9161, 8666), id=75, neighborhood=21, costToStart=301.0818366654442, distanceToEnd=2311.2192257050706, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:31 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:31 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 122 nodes pure initialisé
+avr. 05, 2022 9:23:31 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(9161, 8666), id=75, neighborhood=21, costToStart=89.27945360103126, distanceToEnd=2311.2192257050706, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:31 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:31 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 122 nodes pure initialisé
+avr. 05, 2022 9:23:31 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(9359, 9022), id=76, neighborhood=4, costToStart=407.546997632573, distanceToEnd=2153.5358909990146, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:31 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:31 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 122 nodes pure initialisé
+avr. 05, 2022 9:23:31 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(9380, 9728), id=87, neighborhood=4, costToStart=1045.3584804886689, distanceToEnd=1726.1689313346008, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:31 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:31 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 122 nodes pure initialisé
+avr. 05, 2022 9:23:31 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(9380, 9728), id=87, neighborhood=4, costToStart=877.1183576896799, distanceToEnd=1726.1689313346008, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:31 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:31 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 122 nodes pure initialisé
+avr. 05, 2022 9:23:32 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(9380, 9728), id=87, neighborhood=4, costToStart=713.8911199412449, distanceToEnd=1726.1689313346008, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:32 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:32 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 122 nodes pure initialisé
+avr. 05, 2022 9:23:32 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(9380, 9728), id=87, neighborhood=4, costToStart=551.389498666821, distanceToEnd=1726.1689313346008, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:32 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:32 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 126 nodes pure initialisé
+avr. 05, 2022 9:23:32 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(9380, 9728), id=87, neighborhood=4, costToStart=388.9766848678734, distanceToEnd=1726.1689313346008, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:32 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:32 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 126 nodes pure initialisé
+avr. 05, 2022 9:23:32 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(9380, 9728), id=87, neighborhood=4, costToStart=226.57789486435286, distanceToEnd=1726.1689313346008, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:32 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:32 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 126 nodes pure initialisé
+avr. 05, 2022 9:23:32 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(9380, 9728), id=87, neighborhood=4, costToStart=64.18260787232497, distanceToEnd=1726.1689313346008, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:32 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:32 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 126 nodes pure initialisé
+avr. 05, 2022 9:23:32 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(7887, 10594), id=1, neighborhood=5, costToStart=1674.5344343519378, distanceToEnd=0.0, visited=true, isCheckpoint=true}
+avr. 05, 2022 9:23:32 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Checkpoint Node direction
+avr. 05, 2022 9:23:32 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 126 nodes pure initialisé
+avr. 05, 2022 9:23:32 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(7887, 10594), id=1, neighborhood=5, costToStart=1550.641189231618, distanceToEnd=0.0, visited=true, isCheckpoint=true}
+avr. 05, 2022 9:23:32 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Checkpoint Node direction
+avr. 05, 2022 9:23:32 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 126 nodes pure initialisé
+avr. 05, 2022 9:23:33 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(7887, 10594), id=1, neighborhood=5, costToStart=1385.840635419038, distanceToEnd=0.0, visited=true, isCheckpoint=true}
+avr. 05, 2022 9:23:33 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Checkpoint Node direction
+avr. 05, 2022 9:23:33 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 126 nodes pure initialisé
+avr. 05, 2022 9:23:33 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(7887, 10594), id=1, neighborhood=5, costToStart=1220.8413627847206, distanceToEnd=0.0, visited=true, isCheckpoint=true}
+avr. 05, 2022 9:23:33 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Checkpoint Node direction
+avr. 05, 2022 9:23:33 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 126 nodes pure initialisé
+avr. 05, 2022 9:23:33 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(7887, 10594), id=1, neighborhood=5, costToStart=1055.8413664653053, distanceToEnd=0.0, visited=true, isCheckpoint=true}
+avr. 05, 2022 9:23:33 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Checkpoint Node direction
+avr. 05, 2022 9:23:33 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 126 nodes pure initialisé
+avr. 05, 2022 9:23:33 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(7887, 10594), id=1, neighborhood=5, costToStart=890.8413665043649, distanceToEnd=0.0, visited=true, isCheckpoint=true}
+avr. 05, 2022 9:23:33 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Checkpoint Node direction
+avr. 05, 2022 9:23:33 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 126 nodes pure initialisé
+avr. 05, 2022 9:23:33 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(7887, 10594), id=1, neighborhood=5, costToStart=725.8413665055479, distanceToEnd=0.0, visited=true, isCheckpoint=true}
+avr. 05, 2022 9:23:33 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Checkpoint Node direction
+avr. 05, 2022 9:23:33 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 126 nodes pure initialisé
+avr. 05, 2022 9:23:33 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(7887, 10594), id=1, neighborhood=5, costToStart=560.8413665074077, distanceToEnd=0.0, visited=true, isCheckpoint=true}
+avr. 05, 2022 9:23:33 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Checkpoint Node direction
+avr. 05, 2022 9:23:33 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 126 nodes pure initialisé
+avr. 05, 2022 9:23:33 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(7887, 10594), id=1, neighborhood=5, costToStart=395.8413665107909, distanceToEnd=0.0, visited=true, isCheckpoint=true}
+avr. 05, 2022 9:23:33 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Checkpoint Node direction
+avr. 05, 2022 9:23:33 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 14 nodes pure initialisé
+avr. 05, 2022 9:23:33 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(9359, 9022), id=12, neighborhood=6, costToStart=1942.572314180759, distanceToEnd=3186.649992513437, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:33 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:33 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 14 nodes pure initialisé
+avr. 05, 2022 9:23:33 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(9359, 9022), id=12, neighborhood=6, costToStart=1929.645874703638, distanceToEnd=3186.649992513437, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:33 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:33 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 18 nodes pure initialisé
+avr. 05, 2022 9:23:33 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(9043, 9956), id=16, neighborhood=6, costToStart=934.8393749497569, distanceToEnd=3392.3714019524205, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:33 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:33 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 18 nodes pure initialisé
+avr. 05, 2022 9:23:33 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(9043, 9956), id=16, neighborhood=6, costToStart=738.102793450957, distanceToEnd=3392.3714019524205, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:33 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:33 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 18 nodes pure initialisé
+avr. 05, 2022 9:23:33 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(9043, 9956), id=16, neighborhood=6, costToStart=526.2859201477078, distanceToEnd=3392.3714019524205, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:33 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 18 nodes pure initialisé
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(9043, 9956), id=16, neighborhood=6, costToStart=313.6627292429231, distanceToEnd=3392.3714019524205, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 18 nodes pure initialisé
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(9043, 9956), id=16, neighborhood=6, costToStart=100.9015710111854, distanceToEnd=3392.3714019524205, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 18 nodes pure initialisé
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(9380, 9728), id=15, neighborhood=5, costToStart=301.69177678378554, distanceToEnd=3532.425275054861, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 18 nodes pure initialisé
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(9380, 9728), id=15, neighborhood=5, costToStart=107.75885361287438, distanceToEnd=3532.425275054861, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 22 nodes pure initialisé
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(9359, 9022), id=12, neighborhood=4, costToStart=656.5213590250028, distanceToEnd=3186.649992513437, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 22 nodes pure initialisé
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(9359, 9022), id=12, neighborhood=4, costToStart=497.31561932531696, distanceToEnd=3186.649992513437, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 22 nodes pure initialisé
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(9359, 9022), id=12, neighborhood=4, costToStart=342.4434624832709, distanceToEnd=3186.649992513437, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 22 nodes pure initialisé
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(9359, 9022), id=12, neighborhood=4, costToStart=190.39407286559234, distanceToEnd=3186.649992513437, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 22 nodes pure initialisé
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(9161, 8666), id=11, neighborhood=6, costToStart=445.421773669884, distanceToEnd=2880.6967840981974, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 50 nodes pure initialisé
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(9161, 8666), id=11, neighborhood=20, costToStart=300.60463474237406, distanceToEnd=2880.6967840981974, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 50 nodes pure initialisé
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(9161, 8666), id=11, neighborhood=20, costToStart=160.26472112219074, distanceToEnd=2880.6967840981974, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 54 nodes pure initialisé
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(8283, 8586), id=29, neighborhood=9, costToStart=896.9262298693908, distanceToEnd=2025.4691814448381, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 54 nodes pure initialisé
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(8283, 8586), id=29, neighborhood=9, costToStart=800.6555044240445, distanceToEnd=2025.4691814448381, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 54 nodes pure initialisé
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(8283, 8586), id=29, neighborhood=9, costToStart=685.697937187979, distanceToEnd=2025.4691814448381, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 58 nodes pure initialisé
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(8283, 8586), id=29, neighborhood=9, costToStart=570.6175787555271, distanceToEnd=2025.4691814448381, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 58 nodes pure initialisé
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(8283, 8586), id=29, neighborhood=9, costToStart=455.5292377987642, distanceToEnd=2025.4691814448381, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 58 nodes pure initialisé
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(8283, 8586), id=29, neighborhood=9, costToStart=340.44008059342974, distanceToEnd=2025.4691814448381, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 62 nodes pure initialisé
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(8283, 8586), id=29, neighborhood=11, costToStart=225.35081805649466, distanceToEnd=2025.4691814448381, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 62 nodes pure initialisé
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(8214, 8571), id=31, neighborhood=12, costToStart=179.9967350283983, distanceToEnd=1956.1404942564695, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 62 nodes pure initialisé
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(8214, 8571), id=31, neighborhood=12, costToStart=64.96605576297429, distanceToEnd=1956.1404942564695, visited=true, isCheckpoint=false}
+avr. 05, 2022 9:23:34 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Shell Node direction
+avr. 05, 2022 9:23:35 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 62 nodes pure initialisé
+avr. 05, 2022 9:23:35 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(6409, 7818), id=1, neighborhood=13, costToStart=1907.5008690442664, distanceToEnd=0.0, visited=true, isCheckpoint=true}
+avr. 05, 2022 9:23:35 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Checkpoint Node direction
+avr. 05, 2022 9:23:35 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 62 nodes pure initialisé
+avr. 05, 2022 9:23:35 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(6409, 7818), id=1, neighborhood=13, costToStart=1743.9615294066957, distanceToEnd=0.0, visited=true, isCheckpoint=true}
+avr. 05, 2022 9:23:35 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Checkpoint Node direction
+avr. 05, 2022 9:23:35 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 62 nodes pure initialisé
+avr. 05, 2022 9:23:35 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(6409, 7818), id=1, neighborhood=13, costToStart=1578.9648700126415, distanceToEnd=0.0, visited=true, isCheckpoint=true}
+avr. 05, 2022 9:23:35 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Checkpoint Node direction
+avr. 05, 2022 9:23:35 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 62 nodes pure initialisé
+avr. 05, 2022 9:23:35 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(6409, 7818), id=1, neighborhood=13, costToStart=1413.9648796392873, distanceToEnd=0.0, visited=true, isCheckpoint=true}
+avr. 05, 2022 9:23:35 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Checkpoint Node direction
+avr. 05, 2022 9:23:35 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 62 nodes pure initialisé
+avr. 05, 2022 9:23:35 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(6409, 7818), id=1, neighborhood=13, costToStart=1248.9648796810895, distanceToEnd=0.0, visited=true, isCheckpoint=true}
+avr. 05, 2022 9:23:35 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Checkpoint Node direction
+avr. 05, 2022 9:23:35 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 62 nodes pure initialisé
+avr. 05, 2022 9:23:35 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(6409, 7818), id=1, neighborhood=13, costToStart=1083.964879682425, distanceToEnd=0.0, visited=true, isCheckpoint=true}
+avr. 05, 2022 9:23:35 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Checkpoint Node direction
+avr. 05, 2022 9:23:35 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 62 nodes pure initialisé
+avr. 05, 2022 9:23:35 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(6409, 7818), id=1, neighborhood=13, costToStart=918.9648796842508, distanceToEnd=0.0, visited=true, isCheckpoint=true}
+avr. 05, 2022 9:23:35 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Checkpoint Node direction
+avr. 05, 2022 9:23:35 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 62 nodes pure initialisé
+avr. 05, 2022 9:23:35 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(6409, 7818), id=1, neighborhood=13, costToStart=753.9648796868893, distanceToEnd=0.0, visited=true, isCheckpoint=true}
+avr. 05, 2022 9:23:35 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Checkpoint Node direction
+avr. 05, 2022 9:23:35 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 62 nodes pure initialisé
+avr. 05, 2022 9:23:35 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(6409, 7818), id=1, neighborhood=13, costToStart=588.9648796910233, distanceToEnd=0.0, visited=true, isCheckpoint=true}
+avr. 05, 2022 9:23:35 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Checkpoint Node direction
+avr. 05, 2022 9:23:35 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 66 nodes pure initialisé
+avr. 05, 2022 9:23:35 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(6409, 7818), id=1, neighborhood=15, costToStart=423.9648796983989, distanceToEnd=0.0, visited=true, isCheckpoint=true}
+avr. 05, 2022 9:23:35 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Checkpoint Node direction
+avr. 05, 2022 9:23:35 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: 70 nodes pure initialisé
+avr. 05, 2022 9:23:35 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.goals.regatta.CheckpointGoal updateGraph
+INFO: Point à atteindre: Node{position=(6409, 7818), id=1, neighborhood=17, costToStart=258.964879701355, distanceToEnd=0.0, visited=true, isCheckpoint=true}
+avr. 05, 2022 9:23:35 PM fr.unice.polytech.si3.qgl.bojji_squad_corp.helpers.SailorsActionsHelper getActions
+INFO: Checkpoint Node direction

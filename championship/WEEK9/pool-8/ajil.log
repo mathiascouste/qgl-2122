@@ -1,0 +1,100 @@
+Début de la partie
+INIT GAME
+size entities0
+NextRound
+BarreurManageur est : 14
+Marin :  14veut aller vers Entity{x=7, y=2, type='rudder'}
+Marin mouvement :  X:4  Y:0
+Sail Manager est : 13
+Marin :  13veut aller vers Entity{x=3, y=1, type='sail'}
+Marin :  0veut aller vers Entity{x=7, y=0, type='oar'}
+Marin mouvement :  X:7  Y:0
+Marin :  1veut aller vers Entity{x=6, y=0, type='oar'}
+Marin mouvement :  X:6  Y:-1
+Marin :  2veut aller vers Entity{x=5, y=0, type='oar'}
+Marin mouvement :  X:5  Y:-2
+Marin :  3veut aller vers Entity{x=4, y=0, type='oar'}
+Marin mouvement :  X:4  Y:-3
+Marin :  4veut aller vers Entity{x=3, y=0, type='oar'}
+Marin mouvement :  X:2  Y:0
+Marin :  5veut aller vers Entity{x=2, y=0, type='oar'}
+Marin mouvement :  X:1  Y:-1
+Marin :  6veut aller vers Entity{x=1, y=0, type='oar'}
+Marin mouvement :  X:0  Y:-2
+Marin :  7veut aller vers Entity{x=7, y=3, type='oar'}
+Marin mouvement :  X:6  Y:0
+Marin :  8veut aller vers Entity{x=6, y=3, type='oar'}
+Marin mouvement :  X:4  Y:3
+Marin :  9veut aller vers Entity{x=5, y=3, type='oar'}
+Marin mouvement :  X:3  Y:2
+Marin :  10veut aller vers Entity{x=4, y=3, type='oar'}
+Marin mouvement :  X:2  Y:1
+Marin :  11veut aller vers Entity{x=3, y=3, type='oar'}
+Marin mouvement :  X:1  Y:0
+Marin :  12veut aller vers Entity{x=1, y=3, type='oar'}
+Marin mouvement :  X:-2  Y:3
+Marin :  15veut aller vers Entity{x=2, y=3, type='oar'}
+Marin mouvement :  X:-1  Y:0
+Premier Calcul ASTAR
+Calcule ASTAR
+On change de vrai checpoint cible
+Avant A star4
+on a nb recifs0
+0
+18
+Apres A star4
+Apres A star18
+le jeu voit0recif et avant on avait 0
+Prédiction :[165.0, 0.993, 141.42857142857142, 0.601, 117.85714285714286, 0.416, 94.28571428571429, 0.315, 70.71428571428571, 0.253, 47.142857142857146, 0.21, 23.571428571428573, 0.18]
+On tourne avec le gouvernail : 0.158
+size entities0
+NextRound
+Marin :  0veut aller vers Entity{x=7, y=0, type='oar'}
+Marin mouvement :  X:5  Y:0
+Marin :  1veut aller vers Entity{x=6, y=0, type='oar'}
+Marin mouvement :  X:4  Y:0
+Marin :  2veut aller vers Entity{x=5, y=0, type='oar'}
+Marin mouvement :  X:3  Y:0
+Marin :  3veut aller vers Entity{x=4, y=0, type='oar'}
+Marin mouvement :  X:2  Y:-1
+Marin :  4veut aller vers Entity{x=1, y=0, type='oar'}
+Marin mouvement :  X:-2  Y:0
+Marin :  5veut aller vers Entity{x=3, y=0, type='oar'}
+Marin mouvement :  X:1  Y:0
+Marin :  6veut aller vers Entity{x=2, y=0, type='oar'}
+Marin mouvement :  X:1  Y:0
+Marin :  7veut aller vers Entity{x=7, y=3, type='oar'}
+Marin mouvement :  X:4  Y:0
+Marin :  8veut aller vers Entity{x=1, y=3, type='oar'}
+Marin mouvement :  X:-3  Y:1
+Marin :  9veut aller vers Entity{x=2, y=3, type='oar'}
+Marin mouvement :  X:-3  Y:0
+Marin :  10veut aller vers Entity{x=6, y=3, type='oar'}
+Marin mouvement :  X:2  Y:0
+Marin :  11veut aller vers Entity{x=5, y=3, type='oar'}
+Marin mouvement :  X:2  Y:0
+Marin :  12veut aller vers Entity{x=4, y=3, type='oar'}
+Marin mouvement :  X:3  Y:0
+Marin :  15veut aller vers Entity{x=3, y=3, type='oar'}
+Marin mouvement :  X:1  Y:0
+le jeu voit0recif et avant on avait 0
+Prédiction :[165.0, 0.204, 141.42857142857142, 0.195, 117.85714285714286, 0.187, 94.28571428571429, 0.179, 70.71428571428571, 0.172, 47.142857142857146, 0.166, 23.571428571428573, 0.16]
+On tourne avec le gouvernail : 0.154
+size entities0
+NextRound
+le jeu voit0recif et avant on avait 0
+Prédiction :[165.0, 0.071, 141.42857142857142, 0.065, 117.85714285714286, 0.06, 94.28571428571429, 0.056, 70.71428571428571, 0.052, 47.142857142857146, 0.049, 23.571428571428573, 0.046]
+On tourne avec le gouvernail : 0.044
+size entities1
+NextRound
+le jeu voit1recif et avant on avait 0
+Nouveau recif calcul aSTAR
+Calcule ASTAR
+Avant A star4
+on a nb recifs1
+11
+17
+Apres A star4
+Apres A star17
+Prédiction :[165.0, -1.874, 141.42857142857142, -1.662, 117.85714285714286, -1.442, 94.28571428571429, -1.233, 70.71428571428571, -1.051, 47.142857142857146, -0.9, 23.571428571428573, -0.778]
+On tourne avec le gouvernail : -0.68

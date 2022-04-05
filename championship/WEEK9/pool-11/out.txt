@@ -1,0 +1,4565 @@
+node 0: x=1336.3754889178724 y=735.6770833333329
+node 1: x=10006.518904824004 y=3131.510416666667
+Graph:
+Connections node 0: 0, 1, 
+Connections node 1: 0, 1, 
+
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@45c2dae8
+connections.get(node.getId()) :[0, 1]
+0
+1
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@7a554bbf
+connections.get(node.getId()) :[0, 1]
+node 1: x=10006.518904824004 y=3131.510416666667
+node 0: x=1464.9492499447426 y=750.0177945637312
+Graph:
+Connections node 0: 0, 1, 
+Connections node 1: 0, 1, 
+
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@68a7bfd5
+connections.get(node.getId()) :[0, 1]
+0
+1
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@2da52ca5
+connections.get(node.getId()) :[0, 1]
+node 0: x=1602.0408936146569 y=784.7188140469137
+node 1: x=10006.518904824004 y=3131.510416666667
+Graph:
+Connections node 0: 0, 1, 
+Connections node 1: 0, 1, 
+
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@617f4e4c
+connections.get(node.getId()) :[0, 1]
+0
+1
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@247dcc07
+connections.get(node.getId()) :[0, 1]
+node 0: x=1760.9703517618789 y=829.0632273383492
+node 1: x=10006.518904824004 y=3131.510416666667
+Graph:
+Connections node 0: 0, 1, 
+Connections node 1: 0, 1, 
+
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@2257d8ce
+connections.get(node.getId()) :[0, 1]
+0
+1
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@675552e0
+connections.get(node.getId()) :[0, 1]
+node 3: x=3236.1680880829945 y=36.896698587215525
+node 0: x=1919.8910186478 y=873.4391401346143
+node 1: x=10006.518904824004 y=3131.510416666667
+node 5: x=3625.8804365087535 y=218.62255113571624
+node 2: x=2462.776669097515 y=1695.4399488642848
+node 4: x=2852.489017523274 y=1877.1658014127856
+Graph:
+Connections node 0: 0, 2, 3, 
+Connections node 1: 1, 3, 4, 5, 
+Connections node 2: 0, 2, 3, 4, 
+Connections node 3: 0, 1, 2, 3, 5, 
+Connections node 4: 1, 2, 4, 5, 
+Connections node 5: 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 2, 3]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@7f62ef53
+connections.get(node.getId()) :[0, 2, 3]
+connections.get(node.getId()) :[0, 2, 3, 4]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@76ec07ce
+connections.get(node.getId()) :[0, 2, 3, 4]
+connections.get(node.getId()) :[1, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@55051893
+connections.get(node.getId()) :[1, 2, 4, 5]
+0
+2
+4
+1
+connections.get(node.getId()) :[0, 2, 3]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@c96ca18
+connections.get(node.getId()) :[0, 2, 3]
+connections.get(node.getId()) :[0, 2, 3, 4]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@6466a4ae
+connections.get(node.getId()) :[0, 2, 3, 4]
+connections.get(node.getId()) :[1, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@72a21d9b
+connections.get(node.getId()) :[1, 2, 4, 5]
+node 3: x=3236.1680880829945 y=36.896698587215525
+node 5: x=3625.8804365087535 y=218.62255113571624
+node 2: x=2462.776669097515 y=1695.4399488642848
+node 1: x=10006.518904824004 y=3131.510416666667
+node 0: x=2050.7624483650384 y=968.0864041025001
+node 4: x=2852.489017523274 y=1877.1658014127856
+Graph:
+Connections node 0: 0, 2, 3, 
+Connections node 1: 1, 3, 4, 5, 
+Connections node 2: 0, 2, 3, 4, 
+Connections node 3: 0, 1, 2, 3, 5, 
+Connections node 4: 1, 2, 4, 5, 
+Connections node 5: 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 2, 3]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@6e3dc54c
+connections.get(node.getId()) :[0, 2, 3]
+connections.get(node.getId()) :[0, 2, 3, 4]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@5a3e3b8f
+connections.get(node.getId()) :[0, 2, 3, 4]
+connections.get(node.getId()) :[1, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@768cb965
+connections.get(node.getId()) :[1, 2, 4, 5]
+0
+2
+4
+1
+connections.get(node.getId()) :[0, 2, 3]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@75ae0627
+connections.get(node.getId()) :[0, 2, 3]
+connections.get(node.getId()) :[0, 2, 3, 4]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@7539aa7b
+connections.get(node.getId()) :[0, 2, 3, 4]
+connections.get(node.getId()) :[1, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@5e700510
+connections.get(node.getId()) :[1, 2, 4, 5]
+node 0: x=2136.971873849905 y=1108.7361696882037
+node 3: x=3236.1680880829945 y=36.896698587215525
+node 5: x=3625.8804365087535 y=218.62255113571624
+node 2: x=2462.776669097515 y=1695.4399488642848
+node 4: x=2852.489017523274 y=1877.1658014127856
+node 1: x=10006.518904824004 y=3131.510416666667
+Graph:
+Connections node 0: 0, 2, 3, 
+Connections node 1: 1, 3, 4, 5, 
+Connections node 2: 0, 2, 3, 4, 
+Connections node 3: 0, 1, 2, 3, 5, 
+Connections node 4: 1, 2, 4, 5, 
+Connections node 5: 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 2, 3]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@4170352a
+connections.get(node.getId()) :[0, 2, 3]
+connections.get(node.getId()) :[0, 2, 3, 4]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@8bdc82
+connections.get(node.getId()) :[0, 2, 3, 4]
+connections.get(node.getId()) :[1, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@3fc404b5
+connections.get(node.getId()) :[1, 2, 4, 5]
+0
+2
+4
+1
+connections.get(node.getId()) :[0, 2, 3]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@1aed37b2
+connections.get(node.getId()) :[0, 2, 3]
+connections.get(node.getId()) :[0, 2, 3, 4]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@5a7498a0
+connections.get(node.getId()) :[0, 2, 3, 4]
+connections.get(node.getId()) :[1, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@4c520a0
+connections.get(node.getId()) :[1, 2, 4, 5]
+node 3: x=3236.1680880829945 y=36.896698587215525
+node 5: x=3625.8804365087535 y=218.62255113571624
+node 2: x=2462.776669097515 y=1695.4399488642848
+node 1: x=10006.518904824004 y=3131.510416666667
+node 4: x=2852.489017523274 y=1877.1658014127856
+node 0: x=2217.6928042964128 y=1252.642279380857
+Graph:
+Connections node 0: 0, 2, 3, 
+Connections node 1: 1, 3, 4, 5, 
+Connections node 2: 0, 2, 3, 4, 
+Connections node 3: 0, 1, 2, 3, 5, 
+Connections node 4: 1, 2, 4, 5, 
+Connections node 5: 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 2, 3]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@4aa65a8
+connections.get(node.getId()) :[0, 2, 3]
+connections.get(node.getId()) :[0, 2, 3, 4]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@6eb70823
+connections.get(node.getId()) :[0, 2, 3, 4]
+connections.get(node.getId()) :[1, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@772ac4e3
+connections.get(node.getId()) :[1, 2, 4, 5]
+0
+2
+4
+1
+connections.get(node.getId()) :[0, 2, 3]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@c2865ca
+connections.get(node.getId()) :[0, 2, 3]
+connections.get(node.getId()) :[0, 2, 3, 4]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@5bf8c6c2
+connections.get(node.getId()) :[0, 2, 3, 4]
+connections.get(node.getId()) :[1, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@dd82b8e
+connections.get(node.getId()) :[1, 2, 4, 5]
+node 0: x=2297.6975837319274 y=1396.9483113046906
+node 3: x=3236.1680880829945 y=36.896698587215525
+node 4: x=2852.489017523274 y=1877.1658014127856
+node 1: x=10006.518904824004 y=3131.510416666667
+node 5: x=3625.8804365087535 y=218.62255113571624
+node 2: x=2462.776669097515 y=1695.4399488642848
+Graph:
+Connections node 0: 0, 2, 3, 
+Connections node 1: 1, 3, 4, 5, 
+Connections node 2: 0, 2, 3, 4, 
+Connections node 3: 0, 1, 2, 3, 5, 
+Connections node 4: 1, 2, 4, 5, 
+Connections node 5: 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 2, 3]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@53ec8e6c
+connections.get(node.getId()) :[0, 2, 3]
+connections.get(node.getId()) :[0, 2, 3, 4]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@255999e8
+connections.get(node.getId()) :[0, 2, 3, 4]
+connections.get(node.getId()) :[1, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@42114ef0
+connections.get(node.getId()) :[1, 2, 4, 5]
+0
+2
+4
+1
+connections.get(node.getId()) :[0, 2, 3]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@7f40784e
+connections.get(node.getId()) :[0, 2, 3]
+connections.get(node.getId()) :[0, 2, 3, 4]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@48e80624
+connections.get(node.getId()) :[0, 2, 3, 4]
+connections.get(node.getId()) :[1, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@21174008
+connections.get(node.getId()) :[1, 2, 4, 5]
+node 2: x=2462.776669097515 y=1695.4399488642848
+node 1: x=10006.518904824004 y=3131.510416666667
+node 4: x=2852.489017523274 y=1877.1658014127856
+node 5: x=3625.8804365087535 y=218.62255113571624
+node 0: x=2377.5762899507185 y=1541.324181965883
+node 3: x=3236.1680880829945 y=36.896698587215525
+Graph:
+Connections node 0: 0, 2, 3, 
+Connections node 1: 1, 3, 4, 5, 
+Connections node 2: 0, 2, 3, 4, 
+Connections node 3: 0, 1, 2, 3, 5, 
+Connections node 4: 1, 2, 4, 5, 
+Connections node 5: 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 2, 3]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@7f4b9cb9
+connections.get(node.getId()) :[0, 2, 3]
+connections.get(node.getId()) :[0, 2, 3, 4]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@645c00b3
+connections.get(node.getId()) :[0, 2, 3, 4]
+connections.get(node.getId()) :[1, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@1d5e95dc
+connections.get(node.getId()) :[1, 2, 4, 5]
+0
+2
+4
+1
+connections.get(node.getId()) :[0, 2, 3]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@47c2a7e1
+connections.get(node.getId()) :[0, 2, 3]
+connections.get(node.getId()) :[0, 2, 3, 4]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@644f55f4
+connections.get(node.getId()) :[0, 2, 3, 4]
+connections.get(node.getId()) :[1, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@60129856
+connections.get(node.getId()) :[1, 2, 4, 5]
+node 0: x=2457.4186109320317 y=1685.7201781752344
+node 1: x=10006.518904824004 y=3131.510416666667
+node 3: x=3459.8417488754344 y=3141.980652344365
+node 7: x=3236.1680880829945 y=36.896698587215525
+node 2: x=2062.117198682255 y=2519.6735884383907
+node 5: x=3244.2713280452604 y=3626.1597448949433
+node 6: x=2462.776669097515 y=1695.4399488642848
+node 9: x=3625.8804365087535 y=218.62255113571624
+node 4: x=1846.546777852081 y=3003.852680988969
+node 8: x=2852.489017523274 y=1877.1658014127856
+Graph:
+Connections node 0: 0, 2, 3, 4, 6, 7, 8, 
+Connections node 1: 1, 2, 3, 5, 7, 8, 9, 
+Connections node 2: 0, 1, 2, 3, 4, 6, 7, 8, 
+Connections node 3: 0, 1, 2, 3, 5, 6, 8, 9, 
+Connections node 4: 0, 2, 4, 5, 6, 7, 
+Connections node 5: 1, 3, 4, 5, 
+Connections node 6: 0, 2, 3, 4, 6, 7, 8, 
+Connections node 7: 0, 1, 2, 4, 6, 7, 9, 
+Connections node 8: 0, 1, 2, 3, 6, 8, 9, 
+Connections node 9: 1, 3, 7, 8, 9, 
+
+connections.get(node.getId()) :[0, 2, 3, 4, 6, 7, 8]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@4cb8423e
+connections.get(node.getId()) :[0, 2, 3, 4, 6, 7, 8]
+connections.get(node.getId()) :[0, 2, 3, 4, 6, 7, 8]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@713780bc
+connections.get(node.getId()) :[0, 2, 3, 4, 6, 7, 8]
+connections.get(node.getId()) :[0, 1, 2, 3, 6, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@76048ef0
+connections.get(node.getId()) :[0, 1, 2, 3, 6, 8, 9]
+0
+8
+1
+connections.get(node.getId()) :[0, 2, 3, 4, 6, 7, 8]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@217fc5f7
+connections.get(node.getId()) :[0, 2, 3, 4, 6, 7, 8]
+connections.get(node.getId()) :[0, 2, 3, 4, 6, 7, 8]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@2f58da54
+connections.get(node.getId()) :[0, 2, 3, 4, 6, 7, 8]
+connections.get(node.getId()) :[0, 1, 2, 3, 6, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@62a79d63
+connections.get(node.getId()) :[0, 1, 2, 3, 6, 8, 9]
+node 4: x=1846.546777852081 y=3003.852680988969
+node 8: x=2852.489017523274 y=1877.1658014127856
+node 3: x=3459.8417488754344 y=3141.980652344365
+node 7: x=3236.1680880829945 y=36.896698587215525
+node 1: x=10006.518904824004 y=3131.510416666667
+node 2: x=2062.117198682255 y=2519.6735884383907
+node 9: x=3625.8804365087535 y=218.62255113571624
+node 5: x=3244.2713280452604 y=3626.1597448949433
+node 6: x=2462.776669097515 y=1695.4399488642848
+node 0: x=2574.966351095866 y=1797.7983289657068
+Graph:
+Connections node 0: 0, 2, 3, 6, 8, 
+Connections node 1: 1, 2, 3, 5, 7, 8, 9, 
+Connections node 2: 0, 1, 2, 3, 4, 6, 7, 8, 
+Connections node 3: 0, 1, 2, 3, 5, 6, 8, 9, 
+Connections node 4: 2, 4, 5, 6, 7, 
+Connections node 5: 1, 3, 4, 5, 
+Connections node 6: 0, 2, 3, 4, 6, 7, 8, 
+Connections node 7: 1, 2, 4, 6, 7, 9, 
+Connections node 8: 0, 1, 2, 3, 6, 8, 9, 
+Connections node 9: 1, 3, 7, 8, 9, 
+
+connections.get(node.getId()) :[0, 2, 3, 6, 8]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@6c141ee2
+connections.get(node.getId()) :[0, 2, 3, 6, 8]
+connections.get(node.getId()) :[0, 1, 2, 3, 6, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@1073fc4a
+connections.get(node.getId()) :[0, 1, 2, 3, 6, 8, 9]
+0
+8
+1
+connections.get(node.getId()) :[0, 2, 3, 6, 8]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@604f937
+connections.get(node.getId()) :[0, 2, 3, 6, 8]
+connections.get(node.getId()) :[0, 1, 2, 3, 6, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@5fb0f031
+connections.get(node.getId()) :[0, 1, 2, 3, 6, 8, 9]
+node 4: x=1846.546777852081 y=3003.852680988969
+node 2: x=2062.117198682255 y=2519.6735884383907
+node 8: x=2852.489017523274 y=1877.1658014127856
+node 1: x=10006.518904824004 y=3131.510416666667
+node 6: x=2462.776669097515 y=1695.4399488642848
+node 3: x=3459.8417488754344 y=3141.980652344365
+node 7: x=3236.1680880829945 y=36.896698587215525
+node 0: x=2728.8606530193697 y=1856.738632413568
+node 5: x=3244.2713280452604 y=3626.1597448949433
+node 9: x=3625.8804365087535 y=218.62255113571624
+Graph:
+Connections node 0: 0, 1, 2, 3, 6, 8, 
+Connections node 1: 0, 1, 2, 3, 5, 7, 8, 9, 
+Connections node 2: 0, 1, 2, 3, 4, 6, 7, 8, 
+Connections node 3: 0, 1, 2, 3, 5, 6, 8, 9, 
+Connections node 4: 2, 4, 5, 6, 7, 
+Connections node 5: 1, 3, 4, 5, 
+Connections node 6: 0, 2, 3, 4, 6, 7, 8, 
+Connections node 7: 1, 2, 4, 6, 7, 9, 
+Connections node 8: 0, 1, 2, 3, 6, 8, 9, 
+Connections node 9: 1, 3, 7, 8, 9, 
+
+connections.get(node.getId()) :[0, 1, 2, 3, 6, 8]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@19839c16
+connections.get(node.getId()) :[0, 1, 2, 3, 6, 8]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 3, 6, 8]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@708d3cec
+connections.get(node.getId()) :[0, 1, 2, 3, 6, 8]
+node 0: x=2889.572135920589 y=1893.7757468378413
+node 1: x=10006.518904824004 y=3131.510416666667
+node 5: x=3244.2713280452604 y=3626.1597448949433
+node 8: x=2852.489017523274 y=1877.1658014127856
+node 3: x=3459.8417488754344 y=3141.980652344365
+node 7: x=3236.1680880829945 y=36.896698587215525
+node 4: x=1846.546777852081 y=3003.852680988969
+node 2: x=2062.117198682255 y=2519.6735884383907
+node 6: x=2462.776669097515 y=1695.4399488642848
+node 9: x=3625.8804365087535 y=218.62255113571624
+Graph:
+Connections node 0: 0, 1, 2, 3, 6, 8, 9, 
+Connections node 1: 0, 1, 2, 3, 5, 7, 8, 9, 
+Connections node 2: 0, 1, 2, 3, 4, 6, 7, 8, 
+Connections node 3: 0, 1, 2, 3, 5, 6, 8, 9, 
+Connections node 4: 2, 4, 5, 6, 7, 
+Connections node 5: 1, 3, 4, 5, 
+Connections node 6: 0, 2, 3, 4, 6, 7, 8, 
+Connections node 7: 1, 2, 4, 6, 7, 9, 
+Connections node 8: 0, 1, 2, 3, 6, 8, 9, 
+Connections node 9: 0, 1, 3, 7, 8, 9, 
+
+connections.get(node.getId()) :[0, 1, 2, 3, 6, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@68f49200
+connections.get(node.getId()) :[0, 1, 2, 3, 6, 8, 9]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 3, 6, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@42a3a85d
+connections.get(node.getId()) :[0, 1, 2, 3, 6, 8, 9]
+node 2: x=2062.117198682255 y=2519.6735884383907
+node 6: x=2462.776669097515 y=1695.4399488642848
+node 7: x=3236.1680880829945 y=36.896698587215525
+node 0: x=3052.114716690692 y=1922.1466140392588
+node 8: x=2852.489017523274 y=1877.1658014127856
+node 9: x=3625.8804365087535 y=218.62255113571624
+node 4: x=1846.546777852081 y=3003.852680988969
+node 1: x=10006.518904824004 y=3131.510416666667
+node 3: x=3459.8417488754344 y=3141.980652344365
+node 5: x=3244.2713280452604 y=3626.1597448949433
+Graph:
+Connections node 0: 0, 1, 2, 3, 8, 9, 
+Connections node 1: 0, 1, 2, 3, 5, 7, 8, 9, 
+Connections node 2: 0, 1, 2, 3, 4, 6, 7, 8, 
+Connections node 3: 0, 1, 2, 3, 5, 6, 8, 9, 
+Connections node 4: 2, 4, 5, 6, 7, 
+Connections node 5: 1, 3, 4, 5, 
+Connections node 6: 2, 3, 4, 6, 7, 8, 
+Connections node 7: 1, 2, 4, 6, 7, 9, 
+Connections node 8: 0, 1, 2, 3, 6, 8, 9, 
+Connections node 9: 0, 1, 3, 7, 8, 9, 
+
+connections.get(node.getId()) :[0, 1, 2, 3, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@932e4c3
+connections.get(node.getId()) :[0, 1, 2, 3, 8, 9]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 3, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@1567239b
+connections.get(node.getId()) :[0, 1, 2, 3, 8, 9]
+node 0: x=3214.6748379064484 y=1950.4168632396884
+node 4: x=2852.489017523274 y=1877.1658014127856
+node 1: x=10006.518904824004 y=3131.510416666667
+node 3: x=3236.1680880829945 y=36.896698587215525
+node 2: x=2462.776669097515 y=1695.4399488642848
+node 5: x=3625.8804365087535 y=218.62255113571624
+Graph:
+Connections node 0: 0, 1, 4, 5, 
+Connections node 1: 0, 1, 3, 4, 5, 
+Connections node 2: 2, 3, 4, 
+Connections node 3: 1, 2, 3, 5, 
+Connections node 4: 0, 1, 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@42327833
+connections.get(node.getId()) :[0, 1, 4, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@736b7547
+connections.get(node.getId()) :[0, 1, 4, 5]
+node 1: x=10006.518904824004 y=3131.510416666667
+node 0: x=3377.235165746234 y=1978.6859242892072
+node 3: x=3236.1680880829945 y=36.896698587215525
+node 4: x=2852.489017523274 y=1877.1658014127856
+node 5: x=3625.8804365087535 y=218.62255113571624
+node 2: x=2462.776669097515 y=1695.4399488642848
+Graph:
+Connections node 0: 0, 1, 4, 5, 
+Connections node 1: 0, 1, 3, 4, 5, 
+Connections node 2: 2, 3, 4, 
+Connections node 3: 1, 2, 3, 5, 
+Connections node 4: 0, 1, 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@2067cb34
+connections.get(node.getId()) :[0, 1, 4, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@5047f841
+connections.get(node.getId()) :[0, 1, 4, 5]
+node 1: x=10006.518904824004 y=3131.510416666667
+node 2: x=2462.776669097515 y=1695.4399488642848
+node 4: x=2852.489017523274 y=1877.1658014127856
+node 5: x=3625.8804365087535 y=218.62255113571624
+node 3: x=3236.1680880829945 y=36.896698587215525
+node 0: x=3539.7954960841303 y=2006.95497097342
+Graph:
+Connections node 0: 0, 1, 4, 5, 
+Connections node 1: 0, 1, 3, 4, 5, 
+Connections node 2: 2, 3, 4, 
+Connections node 3: 1, 2, 3, 5, 
+Connections node 4: 0, 1, 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@760ae6f1
+connections.get(node.getId()) :[0, 1, 4, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@6ead38f8
+connections.get(node.getId()) :[0, 1, 4, 5]
+node 2: x=2462.776669097515 y=1695.4399488642848
+node 4: x=2852.489017523274 y=1877.1658014127856
+node 3: x=3236.1680880829945 y=36.896698587215525
+node 5: x=3625.8804365087535 y=218.62255113571624
+node 0: x=3702.35582645297 y=2035.224017479688
+node 1: x=10006.518904824004 y=3131.510416666667
+Graph:
+Connections node 0: 0, 1, 4, 5, 
+Connections node 1: 0, 1, 3, 4, 5, 
+Connections node 2: 2, 3, 4, 
+Connections node 3: 1, 2, 3, 5, 
+Connections node 4: 0, 1, 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@5bea2635
+connections.get(node.getId()) :[0, 1, 4, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@637880e0
+connections.get(node.getId()) :[0, 1, 4, 5]
+node 0: x=3864.916156822219 y=2063.4930639836975
+node 1: x=10006.518904824004 y=3131.510416666667
+Graph:
+Connections node 0: 0, 1, 
+Connections node 1: 0, 1, 
+
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@291d1e00
+connections.get(node.getId()) :[0, 1]
+0
+1
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@6c1f8547
+connections.get(node.getId()) :[0, 1]
+node 0: x=4027.4764871914704 y=2091.7621104876625
+node 1: x=10006.518904824004 y=3131.510416666667
+Graph:
+Connections node 0: 0, 1, 
+Connections node 1: 0, 1, 
+
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@1a5b5e96
+connections.get(node.getId()) :[0, 1]
+0
+1
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@5f59d3b9
+connections.get(node.getId()) :[0, 1]
+node 1: x=10006.518904824004 y=3131.510416666667
+node 0: x=4190.036817560722 y=2120.0311569916275
+Graph:
+Connections node 0: 0, 1, 
+Connections node 1: 0, 1, 
+
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@4ad17977
+connections.get(node.getId()) :[0, 1]
+0
+1
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@fd3ee49
+connections.get(node.getId()) :[0, 1]
+node 0: x=4352.597147929973 y=2148.3002034955925
+node 1: x=10006.518904824004 y=3131.510416666667
+Graph:
+Connections node 0: 0, 1, 
+Connections node 1: 0, 1, 
+
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@6fe12101
+connections.get(node.getId()) :[0, 1]
+0
+1
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@2ae3a299
+connections.get(node.getId()) :[0, 1]
+node 1: x=10006.518904824004 y=3131.510416666667
+node 0: x=4515.157478299225 y=2176.5692499995575
+Graph:
+Connections node 0: 0, 1, 
+Connections node 1: 0, 1, 
+
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@36e1ad05
+connections.get(node.getId()) :[0, 1]
+0
+1
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@73e335bd
+connections.get(node.getId()) :[0, 1]
+node 1: x=10006.518904824004 y=3131.510416666667
+node 0: x=4677.717808668476 y=2204.8382965035225
+Graph:
+Connections node 0: 0, 1, 
+Connections node 1: 0, 1, 
+
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@109716d1
+connections.get(node.getId()) :[0, 1]
+0
+1
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@55958aa7
+connections.get(node.getId()) :[0, 1]
+node 1: x=10006.518904824004 y=3131.510416666667
+node 0: x=4840.278139037728 y=2233.1073430074875
+Graph:
+Connections node 0: 0, 1, 
+Connections node 1: 0, 1, 
+
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@6cd476e2
+connections.get(node.getId()) :[0, 1]
+0
+1
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@29d6e51c
+connections.get(node.getId()) :[0, 1]
+node 1: x=10006.518904824004 y=3131.510416666667
+node 0: x=5002.838469406979 y=2261.3763895114525
+Graph:
+Connections node 0: 0, 1, 
+Connections node 1: 0, 1, 
+
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@699e5f68
+connections.get(node.getId()) :[0, 1]
+0
+1
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@2c9cdc3f
+connections.get(node.getId()) :[0, 1]
+node 4: x=5861.701434159066 y=1388.2812500000007
+node 2: x=5311.701434159066 y=838.2812500000007
+node 5: x=5311.701434159066 y=1388.2812500000007
+node 0: x=5165.398799776231 y=2289.6454360154175
+node 3: x=5861.701434159066 y=838.2812500000007
+node 1: x=10006.518904824004 y=3131.510416666667
+Graph:
+Connections node 0: 0, 1, 2, 4, 5, 
+Connections node 1: 0, 1, 3, 4, 5, 
+Connections node 2: 0, 2, 3, 5, 
+Connections node 3: 1, 2, 3, 4, 
+Connections node 4: 0, 1, 3, 4, 5, 
+Connections node 5: 0, 1, 2, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@4dfa4636
+connections.get(node.getId()) :[0, 1, 2, 4, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@2d5a49e1
+connections.get(node.getId()) :[0, 1, 2, 4, 5]
+node 2: x=5311.701434159066 y=838.2812500000007
+node 3: x=5861.701434159066 y=838.2812500000007
+node 1: x=10006.518904824004 y=3131.510416666667
+node 4: x=5861.701434159066 y=1388.2812500000007
+node 0: x=5327.959130145482 y=2317.9144825193825
+node 5: x=5311.701434159066 y=1388.2812500000007
+Graph:
+Connections node 0: 0, 1, 2, 4, 5, 
+Connections node 1: 0, 1, 3, 4, 5, 
+Connections node 2: 0, 2, 3, 5, 
+Connections node 3: 1, 2, 3, 4, 
+Connections node 4: 0, 1, 3, 4, 5, 
+Connections node 5: 0, 1, 2, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@113ad6bf
+connections.get(node.getId()) :[0, 1, 2, 4, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@7911c0f2
+connections.get(node.getId()) :[0, 1, 2, 4, 5]
+node 2: x=5311.701434159066 y=838.2812500000007
+node 4: x=5861.701434159066 y=1388.2812500000007
+node 0: x=5490.5194605147335 y=2346.1835290233475
+node 5: x=5311.701434159066 y=1388.2812500000007
+node 1: x=10006.518904824004 y=3131.510416666667
+node 3: x=5861.701434159066 y=838.2812500000007
+Graph:
+Connections node 0: 0, 1, 4, 5, 
+Connections node 1: 0, 1, 3, 4, 5, 
+Connections node 2: 2, 3, 5, 
+Connections node 3: 1, 2, 3, 4, 
+Connections node 4: 0, 1, 3, 4, 5, 
+Connections node 5: 0, 1, 2, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@148566dc
+connections.get(node.getId()) :[0, 1, 4, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@63f164fc
+connections.get(node.getId()) :[0, 1, 4, 5]
+node 1: x=10006.518904824004 y=3131.510416666667
+node 0: x=5653.079790883985 y=2374.4525755273125
+Graph:
+Connections node 0: 0, 1, 
+Connections node 1: 0, 1, 
+
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@50ebf535
+connections.get(node.getId()) :[0, 1]
+0
+1
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@15e9614c
+connections.get(node.getId()) :[0, 1]
+node 0: x=5815.640121253236 y=2402.7216220312775
+node 1: x=10006.518904824004 y=3131.510416666667
+Graph:
+Connections node 0: 0, 1, 
+Connections node 1: 0, 1, 
+
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@2f6d9bf6
+connections.get(node.getId()) :[0, 1]
+0
+1
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@6a6f007f
+connections.get(node.getId()) :[0, 1]
+node 1: x=10006.518904824004 y=3131.510416666667
+node 0: x=5978.200451622488 y=2430.9906685352425
+Graph:
+Connections node 0: 0, 1, 
+Connections node 1: 0, 1, 
+
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@751ab548
+connections.get(node.getId()) :[0, 1]
+0
+1
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@3018358f
+connections.get(node.getId()) :[0, 1]
+node 0: x=6140.760781991739 y=2459.2597150392075
+node 1: x=10006.518904824004 y=3131.510416666667
+Graph:
+Connections node 0: 0, 1, 
+Connections node 1: 0, 1, 
+
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@29b3934b
+connections.get(node.getId()) :[0, 1]
+0
+1
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@6cb11819
+connections.get(node.getId()) :[0, 1]
+node 0: x=6303.321112360991 y=2487.5287615431725
+node 1: x=10006.518904824004 y=3131.510416666667
+Graph:
+Connections node 0: 0, 1, 
+Connections node 1: 0, 1, 
+
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@13d97a4c
+connections.get(node.getId()) :[0, 1]
+0
+1
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@56dbe653
+connections.get(node.getId()) :[0, 1]
+node 1: x=10006.518904824004 y=3131.510416666667
+node 0: x=6465.881442730242 y=2515.7978080471566
+Graph:
+Connections node 0: 0, 1, 
+Connections node 1: 0, 1, 
+
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@bf3461c
+connections.get(node.getId()) :[0, 1]
+0
+1
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@4ef1d906
+connections.get(node.getId()) :[0, 1]
+node 0: x=6628.441773099494 y=2544.066854551167
+node 1: x=10006.518904824004 y=3131.510416666667
+Graph:
+Connections node 0: 0, 1, 
+Connections node 1: 0, 1, 
+
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@4e00f12d
+connections.get(node.getId()) :[0, 1]
+0
+1
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@b027689
+connections.get(node.getId()) :[0, 1]
+node 0: x=6791.002103468745 y=2572.3359010551617
+node 1: x=10006.518904824004 y=3131.510416666667
+Graph:
+Connections node 0: 0, 1, 
+Connections node 1: 0, 1, 
+
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@303fa496
+connections.get(node.getId()) :[0, 1]
+0
+1
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@753d2cf5
+connections.get(node.getId()) :[0, 1]
+node 5: x=8389.401767585883 y=3239.005103437542
+node 4: x=7828.423561520404 y=2375.1744184537556
+node 1: x=10006.518904824004 y=3131.510416666667
+node 2: x=8272.91896253148 y=2086.515729895791
+node 3: x=8833.897168596957 y=2950.3464148795774
+node 0: x=6953.562433837997 y=2600.6049475591267
+Graph:
+Connections node 0: 0, 2, 4, 5, 
+Connections node 1: 1, 2, 3, 5, 
+Connections node 2: 0, 1, 2, 3, 4, 
+Connections node 3: 1, 2, 3, 5, 
+Connections node 4: 0, 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@4e011950
+connections.get(node.getId()) :[0, 2, 4, 5]
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@1a2a200f
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+0
+5
+1
+connections.get(node.getId()) :[0, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@72609664
+connections.get(node.getId()) :[0, 2, 4, 5]
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@130866cb
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+node 0: x=7111.082190705404 y=2648.3051251540364
+node 4: x=7828.423561520404 y=2375.1744184537556
+node 5: x=8389.401767585883 y=3239.005103437542
+node 1: x=10006.518904824004 y=3131.510416666667
+node 2: x=8272.91896253148 y=2086.515729895791
+node 3: x=8833.897168596957 y=2950.3464148795774
+Graph:
+Connections node 0: 0, 2, 4, 5, 
+Connections node 1: 1, 2, 3, 5, 
+Connections node 2: 0, 1, 2, 3, 4, 
+Connections node 3: 1, 2, 3, 5, 
+Connections node 4: 0, 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@74ac50b9
+connections.get(node.getId()) :[0, 2, 4, 5]
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@2c3d7432
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+0
+5
+1
+connections.get(node.getId()) :[0, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@21cc2209
+connections.get(node.getId()) :[0, 2, 4, 5]
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@7997678e
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+node 2: x=8272.91896253148 y=2086.515729895791
+node 0: x=7261.36524835083 y=2716.419191505451
+node 3: x=8833.897168596957 y=2950.3464148795774
+node 1: x=10006.518904824004 y=3131.510416666667
+node 4: x=7828.423561520404 y=2375.1744184537556
+node 5: x=8389.401767585883 y=3239.005103437542
+Graph:
+Connections node 0: 0, 2, 4, 5, 
+Connections node 1: 1, 2, 3, 5, 
+Connections node 2: 0, 1, 2, 3, 4, 
+Connections node 3: 1, 2, 3, 5, 
+Connections node 4: 0, 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@1f2c60fb
+connections.get(node.getId()) :[0, 2, 4, 5]
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@57c0063a
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+0
+5
+1
+connections.get(node.getId()) :[0, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@680ec42d
+connections.get(node.getId()) :[0, 2, 4, 5]
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@78ff967e
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+node 0: x=7411.113737212457 y=2785.704023488617
+node 1: x=10006.518904824004 y=3131.510416666667
+node 2: x=8272.91896253148 y=2086.515729895791
+node 5: x=8389.401767585883 y=3239.005103437542
+node 3: x=8833.897168596957 y=2950.3464148795774
+node 4: x=7828.423561520404 y=2375.1744184537556
+Graph:
+Connections node 0: 0, 4, 5, 
+Connections node 1: 1, 2, 3, 5, 
+Connections node 2: 1, 2, 3, 4, 
+Connections node 3: 1, 2, 3, 5, 
+Connections node 4: 0, 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@1afcdc4e
+connections.get(node.getId()) :[0, 4, 5]
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@7ea0a9ae
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+0
+5
+1
+connections.get(node.getId()) :[0, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@f72094a
+connections.get(node.getId()) :[0, 4, 5]
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@7d9abaae
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+node 0: x=7560.82564740908 y=2855.0678752594986
+node 3: x=8833.897168596957 y=2950.3464148795774
+node 4: x=7828.423561520404 y=2375.1744184537556
+node 1: x=10006.518904824004 y=3131.510416666667
+node 5: x=8389.401767585883 y=3239.005103437542
+node 2: x=8272.91896253148 y=2086.515729895791
+Graph:
+Connections node 0: 0, 4, 5, 
+Connections node 1: 1, 2, 3, 5, 
+Connections node 2: 1, 2, 3, 4, 
+Connections node 3: 1, 2, 3, 5, 
+Connections node 4: 0, 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@40f05b7e
+connections.get(node.getId()) :[0, 4, 5]
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@67dbf04b
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+0
+5
+1
+connections.get(node.getId()) :[0, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@63810327
+connections.get(node.getId()) :[0, 4, 5]
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@191d0242
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+node 5: x=8389.401767585883 y=3239.005103437542
+node 0: x=7710.534692617462 y=2924.437910452568
+node 1: x=10006.518904824004 y=3131.510416666667
+node 4: x=7828.423561520404 y=2375.1744184537556
+node 3: x=8833.897168596957 y=2950.3464148795774
+node 2: x=8272.91896253148 y=2086.515729895791
+Graph:
+Connections node 0: 0, 4, 5, 
+Connections node 1: 1, 2, 3, 5, 
+Connections node 2: 1, 2, 3, 4, 
+Connections node 3: 1, 2, 3, 5, 
+Connections node 4: 0, 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@33ca4162
+connections.get(node.getId()) :[0, 4, 5]
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@74158b0b
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+0
+5
+1
+connections.get(node.getId()) :[0, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@49a2f9f8
+connections.get(node.getId()) :[0, 4, 5]
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@496e9160
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+node 2: x=8272.91896253148 y=2086.515729895791
+node 4: x=7828.423561520404 y=2375.1744184537556
+node 5: x=8389.401767585883 y=3239.005103437542
+node 3: x=8833.897168596957 y=2950.3464148795774
+node 0: x=7860.2434716630405 y=2993.808520055488
+node 1: x=10006.518904824004 y=3131.510416666667
+Graph:
+Connections node 0: 0, 4, 5, 
+Connections node 1: 1, 2, 3, 5, 
+Connections node 2: 1, 2, 3, 4, 
+Connections node 3: 1, 2, 3, 5, 
+Connections node 4: 0, 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@7fc9cc93
+connections.get(node.getId()) :[0, 4, 5]
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@36ec1ab7
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+0
+5
+1
+connections.get(node.getId()) :[0, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@4eab73bc
+connections.get(node.getId()) :[0, 4, 5]
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@55d13413
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+node 3: x=8833.897168596957 y=2950.3464148795774
+node 0: x=8009.952220241535 y=3063.1791954094238
+node 1: x=10006.518904824004 y=3131.510416666667
+node 4: x=7828.423561520404 y=2375.1744184537556
+node 2: x=8272.91896253148 y=2086.515729895791
+node 5: x=8389.401767585883 y=3239.005103437542
+Graph:
+Connections node 0: 0, 4, 5, 
+Connections node 1: 1, 2, 3, 5, 
+Connections node 2: 1, 2, 3, 4, 
+Connections node 3: 1, 2, 3, 5, 
+Connections node 4: 0, 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@32343d89
+connections.get(node.getId()) :[0, 4, 5]
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@6fe5a794
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+0
+5
+1
+connections.get(node.getId()) :[0, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@7f23b581
+connections.get(node.getId()) :[0, 4, 5]
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@3afbcdce
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+node 3: x=8833.897168596957 y=2950.3464148795774
+node 7: x=9214.66887684919 y=4965.696605586844
+node 2: x=8272.91896253148 y=2086.515729895791
+node 8: x=8594.97910229031 y=3927.532561079829
+node 1: x=10006.518904824004 y=3131.510416666667
+node 4: x=7828.423561520404 y=2375.1744184537556
+node 5: x=8389.401767585883 y=3239.005103437542
+node 9: x=8791.201543053941 y=5040.365321983624
+node 6: x=9018.446436085558 y=3852.863844683049
+node 0: x=8159.660964256106 y=3132.549880612759
+Graph:
+Connections node 0: 0, 4, 5, 6, 8, 9, 
+Connections node 1: 1, 2, 3, 5, 6, 7, 8, 
+Connections node 2: 1, 2, 3, 4, 
+Connections node 3: 1, 2, 3, 5, 6, 7, 8, 
+Connections node 4: 0, 2, 4, 5, 8, 9, 
+Connections node 5: 0, 1, 3, 4, 5, 6, 8, 9, 
+Connections node 6: 0, 1, 3, 5, 6, 7, 8, 
+Connections node 7: 1, 3, 6, 7, 9, 
+Connections node 8: 0, 1, 3, 4, 5, 6, 8, 9, 
+Connections node 9: 0, 4, 5, 7, 8, 9, 
+
+connections.get(node.getId()) :[0, 4, 5, 6, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@6873e57f
+connections.get(node.getId()) :[0, 4, 5, 6, 8, 9]
+connections.get(node.getId()) :[0, 1, 3, 4, 5, 6, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@3c7351b0
+connections.get(node.getId()) :[0, 1, 3, 4, 5, 6, 8, 9]
+0
+5
+1
+connections.get(node.getId()) :[0, 4, 5, 6, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@1fda1e94
+connections.get(node.getId()) :[0, 4, 5, 6, 8, 9]
+connections.get(node.getId()) :[0, 1, 3, 4, 5, 6, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@48237f26
+connections.get(node.getId()) :[0, 1, 3, 4, 5, 6, 8, 9]
+node 6: x=9018.446436085558 y=3852.863844683049
+node 8: x=8594.97910229031 y=3927.532561079829
+node 0: x=8309.369707264521 y=3201.9205679874663
+node 4: x=7828.423561520404 y=2375.1744184537556
+node 1: x=10006.518904824004 y=3131.510416666667
+node 5: x=8389.401767585883 y=3239.005103437542
+node 9: x=8791.201543053941 y=5040.365321983624
+node 2: x=8272.91896253148 y=2086.515729895791
+node 3: x=8833.897168596957 y=2950.3464148795774
+node 7: x=9214.66887684919 y=4965.696605586844
+Graph:
+Connections node 0: 0, 4, 5, 6, 8, 9, 
+Connections node 1: 1, 2, 3, 5, 6, 7, 8, 
+Connections node 2: 1, 2, 3, 4, 
+Connections node 3: 1, 2, 3, 5, 6, 7, 8, 
+Connections node 4: 0, 2, 4, 5, 8, 9, 
+Connections node 5: 0, 1, 3, 4, 5, 6, 8, 9, 
+Connections node 6: 0, 1, 3, 5, 6, 7, 8, 
+Connections node 7: 1, 3, 6, 7, 9, 
+Connections node 8: 0, 1, 3, 4, 5, 6, 8, 9, 
+Connections node 9: 0, 4, 5, 7, 8, 9, 
+
+connections.get(node.getId()) :[0, 4, 5, 6, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@6c1d5f2f
+connections.get(node.getId()) :[0, 4, 5, 6, 8, 9]
+connections.get(node.getId()) :[0, 1, 3, 4, 5, 6, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@3d435dfe
+connections.get(node.getId()) :[0, 1, 3, 4, 5, 6, 8, 9]
+0
+5
+1
+connections.get(node.getId()) :[0, 4, 5, 6, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@695baaf5
+connections.get(node.getId()) :[0, 4, 5, 6, 8, 9]
+connections.get(node.getId()) :[0, 1, 3, 4, 5, 6, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@3a5d7463
+connections.get(node.getId()) :[0, 1, 3, 4, 5, 6, 8, 9]
+node 3: x=8833.897168596957 y=2950.3464148795774
+node 7: x=9214.66887684919 y=4965.696605586844
+node 4: x=7828.423561520404 y=2375.1744184537556
+node 9: x=8791.201543053941 y=5040.365321983624
+node 2: x=8272.91896253148 y=2086.515729895791
+node 6: x=9018.446436085558 y=3852.863844683049
+node 1: x=10006.518904824004 y=3131.510416666667
+node 5: x=8389.401767585883 y=3239.005103437542
+node 0: x=8459.078449790777 y=3271.291256402724
+node 8: x=8594.97910229031 y=3927.532561079829
+Graph:
+Connections node 0: 0, 1, 3, 5, 6, 8, 9, 
+Connections node 1: 0, 1, 2, 3, 5, 6, 7, 8, 
+Connections node 2: 1, 2, 3, 4, 
+Connections node 3: 0, 1, 2, 3, 5, 6, 7, 8, 
+Connections node 4: 2, 4, 5, 8, 9, 
+Connections node 5: 0, 1, 3, 4, 5, 6, 8, 9, 
+Connections node 6: 0, 1, 3, 5, 6, 7, 8, 
+Connections node 7: 1, 3, 6, 7, 9, 
+Connections node 8: 0, 1, 3, 4, 5, 6, 8, 9, 
+Connections node 9: 0, 4, 5, 7, 8, 9, 
+
+connections.get(node.getId()) :[0, 1, 3, 5, 6, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@3934ab33
+connections.get(node.getId()) :[0, 1, 3, 5, 6, 8, 9]
+0
+1
+connections.get(node.getId()) :[0, 1, 3, 5, 6, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@5f798c19
+connections.get(node.getId()) :[0, 1, 3, 5, 6, 8, 9]
+node 4: x=7828.423561520404 y=2375.1744184537556
+node 0: x=8550.999524902503 y=3285.769426333353
+node 1: x=10006.518904824004 y=3131.510416666667
+node 3: x=8833.897168596957 y=2950.3464148795774
+node 7: x=9214.66887684919 y=4965.696605586844
+node 5: x=8389.401767585883 y=3239.005103437542
+node 6: x=9018.446436085558 y=3852.863844683049
+node 2: x=8272.91896253148 y=2086.515729895791
+node 8: x=8594.97910229031 y=3927.532561079829
+node 9: x=8791.201543053941 y=5040.365321983624
+Graph:
+Connections node 0: 0, 1, 3, 5, 6, 8, 
+Connections node 1: 0, 1, 2, 3, 5, 6, 7, 8, 
+Connections node 2: 1, 2, 3, 4, 
+Connections node 3: 0, 1, 2, 3, 5, 6, 7, 8, 
+Connections node 4: 2, 4, 5, 8, 9, 
+Connections node 5: 0, 1, 3, 4, 5, 6, 8, 9, 
+Connections node 6: 0, 1, 3, 5, 6, 7, 8, 
+Connections node 7: 1, 3, 6, 7, 9, 
+Connections node 8: 0, 1, 3, 4, 5, 6, 8, 9, 
+Connections node 9: 4, 5, 7, 8, 9, 
+
+connections.get(node.getId()) :[0, 1, 3, 5, 6, 8]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@433d5038
+connections.get(node.getId()) :[0, 1, 3, 5, 6, 8]
+0
+1
+connections.get(node.getId()) :[0, 1, 3, 5, 6, 8]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@a60e5c
+connections.get(node.getId()) :[0, 1, 3, 5, 6, 8]
+node 1: x=10006.518904824004 y=3131.510416666667
+node 2: x=8272.91896253148 y=2086.515729895791
+node 4: x=7828.423561520404 y=2375.1744184537556
+node 6: x=9018.446436085558 y=3852.863844683049
+node 3: x=8833.897168596957 y=2950.3464148795774
+node 7: x=9214.66887684919 y=4965.696605586844
+node 8: x=8594.97910229031 y=3927.532561079829
+node 0: x=8714.879036828223 y=3266.600242289749
+node 5: x=8389.401767585883 y=3239.005103437542
+node 9: x=8791.201543053941 y=5040.365321983624
+Graph:
+Connections node 0: 0, 1, 3, 5, 6, 8, 
+Connections node 1: 0, 1, 2, 3, 5, 6, 7, 8, 
+Connections node 2: 1, 2, 3, 4, 
+Connections node 3: 0, 1, 2, 3, 5, 6, 7, 8, 
+Connections node 4: 2, 4, 5, 8, 9, 
+Connections node 5: 0, 1, 3, 4, 5, 6, 8, 9, 
+Connections node 6: 0, 1, 3, 5, 6, 7, 8, 
+Connections node 7: 1, 3, 6, 7, 9, 
+Connections node 8: 0, 1, 3, 4, 5, 6, 8, 9, 
+Connections node 9: 4, 5, 7, 8, 9, 
+
+connections.get(node.getId()) :[0, 1, 3, 5, 6, 8]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@207b5d06
+connections.get(node.getId()) :[0, 1, 3, 5, 6, 8]
+0
+1
+connections.get(node.getId()) :[0, 1, 3, 5, 6, 8]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@70ea94a7
+connections.get(node.getId()) :[0, 1, 3, 5, 6, 8]
+node 1: x=10006.518904824004 y=3131.510416666667
+node 2: x=8272.91896253148 y=2086.515729895791
+node 3: x=8833.897168596957 y=2950.3464148795774
+node 7: x=9214.66887684919 y=4965.696605586844
+node 5: x=8389.401767585883 y=3239.005103437542
+node 4: x=7828.423561520404 y=2375.1744184537556
+node 0: x=8878.971932566676 y=3249.322590412763
+node 6: x=9018.446436085558 y=3852.863844683049
+node 8: x=8594.97910229031 y=3927.532561079829
+node 9: x=8791.201543053941 y=5040.365321983624
+Graph:
+Connections node 0: 0, 1, 3, 5, 6, 8, 
+Connections node 1: 0, 1, 2, 3, 5, 6, 7, 8, 
+Connections node 2: 1, 2, 3, 4, 
+Connections node 3: 0, 1, 2, 3, 5, 6, 7, 8, 
+Connections node 4: 2, 4, 5, 8, 9, 
+Connections node 5: 0, 1, 3, 4, 5, 6, 8, 9, 
+Connections node 6: 0, 1, 3, 5, 6, 7, 8, 
+Connections node 7: 1, 3, 6, 7, 9, 
+Connections node 8: 0, 1, 3, 4, 5, 6, 8, 9, 
+Connections node 9: 4, 5, 7, 8, 9, 
+
+connections.get(node.getId()) :[0, 1, 3, 5, 6, 8]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@101e081c
+connections.get(node.getId()) :[0, 1, 3, 5, 6, 8]
+0
+1
+connections.get(node.getId()) :[0, 1, 3, 5, 6, 8]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@20cc4437
+connections.get(node.getId()) :[0, 1, 3, 5, 6, 8]
+node 3: x=8833.897168596957 y=2950.3464148795774
+node 4: x=7828.423561520404 y=2375.1744184537556
+node 7: x=9214.66887684919 y=4965.696605586844
+node 8: x=8594.97910229031 y=3927.532561079829
+node 0: x=9043.077694215566 y=3232.167446276514
+node 1: x=10006.518904824004 y=3131.510416666667
+node 5: x=8389.401767585883 y=3239.005103437542
+node 9: x=8791.201543053941 y=5040.365321983624
+node 2: x=8272.91896253148 y=2086.515729895791
+node 6: x=9018.446436085558 y=3852.863844683049
+Graph:
+Connections node 0: 0, 1, 2, 3, 5, 6, 7, 8, 
+Connections node 1: 0, 1, 2, 3, 5, 6, 7, 8, 
+Connections node 2: 0, 1, 2, 3, 4, 
+Connections node 3: 0, 1, 2, 3, 5, 6, 7, 8, 
+Connections node 4: 2, 4, 5, 8, 9, 
+Connections node 5: 0, 1, 3, 4, 5, 6, 8, 9, 
+Connections node 6: 0, 1, 3, 5, 6, 7, 8, 
+Connections node 7: 0, 1, 3, 6, 7, 9, 
+Connections node 8: 0, 1, 3, 4, 5, 6, 8, 9, 
+Connections node 9: 4, 5, 7, 8, 9, 
+
+connections.get(node.getId()) :[0, 1, 2, 3, 5, 6, 7, 8]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@4d471486
+connections.get(node.getId()) :[0, 1, 2, 3, 5, 6, 7, 8]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 3, 5, 6, 7, 8]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@75b72b79
+connections.get(node.getId()) :[0, 1, 2, 3, 5, 6, 7, 8]
+node 3: x=8833.897168596957 y=2950.3464148795774
+node 7: x=9214.66887684919 y=4965.696605586844
+node 6: x=9018.446436085558 y=3852.863844683049
+node 9: x=8791.201543053941 y=5040.365321983624
+node 1: x=10006.518904824004 y=3131.510416666667
+node 0: x=9207.184407779685 y=3215.021409912067
+node 5: x=8389.401767585883 y=3239.005103437542
+node 4: x=7828.423561520404 y=2375.1744184537556
+node 8: x=8594.97910229031 y=3927.532561079829
+node 2: x=8272.91896253148 y=2086.515729895791
+Graph:
+Connections node 0: 0, 1, 2, 3, 5, 6, 7, 8, 
+Connections node 1: 0, 1, 2, 3, 5, 6, 7, 8, 
+Connections node 2: 0, 1, 2, 3, 4, 
+Connections node 3: 0, 1, 2, 3, 5, 6, 7, 8, 
+Connections node 4: 2, 4, 5, 8, 9, 
+Connections node 5: 0, 1, 3, 4, 5, 6, 8, 9, 
+Connections node 6: 0, 1, 3, 5, 6, 7, 8, 
+Connections node 7: 0, 1, 3, 6, 7, 9, 
+Connections node 8: 0, 1, 3, 4, 5, 6, 8, 9, 
+Connections node 9: 4, 5, 7, 8, 9, 
+
+connections.get(node.getId()) :[0, 1, 2, 3, 5, 6, 7, 8]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@24a57f68
+connections.get(node.getId()) :[0, 1, 2, 3, 5, 6, 7, 8]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 3, 5, 6, 7, 8]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@42ba3bf2
+connections.get(node.getId()) :[0, 1, 2, 3, 5, 6, 7, 8]
+node 6: x=9018.446436085558 y=3852.863844683049
+node 5: x=8389.401767585883 y=3239.005103437542
+node 4: x=7828.423561520404 y=2375.1744184537556
+node 2: x=8272.91896253148 y=2086.515729895791
+node 8: x=8594.97910229031 y=3927.532561079829
+node 1: x=10006.518904824004 y=3131.510416666667
+node 9: x=8791.201543053941 y=5040.365321983624
+node 3: x=8833.897168596957 y=2950.3464148795774
+node 7: x=9214.66887684919 y=4965.696605586844
+node 0: x=9371.291204503897 y=3197.876169496121
+Graph:
+Connections node 0: 0, 1, 2, 3, 5, 6, 7, 8, 
+Connections node 1: 0, 1, 2, 3, 5, 6, 7, 8, 
+Connections node 2: 0, 1, 2, 3, 4, 
+Connections node 3: 0, 1, 2, 3, 5, 6, 7, 8, 
+Connections node 4: 2, 4, 5, 8, 9, 
+Connections node 5: 0, 1, 3, 4, 5, 6, 8, 9, 
+Connections node 6: 0, 1, 3, 5, 6, 7, 8, 
+Connections node 7: 0, 1, 3, 6, 7, 9, 
+Connections node 8: 0, 1, 3, 4, 5, 6, 8, 9, 
+Connections node 9: 4, 5, 7, 8, 9, 
+
+connections.get(node.getId()) :[0, 1, 2, 3, 5, 6, 7, 8]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@361c943d
+connections.get(node.getId()) :[0, 1, 2, 3, 5, 6, 7, 8]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 3, 5, 6, 7, 8]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@6e18dfa5
+connections.get(node.getId()) :[0, 1, 2, 3, 5, 6, 7, 8]
+node 6: x=9018.446436085558 y=3852.863844683049
+node 0: x=9535.398010055227 y=3180.7310135697976
+node 9: x=8791.201543053941 y=5040.365321983624
+node 1: x=10006.518904824004 y=3131.510416666667
+node 4: x=7828.423561520404 y=2375.1744184537556
+node 8: x=8594.97910229031 y=3927.532561079829
+node 2: x=8272.91896253148 y=2086.515729895791
+node 3: x=8833.897168596957 y=2950.3464148795774
+node 5: x=8389.401767585883 y=3239.005103437542
+node 7: x=9214.66887684919 y=4965.696605586844
+Graph:
+Connections node 0: 0, 1, 2, 3, 5, 6, 7, 8, 
+Connections node 1: 0, 1, 2, 3, 5, 6, 7, 8, 
+Connections node 2: 0, 1, 2, 3, 4, 
+Connections node 3: 0, 1, 2, 3, 5, 6, 7, 8, 
+Connections node 4: 2, 4, 5, 8, 9, 
+Connections node 5: 0, 1, 3, 4, 5, 6, 8, 9, 
+Connections node 6: 0, 1, 3, 5, 6, 7, 8, 
+Connections node 7: 0, 1, 3, 6, 7, 9, 
+Connections node 8: 0, 1, 3, 4, 5, 6, 8, 9, 
+Connections node 9: 4, 5, 7, 8, 9, 
+
+connections.get(node.getId()) :[0, 1, 2, 3, 5, 6, 7, 8]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@4f357483
+connections.get(node.getId()) :[0, 1, 2, 3, 5, 6, 7, 8]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 3, 5, 6, 7, 8]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@5cd7d13e
+connections.get(node.getId()) :[0, 1, 2, 3, 5, 6, 7, 8]
+node 0: x=9699.504816803654 y=3163.5858691016074
+node 9: x=8791.201543053941 y=5040.365321983624
+node 8: x=8594.97910229031 y=3927.532561079829
+node 4: x=7828.423561520404 y=2375.1744184537556
+node 5: x=8389.401767585883 y=3239.005103437542
+node 1: x=10006.518904824004 y=3131.510416666667
+node 2: x=8272.91896253148 y=2086.515729895791
+node 6: x=9018.446436085558 y=3852.863844683049
+node 3: x=8833.897168596957 y=2950.3464148795774
+node 7: x=9214.66887684919 y=4965.696605586844
+Graph:
+Connections node 0: 0, 1, 2, 3, 5, 6, 7, 8, 
+Connections node 1: 0, 1, 2, 3, 5, 6, 7, 8, 
+Connections node 2: 0, 1, 2, 3, 4, 
+Connections node 3: 0, 1, 2, 3, 5, 6, 7, 8, 
+Connections node 4: 2, 4, 5, 8, 9, 
+Connections node 5: 0, 1, 3, 4, 5, 6, 8, 9, 
+Connections node 6: 0, 1, 3, 5, 6, 7, 8, 
+Connections node 7: 0, 1, 3, 6, 7, 9, 
+Connections node 8: 0, 1, 3, 4, 5, 6, 8, 9, 
+Connections node 9: 4, 5, 7, 8, 9, 
+
+connections.get(node.getId()) :[0, 1, 2, 3, 5, 6, 7, 8]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@59244b36
+connections.get(node.getId()) :[0, 1, 2, 3, 5, 6, 7, 8]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 3, 5, 6, 7, 8]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@36e5fea6
+connections.get(node.getId()) :[0, 1, 2, 3, 5, 6, 7, 8]
+node 1: x=3552.8031290743315 y=-2532.552083333334
+node 0: x=9882.755135515305 y=3084.63863346252
+Graph:
+Connections node 0: 0, 1, 
+Connections node 1: 0, 1, 
+
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@3f31f6f4
+connections.get(node.getId()) :[0, 1]
+0
+1
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@7a336f76
+connections.get(node.getId()) :[0, 1]
+node 1: x=3552.8031290743315 y=-2532.552083333334
+node 2: x=8272.91896253148 y=2086.515729895791
+node 4: x=7828.423561520404 y=2375.1744184537556
+node 5: x=8389.401767585883 y=3239.005103437542
+node 3: x=8833.897168596957 y=2950.3464148795774
+node 0: x=9756.921462907618 y=2977.931590163291
+Graph:
+Connections node 0: 0, 1, 2, 3, 5, 
+Connections node 1: 0, 1, 2, 4, 5, 
+Connections node 2: 0, 1, 2, 3, 4, 
+Connections node 3: 0, 2, 3, 5, 
+Connections node 4: 1, 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 2, 3, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@192db919
+connections.get(node.getId()) :[0, 1, 2, 3, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 3, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@1b0cc07
+connections.get(node.getId()) :[0, 1, 2, 3, 5]
+node 2: x=8272.91896253148 y=2086.515729895791
+node 1: x=3552.8031290743315 y=-2532.552083333334
+node 4: x=7828.423561520404 y=2375.1744184537556
+node 3: x=8833.897168596957 y=2950.3464148795774
+node 0: x=9633.531871970472 y=2868.3870403428464
+node 5: x=8389.401767585883 y=3239.005103437542
+Graph:
+Connections node 0: 0, 1, 2, 3, 5, 
+Connections node 1: 0, 1, 2, 4, 5, 
+Connections node 2: 0, 1, 2, 3, 4, 
+Connections node 3: 0, 2, 3, 5, 
+Connections node 4: 1, 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 2, 3, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@190aed9c
+connections.get(node.getId()) :[0, 1, 2, 3, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 3, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@6ab0d594
+connections.get(node.getId()) :[0, 1, 2, 3, 5]
+node 0: x=9510.167252105164 y=2758.814367812514
+node 4: x=7828.423561520404 y=2375.1744184537556
+node 3: x=8833.897168596957 y=2950.3464148795774
+node 1: x=3552.8031290743315 y=-2532.552083333334
+node 2: x=8272.91896253148 y=2086.515729895791
+node 5: x=8389.401767585883 y=3239.005103437542
+Graph:
+Connections node 0: 0, 1, 2, 3, 5, 
+Connections node 1: 0, 1, 2, 4, 5, 
+Connections node 2: 0, 1, 2, 3, 4, 
+Connections node 3: 0, 2, 3, 5, 
+Connections node 4: 1, 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 2, 3, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@73def28e
+connections.get(node.getId()) :[0, 1, 2, 3, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 3, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@532d8577
+connections.get(node.getId()) :[0, 1, 2, 3, 5]
+node 1: x=3552.8031290743315 y=-2532.552083333334
+node 4: x=7828.423561520404 y=2375.1744184537556
+node 2: x=8272.91896253148 y=2086.515729895791
+node 3: x=8833.897168596957 y=2950.3464148795774
+node 0: x=9386.802888172702 y=2649.2414071354406
+node 5: x=8389.401767585883 y=3239.005103437542
+Graph:
+Connections node 0: 0, 1, 2, 3, 5, 
+Connections node 1: 0, 1, 2, 4, 5, 
+Connections node 2: 0, 1, 2, 3, 4, 
+Connections node 3: 0, 2, 3, 5, 
+Connections node 4: 1, 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 2, 3, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@7f105f77
+connections.get(node.getId()) :[0, 1, 2, 3, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 3, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@543c0dca
+connections.get(node.getId()) :[0, 1, 2, 3, 5]
+node 0: x=9263.438526917233 y=2539.6684434444346
+node 1: x=3552.8031290743315 y=-2532.552083333334
+node 4: x=7828.423561520404 y=2375.1744184537556
+node 3: x=8833.897168596957 y=2950.3464148795774
+node 2: x=8272.91896253148 y=2086.515729895791
+node 5: x=8389.401767585883 y=3239.005103437542
+Graph:
+Connections node 0: 0, 1, 2, 3, 
+Connections node 1: 0, 1, 2, 4, 5, 
+Connections node 2: 0, 1, 2, 3, 4, 
+Connections node 3: 0, 2, 3, 5, 
+Connections node 4: 1, 2, 4, 5, 
+Connections node 5: 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 2, 3]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@13f6e802
+connections.get(node.getId()) :[0, 1, 2, 3]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 3]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@51719c25
+connections.get(node.getId()) :[0, 1, 2, 3]
+node 3: x=8833.897168596957 y=2950.3464148795774
+node 0: x=9140.07416569036 y=2430.0954797212376
+node 4: x=7828.423561520404 y=2375.1744184537556
+node 1: x=3552.8031290743315 y=-2532.552083333334
+node 5: x=8389.401767585883 y=3239.005103437542
+node 2: x=8272.91896253148 y=2086.515729895791
+Graph:
+Connections node 0: 0, 1, 2, 3, 
+Connections node 1: 0, 1, 2, 4, 5, 
+Connections node 2: 0, 1, 2, 3, 4, 
+Connections node 3: 0, 2, 3, 5, 
+Connections node 4: 1, 2, 4, 5, 
+Connections node 5: 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 2, 3]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@731ef6c4
+connections.get(node.getId()) :[0, 1, 2, 3]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 3]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@77d87fd
+connections.get(node.getId()) :[0, 1, 2, 3]
+node 4: x=7828.423561520404 y=2375.1744184537556
+node 2: x=8272.91896253148 y=2086.515729895791
+node 5: x=8389.401767585883 y=3239.005103437542
+node 3: x=8833.897168596957 y=2950.3464148795774
+node 0: x=9016.709804463764 y=2320.5225159977063
+node 1: x=3552.8031290743315 y=-2532.552083333334
+Graph:
+Connections node 0: 0, 1, 2, 3, 
+Connections node 1: 0, 1, 2, 4, 5, 
+Connections node 2: 0, 1, 2, 3, 4, 
+Connections node 3: 0, 2, 3, 5, 
+Connections node 4: 1, 2, 4, 5, 
+Connections node 5: 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 2, 3]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@3884d8d2
+connections.get(node.getId()) :[0, 1, 2, 3]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 3]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@7864e23d
+connections.get(node.getId()) :[0, 1, 2, 3]
+node 3: x=8833.897168596957 y=2950.3464148795774
+node 5: x=8389.401767585883 y=3239.005103437542
+node 2: x=8272.91896253148 y=2086.515729895791
+node 1: x=3552.8031290743315 y=-2532.552083333334
+node 4: x=7828.423561520404 y=2375.1744184537556
+node 0: x=8893.34544323717 y=2210.94955227413
+Graph:
+Connections node 0: 0, 1, 2, 3, 
+Connections node 1: 0, 1, 2, 4, 5, 
+Connections node 2: 0, 1, 2, 3, 4, 
+Connections node 3: 0, 2, 3, 5, 
+Connections node 4: 1, 2, 4, 5, 
+Connections node 5: 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 2, 3]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@29b3968f
+connections.get(node.getId()) :[0, 1, 2, 3]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 3]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@26c9f7
+connections.get(node.getId()) :[0, 1, 2, 3]
+node 3: x=8833.897168596957 y=2950.3464148795774
+node 0: x=8769.981082010574 y=2101.3765885505536
+node 4: x=7828.423561520404 y=2375.1744184537556
+node 5: x=8389.401767585883 y=3239.005103437542
+node 1: x=3552.8031290743315 y=-2532.552083333334
+node 2: x=8272.91896253148 y=2086.515729895791
+Graph:
+Connections node 0: 0, 1, 2, 3, 
+Connections node 1: 0, 1, 2, 4, 5, 
+Connections node 2: 0, 1, 2, 3, 4, 
+Connections node 3: 0, 2, 3, 5, 
+Connections node 4: 1, 2, 4, 5, 
+Connections node 5: 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 2, 3]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@61489dc8
+connections.get(node.getId()) :[0, 1, 2, 3]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 3]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@30ffd99e
+connections.get(node.getId()) :[0, 1, 2, 3]
+node 2: x=8272.91896253148 y=2086.515729895791
+node 4: x=7828.423561520404 y=2375.1744184537556
+node 5: x=8389.401767585883 y=3239.005103437542
+node 1: x=3552.8031290743315 y=-2532.552083333334
+node 3: x=8833.897168596957 y=2950.3464148795774
+node 0: x=8646.616720783979 y=1991.803624826989
+Graph:
+Connections node 0: 0, 1, 2, 3, 
+Connections node 1: 0, 1, 2, 4, 5, 
+Connections node 2: 0, 1, 2, 3, 4, 
+Connections node 3: 0, 2, 3, 5, 
+Connections node 4: 1, 2, 4, 5, 
+Connections node 5: 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 2, 3]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@3ec64d68
+connections.get(node.getId()) :[0, 1, 2, 3]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 3]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@29c43089
+connections.get(node.getId()) :[0, 1, 2, 3]
+node 4: x=7828.423561520404 y=2375.1744184537556
+node 2: x=8272.91896253148 y=2086.515729895791
+node 5: x=8389.401767585883 y=3239.005103437542
+node 1: x=3552.8031290743315 y=-2532.552083333334
+node 3: x=8833.897168596957 y=2950.3464148795774
+node 0: x=8523.252359557384 y=1882.2306611034355
+Graph:
+Connections node 0: 0, 1, 2, 3, 4, 
+Connections node 1: 0, 1, 2, 4, 5, 
+Connections node 2: 0, 1, 2, 3, 4, 
+Connections node 3: 0, 2, 3, 5, 
+Connections node 4: 0, 1, 2, 4, 5, 
+Connections node 5: 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@6a047be8
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@793eb85b
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+node 2: x=8272.91896253148 y=2086.515729895791
+node 3: x=8833.897168596957 y=2950.3464148795774
+node 1: x=3552.8031290743315 y=-2532.552083333334
+node 0: x=8399.887998330789 y=1772.657697379882
+node 4: x=7828.423561520404 y=2375.1744184537556
+node 5: x=8389.401767585883 y=3239.005103437542
+Graph:
+Connections node 0: 0, 1, 2, 3, 4, 
+Connections node 1: 0, 1, 2, 4, 5, 
+Connections node 2: 0, 1, 2, 3, 4, 
+Connections node 3: 0, 2, 3, 5, 
+Connections node 4: 0, 1, 2, 4, 5, 
+Connections node 5: 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@1ed918a1
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@43103a31
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+node 5: x=8389.401767585883 y=3239.005103437542
+node 4: x=7828.423561520404 y=2375.1744184537556
+node 2: x=8272.91896253148 y=2086.515729895791
+node 3: x=8833.897168596957 y=2950.3464148795774
+node 0: x=8276.523637104194 y=1663.0847336563284
+node 1: x=3552.8031290743315 y=-2532.552083333334
+Graph:
+Connections node 0: 0, 1, 2, 3, 4, 
+Connections node 1: 0, 1, 2, 4, 5, 
+Connections node 2: 0, 1, 2, 3, 4, 
+Connections node 3: 0, 2, 3, 5, 
+Connections node 4: 0, 1, 2, 4, 5, 
+Connections node 5: 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@559264b2
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@57e948b0
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+node 5: x=8389.401767585883 y=3239.005103437542
+node 1: x=3552.8031290743315 y=-2532.552083333334
+node 4: x=7828.423561520404 y=2375.1744184537556
+node 2: x=8272.91896253148 y=2086.515729895791
+node 3: x=8833.897168596957 y=2950.3464148795774
+node 0: x=8153.159275877599 y=1553.5117699327748
+Graph:
+Connections node 0: 0, 1, 2, 3, 4, 
+Connections node 1: 0, 1, 2, 4, 5, 
+Connections node 2: 0, 1, 2, 3, 4, 
+Connections node 3: 0, 2, 3, 5, 
+Connections node 4: 0, 1, 2, 4, 5, 
+Connections node 5: 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@708e9279
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@280df06a
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+node 1: x=3552.8031290743315 y=-2532.552083333334
+node 0: x=8029.794914651004 y=1443.9388062092212
+node 3: x=8833.897168596957 y=2950.3464148795774
+node 5: x=8389.401767585883 y=3239.005103437542
+node 2: x=8272.91896253148 y=2086.515729895791
+node 4: x=7828.423561520404 y=2375.1744184537556
+Graph:
+Connections node 0: 0, 1, 2, 3, 4, 
+Connections node 1: 0, 1, 2, 4, 5, 
+Connections node 2: 0, 1, 2, 3, 4, 
+Connections node 3: 0, 2, 3, 5, 
+Connections node 4: 0, 1, 2, 4, 5, 
+Connections node 5: 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@2697483e
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@5672c21
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+node 2: x=8272.91896253148 y=2086.515729895791
+node 3: x=8833.897168596957 y=2950.3464148795774
+node 1: x=3552.8031290743315 y=-2532.552083333334
+node 0: x=7906.430553424409 y=1334.3658424856676
+node 5: x=8389.401767585883 y=3239.005103437542
+node 4: x=7828.423561520404 y=2375.1744184537556
+Graph:
+Connections node 0: 0, 1, 2, 3, 4, 
+Connections node 1: 0, 1, 2, 4, 5, 
+Connections node 2: 0, 1, 2, 3, 4, 
+Connections node 3: 0, 2, 3, 5, 
+Connections node 4: 0, 1, 2, 4, 5, 
+Connections node 5: 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@65fed749
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@380f5ecc
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+node 0: x=7783.0661921978135 y=1224.792878762114
+node 1: x=3552.8031290743315 y=-2532.552083333334
+Graph:
+Connections node 0: 0, 1, 
+Connections node 1: 0, 1, 
+
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@24bad7b5
+connections.get(node.getId()) :[0, 1]
+0
+1
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@61b85d46
+connections.get(node.getId()) :[0, 1]
+node 1: x=3552.8031290743315 y=-2532.552083333334
+node 0: x=7659.701830971218 y=1115.2199150385604
+Graph:
+Connections node 0: 0, 1, 
+Connections node 1: 0, 1, 
+
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@3aee8463
+connections.get(node.getId()) :[0, 1]
+0
+1
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@7fec0d5a
+connections.get(node.getId()) :[0, 1]
+node 1: x=3552.8031290743315 y=-2532.552083333334
+node 0: x=7536.337469744623 y=1005.6469513150068
+Graph:
+Connections node 0: 0, 1, 
+Connections node 1: 0, 1, 
+
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@1a024e30
+connections.get(node.getId()) :[0, 1]
+0
+1
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@5f00d314
+connections.get(node.getId()) :[0, 1]
+node 0: x=7412.973108518028 y=896.0739875914533
+node 1: x=3552.8031290743315 y=-2532.552083333334
+Graph:
+Connections node 0: 0, 1, 
+Connections node 1: 0, 1, 
+
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@130a2976
+connections.get(node.getId()) :[0, 1]
+0
+1
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@5608a573
+connections.get(node.getId()) :[0, 1]
+node 0: x=7289.608747291433 y=786.5010238678997
+node 1: x=3552.8031290743315 y=-2532.552083333334
+Graph:
+Connections node 0: 0, 1, 
+Connections node 1: 0, 1, 
+
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@32ed3d07
+connections.get(node.getId()) :[0, 1]
+0
+1
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@77efa53e
+connections.get(node.getId()) :[0, 1]
+node 1: x=3552.8031290743315 y=-2532.552083333334
+node 0: x=7166.244386064838 y=676.9280601443461
+Graph:
+Connections node 0: 0, 1, 
+Connections node 1: 0, 1, 
+
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@27185c3e
+connections.get(node.getId()) :[0, 1]
+0
+1
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@621ac6b9
+connections.get(node.getId()) :[0, 1]
+node 0: x=7042.880024838243 y=567.3550964207925
+node 1: x=3552.8031290743315 y=-2532.552083333334
+Graph:
+Connections node 0: 0, 1, 
+Connections node 1: 0, 1, 
+
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@5368fcfa
+connections.get(node.getId()) :[0, 1]
+0
+1
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@166a68f3
+connections.get(node.getId()) :[0, 1]
+node 0: x=6919.515663611648 y=457.7821326972361
+node 1: x=3552.8031290743315 y=-2532.552083333334
+Graph:
+Connections node 0: 0, 1, 
+Connections node 1: 0, 1, 
+
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@6122e41f
+connections.get(node.getId()) :[0, 1]
+0
+1
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@2420665f
+connections.get(node.getId()) :[0, 1]
+node 1: x=3552.8031290743315 y=-2532.552083333334
+node 0: x=6796.151302385053 y=348.2091689736768
+Graph:
+Connections node 0: 0, 1, 
+Connections node 1: 0, 1, 
+
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@56c95524
+connections.get(node.getId()) :[0, 1]
+0
+1
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@13cbc199
+connections.get(node.getId()) :[0, 1]
+node 0: x=6672.786941158458 y=238.63620525011754
+node 1: x=3552.8031290743315 y=-2532.552083333334
+Graph:
+Connections node 0: 0, 1, 
+Connections node 1: 0, 1, 
+
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@f64eb34
+connections.get(node.getId()) :[0, 1]
+0
+1
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@4a6674bc
+connections.get(node.getId()) :[0, 1]
+node 0: x=6549.42257993188 y=129.0632415265556
+node 1: x=3552.8031290743315 y=-2532.552083333334
+Graph:
+Connections node 0: 0, 1, 
+Connections node 1: 0, 1, 
+
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@62414e5c
+connections.get(node.getId()) :[0, 1]
+0
+1
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@2743dc70
+connections.get(node.getId()) :[0, 1]
+node 2: x=5724.872093054767 y=-1706.89854659415
+node 1: x=3552.8031290743315 y=-2532.552083333334
+node 0: x=6426.058218705376 y=19.49027780299069
+node 5: x=5813.589445406796 y=-675.9139534058495
+node 4: x=5252.504401142648 y=-1217.7474823638672
+node 3: x=6285.957137318915 y=-1165.0650176361323
+Graph:
+Connections node 0: 0, 1, 3, 4, 5, 
+Connections node 1: 0, 1, 2, 4, 5, 
+Connections node 2: 1, 2, 3, 4, 
+Connections node 3: 0, 2, 3, 5, 
+Connections node 4: 0, 1, 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@4622e895
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@78cb3934
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+node 2: x=5724.872093054767 y=-1706.89854659415
+node 5: x=5813.589445406796 y=-675.9139534058495
+node 4: x=5252.504401142648 y=-1217.7474823638672
+node 0: x=6302.6938574788 y=-90.0826859205713
+node 3: x=6285.957137318915 y=-1165.0650176361323
+node 1: x=3552.8031290743315 y=-2532.552083333334
+Graph:
+Connections node 0: 0, 1, 3, 4, 5, 
+Connections node 1: 0, 1, 2, 4, 5, 
+Connections node 2: 1, 2, 3, 4, 
+Connections node 3: 0, 2, 3, 5, 
+Connections node 4: 0, 1, 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@441286ba
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@4db70f0
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+node 3: x=6285.957137318915 y=-1165.0650176361323
+node 2: x=5724.872093054767 y=-1706.89854659415
+node 4: x=5252.504401142648 y=-1217.7474823638672
+node 1: x=3552.8031290743315 y=-2532.552083333334
+node 0: x=6179.329496252222 y=-199.6556496441333
+node 5: x=5813.589445406796 y=-675.9139534058495
+Graph:
+Connections node 0: 0, 1, 3, 4, 5, 
+Connections node 1: 0, 1, 2, 4, 5, 
+Connections node 2: 1, 2, 3, 4, 
+Connections node 3: 0, 2, 3, 5, 
+Connections node 4: 0, 1, 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@5136735
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@7d1347c3
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+node 4: x=5252.504401142648 y=-1217.7474823638672
+node 2: x=5724.872093054767 y=-1706.89854659415
+node 1: x=3552.8031290743315 y=-2532.552083333334
+node 5: x=5813.589445406796 y=-675.9139534058495
+node 0: x=6055.965135025718 y=-309.22861336769824
+node 3: x=6285.957137318915 y=-1165.0650176361323
+Graph:
+Connections node 0: 0, 1, 3, 4, 5, 
+Connections node 1: 0, 1, 2, 4, 5, 
+Connections node 2: 1, 2, 3, 4, 
+Connections node 3: 0, 2, 3, 5, 
+Connections node 4: 0, 1, 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@4a5bb713
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@42daa0c6
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+node 1: x=3552.8031290743315 y=-2532.552083333334
+node 2: x=5724.872093054767 y=-1706.89854659415
+node 3: x=6285.957137318915 y=-1165.0650176361323
+node 5: x=5813.589445406796 y=-675.9139534058495
+node 4: x=5252.504401142648 y=-1217.7474823638672
+node 0: x=5932.600773799142 y=-418.80157709126024
+Graph:
+Connections node 0: 0, 1, 3, 4, 5, 
+Connections node 1: 0, 1, 2, 4, 5, 
+Connections node 2: 1, 2, 3, 4, 
+Connections node 3: 0, 2, 3, 5, 
+Connections node 4: 0, 1, 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@ee32d99
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@54b22d94
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+node 1: x=3552.8031290743315 y=-2532.552083333334
+node 5: x=5813.589445406796 y=-675.9139534058495
+node 2: x=5724.872093054767 y=-1706.89854659415
+node 4: x=5252.504401142648 y=-1217.7474823638672
+node 3: x=6285.957137318915 y=-1165.0650176361323
+node 0: x=5809.236412572564 y=-528.3745408148221
+Graph:
+Connections node 0: 0, 1, 3, 4, 5, 
+Connections node 1: 0, 1, 2, 4, 5, 
+Connections node 2: 1, 2, 3, 4, 
+Connections node 3: 0, 2, 3, 5, 
+Connections node 4: 0, 1, 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@14250392
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@16816e56
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+node 4: x=5252.504401142648 y=-1217.7474823638672
+node 0: x=5685.87205134606 y=-637.9475045383871
+node 3: x=6285.957137318915 y=-1165.0650176361323
+node 1: x=3552.8031290743315 y=-2532.552083333334
+node 5: x=5813.589445406796 y=-675.9139534058495
+node 2: x=5724.872093054767 y=-1706.89854659415
+Graph:
+Connections node 0: 0, 1, 4, 5, 
+Connections node 1: 0, 1, 2, 4, 5, 
+Connections node 2: 1, 2, 3, 4, 
+Connections node 3: 2, 3, 5, 
+Connections node 4: 0, 1, 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@2870f3d8
+connections.get(node.getId()) :[0, 1, 4, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@7fb6fe5c
+connections.get(node.getId()) :[0, 1, 4, 5]
+node 4: x=5252.504401142648 y=-1217.7474823638672
+node 0: x=5562.507690119556 y=-747.520468261952
+node 3: x=6285.957137318915 y=-1165.0650176361323
+node 5: x=5813.589445406796 y=-675.9139534058495
+node 1: x=3552.8031290743315 y=-2532.552083333334
+node 2: x=5724.872093054767 y=-1706.89854659415
+Graph:
+Connections node 0: 0, 1, 4, 5, 
+Connections node 1: 0, 1, 2, 4, 5, 
+Connections node 2: 1, 2, 3, 4, 
+Connections node 3: 2, 3, 5, 
+Connections node 4: 0, 1, 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@7431959d
+connections.get(node.getId()) :[0, 1, 4, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@4cad7b95
+connections.get(node.getId()) :[0, 1, 4, 5]
+node 3: x=6285.957137318915 y=-1165.0650176361323
+node 6: x=4617.323266908385 y=-2683.7858783487027
+node 7: x=5279.394504885521 y=-1894.7601019361555
+node 0: x=5439.14332889298 y=-857.0934319855169
+node 4: x=5252.504401142648 y=-1217.7474823638672
+node 8: x=4173.017489899378 y=-2310.9690647305097
+node 1: x=3552.8031290743315 y=-2532.552083333334
+node 5: x=5813.589445406796 y=-675.9139534058495
+node 2: x=5724.872093054767 y=-1706.89854659415
+node 9: x=4835.088727876514 y=-1521.9432883179625
+Graph:
+Connections node 0: 0, 1, 4, 5, 9, 
+Connections node 1: 0, 1, 4, 5, 6, 8, 9, 
+Connections node 2: 2, 3, 4, 6, 7, 9, 
+Connections node 3: 2, 3, 5, 
+Connections node 4: 0, 1, 2, 4, 5, 7, 9, 
+Connections node 5: 0, 1, 3, 4, 5, 9, 
+Connections node 6: 1, 2, 6, 7, 8, 
+Connections node 7: 2, 4, 6, 7, 9, 
+Connections node 8: 1, 6, 8, 9, 
+Connections node 9: 0, 1, 2, 4, 5, 7, 8, 9, 
+
+connections.get(node.getId()) :[0, 1, 4, 5, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@6d17ec87
+connections.get(node.getId()) :[0, 1, 4, 5, 9]
+0
+1
+connections.get(node.getId()) :[0, 1, 4, 5, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@3f03ee81
+connections.get(node.getId()) :[0, 1, 4, 5, 9]
+node 4: x=5252.504401142648 y=-1217.7474823638672
+node 6: x=4617.323266908385 y=-2683.7858783487027
+node 2: x=5724.872093054767 y=-1706.89854659415
+node 3: x=6285.957137318915 y=-1165.0650176361323
+node 5: x=5813.589445406796 y=-675.9139534058495
+node 7: x=5279.394504885521 y=-1894.7601019361555
+node 0: x=5315.778967666385 y=-966.6663957090705
+node 8: x=4173.017489899378 y=-2310.9690647305097
+node 1: x=3552.8031290743315 y=-2532.552083333334
+node 9: x=4835.088727876514 y=-1521.9432883179625
+Graph:
+Connections node 0: 0, 1, 4, 5, 8, 9, 
+Connections node 1: 0, 1, 4, 5, 6, 8, 9, 
+Connections node 2: 2, 3, 4, 6, 7, 9, 
+Connections node 3: 2, 3, 5, 
+Connections node 4: 0, 1, 2, 4, 5, 7, 9, 
+Connections node 5: 0, 1, 3, 4, 5, 9, 
+Connections node 6: 1, 2, 6, 7, 8, 
+Connections node 7: 2, 4, 6, 7, 9, 
+Connections node 8: 0, 1, 6, 8, 9, 
+Connections node 9: 0, 1, 2, 4, 5, 7, 8, 9, 
+
+connections.get(node.getId()) :[0, 1, 4, 5, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@4adbd7d4
+connections.get(node.getId()) :[0, 1, 4, 5, 8, 9]
+0
+1
+connections.get(node.getId()) :[0, 1, 4, 5, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@21b79680
+connections.get(node.getId()) :[0, 1, 4, 5, 8, 9]
+node 9: x=4835.088727876514 y=-1521.9432883179625
+node 3: x=6285.957137318915 y=-1165.0650176361323
+node 7: x=5279.394504885521 y=-1894.7601019361555
+node 1: x=3552.8031290743315 y=-2532.552083333334
+node 2: x=5724.872093054767 y=-1706.89854659415
+node 6: x=4617.323266908385 y=-2683.7858783487027
+node 5: x=5813.589445406796 y=-675.9139534058495
+node 0: x=5192.414606439807 y=-1076.2393594326297
+node 4: x=5252.504401142648 y=-1217.7474823638672
+node 8: x=4173.017489899378 y=-2310.9690647305097
+Graph:
+Connections node 0: 0, 1, 4, 5, 7, 8, 9, 
+Connections node 1: 0, 1, 4, 5, 6, 8, 9, 
+Connections node 2: 2, 3, 4, 6, 7, 9, 
+Connections node 3: 2, 3, 5, 
+Connections node 4: 0, 1, 2, 4, 5, 7, 9, 
+Connections node 5: 0, 1, 3, 4, 5, 9, 
+Connections node 6: 1, 2, 6, 7, 8, 
+Connections node 7: 0, 2, 4, 6, 7, 9, 
+Connections node 8: 0, 1, 6, 8, 9, 
+Connections node 9: 0, 1, 2, 4, 5, 7, 8, 9, 
+
+connections.get(node.getId()) :[0, 1, 4, 5, 7, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@5776f7d7
+connections.get(node.getId()) :[0, 1, 4, 5, 7, 8, 9]
+0
+1
+connections.get(node.getId()) :[0, 1, 4, 5, 7, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@3c6436e2
+connections.get(node.getId()) :[0, 1, 4, 5, 7, 8, 9]
+node 3: x=6285.957137318915 y=-1165.0650176361323
+node 7: x=5279.394504885521 y=-1894.7601019361555
+node 2: x=5724.872093054767 y=-1706.89854659415
+node 9: x=4835.088727876514 y=-1521.9432883179625
+node 1: x=3552.8031290743315 y=-2532.552083333334
+node 6: x=4617.323266908385 y=-2683.7858783487027
+node 0: x=5069.050245213303 y=-1185.8123231561833
+node 5: x=5813.589445406796 y=-675.9139534058495
+node 4: x=5252.504401142648 y=-1217.7474823638672
+node 8: x=4173.017489899378 y=-2310.9690647305097
+Graph:
+Connections node 0: 0, 1, 2, 4, 5, 7, 8, 9, 
+Connections node 1: 0, 1, 4, 5, 6, 8, 9, 
+Connections node 2: 0, 2, 3, 4, 6, 7, 9, 
+Connections node 3: 2, 3, 5, 
+Connections node 4: 0, 1, 2, 4, 5, 7, 9, 
+Connections node 5: 0, 1, 3, 4, 5, 9, 
+Connections node 6: 1, 2, 6, 7, 8, 
+Connections node 7: 0, 2, 4, 6, 7, 9, 
+Connections node 8: 0, 1, 6, 8, 9, 
+Connections node 9: 0, 1, 2, 4, 5, 7, 8, 9, 
+
+connections.get(node.getId()) :[0, 1, 2, 4, 5, 7, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@93e11ad
+connections.get(node.getId()) :[0, 1, 2, 4, 5, 7, 8, 9]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 4, 5, 7, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@2edf74c9
+connections.get(node.getId()) :[0, 1, 2, 4, 5, 7, 8, 9]
+node 6: x=4617.323266908385 y=-2683.7858783487027
+node 9: x=4835.088727876514 y=-1521.9432883179625
+node 0: x=4945.685883986799 y=-1295.385286879737
+node 8: x=4173.017489899378 y=-2310.9690647305097
+node 5: x=5813.589445406796 y=-675.9139534058495
+node 1: x=3552.8031290743315 y=-2532.552083333334
+node 3: x=6285.957137318915 y=-1165.0650176361323
+node 7: x=5279.394504885521 y=-1894.7601019361555
+node 2: x=5724.872093054767 y=-1706.89854659415
+node 4: x=5252.504401142648 y=-1217.7474823638672
+Graph:
+Connections node 0: 0, 1, 2, 4, 5, 7, 8, 9, 
+Connections node 1: 0, 1, 4, 5, 6, 8, 9, 
+Connections node 2: 0, 2, 3, 4, 6, 7, 9, 
+Connections node 3: 2, 3, 5, 
+Connections node 4: 0, 1, 2, 4, 5, 7, 9, 
+Connections node 5: 0, 1, 3, 4, 5, 9, 
+Connections node 6: 1, 2, 6, 7, 8, 
+Connections node 7: 0, 2, 4, 6, 7, 9, 
+Connections node 8: 0, 1, 6, 8, 9, 
+Connections node 9: 0, 1, 2, 4, 5, 7, 8, 9, 
+
+connections.get(node.getId()) :[0, 1, 2, 4, 5, 7, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@5f61380e
+connections.get(node.getId()) :[0, 1, 2, 4, 5, 7, 8, 9]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 4, 5, 7, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@72457af4
+connections.get(node.getId()) :[0, 1, 2, 4, 5, 7, 8, 9]
+node 3: x=6285.957137318915 y=-1165.0650176361323
+node 6: x=4617.323266908385 y=-2683.7858783487027
+node 7: x=5279.394504885521 y=-1894.7601019361555
+node 8: x=4173.017489899378 y=-2310.9690647305097
+node 1: x=3552.8031290743315 y=-2532.552083333334
+node 2: x=5724.872093054767 y=-1706.89854659415
+node 9: x=4835.088727876514 y=-1521.9432883179625
+node 0: x=4822.321522760223 y=-1404.9582506032905
+node 4: x=5252.504401142648 y=-1217.7474823638672
+node 5: x=5813.589445406796 y=-675.9139534058495
+Graph:
+Connections node 0: 0, 1, 2, 4, 5, 7, 8, 9, 
+Connections node 1: 0, 1, 4, 5, 6, 8, 9, 
+Connections node 2: 0, 2, 3, 4, 6, 7, 9, 
+Connections node 3: 2, 3, 5, 
+Connections node 4: 0, 1, 2, 4, 5, 7, 9, 
+Connections node 5: 0, 1, 3, 4, 5, 9, 
+Connections node 6: 1, 2, 6, 7, 8, 
+Connections node 7: 0, 2, 4, 6, 7, 9, 
+Connections node 8: 0, 1, 6, 8, 9, 
+Connections node 9: 0, 1, 2, 4, 5, 7, 8, 9, 
+
+connections.get(node.getId()) :[0, 1, 2, 4, 5, 7, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@32e7e33c
+connections.get(node.getId()) :[0, 1, 2, 4, 5, 7, 8, 9]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 4, 5, 7, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@21688ec1
+connections.get(node.getId()) :[0, 1, 2, 4, 5, 7, 8, 9]
+node 4: x=5252.504401142648 y=-1217.7474823638672
+node 5: x=5813.589445406796 y=-675.9139534058495
+node 6: x=4617.323266908385 y=-2683.7858783487027
+node 8: x=4173.017489899378 y=-2310.9690647305097
+node 9: x=4835.088727876514 y=-1521.9432883179625
+node 0: x=4698.957161533645 y=-1514.531214326844
+node 3: x=6285.957137318915 y=-1165.0650176361323
+node 7: x=5279.394504885521 y=-1894.7601019361555
+node 1: x=3552.8031290743315 y=-2532.552083333334
+node 2: x=5724.872093054767 y=-1706.89854659415
+Graph:
+Connections node 0: 0, 1, 2, 4, 5, 8, 9, 
+Connections node 1: 0, 1, 4, 5, 6, 8, 9, 
+Connections node 2: 0, 2, 3, 4, 6, 7, 9, 
+Connections node 3: 2, 3, 5, 
+Connections node 4: 0, 1, 2, 4, 5, 7, 9, 
+Connections node 5: 0, 1, 3, 4, 5, 9, 
+Connections node 6: 1, 2, 6, 7, 8, 
+Connections node 7: 2, 4, 6, 7, 9, 
+Connections node 8: 0, 1, 6, 8, 9, 
+Connections node 9: 0, 1, 2, 4, 5, 7, 8, 9, 
+
+connections.get(node.getId()) :[0, 1, 2, 4, 5, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@2b165bf7
+connections.get(node.getId()) :[0, 1, 2, 4, 5, 8, 9]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 4, 5, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@7bfbea13
+connections.get(node.getId()) :[0, 1, 2, 4, 5, 8, 9]
+node 4: x=5252.504401142648 y=-1217.7474823638672
+node 3: x=6285.957137318915 y=-1165.0650176361323
+node 5: x=5813.589445406796 y=-675.9139534058495
+node 6: x=4617.323266908385 y=-2683.7858783487027
+node 7: x=5279.394504885521 y=-1894.7601019361555
+node 8: x=4173.017489899378 y=-2310.9690647305097
+node 1: x=3552.8031290743315 y=-2532.552083333334
+node 0: x=4575.592800307141 y=-1624.1041780503976
+node 9: x=4835.088727876514 y=-1521.9432883179625
+node 2: x=5724.872093054767 y=-1706.89854659415
+Graph:
+Connections node 0: 0, 1, 4, 5, 8, 9, 
+Connections node 1: 0, 1, 4, 5, 6, 8, 9, 
+Connections node 2: 2, 3, 4, 6, 7, 9, 
+Connections node 3: 2, 3, 5, 
+Connections node 4: 0, 1, 2, 4, 5, 7, 9, 
+Connections node 5: 0, 1, 3, 4, 5, 9, 
+Connections node 6: 1, 2, 6, 7, 8, 
+Connections node 7: 2, 4, 6, 7, 9, 
+Connections node 8: 0, 1, 6, 8, 9, 
+Connections node 9: 0, 1, 2, 4, 5, 7, 8, 9, 
+
+connections.get(node.getId()) :[0, 1, 4, 5, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@3bbe7b76
+connections.get(node.getId()) :[0, 1, 4, 5, 8, 9]
+0
+1
+connections.get(node.getId()) :[0, 1, 4, 5, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@35392213
+connections.get(node.getId()) :[0, 1, 4, 5, 8, 9]
+node 5: x=5813.589445406796 y=-675.9139534058495
+node 1: x=3552.8031290743315 y=-2532.552083333334
+node 2: x=5724.872093054767 y=-1706.89854659415
+node 3: x=6285.957137318915 y=-1165.0650176361323
+node 4: x=5252.504401142648 y=-1217.7474823638672
+node 7: x=5279.394504885521 y=-1894.7601019361555
+node 6: x=4617.323266908385 y=-2683.7858783487027
+node 9: x=4835.088727876514 y=-1521.9432883179625
+node 0: x=4452.228439080637 y=-1733.6771417739512
+node 8: x=4173.017489899378 y=-2310.9690647305097
+Graph:
+Connections node 0: 0, 1, 4, 5, 8, 9, 
+Connections node 1: 0, 1, 4, 5, 6, 8, 9, 
+Connections node 2: 2, 3, 4, 6, 7, 9, 
+Connections node 3: 2, 3, 5, 
+Connections node 4: 0, 1, 2, 4, 5, 7, 9, 
+Connections node 5: 0, 1, 3, 4, 5, 9, 
+Connections node 6: 1, 2, 6, 7, 8, 
+Connections node 7: 2, 4, 6, 7, 9, 
+Connections node 8: 0, 1, 6, 8, 9, 
+Connections node 9: 0, 1, 2, 4, 5, 7, 8, 9, 
+
+connections.get(node.getId()) :[0, 1, 4, 5, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@557368c6
+connections.get(node.getId()) :[0, 1, 4, 5, 8, 9]
+0
+1
+connections.get(node.getId()) :[0, 1, 4, 5, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@7154ba8c
+connections.get(node.getId()) :[0, 1, 4, 5, 8, 9]
+node 5: x=4835.088727876514 y=-1521.9432883179625
+node 2: x=4617.323266908385 y=-2683.7858783487027
+node 0: x=4328.864077854061 y=-1843.2501054975048
+node 1: x=3552.8031290743315 y=-2532.552083333334
+node 3: x=5279.394504885521 y=-1894.7601019361555
+node 4: x=4173.017489899378 y=-2310.9690647305097
+Graph:
+Connections node 0: 0, 1, 4, 5, 
+Connections node 1: 0, 1, 2, 4, 5, 
+Connections node 2: 1, 2, 3, 4, 
+Connections node 3: 2, 3, 5, 
+Connections node 4: 0, 1, 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@57fe9385
+connections.get(node.getId()) :[0, 1, 4, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@6ee91254
+connections.get(node.getId()) :[0, 1, 4, 5]
+node 3: x=5279.394504885521 y=-1894.7601019361555
+node 2: x=4617.323266908385 y=-2683.7858783487027
+node 1: x=3552.8031290743315 y=-2532.552083333334
+node 4: x=4173.017489899378 y=-2310.9690647305097
+node 0: x=4205.499716627483 y=-1952.8230692210584
+node 5: x=4835.088727876514 y=-1521.9432883179625
+Graph:
+Connections node 0: 0, 1, 4, 5, 
+Connections node 1: 0, 1, 2, 4, 5, 
+Connections node 2: 1, 2, 3, 4, 
+Connections node 3: 2, 3, 5, 
+Connections node 4: 0, 1, 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@21c50118
+connections.get(node.getId()) :[0, 1, 4, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@7127c804
+connections.get(node.getId()) :[0, 1, 4, 5]
+node 4: x=4173.017489899378 y=-2310.9690647305097
+node 0: x=4082.135355400974 y=-2062.396032944615
+node 1: x=3552.8031290743315 y=-2532.552083333334
+node 3: x=5279.394504885521 y=-1894.7601019361555
+node 5: x=4835.088727876514 y=-1521.9432883179625
+node 2: x=4617.323266908385 y=-2683.7858783487027
+Graph:
+Connections node 0: 0, 1, 4, 5, 
+Connections node 1: 0, 1, 2, 4, 5, 
+Connections node 2: 1, 2, 3, 4, 
+Connections node 3: 2, 3, 5, 
+Connections node 4: 0, 1, 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@69a24de2
+connections.get(node.getId()) :[0, 1, 4, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@2aeec69b
+connections.get(node.getId()) :[0, 1, 4, 5]
+node 4: x=4173.017489899378 y=-2310.9690647305097
+node 2: x=4617.323266908385 y=-2683.7858783487027
+node 5: x=4835.088727876514 y=-1521.9432883179625
+node 3: x=5279.394504885521 y=-1894.7601019361555
+node 0: x=3958.7709941744242 y=-2171.9689966681913
+node 1: x=3552.8031290743315 y=-2532.552083333334
+Graph:
+Connections node 0: 0, 1, 2, 4, 5, 
+Connections node 1: 0, 1, 2, 4, 5, 
+Connections node 2: 0, 1, 2, 3, 4, 
+Connections node 3: 2, 3, 5, 
+Connections node 4: 0, 1, 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@6550ff1b
+connections.get(node.getId()) :[0, 1, 2, 4, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@2ecf49c6
+connections.get(node.getId()) :[0, 1, 2, 4, 5]
+node 4: x=4173.017489899378 y=-2310.9690647305097
+node 2: x=4617.323266908385 y=-2683.7858783487027
+node 5: x=4835.088727876514 y=-1521.9432883179625
+node 0: x=3835.4066329478746 y=-2281.5419603917676
+node 3: x=5279.394504885521 y=-1894.7601019361555
+node 1: x=3552.8031290743315 y=-2532.552083333334
+Graph:
+Connections node 0: 0, 1, 2, 4, 5, 
+Connections node 1: 0, 1, 2, 4, 5, 
+Connections node 2: 0, 1, 2, 3, 4, 
+Connections node 3: 2, 3, 5, 
+Connections node 4: 0, 1, 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@7717c714
+connections.get(node.getId()) :[0, 1, 2, 4, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@43cd0ec6
+connections.get(node.getId()) :[0, 1, 2, 4, 5]
+node 0: x=3712.042271721325 y=-2391.114924115344
+node 5: x=4835.088727876514 y=-1521.9432883179625
+node 2: x=4617.323266908385 y=-2683.7858783487027
+node 3: x=5279.394504885521 y=-1894.7601019361555
+node 1: x=3552.8031290743315 y=-2532.552083333334
+node 4: x=4173.017489899378 y=-2310.9690647305097
+Graph:
+Connections node 0: 0, 1, 2, 4, 5, 
+Connections node 1: 0, 1, 2, 4, 5, 
+Connections node 2: 0, 1, 2, 3, 4, 
+Connections node 3: 2, 3, 5, 
+Connections node 4: 0, 1, 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@45793129
+connections.get(node.getId()) :[0, 1, 2, 4, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@191b4e00
+connections.get(node.getId()) :[0, 1, 2, 4, 5]
+node 4: x=4173.017489899378 y=-2310.9690647305097
+node 1: x=9719.687092568467 y=514.3229166666661
+node 0: x=3647.134623096232 y=-2571.0709410137056
+node 3: x=5279.394504885521 y=-1894.7601019361555
+node 5: x=4835.088727876514 y=-1521.9432883179625
+node 2: x=4617.323266908385 y=-2683.7858783487027
+Graph:
+Connections node 0: 0, 2, 4, 5, 
+Connections node 1: 1, 2, 3, 5, 
+Connections node 2: 0, 1, 2, 3, 4, 
+Connections node 3: 1, 2, 3, 5, 
+Connections node 4: 0, 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@6b7db7e2
+connections.get(node.getId()) :[0, 2, 4, 5]
+connections.get(node.getId()) :[0, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@2dde9ddb
+connections.get(node.getId()) :[0, 2, 4, 5]
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@3bceac80
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+0
+5
+1
+connections.get(node.getId()) :[0, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@763dc4a7
+connections.get(node.getId()) :[0, 2, 4, 5]
+connections.get(node.getId()) :[0, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@7079bf25
+connections.get(node.getId()) :[0, 2, 4, 5]
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@2990c4b4
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+node 2: x=4617.323266908385 y=-2683.7858783487027
+node 4: x=4173.017489899378 y=-2310.9690647305097
+node 5: x=4835.088727876514 y=-1521.9432883179625
+node 0: x=3799.3713827901734 y=-2519.227152830933
+node 3: x=5279.394504885521 y=-1894.7601019361555
+node 1: x=9719.687092568467 y=514.3229166666661
+Graph:
+Connections node 0: 0, 2, 4, 5, 
+Connections node 1: 1, 2, 3, 5, 
+Connections node 2: 0, 1, 2, 3, 4, 
+Connections node 3: 1, 2, 3, 5, 
+Connections node 4: 0, 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@45b062ab
+connections.get(node.getId()) :[0, 2, 4, 5]
+connections.get(node.getId()) :[0, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@4b5b5d71
+connections.get(node.getId()) :[0, 2, 4, 5]
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@2ea33d20
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+0
+5
+1
+connections.get(node.getId()) :[0, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@18d70062
+connections.get(node.getId()) :[0, 2, 4, 5]
+connections.get(node.getId()) :[0, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@5eb48ce9
+connections.get(node.getId()) :[0, 2, 4, 5]
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@4f15e29b
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+node 0: x=3920.6802783275302 y=-2407.401650389334
+node 2: x=4617.323266908385 y=-2683.7858783487027
+node 5: x=4835.088727876514 y=-1521.9432883179625
+node 1: x=9719.687092568467 y=514.3229166666661
+node 3: x=5279.394504885521 y=-1894.7601019361555
+node 4: x=4173.017489899378 y=-2310.9690647305097
+Graph:
+Connections node 0: 0, 2, 4, 5, 
+Connections node 1: 1, 2, 3, 5, 
+Connections node 2: 0, 1, 2, 3, 4, 
+Connections node 3: 1, 2, 3, 5, 
+Connections node 4: 0, 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@2a8084e7
+connections.get(node.getId()) :[0, 2, 4, 5]
+connections.get(node.getId()) :[0, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@4236a7bb
+connections.get(node.getId()) :[0, 2, 4, 5]
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@86ab86
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+0
+5
+1
+connections.get(node.getId()) :[0, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@1f0df372
+connections.get(node.getId()) :[0, 2, 4, 5]
+connections.get(node.getId()) :[0, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@3184ebc8
+connections.get(node.getId()) :[0, 2, 4, 5]
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@4678993c
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+node 0: x=4039.3774575886437 y=-2292.7894276405905
+node 4: x=4173.017489899378 y=-2310.9690647305097
+node 2: x=4617.323266908385 y=-2683.7858783487027
+node 3: x=5279.394504885521 y=-1894.7601019361555
+node 5: x=4835.088727876514 y=-1521.9432883179625
+node 1: x=9719.687092568467 y=514.3229166666661
+Graph:
+Connections node 0: 0, 2, 4, 5, 
+Connections node 1: 1, 2, 3, 5, 
+Connections node 2: 0, 1, 2, 3, 4, 
+Connections node 3: 1, 2, 3, 5, 
+Connections node 4: 0, 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@75055117
+connections.get(node.getId()) :[0, 2, 4, 5]
+connections.get(node.getId()) :[0, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@1d9d5705
+connections.get(node.getId()) :[0, 2, 4, 5]
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@5134f65f
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+0
+5
+1
+connections.get(node.getId()) :[0, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@31d31b47
+connections.get(node.getId()) :[0, 2, 4, 5]
+connections.get(node.getId()) :[0, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@6e017983
+connections.get(node.getId()) :[0, 2, 4, 5]
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@19d32e39
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+node 0: x=4157.899324569155 y=-2177.9958435626995
+node 4: x=4173.017489899378 y=-2310.9690647305097
+node 2: x=4617.323266908385 y=-2683.7858783487027
+node 1: x=9719.687092568467 y=514.3229166666661
+node 5: x=4835.088727876514 y=-1521.9432883179625
+node 3: x=5279.394504885521 y=-1894.7601019361555
+Graph:
+Connections node 0: 0, 4, 5, 
+Connections node 1: 1, 2, 3, 5, 
+Connections node 2: 1, 2, 3, 4, 
+Connections node 3: 1, 2, 3, 5, 
+Connections node 4: 0, 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@1480b05e
+connections.get(node.getId()) :[0, 4, 5]
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@70b1662c
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+0
+5
+1
+connections.get(node.getId()) :[0, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@189628c7
+connections.get(node.getId()) :[0, 4, 5]
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@1e97bc2a
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+node 0: x=4276.407833366849 y=-2063.1884686177573
+node 5: x=4835.088727876514 y=-1521.9432883179625
+node 4: x=4173.017489899378 y=-2310.9690647305097
+node 2: x=4617.323266908385 y=-2683.7858783487027
+node 1: x=9719.687092568467 y=514.3229166666661
+node 3: x=5279.394504885521 y=-1894.7601019361555
+Graph:
+Connections node 0: 0, 4, 5, 
+Connections node 1: 1, 2, 3, 5, 
+Connections node 2: 1, 2, 3, 4, 
+Connections node 3: 1, 2, 3, 5, 
+Connections node 4: 0, 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@358ec075
+connections.get(node.getId()) :[0, 4, 5]
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@fa54c28
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+0
+5
+1
+connections.get(node.getId()) :[0, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@4a061787
+connections.get(node.getId()) :[0, 4, 5]
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@6dc48274
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+node 1: x=9719.687092568467 y=514.3229166666661
+node 2: x=4617.323266908385 y=-2683.7858783487027
+node 3: x=5279.394504885521 y=-1894.7601019361555
+node 5: x=4835.088727876514 y=-1521.9432883179625
+node 0: x=4394.915141583126 y=-1948.3798543968574
+node 4: x=4173.017489899378 y=-2310.9690647305097
+Graph:
+Connections node 0: 0, 4, 5, 
+Connections node 1: 1, 2, 3, 5, 
+Connections node 2: 1, 2, 3, 4, 
+Connections node 3: 1, 2, 3, 5, 
+Connections node 4: 0, 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@7b499e70
+connections.get(node.getId()) :[0, 4, 5]
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@688c81ea
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+0
+5
+1
+connections.get(node.getId()) :[0, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@6782f199
+connections.get(node.getId()) :[0, 4, 5]
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@57407d73
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+node 1: x=9719.687092568467 y=514.3229166666661
+node 8: x=4173.017489899378 y=-2310.9690647305097
+node 2: x=5724.872093054767 y=-1706.89854659415
+node 3: x=6285.957137318915 y=-1165.0650176361323
+node 7: x=5279.394504885521 y=-1894.7601019361555
+node 6: x=4617.323266908385 y=-2683.7858783487027
+node 4: x=5252.504401142648 y=-1217.7474823638672
+node 5: x=5813.589445406796 y=-675.9139534058495
+node 9: x=4835.088727876514 y=-1521.9432883179625
+node 0: x=4513.422317901562 y=-1833.5711040289916
+Graph:
+Connections node 0: 0, 8, 9, 
+Connections node 1: 1, 2, 3, 5, 6, 
+Connections node 2: 1, 2, 3, 4, 6, 7, 9, 
+Connections node 3: 1, 2, 3, 5, 
+Connections node 4: 2, 4, 5, 7, 9, 
+Connections node 5: 1, 3, 4, 5, 9, 
+Connections node 6: 1, 2, 6, 7, 8, 
+Connections node 7: 2, 4, 6, 7, 9, 
+Connections node 8: 0, 6, 8, 9, 
+Connections node 9: 0, 2, 4, 5, 7, 8, 9, 
+
+connections.get(node.getId()) :[0, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@71e6f16d
+connections.get(node.getId()) :[0, 8, 9]
+connections.get(node.getId()) :[0, 2, 4, 5, 7, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@6dc0abb6
+connections.get(node.getId()) :[0, 2, 4, 5, 7, 8, 9]
+connections.get(node.getId()) :[2, 4, 5, 7, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@327989ea
+connections.get(node.getId()) :[2, 4, 5, 7, 9]
+connections.get(node.getId()) :[1, 3, 4, 5, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@1c465e5d
+connections.get(node.getId()) :[1, 3, 4, 5, 9]
+0
+9
+5
+1
+connections.get(node.getId()) :[0, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@5aeda921
+connections.get(node.getId()) :[0, 8, 9]
+connections.get(node.getId()) :[0, 2, 4, 5, 7, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@329834d1
+connections.get(node.getId()) :[0, 2, 4, 5, 7, 8, 9]
+connections.get(node.getId()) :[2, 4, 5, 7, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@4cd0ddb1
+connections.get(node.getId()) :[2, 4, 5, 7, 9]
+connections.get(node.getId()) :[1, 3, 4, 5, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@624ad6c0
+connections.get(node.getId()) :[1, 3, 4, 5, 9]
+node 2: x=5724.872093054767 y=-1706.89854659415
+node 5: x=5813.589445406796 y=-675.9139534058495
+node 9: x=4835.088727876514 y=-1521.9432883179625
+node 0: x=4631.929475510172 y=-1718.7623343486039
+node 1: x=9719.687092568467 y=514.3229166666661
+node 3: x=6285.957137318915 y=-1165.0650176361323
+node 7: x=5279.394504885521 y=-1894.7601019361555
+node 4: x=5252.504401142648 y=-1217.7474823638672
+node 6: x=4617.323266908385 y=-2683.7858783487027
+node 8: x=4173.017489899378 y=-2310.9690647305097
+Graph:
+Connections node 0: 0, 5, 8, 9, 
+Connections node 1: 1, 2, 3, 5, 6, 
+Connections node 2: 1, 2, 3, 4, 6, 7, 9, 
+Connections node 3: 1, 2, 3, 5, 
+Connections node 4: 2, 4, 5, 7, 9, 
+Connections node 5: 0, 1, 3, 4, 5, 9, 
+Connections node 6: 1, 2, 6, 7, 8, 
+Connections node 7: 2, 4, 6, 7, 9, 
+Connections node 8: 0, 6, 8, 9, 
+Connections node 9: 0, 2, 4, 5, 7, 8, 9, 
+
+connections.get(node.getId()) :[0, 5, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@438a2f78
+connections.get(node.getId()) :[0, 5, 8, 9]
+connections.get(node.getId()) :[0, 2, 4, 5, 7, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@47b6d755
+connections.get(node.getId()) :[0, 2, 4, 5, 7, 8, 9]
+connections.get(node.getId()) :[2, 4, 5, 7, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@1c870b18
+connections.get(node.getId()) :[2, 4, 5, 7, 9]
+connections.get(node.getId()) :[0, 1, 3, 4, 5, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@66973bc5
+connections.get(node.getId()) :[0, 1, 3, 4, 5, 9]
+0
+5
+1
+connections.get(node.getId()) :[0, 5, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@74743980
+connections.get(node.getId()) :[0, 5, 8, 9]
+connections.get(node.getId()) :[0, 2, 4, 5, 7, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@5095424
+connections.get(node.getId()) :[0, 2, 4, 5, 7, 8, 9]
+connections.get(node.getId()) :[2, 4, 5, 7, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@21725056
+connections.get(node.getId()) :[2, 4, 5, 7, 9]
+connections.get(node.getId()) :[0, 1, 3, 4, 5, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@7e640eae
+connections.get(node.getId()) :[0, 1, 3, 4, 5, 9]
+node 9: x=4835.088727876514 y=-1521.9432883179625
+node 5: x=5813.589445406796 y=-675.9139534058495
+node 6: x=4617.323266908385 y=-2683.7858783487027
+node 2: x=5724.872093054767 y=-1706.89854659415
+node 4: x=5252.504401142648 y=-1217.7474823638672
+node 1: x=9719.687092568467 y=514.3229166666661
+node 0: x=4753.035064226085 y=-1606.7197624592466
+node 3: x=6285.957137318915 y=-1165.0650176361323
+node 7: x=5279.394504885521 y=-1894.7601019361555
+node 8: x=4173.017489899378 y=-2310.9690647305097
+Graph:
+Connections node 0: 0, 4, 5, 8, 9, 
+Connections node 1: 1, 2, 3, 5, 6, 
+Connections node 2: 1, 2, 3, 4, 6, 7, 9, 
+Connections node 3: 1, 2, 3, 5, 
+Connections node 4: 0, 2, 4, 5, 7, 9, 
+Connections node 5: 0, 1, 3, 4, 5, 9, 
+Connections node 6: 1, 2, 6, 7, 8, 
+Connections node 7: 2, 4, 6, 7, 9, 
+Connections node 8: 0, 6, 8, 9, 
+Connections node 9: 0, 2, 4, 5, 7, 8, 9, 
+
+connections.get(node.getId()) :[0, 4, 5, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@c2604b3
+connections.get(node.getId()) :[0, 4, 5, 8, 9]
+connections.get(node.getId()) :[0, 2, 4, 5, 7, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@18bf67d6
+connections.get(node.getId()) :[0, 2, 4, 5, 7, 8, 9]
+connections.get(node.getId()) :[0, 2, 4, 5, 7, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@26348bd3
+connections.get(node.getId()) :[0, 2, 4, 5, 7, 9]
+connections.get(node.getId()) :[0, 1, 3, 4, 5, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@6fd10ba5
+connections.get(node.getId()) :[0, 1, 3, 4, 5, 9]
+0
+5
+1
+connections.get(node.getId()) :[0, 4, 5, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@53ee8970
+connections.get(node.getId()) :[0, 4, 5, 8, 9]
+connections.get(node.getId()) :[0, 2, 4, 5, 7, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@300cc50c
+connections.get(node.getId()) :[0, 2, 4, 5, 7, 8, 9]
+connections.get(node.getId()) :[0, 2, 4, 5, 7, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@3264aacd
+connections.get(node.getId()) :[0, 2, 4, 5, 7, 9]
+connections.get(node.getId()) :[0, 1, 3, 4, 5, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@558f1307
+connections.get(node.getId()) :[0, 1, 3, 4, 5, 9]
+node 3: x=6285.957137318915 y=-1165.0650176361323
+node 7: x=5279.394504885521 y=-1894.7601019361555
+node 0: x=4876.895666843603 y=-1497.708139025614
+node 4: x=5252.504401142648 y=-1217.7474823638672
+node 1: x=9719.687092568467 y=514.3229166666661
+node 5: x=5813.589445406796 y=-675.9139534058495
+node 6: x=4617.323266908385 y=-2683.7858783487027
+node 8: x=4173.017489899378 y=-2310.9690647305097
+node 2: x=5724.872093054767 y=-1706.89854659415
+node 9: x=4835.088727876514 y=-1521.9432883179625
+Graph:
+Connections node 0: 0, 2, 4, 5, 7, 9, 
+Connections node 1: 1, 2, 3, 5, 6, 
+Connections node 2: 0, 1, 2, 3, 4, 6, 7, 9, 
+Connections node 3: 1, 2, 3, 5, 
+Connections node 4: 0, 2, 4, 5, 7, 9, 
+Connections node 5: 0, 1, 3, 4, 5, 9, 
+Connections node 6: 1, 2, 6, 7, 8, 
+Connections node 7: 0, 2, 4, 6, 7, 9, 
+Connections node 8: 6, 8, 9, 
+Connections node 9: 0, 2, 4, 5, 7, 8, 9, 
+
+connections.get(node.getId()) :[0, 2, 4, 5, 7, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@3773ad0
+connections.get(node.getId()) :[0, 2, 4, 5, 7, 9]
+connections.get(node.getId()) :[0, 2, 4, 5, 7, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@4be8b80
+connections.get(node.getId()) :[0, 2, 4, 5, 7, 9]
+connections.get(node.getId()) :[0, 1, 3, 4, 5, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@71c760db
+connections.get(node.getId()) :[0, 1, 3, 4, 5, 9]
+0
+5
+1
+connections.get(node.getId()) :[0, 2, 4, 5, 7, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@1b6a1e05
+connections.get(node.getId()) :[0, 2, 4, 5, 7, 9]
+connections.get(node.getId()) :[0, 2, 4, 5, 7, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@21710602
+connections.get(node.getId()) :[0, 2, 4, 5, 7, 9]
+connections.get(node.getId()) :[0, 1, 3, 4, 5, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@51e37b27
+connections.get(node.getId()) :[0, 1, 3, 4, 5, 9]
+node 5: x=5813.589445406796 y=-675.9139534058495
+node 0: x=5000.917108794442 y=-1388.8794577872518
+node 3: x=6285.957137318915 y=-1165.0650176361323
+node 6: x=4617.323266908385 y=-2683.7858783487027
+node 7: x=5279.394504885521 y=-1894.7601019361555
+node 4: x=5252.504401142648 y=-1217.7474823638672
+node 1: x=9719.687092568467 y=514.3229166666661
+node 8: x=4173.017489899378 y=-2310.9690647305097
+node 2: x=5724.872093054767 y=-1706.89854659415
+node 9: x=4835.088727876514 y=-1521.9432883179625
+Graph:
+Connections node 0: 0, 2, 4, 5, 7, 9, 
+Connections node 1: 1, 2, 3, 5, 6, 
+Connections node 2: 0, 1, 2, 3, 4, 6, 7, 9, 
+Connections node 3: 1, 2, 3, 5, 
+Connections node 4: 0, 2, 4, 5, 7, 9, 
+Connections node 5: 0, 1, 3, 4, 5, 9, 
+Connections node 6: 1, 2, 6, 7, 8, 
+Connections node 7: 0, 2, 4, 6, 7, 9, 
+Connections node 8: 6, 8, 9, 
+Connections node 9: 0, 2, 4, 5, 7, 8, 9, 
+
+connections.get(node.getId()) :[0, 2, 4, 5, 7, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@3cfe3cee
+connections.get(node.getId()) :[0, 2, 4, 5, 7, 9]
+connections.get(node.getId()) :[0, 2, 4, 5, 7, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@76e9915b
+connections.get(node.getId()) :[0, 2, 4, 5, 7, 9]
+connections.get(node.getId()) :[0, 1, 3, 4, 5, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@2b684ec1
+connections.get(node.getId()) :[0, 1, 3, 4, 5, 9]
+0
+5
+1
+connections.get(node.getId()) :[0, 2, 4, 5, 7, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@1689a14a
+connections.get(node.getId()) :[0, 2, 4, 5, 7, 9]
+connections.get(node.getId()) :[0, 2, 4, 5, 7, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@5bdde639
+connections.get(node.getId()) :[0, 2, 4, 5, 7, 9]
+connections.get(node.getId()) :[0, 1, 3, 4, 5, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@6184d750
+connections.get(node.getId()) :[0, 1, 3, 4, 5, 9]
+node 0: x=5124.949394731147 y=-1280.063135276046
+node 6: x=4617.323266908385 y=-2683.7858783487027
+node 3: x=6285.957137318915 y=-1165.0650176361323
+node 7: x=5279.394504885521 y=-1894.7601019361555
+node 8: x=4173.017489899378 y=-2310.9690647305097
+node 1: x=9719.687092568467 y=514.3229166666661
+node 4: x=5252.504401142648 y=-1217.7474823638672
+node 9: x=4835.088727876514 y=-1521.9432883179625
+node 2: x=5724.872093054767 y=-1706.89854659415
+node 5: x=5813.589445406796 y=-675.9139534058495
+Graph:
+Connections node 0: 0, 2, 4, 5, 7, 9, 
+Connections node 1: 1, 2, 3, 5, 6, 
+Connections node 2: 0, 1, 2, 3, 4, 6, 7, 9, 
+Connections node 3: 1, 2, 3, 5, 
+Connections node 4: 0, 2, 4, 5, 7, 9, 
+Connections node 5: 0, 1, 3, 4, 5, 9, 
+Connections node 6: 1, 2, 6, 7, 8, 
+Connections node 7: 0, 2, 4, 6, 7, 9, 
+Connections node 8: 6, 8, 9, 
+Connections node 9: 0, 2, 4, 5, 7, 8, 9, 
+
+connections.get(node.getId()) :[0, 2, 4, 5, 7, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@24403a48
+connections.get(node.getId()) :[0, 2, 4, 5, 7, 9]
+connections.get(node.getId()) :[0, 2, 4, 5, 7, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@428aa772
+connections.get(node.getId()) :[0, 2, 4, 5, 7, 9]
+connections.get(node.getId()) :[0, 1, 3, 4, 5, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@1b311e1d
+connections.get(node.getId()) :[0, 1, 3, 4, 5, 9]
+0
+5
+1
+connections.get(node.getId()) :[0, 2, 4, 5, 7, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@2ef1d451
+connections.get(node.getId()) :[0, 2, 4, 5, 7, 9]
+connections.get(node.getId()) :[0, 2, 4, 5, 7, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@bc629bd
+connections.get(node.getId()) :[0, 2, 4, 5, 7, 9]
+connections.get(node.getId()) :[0, 1, 3, 4, 5, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@1c60ae80
+connections.get(node.getId()) :[0, 1, 3, 4, 5, 9]
+node 9: x=4835.088727876514 y=-1521.9432883179625
+node 5: x=5813.589445406796 y=-675.9139534058495
+node 2: x=5724.872093054767 y=-1706.89854659415
+node 3: x=6285.957137318915 y=-1165.0650176361323
+node 7: x=5279.394504885521 y=-1894.7601019361555
+node 4: x=5252.504401142648 y=-1217.7474823638672
+node 6: x=4617.323266908385 y=-2683.7858783487027
+node 1: x=9719.687092568467 y=514.3229166666661
+node 8: x=4173.017489899378 y=-2310.9690647305097
+node 0: x=5248.982526977618 y=-1171.247777420963
+Graph:
+Connections node 0: 0, 4, 5, 7, 9, 
+Connections node 1: 1, 2, 3, 5, 6, 
+Connections node 2: 1, 2, 3, 4, 6, 7, 9, 
+Connections node 3: 1, 2, 3, 5, 
+Connections node 4: 0, 2, 4, 5, 7, 9, 
+Connections node 5: 0, 1, 3, 4, 5, 9, 
+Connections node 6: 1, 2, 6, 7, 8, 
+Connections node 7: 0, 2, 4, 6, 7, 9, 
+Connections node 8: 6, 8, 9, 
+Connections node 9: 0, 2, 4, 5, 7, 8, 9, 
+
+connections.get(node.getId()) :[0, 4, 5, 7, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@2247d3a2
+connections.get(node.getId()) :[0, 4, 5, 7, 9]
+connections.get(node.getId()) :[0, 1, 3, 4, 5, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@542a6329
+connections.get(node.getId()) :[0, 1, 3, 4, 5, 9]
+0
+5
+1
+connections.get(node.getId()) :[0, 4, 5, 7, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@3357517d
+connections.get(node.getId()) :[0, 4, 5, 7, 9]
+connections.get(node.getId()) :[0, 1, 3, 4, 5, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@24952ace
+connections.get(node.getId()) :[0, 1, 3, 4, 5, 9]
+node 1: x=9719.687092568467 y=514.3229166666661
+node 6: x=4617.323266908385 y=-2683.7858783487027
+node 9: x=4835.088727876514 y=-1521.9432883179625
+node 3: x=6285.957137318915 y=-1165.0650176361323
+node 7: x=5279.394504885521 y=-1894.7601019361555
+node 4: x=5252.504401142648 y=-1217.7474823638672
+node 2: x=5724.872093054767 y=-1706.89854659415
+node 5: x=5813.589445406796 y=-675.9139534058495
+node 0: x=5373.015737585835 y=-1062.4325088865423
+node 8: x=4173.017489899378 y=-2310.9690647305097
+Graph:
+Connections node 0: 0, 4, 5, 9, 
+Connections node 1: 1, 2, 3, 5, 6, 
+Connections node 2: 1, 2, 3, 4, 6, 7, 9, 
+Connections node 3: 1, 2, 3, 5, 
+Connections node 4: 0, 2, 4, 5, 7, 9, 
+Connections node 5: 0, 1, 3, 4, 5, 9, 
+Connections node 6: 1, 2, 6, 7, 8, 
+Connections node 7: 2, 4, 6, 7, 9, 
+Connections node 8: 6, 8, 9, 
+Connections node 9: 0, 2, 4, 5, 7, 8, 9, 
+
+connections.get(node.getId()) :[0, 4, 5, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@4235215a
+connections.get(node.getId()) :[0, 4, 5, 9]
+connections.get(node.getId()) :[0, 1, 3, 4, 5, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@55c6f0ad
+connections.get(node.getId()) :[0, 1, 3, 4, 5, 9]
+0
+5
+1
+connections.get(node.getId()) :[0, 4, 5, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@4b150dbd
+connections.get(node.getId()) :[0, 4, 5, 9]
+connections.get(node.getId()) :[0, 1, 3, 4, 5, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@13bb9355
+connections.get(node.getId()) :[0, 1, 3, 4, 5, 9]
+node 8: x=4173.017489899378 y=-2310.9690647305097
+node 3: x=6285.957137318915 y=-1165.0650176361323
+node 7: x=5279.394504885521 y=-1894.7601019361555
+node 1: x=9719.687092568467 y=514.3229166666661
+node 0: x=5497.048957127434 y=-953.6172505348488
+node 9: x=4835.088727876514 y=-1521.9432883179625
+node 6: x=4617.323266908385 y=-2683.7858783487027
+node 2: x=5724.872093054767 y=-1706.89854659415
+node 4: x=5252.504401142648 y=-1217.7474823638672
+node 5: x=5813.589445406796 y=-675.9139534058495
+Graph:
+Connections node 0: 0, 4, 5, 9, 
+Connections node 1: 1, 2, 3, 5, 6, 
+Connections node 2: 1, 2, 3, 4, 6, 7, 9, 
+Connections node 3: 1, 2, 3, 5, 
+Connections node 4: 0, 2, 4, 5, 7, 9, 
+Connections node 5: 0, 1, 3, 4, 5, 9, 
+Connections node 6: 1, 2, 6, 7, 8, 
+Connections node 7: 2, 4, 6, 7, 9, 
+Connections node 8: 6, 8, 9, 
+Connections node 9: 0, 2, 4, 5, 7, 8, 9, 
+
+connections.get(node.getId()) :[0, 4, 5, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@2c87c5ef
+connections.get(node.getId()) :[0, 4, 5, 9]
+connections.get(node.getId()) :[0, 1, 3, 4, 5, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@7e3b8daa
+connections.get(node.getId()) :[0, 1, 3, 4, 5, 9]
+0
+5
+1
+connections.get(node.getId()) :[0, 4, 5, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@21e71b92
+connections.get(node.getId()) :[0, 4, 5, 9]
+connections.get(node.getId()) :[0, 1, 3, 4, 5, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@5c63eeef
+connections.get(node.getId()) :[0, 1, 3, 4, 5, 9]
+node 5: x=5813.589445406796 y=-675.9139534058495
+node 2: x=5724.872093054767 y=-1706.89854659415
+node 3: x=6285.957137318915 y=-1165.0650176361323
+node 1: x=9719.687092568467 y=514.3229166666661
+node 0: x=5621.082177999971 y=-844.8019937002256
+node 4: x=5252.504401142648 y=-1217.7474823638672
+Graph:
+Connections node 0: 0, 4, 5, 
+Connections node 1: 1, 2, 3, 5, 
+Connections node 2: 1, 2, 3, 4, 
+Connections node 3: 1, 2, 3, 5, 
+Connections node 4: 0, 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@5103dbf1
+connections.get(node.getId()) :[0, 4, 5]
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@4d09c95a
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+0
+5
+1
+connections.get(node.getId()) :[0, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@17177d50
+connections.get(node.getId()) :[0, 4, 5]
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@5143cf1
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+node 1: x=9719.687092568467 y=514.3229166666661
+node 0: x=5745.1153991634355 y=-735.9867371972194
+node 3: x=6285.957137318915 y=-1165.0650176361323
+node 5: x=5813.589445406796 y=-675.9139534058495
+node 2: x=5724.872093054767 y=-1706.89854659415
+node 4: x=5252.504401142648 y=-1217.7474823638672
+Graph:
+Connections node 0: 0, 4, 5, 
+Connections node 1: 1, 2, 3, 5, 
+Connections node 2: 1, 2, 3, 4, 
+Connections node 3: 1, 2, 3, 5, 
+Connections node 4: 0, 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@6a1304fb
+connections.get(node.getId()) :[0, 4, 5]
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@614eb9b9
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+0
+5
+1
+connections.get(node.getId()) :[0, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@6197d9da
+connections.get(node.getId()) :[0, 4, 5]
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@35130f9
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+node 4: x=5252.504401142648 y=-1217.7474823638672
+node 2: x=5724.872093054767 y=-1706.89854659415
+node 3: x=6285.957137318915 y=-1165.0650176361323
+node 0: x=5869.148620463022 y=-627.1714808493738
+node 1: x=9719.687092568467 y=514.3229166666661
+node 5: x=5813.589445406796 y=-675.9139534058495
+Graph:
+Connections node 0: 0, 1, 3, 4, 5, 
+Connections node 1: 0, 1, 2, 3, 5, 
+Connections node 2: 1, 2, 3, 4, 
+Connections node 3: 0, 1, 2, 3, 5, 
+Connections node 4: 0, 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@2fb49ff
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@2cd3a019
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+node 0: x=6012.327416763265 y=-547.7723885852437
+node 4: x=5252.504401142648 y=-1217.7474823638672
+node 2: x=5724.872093054767 y=-1706.89854659415
+node 3: x=6285.957137318915 y=-1165.0650176361323
+node 5: x=5813.589445406796 y=-675.9139534058495
+node 1: x=9719.687092568467 y=514.3229166666661
+Graph:
+Connections node 0: 0, 1, 3, 5, 
+Connections node 1: 0, 1, 2, 3, 5, 
+Connections node 2: 1, 2, 3, 4, 
+Connections node 3: 0, 1, 2, 3, 5, 
+Connections node 4: 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 3, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@757f3d8c
+connections.get(node.getId()) :[0, 1, 3, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 3, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@39d4b94
+connections.get(node.getId()) :[0, 1, 3, 5]
+node 0: x=6170.733531838662 y=-501.595432897405
+node 3: x=6285.957137318915 y=-1165.0650176361323
+node 1: x=9719.687092568467 y=514.3229166666661
+node 2: x=5724.872093054767 y=-1706.89854659415
+node 5: x=5813.589445406796 y=-675.9139534058495
+node 4: x=5252.504401142648 y=-1217.7474823638672
+Graph:
+Connections node 0: 0, 1, 3, 5, 
+Connections node 1: 0, 1, 2, 3, 5, 
+Connections node 2: 1, 2, 3, 4, 
+Connections node 3: 0, 1, 2, 3, 5, 
+Connections node 4: 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 3, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@675386c7
+connections.get(node.getId()) :[0, 1, 3, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 3, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@e4f0dfd
+connections.get(node.getId()) :[0, 1, 3, 5]
+node 4: x=5252.504401142648 y=-1217.7474823638672
+node 5: x=5813.589445406796 y=-675.9139534058495
+node 2: x=5724.872093054767 y=-1706.89854659415
+node 3: x=6285.957137318915 y=-1165.0650176361323
+node 1: x=9719.687092568467 y=514.3229166666661
+node 0: x=6329.357400347338 y=-456.1700188454759
+Graph:
+Connections node 0: 0, 1, 3, 5, 
+Connections node 1: 0, 1, 2, 3, 5, 
+Connections node 2: 1, 2, 3, 4, 
+Connections node 3: 0, 1, 2, 3, 5, 
+Connections node 4: 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 3, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@152104eb
+connections.get(node.getId()) :[0, 1, 3, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 3, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@1c615fbb
+connections.get(node.getId()) :[0, 1, 3, 5]
+node 5: x=5813.589445406796 y=-675.9139534058495
+node 0: x=6487.98613547254 y=-410.76160120595955
+node 3: x=6285.957137318915 y=-1165.0650176361323
+node 1: x=9719.687092568467 y=514.3229166666661
+node 2: x=5724.872093054767 y=-1706.89854659415
+node 4: x=5252.504401142648 y=-1217.7474823638672
+Graph:
+Connections node 0: 0, 1, 3, 5, 
+Connections node 1: 0, 1, 2, 3, 5, 
+Connections node 2: 1, 2, 3, 4, 
+Connections node 3: 0, 1, 2, 3, 5, 
+Connections node 4: 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 3, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@1d1d97e6
+connections.get(node.getId()) :[0, 1, 3, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 3, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@7bb055db
+connections.get(node.getId()) :[0, 1, 3, 5]
+node 4: x=5252.504401142648 y=-1217.7474823638672
+node 9: x=7595.306950972695 y=-319.41609140250574
+node 2: x=5724.872093054767 y=-1706.89854659415
+node 8: x=7242.801150308826 y=-2318.5758300172893
+node 3: x=6285.957137318915 y=-1165.0650176361323
+node 7: x=8363.456998322217 y=-454.8616699827115
+node 0: x=6646.614985686543 y=-365.35358561637923
+node 1: x=9719.687092568467 y=514.3229166666661
+node 6: x=8010.951197658348 y=-2454.021408597495
+node 5: x=5813.589445406796 y=-675.9139534058495
+Graph:
+Connections node 0: 0, 1, 3, 5, 8, 9, 
+Connections node 1: 0, 1, 5, 6, 7, 9, 
+Connections node 2: 2, 3, 4, 8, 9, 
+Connections node 3: 0, 2, 3, 5, 8, 9, 
+Connections node 4: 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 9, 
+Connections node 6: 1, 6, 7, 8, 
+Connections node 7: 1, 6, 7, 9, 
+Connections node 8: 0, 2, 3, 6, 8, 9, 
+Connections node 9: 0, 1, 2, 3, 5, 7, 8, 9, 
+
+connections.get(node.getId()) :[0, 1, 3, 5, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@54dfcd5e
+connections.get(node.getId()) :[0, 1, 3, 5, 8, 9]
+0
+1
+connections.get(node.getId()) :[0, 1, 3, 5, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@762498b1
+connections.get(node.getId()) :[0, 1, 3, 5, 8, 9]
+node 2: x=5724.872093054767 y=-1706.89854659415
+node 5: x=5813.589445406796 y=-675.9139534058495
+node 0: x=6805.243838756849 y=-319.9455800050414
+node 4: x=5252.504401142648 y=-1217.7474823638672
+node 6: x=8010.951197658348 y=-2454.021408597495
+node 3: x=6285.957137318915 y=-1165.0650176361323
+node 7: x=8363.456998322217 y=-454.8616699827115
+node 8: x=7242.801150308826 y=-2318.5758300172893
+node 1: x=9719.687092568467 y=514.3229166666661
+node 9: x=7595.306950972695 y=-319.41609140250574
+Graph:
+Connections node 0: 0, 1, 3, 5, 8, 9, 
+Connections node 1: 0, 1, 5, 6, 7, 9, 
+Connections node 2: 2, 3, 4, 8, 9, 
+Connections node 3: 0, 2, 3, 5, 8, 9, 
+Connections node 4: 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 9, 
+Connections node 6: 1, 6, 7, 8, 
+Connections node 7: 1, 6, 7, 9, 
+Connections node 8: 0, 2, 3, 6, 8, 9, 
+Connections node 9: 0, 1, 2, 3, 5, 7, 8, 9, 
+
+connections.get(node.getId()) :[0, 1, 3, 5, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@24f4561f
+connections.get(node.getId()) :[0, 1, 3, 5, 8, 9]
+0
+1
+connections.get(node.getId()) :[0, 1, 3, 5, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@3f9a5b42
+connections.get(node.getId()) :[0, 1, 3, 5, 8, 9]
+node 2: x=8010.951197658348 y=-2454.021408597495
+node 3: x=8363.456998322217 y=-454.8616699827115
+node 1: x=9719.687092568467 y=514.3229166666661
+node 4: x=7242.801150308826 y=-2318.5758300172893
+node 0: x=6963.872691901713 y=-274.53757465416453
+node 5: x=7595.306950972695 y=-319.41609140250574
+Graph:
+Connections node 0: 0, 1, 4, 5, 
+Connections node 1: 0, 1, 2, 3, 5, 
+Connections node 2: 1, 2, 3, 4, 
+Connections node 3: 1, 2, 3, 5, 
+Connections node 4: 0, 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@62d5c047
+connections.get(node.getId()) :[0, 1, 4, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@b1fbd2d
+connections.get(node.getId()) :[0, 1, 4, 5]
+node 4: x=7242.801150308826 y=-2318.5758300172893
+node 2: x=8010.951197658348 y=-2454.021408597495
+node 5: x=7595.306950972695 y=-319.41609140250574
+node 3: x=8363.456998322217 y=-454.8616699827115
+node 0: x=7122.501545048632 y=-229.12956931045736
+node 1: x=9719.687092568467 y=514.3229166666661
+Graph:
+Connections node 0: 0, 1, 3, 4, 5, 
+Connections node 1: 0, 1, 2, 3, 5, 
+Connections node 2: 1, 2, 3, 4, 
+Connections node 3: 0, 1, 2, 3, 5, 
+Connections node 4: 0, 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@69b29c94
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@1b6ec2b5
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+node 4: x=7242.801150308826 y=-2318.5758300172893
+node 3: x=8363.456998322217 y=-454.8616699827115
+node 1: x=9719.687092568467 y=514.3229166666661
+node 0: x=7281.1303981956335 y=-183.7215639669591
+node 5: x=7595.306950972695 y=-319.41609140250574
+node 2: x=8010.951197658348 y=-2454.021408597495
+Graph:
+Connections node 0: 0, 1, 3, 4, 5, 
+Connections node 1: 0, 1, 2, 3, 5, 
+Connections node 2: 1, 2, 3, 4, 
+Connections node 3: 0, 1, 2, 3, 5, 
+Connections node 4: 0, 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@9c2c5ac
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@7ae2dc90
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+node 3: x=8363.456998322217 y=-454.8616699827115
+node 1: x=9719.687092568467 y=514.3229166666661
+node 2: x=8010.951197658348 y=-2454.021408597495
+node 5: x=7595.306950972695 y=-319.41609140250574
+node 4: x=7242.801150308826 y=-2318.5758300172893
+node 0: x=7439.759251342635 y=-138.31355862346695
+Graph:
+Connections node 0: 0, 1, 3, 4, 5, 
+Connections node 1: 0, 1, 2, 3, 5, 
+Connections node 2: 1, 2, 3, 4, 
+Connections node 3: 0, 1, 2, 3, 5, 
+Connections node 4: 0, 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@30dc3494
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@44a5efb5
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+node 0: x=7598.388104489637 y=-92.90555327997478
+node 3: x=8363.456998322217 y=-454.8616699827115
+node 1: x=9719.687092568467 y=514.3229166666661
+node 4: x=7242.801150308826 y=-2318.5758300172893
+node 5: x=7595.306950972695 y=-319.41609140250574
+node 2: x=8010.951197658348 y=-2454.021408597495
+Graph:
+Connections node 0: 0, 1, 3, 4, 5, 
+Connections node 1: 0, 1, 2, 3, 5, 
+Connections node 2: 1, 2, 3, 4, 
+Connections node 3: 0, 1, 2, 3, 5, 
+Connections node 4: 0, 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@77db49c4
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@41dd071e
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+node 0: x=7757.016957636639 y=-47.497547936482356
+node 5: x=7595.306950972695 y=-319.41609140250574
+node 4: x=7242.801150308826 y=-2318.5758300172893
+node 3: x=8363.456998322217 y=-454.8616699827115
+node 2: x=8010.951197658348 y=-2454.021408597495
+node 1: x=9719.687092568467 y=514.3229166666661
+Graph:
+Connections node 0: 0, 1, 3, 5, 
+Connections node 1: 0, 1, 2, 3, 5, 
+Connections node 2: 1, 2, 3, 4, 
+Connections node 3: 0, 1, 2, 3, 5, 
+Connections node 4: 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 3, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@3cd382cb
+connections.get(node.getId()) :[0, 1, 3, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 3, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@31b4717d
+connections.get(node.getId()) :[0, 1, 3, 5]
+node 0: x=7915.645810783641 y=-2.089542592989079
+node 4: x=7242.801150308826 y=-2318.5758300172893
+node 3: x=8363.456998322217 y=-454.8616699827115
+node 2: x=8010.951197658348 y=-2454.021408597495
+node 5: x=7595.306950972695 y=-319.41609140250574
+node 1: x=9719.687092568467 y=514.3229166666661
+Graph:
+Connections node 0: 0, 1, 3, 5, 
+Connections node 1: 0, 1, 2, 3, 5, 
+Connections node 2: 1, 2, 3, 4, 
+Connections node 3: 0, 1, 2, 3, 5, 
+Connections node 4: 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 3, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@5522c435
+connections.get(node.getId()) :[0, 1, 3, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 3, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@2f0951a1
+connections.get(node.getId()) :[0, 1, 3, 5]
+node 3: x=8363.456998322217 y=-454.8616699827115
+node 0: x=8074.274663930642 y=43.31846275050471
+node 1: x=9719.687092568467 y=514.3229166666661
+node 2: x=8010.951197658348 y=-2454.021408597495
+node 5: x=7595.306950972695 y=-319.41609140250574
+node 4: x=7242.801150308826 y=-2318.5758300172893
+Graph:
+Connections node 0: 0, 1, 3, 5, 
+Connections node 1: 0, 1, 2, 3, 5, 
+Connections node 2: 1, 2, 3, 4, 
+Connections node 3: 0, 1, 2, 3, 5, 
+Connections node 4: 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 3, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@1edd6c31
+connections.get(node.getId()) :[0, 1, 3, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 3, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@43e03aa3
+connections.get(node.getId()) :[0, 1, 3, 5]
+node 4: x=7242.801150308826 y=-2318.5758300172893
+node 2: x=8010.951197658348 y=-2454.021408597495
+node 5: x=7595.306950972695 y=-319.41609140250574
+node 0: x=8232.90351707762 y=88.72646809399907
+node 1: x=9719.687092568467 y=514.3229166666661
+node 3: x=8363.456998322217 y=-454.8616699827115
+Graph:
+Connections node 0: 0, 1, 3, 5, 
+Connections node 1: 0, 1, 2, 3, 5, 
+Connections node 2: 1, 2, 3, 4, 
+Connections node 3: 0, 1, 2, 3, 5, 
+Connections node 4: 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 3, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@50af438c
+connections.get(node.getId()) :[0, 1, 3, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 3, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@6069f955
+connections.get(node.getId()) :[0, 1, 3, 5]
+node 2: x=8010.951197658348 y=-2454.021408597495
+node 5: x=7595.306950972695 y=-319.41609140250574
+node 0: x=8391.532370224531 y=134.13447343749408
+node 3: x=8363.456998322217 y=-454.8616699827115
+node 4: x=7242.801150308826 y=-2318.5758300172893
+node 1: x=9719.687092568467 y=514.3229166666661
+Graph:
+Connections node 0: 0, 1, 3, 5, 
+Connections node 1: 0, 1, 2, 3, 5, 
+Connections node 2: 1, 2, 3, 4, 
+Connections node 3: 0, 1, 2, 3, 5, 
+Connections node 4: 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 3, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@1145c4e0
+connections.get(node.getId()) :[0, 1, 3, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 3, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@451c0b8
+connections.get(node.getId()) :[0, 1, 3, 5]
+node 2: x=8010.951197658348 y=-2454.021408597495
+node 4: x=7242.801150308826 y=-2318.5758300172893
+node 5: x=7595.306950972695 y=-319.41609140250574
+node 0: x=8550.161223371442 y=179.542478780988
+node 3: x=8363.456998322217 y=-454.8616699827115
+node 1: x=9719.687092568467 y=514.3229166666661
+Graph:
+Connections node 0: 0, 1, 2, 3, 5, 
+Connections node 1: 0, 1, 2, 3, 5, 
+Connections node 2: 0, 1, 2, 3, 4, 
+Connections node 3: 0, 1, 2, 3, 5, 
+Connections node 4: 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 2, 3, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@318bc7cd
+connections.get(node.getId()) :[0, 1, 2, 3, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 3, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@49d5d4dc
+connections.get(node.getId()) :[0, 1, 2, 3, 5]
+node 3: x=8363.456998322217 y=-454.8616699827115
+node 0: x=8708.790076518353 y=224.95048412447966
+node 1: x=9719.687092568467 y=514.3229166666661
+node 4: x=7242.801150308826 y=-2318.5758300172893
+node 5: x=7595.306950972695 y=-319.41609140250574
+node 2: x=8010.951197658348 y=-2454.021408597495
+Graph:
+Connections node 0: 0, 1, 2, 3, 5, 
+Connections node 1: 0, 1, 2, 3, 5, 
+Connections node 2: 0, 1, 2, 3, 4, 
+Connections node 3: 0, 1, 2, 3, 5, 
+Connections node 4: 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 2, 3, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@13087c2b
+connections.get(node.getId()) :[0, 1, 2, 3, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 3, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@1b718aa1
+connections.get(node.getId()) :[0, 1, 2, 3, 5]
+node 4: x=7242.801150308826 y=-2318.5758300172893
+node 2: x=8010.951197658348 y=-2454.021408597495
+node 5: x=7595.306950972695 y=-319.41609140250574
+node 1: x=9719.687092568467 y=514.3229166666661
+node 3: x=8363.456998322217 y=-454.8616699827115
+node 0: x=8867.418929665264 y=270.358489467969
+Graph:
+Connections node 0: 0, 1, 2, 3, 5, 
+Connections node 1: 0, 1, 2, 3, 5, 
+Connections node 2: 0, 1, 2, 3, 4, 
+Connections node 3: 0, 1, 2, 3, 5, 
+Connections node 4: 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 2, 3, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@40bc4511
+connections.get(node.getId()) :[0, 1, 2, 3, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 3, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@5dcbfe86
+connections.get(node.getId()) :[0, 1, 2, 3, 5]
+node 0: x=9026.047782812175 y=315.7664948114531
+node 1: x=9719.687092568467 y=514.3229166666661
+Graph:
+Connections node 0: 0, 1, 
+Connections node 1: 0, 1, 
+
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@3b6d21c7
+connections.get(node.getId()) :[0, 1]
+0
+1
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@7e6fb8ce
+connections.get(node.getId()) :[0, 1]
+node 0: x=9184.676635959086 y=361.1745001549342
+node 1: x=9719.687092568467 y=514.3229166666661
+Graph:
+Connections node 0: 0, 1, 
+Connections node 1: 0, 1, 
+
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@44563d6f
+connections.get(node.getId()) :[0, 1]
+0
+1
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@154ab81
+connections.get(node.getId()) :[0, 1]
+node 1: x=9719.687092568467 y=514.3229166666661
+node 0: x=9343.305489105996 y=406.58250549840994
+Graph:
+Connections node 0: 0, 1, 
+Connections node 1: 0, 1, 
+
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@515f6d4
+connections.get(node.getId()) :[0, 1]
+0
+1
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@40176812
+connections.get(node.getId()) :[0, 1]
+node 0: x=9501.934342252907 y=451.99051084187806
+node 1: x=9719.687092568467 y=514.3229166666661
+Graph:
+Connections node 0: 0, 1, 
+Connections node 1: 0, 1, 
+
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@58e39599
+connections.get(node.getId()) :[0, 1]
+0
+1
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@1de100e1
+connections.get(node.getId()) :[0, 1]
+node 1: x=4478.487614080851 y=4980.468749999999
+node 0: x=9678.722573286865 y=572.6595012076575
+Graph:
+Connections node 0: 0, 1, 
+Connections node 1: 0, 1, 
+
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@54cc5307
+connections.get(node.getId()) :[0, 1]
+0
+1
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@11cec7fa
+connections.get(node.getId()) :[0, 1]
+node 0: x=9554.37385585935 y=681.1059481539125
+node 1: x=4478.487614080851 y=4980.468749999999
+Graph:
+Connections node 0: 0, 1, 
+Connections node 1: 0, 1, 
+
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@41c7d82e
+connections.get(node.getId()) :[0, 1]
+0
+1
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@4c55e72
+connections.get(node.getId()) :[0, 1]
+node 1: x=4478.487614080851 y=4980.468749999999
+node 0: x=9428.487550131158 y=787.7719584536051
+Graph:
+Connections node 0: 0, 1, 
+Connections node 1: 0, 1, 
+
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@16b23e75
+connections.get(node.getId()) :[0, 1]
+0
+1
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@53b0b2c7
+connections.get(node.getId()) :[0, 1]
+node 0: x=9302.582190933774 y=894.4154792381906
+node 1: x=4478.487614080851 y=4980.468749999999
+Graph:
+Connections node 0: 0, 1, 
+Connections node 1: 0, 1, 
+
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@7d414993
+connections.get(node.getId()) :[0, 1]
+0
+1
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@3843c85f
+connections.get(node.getId()) :[0, 1]
+node 0: x=9176.676586951038 y=1001.0587110240982
+node 1: x=4478.487614080851 y=4980.468749999999
+Graph:
+Connections node 0: 0, 1, 
+Connections node 1: 0, 1, 
+
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@79d7fc37
+connections.get(node.getId()) :[0, 1]
+0
+1
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@3cd57d69
+connections.get(node.getId()) :[0, 1]
+node 0: x=9050.770979740899 y=1107.7019389996517
+node 1: x=4478.487614080851 y=4980.468749999999
+Graph:
+Connections node 0: 0, 1, 
+Connections node 1: 0, 1, 
+
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@38bebb55
+connections.get(node.getId()) :[0, 1]
+0
+1
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@7dbc2226
+connections.get(node.getId()) :[0, 1]
+node 0: x=8924.865372487066 y=1214.34516692362
+node 1: x=4478.487614080851 y=4980.468749999999
+Graph:
+Connections node 0: 0, 1, 
+Connections node 1: 0, 1, 
+
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@42cd9dc1
+connections.get(node.getId()) :[0, 1]
+0
+1
+connections.get(node.getId()) :[0, 1]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@7cf1bfc
+connections.get(node.getId()) :[0, 1]
+node 0: x=8798.959765232676 y=1320.9883948468685
+node 1: x=4478.487614080851 y=4980.468749999999
+node 5: x=8389.401767585883 y=3239.005103437542
+node 3: x=8833.897168596957 y=2950.3464148795774
+node 2: x=8272.91896253148 y=2086.515729895791
+node 4: x=7828.423561520404 y=2375.1744184537556
+Graph:
+Connections node 0: 0, 1, 2, 3, 4, 
+Connections node 1: 0, 1, 4, 5, 
+Connections node 2: 0, 2, 3, 4, 
+Connections node 3: 0, 2, 3, 5, 
+Connections node 4: 0, 1, 2, 4, 5, 
+Connections node 5: 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@6a67cdf3
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@647ea79a
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+node 1: x=4478.487614080851 y=4980.468749999999
+node 2: x=8272.91896253148 y=2086.515729895791
+node 3: x=8833.897168596957 y=2950.3464148795774
+node 5: x=8389.401767585883 y=3239.005103437542
+node 4: x=7828.423561520404 y=2375.1744184537556
+node 0: x=8673.054157978286 y=1427.6316227701143
+Graph:
+Connections node 0: 0, 1, 2, 3, 4, 
+Connections node 1: 0, 1, 4, 5, 
+Connections node 2: 0, 2, 3, 4, 
+Connections node 3: 0, 2, 3, 5, 
+Connections node 4: 0, 1, 2, 4, 5, 
+Connections node 5: 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@2639a
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@4593e256
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+node 0: x=8547.148550723896 y=1534.2748506933601
+node 2: x=8272.91896253148 y=2086.515729895791
+node 4: x=7828.423561520404 y=2375.1744184537556
+node 5: x=8389.401767585883 y=3239.005103437542
+node 1: x=4478.487614080851 y=4980.468749999999
+node 3: x=8833.897168596957 y=2950.3464148795774
+Graph:
+Connections node 0: 0, 1, 2, 3, 4, 
+Connections node 1: 0, 1, 4, 5, 
+Connections node 2: 0, 2, 3, 4, 
+Connections node 3: 0, 2, 3, 5, 
+Connections node 4: 0, 1, 2, 4, 5, 
+Connections node 5: 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@7dc5ee31
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@62bc41e0
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+node 0: x=8421.242943469506 y=1640.918078616606
+node 4: x=7828.423561520404 y=2375.1744184537556
+node 5: x=8389.401767585883 y=3239.005103437542
+node 1: x=4478.487614080851 y=4980.468749999999
+node 2: x=8272.91896253148 y=2086.515729895791
+node 3: x=8833.897168596957 y=2950.3464148795774
+Graph:
+Connections node 0: 0, 1, 2, 3, 4, 
+Connections node 1: 0, 1, 4, 5, 
+Connections node 2: 0, 2, 3, 4, 
+Connections node 3: 0, 2, 3, 5, 
+Connections node 4: 0, 1, 2, 4, 5, 
+Connections node 5: 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@1f389bde
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@7820015e
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+node 4: x=7828.423561520404 y=2375.1744184537556
+node 5: x=8389.401767585883 y=3239.005103437542
+node 2: x=8272.91896253148 y=2086.515729895791
+node 3: x=8833.897168596957 y=2950.3464148795774
+node 0: x=8295.337336215116 y=1747.5613065398518
+node 1: x=4478.487614080851 y=4980.468749999999
+Graph:
+Connections node 0: 0, 1, 2, 3, 4, 
+Connections node 1: 0, 1, 4, 5, 
+Connections node 2: 0, 2, 3, 4, 
+Connections node 3: 0, 2, 3, 5, 
+Connections node 4: 0, 1, 2, 4, 5, 
+Connections node 5: 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@8337b66
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@6ce2f04b
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+node 4: x=7828.423561520404 y=2375.1744184537556
+node 3: x=8833.897168596957 y=2950.3464148795774
+node 1: x=4478.487614080851 y=4980.468749999999
+node 0: x=8169.43172896071 y=1854.2045344630867
+node 5: x=8389.401767585883 y=3239.005103437542
+node 2: x=8272.91896253148 y=2086.515729895791
+Graph:
+Connections node 0: 0, 1, 2, 3, 4, 
+Connections node 1: 0, 1, 4, 5, 
+Connections node 2: 0, 2, 3, 4, 
+Connections node 3: 0, 2, 3, 5, 
+Connections node 4: 0, 1, 2, 4, 5, 
+Connections node 5: 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@899de34
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@3be2efe0
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+node 5: x=8389.401767585883 y=3239.005103437542
+node 1: x=4478.487614080851 y=4980.468749999999
+node 4: x=7828.423561520404 y=2375.1744184537556
+node 0: x=8043.526121706229 y=1960.8477623863098
+node 3: x=8833.897168596957 y=2950.3464148795774
+node 2: x=8272.91896253148 y=2086.515729895791
+Graph:
+Connections node 0: 0, 1, 2, 4, 
+Connections node 1: 0, 1, 4, 5, 
+Connections node 2: 0, 2, 3, 4, 
+Connections node 3: 2, 3, 5, 
+Connections node 4: 0, 1, 2, 4, 5, 
+Connections node 5: 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 2, 4]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@74598bf8
+connections.get(node.getId()) :[0, 1, 2, 4]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 4]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@225d6b5a
+connections.get(node.getId()) :[0, 1, 2, 4]
+node 2: x=8272.91896253148 y=2086.515729895791
+node 4: x=7828.423561520404 y=2375.1744184537556
+node 3: x=8833.897168596957 y=2950.3464148795774
+node 5: x=8389.401767585883 y=3239.005103437542
+node 0: x=7917.620514451748 y=2067.490990309533
+node 1: x=4478.487614080851 y=4980.468749999999
+Graph:
+Connections node 0: 0, 1, 2, 4, 
+Connections node 1: 0, 1, 4, 5, 
+Connections node 2: 0, 2, 3, 4, 
+Connections node 3: 2, 3, 5, 
+Connections node 4: 0, 1, 2, 4, 5, 
+Connections node 5: 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 2, 4]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@7327a211
+connections.get(node.getId()) :[0, 1, 2, 4]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 4]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@2a7d9565
+connections.get(node.getId()) :[0, 1, 2, 4]
+node 1: x=4478.487614080851 y=4980.468749999999
+node 4: x=7828.423561520404 y=2375.1744184537556
+node 2: x=8272.91896253148 y=2086.515729895791
+node 5: x=8389.401767585883 y=3239.005103437542
+node 3: x=8833.897168596957 y=2950.3464148795774
+node 0: x=7791.714907197267 y=2174.134218232756
+Graph:
+Connections node 0: 0, 1, 2, 4, 
+Connections node 1: 0, 1, 4, 5, 
+Connections node 2: 0, 2, 3, 4, 
+Connections node 3: 2, 3, 5, 
+Connections node 4: 0, 1, 2, 4, 5, 
+Connections node 5: 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 2, 4]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@63b8f7e1
+connections.get(node.getId()) :[0, 1, 2, 4]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 4]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@788f9ed8
+connections.get(node.getId()) :[0, 1, 2, 4]
+node 2: x=8272.91896253148 y=2086.515729895791
+node 5: x=8389.401767585883 y=3239.005103437542
+node 0: x=7665.809299942786 y=2280.7774461559793
+node 1: x=4478.487614080851 y=4980.468749999999
+node 4: x=7828.423561520404 y=2375.1744184537556
+node 3: x=8833.897168596957 y=2950.3464148795774
+Graph:
+Connections node 0: 0, 1, 2, 4, 5, 
+Connections node 1: 0, 1, 4, 5, 
+Connections node 2: 0, 2, 3, 4, 
+Connections node 3: 2, 3, 5, 
+Connections node 4: 0, 1, 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@3490a9e1
+connections.get(node.getId()) :[0, 1, 2, 4, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@29656b1a
+connections.get(node.getId()) :[0, 1, 2, 4, 5]
+node 0: x=7539.9036926883055 y=2387.4206740792024
+node 2: x=8272.91896253148 y=2086.515729895791
+node 1: x=4478.487614080851 y=4980.468749999999
+node 5: x=8389.401767585883 y=3239.005103437542
+node 3: x=8833.897168596957 y=2950.3464148795774
+node 4: x=7828.423561520404 y=2375.1744184537556
+Graph:
+Connections node 0: 0, 1, 2, 4, 5, 
+Connections node 1: 0, 1, 4, 5, 
+Connections node 2: 0, 2, 3, 4, 
+Connections node 3: 2, 3, 5, 
+Connections node 4: 0, 1, 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@2ee78cf8
+connections.get(node.getId()) :[0, 1, 2, 4, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@392624b9
+connections.get(node.getId()) :[0, 1, 2, 4, 5]
+node 3: x=8833.897168596957 y=2950.3464148795774
+node 5: x=8389.401767585883 y=3239.005103437542
+node 0: x=7413.998085433825 y=2494.0639020024255
+node 1: x=4478.487614080851 y=4980.468749999999
+node 4: x=7828.423561520404 y=2375.1744184537556
+node 2: x=8272.91896253148 y=2086.515729895791
+Graph:
+Connections node 0: 0, 1, 2, 4, 5, 
+Connections node 1: 0, 1, 4, 5, 
+Connections node 2: 0, 2, 3, 4, 
+Connections node 3: 2, 3, 5, 
+Connections node 4: 0, 1, 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@8464f36
+connections.get(node.getId()) :[0, 1, 2, 4, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@6d72eec3
+connections.get(node.getId()) :[0, 1, 2, 4, 5]
+node 2: x=8272.91896253148 y=2086.515729895791
+node 5: x=8389.401767585883 y=3239.005103437542
+node 4: x=7828.423561520404 y=2375.1744184537556
+node 1: x=4478.487614080851 y=4980.468749999999
+node 0: x=7288.092478179344 y=2600.7071299256486
+node 3: x=8833.897168596957 y=2950.3464148795774
+Graph:
+Connections node 0: 0, 1, 2, 4, 5, 
+Connections node 1: 0, 1, 4, 5, 
+Connections node 2: 0, 2, 3, 4, 
+Connections node 3: 2, 3, 5, 
+Connections node 4: 0, 1, 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@3c3a0c70
+connections.get(node.getId()) :[0, 1, 2, 4, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@2e646faa
+connections.get(node.getId()) :[0, 1, 2, 4, 5]
+node 3: x=8833.897168596957 y=2950.3464148795774
+node 0: x=7162.186870924863 y=2707.3503578488717
+node 1: x=4478.487614080851 y=4980.468749999999
+node 4: x=7828.423561520404 y=2375.1744184537556
+node 5: x=8389.401767585883 y=3239.005103437542
+node 2: x=8272.91896253148 y=2086.515729895791
+Graph:
+Connections node 0: 0, 1, 2, 4, 5, 
+Connections node 1: 0, 1, 4, 5, 
+Connections node 2: 0, 2, 3, 4, 
+Connections node 3: 2, 3, 5, 
+Connections node 4: 0, 1, 2, 4, 5, 
+Connections node 5: 0, 1, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@6f26ecdb
+connections.get(node.getId()) :[0, 1, 2, 4, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@216e07be
+connections.get(node.getId()) :[0, 1, 2, 4, 5]
+node 8: x=5991.567459992302 y=4539.402341007723
+node 2: x=8272.91896253148 y=2086.515729895791
+node 5: x=8389.401767585883 y=3239.005103437542
+node 9: x=6946.566830196094 y=4153.557549789334
+node 3: x=8833.897168596957 y=2950.3464148795774
+node 7: x=6785.485995027251 y=3754.868492325616
+node 0: x=7036.281263670382 y=2813.993585772095
+node 4: x=7828.423561520404 y=2375.1744184537556
+node 1: x=4478.487614080851 y=4980.468749999999
+node 6: x=5830.486624823459 y=4140.713283544005
+Graph:
+Connections node 0: 0, 1, 2, 4, 5, 6, 7, 9, 
+Connections node 1: 0, 1, 4, 6, 8, 
+Connections node 2: 0, 2, 3, 4, 
+Connections node 3: 2, 3, 5, 9, 
+Connections node 4: 0, 1, 2, 4, 5, 6, 7, 9, 
+Connections node 5: 0, 3, 4, 5, 7, 9, 
+Connections node 6: 0, 1, 4, 6, 7, 8, 
+Connections node 7: 0, 4, 5, 6, 7, 9, 
+Connections node 8: 1, 6, 8, 9, 
+Connections node 9: 0, 3, 4, 5, 7, 8, 9, 
+
+connections.get(node.getId()) :[0, 1, 2, 4, 5, 6, 7, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@ceac8aa
+connections.get(node.getId()) :[0, 1, 2, 4, 5, 6, 7, 9]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 4, 5, 6, 7, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@561fa12b
+connections.get(node.getId()) :[0, 1, 2, 4, 5, 6, 7, 9]
+node 2: x=5830.486624823459 y=4140.713283544005
+node 3: x=6785.485995027251 y=3754.868492325616
+node 1: x=4478.487614080851 y=4980.468749999999
+node 5: x=6946.566830196094 y=4153.557549789334
+node 4: x=5991.567459992302 y=4539.402341007723
+node 0: x=6910.375656415901 y=2920.636813695318
+Graph:
+Connections node 0: 0, 1, 2, 3, 5, 
+Connections node 1: 0, 1, 2, 4, 
+Connections node 2: 0, 1, 2, 3, 4, 
+Connections node 3: 0, 2, 3, 5, 
+Connections node 4: 1, 2, 4, 5, 
+Connections node 5: 0, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 2, 3, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@6dfe4b53
+connections.get(node.getId()) :[0, 1, 2, 3, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 3, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@241e4c4d
+connections.get(node.getId()) :[0, 1, 2, 3, 5]
+node 0: x=6784.47004916142 y=3027.280041618541
+node 3: x=6785.485995027251 y=3754.868492325616
+node 2: x=5830.486624823459 y=4140.713283544005
+node 5: x=6946.566830196094 y=4153.557549789334
+node 1: x=4478.487614080851 y=4980.468749999999
+node 4: x=5991.567459992302 y=4539.402341007723
+Graph:
+Connections node 0: 0, 1, 2, 3, 5, 
+Connections node 1: 0, 1, 2, 4, 
+Connections node 2: 0, 1, 2, 3, 4, 
+Connections node 3: 0, 2, 3, 5, 
+Connections node 4: 1, 2, 4, 5, 
+Connections node 5: 0, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 2, 3, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@7812478a
+connections.get(node.getId()) :[0, 1, 2, 3, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 3, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@39bce0d4
+connections.get(node.getId()) :[0, 1, 2, 3, 5]
+node 1: x=4478.487614080851 y=4980.468749999999
+node 0: x=6658.5644419069395 y=3133.923269541764
+node 3: x=6785.485995027251 y=3754.868492325616
+node 4: x=5991.567459992302 y=4539.402341007723
+node 2: x=5830.486624823459 y=4140.713283544005
+node 5: x=6946.566830196094 y=4153.557549789334
+Graph:
+Connections node 0: 0, 1, 2, 3, 5, 
+Connections node 1: 0, 1, 2, 4, 
+Connections node 2: 0, 1, 2, 3, 4, 
+Connections node 3: 0, 2, 3, 5, 
+Connections node 4: 1, 2, 4, 5, 
+Connections node 5: 0, 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 2, 3, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@626b06ed
+connections.get(node.getId()) :[0, 1, 2, 3, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 3, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@1bcfa8f8
+connections.get(node.getId()) :[0, 1, 2, 3, 5]
+node 1: x=4478.487614080851 y=4980.468749999999
+node 4: x=5991.567459992302 y=4539.402341007723
+node 2: x=5830.486624823459 y=4140.713283544005
+node 3: x=6785.485995027251 y=3754.868492325616
+node 5: x=6946.566830196094 y=4153.557549789334
+node 0: x=6532.658834652459 y=3240.566497465009
+Graph:
+Connections node 0: 0, 1, 2, 3, 
+Connections node 1: 0, 1, 2, 4, 
+Connections node 2: 0, 1, 2, 3, 4, 
+Connections node 3: 0, 2, 3, 5, 
+Connections node 4: 1, 2, 4, 5, 
+Connections node 5: 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 2, 3]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@6849e474
+connections.get(node.getId()) :[0, 1, 2, 3]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 3]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@190efda9
+connections.get(node.getId()) :[0, 1, 2, 3]
+node 2: x=5830.486624823459 y=4140.713283544005
+node 1: x=4478.487614080851 y=4980.468749999999
+node 0: x=6406.753227397978 y=3347.2097253882775
+node 3: x=6785.485995027251 y=3754.868492325616
+node 4: x=5991.567459992302 y=4539.402341007723
+node 5: x=6946.566830196094 y=4153.557549789334
+Graph:
+Connections node 0: 0, 1, 2, 3, 
+Connections node 1: 0, 1, 2, 4, 
+Connections node 2: 0, 1, 2, 3, 4, 
+Connections node 3: 0, 2, 3, 5, 
+Connections node 4: 1, 2, 4, 5, 
+Connections node 5: 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 2, 3]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@dc20fd6
+connections.get(node.getId()) :[0, 1, 2, 3]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 3]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@6c525edf
+connections.get(node.getId()) :[0, 1, 2, 3]
+node 5: x=6946.566830196094 y=4153.557549789334
+node 3: x=6785.485995027251 y=3754.868492325616
+node 2: x=5830.486624823459 y=4140.713283544005
+node 1: x=4478.487614080851 y=4980.468749999999
+node 0: x=6280.847620143497 y=3453.852953311546
+node 4: x=5991.567459992302 y=4539.402341007723
+Graph:
+Connections node 0: 0, 1, 2, 3, 
+Connections node 1: 0, 1, 2, 4, 
+Connections node 2: 0, 1, 2, 3, 4, 
+Connections node 3: 0, 2, 3, 5, 
+Connections node 4: 1, 2, 4, 5, 
+Connections node 5: 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 2, 3]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@20bf9b82
+connections.get(node.getId()) :[0, 1, 2, 3]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 3]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@2007ed56
+connections.get(node.getId()) :[0, 1, 2, 3]
+node 1: x=4478.487614080851 y=4980.468749999999
+node 2: x=5830.486624823459 y=4140.713283544005
+node 3: x=6785.485995027251 y=3754.868492325616
+node 4: x=5991.567459992302 y=4539.402341007723
+node 5: x=6946.566830196094 y=4153.557549789334
+node 0: x=6154.942012889016 y=3560.4961812348147
+Graph:
+Connections node 0: 0, 1, 2, 3, 
+Connections node 1: 0, 1, 2, 4, 
+Connections node 2: 0, 1, 2, 3, 4, 
+Connections node 3: 0, 2, 3, 5, 
+Connections node 4: 1, 2, 4, 5, 
+Connections node 5: 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 2, 3]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@2e2d922a
+connections.get(node.getId()) :[0, 1, 2, 3]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 3]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@2db62f61
+connections.get(node.getId()) :[0, 1, 2, 3]
+node 1: x=4478.487614080851 y=4980.468749999999
+node 2: x=5830.486624823459 y=4140.713283544005
+node 4: x=5991.567459992302 y=4539.402341007723
+node 5: x=6946.566830196094 y=4153.557549789334
+node 3: x=6785.485995027251 y=3754.868492325616
+node 0: x=6029.036405634535 y=3667.1394091580833
+Graph:
+Connections node 0: 0, 1, 2, 3, 
+Connections node 1: 0, 1, 2, 4, 
+Connections node 2: 0, 1, 2, 3, 4, 
+Connections node 3: 0, 2, 3, 5, 
+Connections node 4: 1, 2, 4, 5, 
+Connections node 5: 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 2, 3]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@377048b1
+connections.get(node.getId()) :[0, 1, 2, 3]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 3]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@2bb50732
+connections.get(node.getId()) :[0, 1, 2, 3]
+node 3: x=6785.485995027251 y=3754.868492325616
+node 4: x=5991.567459992302 y=4539.402341007723
+node 1: x=4478.487614080851 y=4980.468749999999
+node 0: x=5903.130798380054 y=3773.782637081352
+node 5: x=6946.566830196094 y=4153.557549789334
+node 2: x=5830.486624823459 y=4140.713283544005
+Graph:
+Connections node 0: 0, 1, 2, 3, 
+Connections node 1: 0, 1, 2, 4, 
+Connections node 2: 0, 1, 2, 3, 4, 
+Connections node 3: 0, 2, 3, 5, 
+Connections node 4: 1, 2, 4, 5, 
+Connections node 5: 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 2, 3]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@7f4a665e
+connections.get(node.getId()) :[0, 1, 2, 3]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 3]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@5f7c07ef
+connections.get(node.getId()) :[0, 1, 2, 3]
+node 4: x=5991.567459992302 y=4539.402341007723
+node 1: x=4478.487614080851 y=4980.468749999999
+node 0: x=5777.2251911255735 y=3880.4258650046204
+node 3: x=6785.485995027251 y=3754.868492325616
+node 2: x=5830.486624823459 y=4140.713283544005
+node 5: x=6946.566830196094 y=4153.557549789334
+Graph:
+Connections node 0: 0, 1, 2, 3, 
+Connections node 1: 0, 1, 2, 4, 
+Connections node 2: 0, 1, 2, 3, 4, 
+Connections node 3: 0, 2, 3, 5, 
+Connections node 4: 1, 2, 4, 5, 
+Connections node 5: 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 2, 3]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@23f33cae
+connections.get(node.getId()) :[0, 1, 2, 3]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 3]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@e780b3
+connections.get(node.getId()) :[0, 1, 2, 3]
+node 4: x=5991.567459992302 y=4539.402341007723
+node 0: x=5651.319583871093 y=3987.069092927889
+node 3: x=6785.485995027251 y=3754.868492325616
+node 5: x=6946.566830196094 y=4153.557549789334
+node 2: x=5830.486624823459 y=4140.713283544005
+node 1: x=4478.487614080851 y=4980.468749999999
+Graph:
+Connections node 0: 0, 1, 2, 3, 4, 
+Connections node 1: 0, 1, 2, 4, 
+Connections node 2: 0, 1, 2, 3, 4, 
+Connections node 3: 0, 2, 3, 5, 
+Connections node 4: 0, 1, 2, 4, 5, 
+Connections node 5: 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@29fdc344
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@5ba6cb4f
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+node 4: x=5991.567459992302 y=4539.402341007723
+node 5: x=6946.566830196094 y=4153.557549789334
+node 2: x=5830.486624823459 y=4140.713283544005
+node 3: x=6785.485995027251 y=3754.868492325616
+node 1: x=4478.487614080851 y=4980.468749999999
+node 0: x=5525.413976616612 y=4093.7123208511575
+Graph:
+Connections node 0: 0, 1, 2, 3, 4, 
+Connections node 1: 0, 1, 2, 4, 
+Connections node 2: 0, 1, 2, 3, 4, 
+Connections node 3: 0, 2, 3, 5, 
+Connections node 4: 0, 1, 2, 4, 5, 
+Connections node 5: 3, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@160596a
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@463c609
+connections.get(node.getId()) :[0, 1, 2, 3, 4]
+node 1: x=4478.487614080851 y=4980.468749999999
+node 0: x=5399.508369362131 y=4200.355548774426
+node 3: x=6785.485995027251 y=3754.868492325616
+node 7: x=4575.325945241195 y=3464.062500000002
+node 5: x=6946.566830196094 y=4153.557549789334
+node 6: x=3925.325945241195 y=3464.062500000002
+node 8: x=4575.325945241195 y=4114.062500000002
+node 9: x=3925.325945241195 y=4114.062500000002
+node 4: x=5991.567459992302 y=4539.402341007723
+node 2: x=5830.486624823459 y=4140.713283544005
+Graph:
+Connections node 0: 0, 1, 2, 3, 4, 7, 8, 9, 
+Connections node 1: 0, 1, 2, 4, 8, 9, 
+Connections node 2: 0, 1, 2, 3, 4, 7, 8, 9, 
+Connections node 3: 0, 2, 3, 5, 7, 8, 
+Connections node 4: 0, 1, 2, 4, 5, 7, 8, 9, 
+Connections node 5: 3, 4, 5, 
+Connections node 6: 6, 7, 9, 
+Connections node 7: 0, 2, 3, 4, 6, 7, 8, 
+Connections node 8: 0, 1, 2, 3, 4, 7, 8, 9, 
+Connections node 9: 0, 1, 2, 4, 6, 8, 9, 
+
+connections.get(node.getId()) :[0, 1, 2, 3, 4, 7, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@797d2ab5
+connections.get(node.getId()) :[0, 1, 2, 3, 4, 7, 8, 9]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 3, 4, 7, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@6891ac26
+connections.get(node.getId()) :[0, 1, 2, 3, 4, 7, 8, 9]
+node 8: x=4575.325945241195 y=4114.062500000002
+node 2: x=5830.486624823459 y=4140.713283544005
+node 5: x=6946.566830196094 y=4153.557549789334
+node 4: x=5991.567459992302 y=4539.402341007723
+node 1: x=4478.487614080851 y=4980.468749999999
+node 9: x=3925.325945241195 y=4114.062500000002
+node 3: x=6785.485995027251 y=3754.868492325616
+node 7: x=4575.325945241195 y=3464.062500000002
+node 0: x=5273.60276210765 y=4306.998776697695
+node 6: x=3925.325945241195 y=3464.062500000002
+Graph:
+Connections node 0: 0, 1, 2, 3, 4, 7, 8, 9, 
+Connections node 1: 0, 1, 2, 4, 8, 9, 
+Connections node 2: 0, 1, 2, 3, 4, 7, 8, 9, 
+Connections node 3: 0, 2, 3, 5, 7, 8, 
+Connections node 4: 0, 1, 2, 4, 5, 7, 8, 9, 
+Connections node 5: 3, 4, 5, 
+Connections node 6: 6, 7, 9, 
+Connections node 7: 0, 2, 3, 4, 6, 7, 8, 
+Connections node 8: 0, 1, 2, 3, 4, 7, 8, 9, 
+Connections node 9: 0, 1, 2, 4, 6, 8, 9, 
+
+connections.get(node.getId()) :[0, 1, 2, 3, 4, 7, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@7eeb73f7
+connections.get(node.getId()) :[0, 1, 2, 3, 4, 7, 8, 9]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 3, 4, 7, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@3d8191bd
+connections.get(node.getId()) :[0, 1, 2, 3, 4, 7, 8, 9]
+node 2: x=5830.486624823459 y=4140.713283544005
+node 6: x=3925.325945241195 y=3464.062500000002
+node 4: x=5991.567459992302 y=4539.402341007723
+node 5: x=6946.566830196094 y=4153.557549789334
+node 9: x=3925.325945241195 y=4114.062500000002
+node 8: x=4575.325945241195 y=4114.062500000002
+node 0: x=5147.697154853169 y=4413.642004620963
+node 3: x=6785.485995027251 y=3754.868492325616
+node 7: x=4575.325945241195 y=3464.062500000002
+node 1: x=4478.487614080851 y=4980.468749999999
+Graph:
+Connections node 0: 0, 1, 2, 3, 4, 7, 8, 9, 
+Connections node 1: 0, 1, 2, 4, 8, 9, 
+Connections node 2: 0, 1, 2, 3, 4, 7, 8, 9, 
+Connections node 3: 0, 2, 3, 5, 7, 8, 
+Connections node 4: 0, 1, 2, 4, 5, 7, 8, 9, 
+Connections node 5: 3, 4, 5, 
+Connections node 6: 6, 7, 9, 
+Connections node 7: 0, 2, 3, 4, 6, 7, 8, 
+Connections node 8: 0, 1, 2, 3, 4, 7, 8, 9, 
+Connections node 9: 0, 1, 2, 4, 6, 8, 9, 
+
+connections.get(node.getId()) :[0, 1, 2, 3, 4, 7, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@44291360
+connections.get(node.getId()) :[0, 1, 2, 3, 4, 7, 8, 9]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 3, 4, 7, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@4286a652
+connections.get(node.getId()) :[0, 1, 2, 3, 4, 7, 8, 9]
+node 0: x=5021.791547598723 y=4520.285232544232
+node 3: x=6785.485995027251 y=3754.868492325616
+node 5: x=6946.566830196094 y=4153.557549789334
+node 7: x=4575.325945241195 y=3464.062500000002
+node 9: x=3925.325945241195 y=4114.062500000002
+node 1: x=4478.487614080851 y=4980.468749999999
+node 4: x=5991.567459992302 y=4539.402341007723
+node 2: x=5830.486624823459 y=4140.713283544005
+node 6: x=3925.325945241195 y=3464.062500000002
+node 8: x=4575.325945241195 y=4114.062500000002
+Graph:
+Connections node 0: 0, 1, 2, 4, 7, 8, 9, 
+Connections node 1: 0, 1, 2, 4, 8, 9, 
+Connections node 2: 0, 1, 2, 3, 4, 7, 8, 9, 
+Connections node 3: 2, 3, 5, 7, 8, 
+Connections node 4: 0, 1, 2, 4, 5, 7, 8, 9, 
+Connections node 5: 3, 4, 5, 
+Connections node 6: 6, 7, 9, 
+Connections node 7: 0, 2, 3, 4, 6, 7, 8, 
+Connections node 8: 0, 1, 2, 3, 4, 7, 8, 9, 
+Connections node 9: 0, 1, 2, 4, 6, 8, 9, 
+
+connections.get(node.getId()) :[0, 1, 2, 4, 7, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@6dd3b006
+connections.get(node.getId()) :[0, 1, 2, 4, 7, 8, 9]
+0
+1
+connections.get(node.getId()) :[0, 1, 2, 4, 7, 8, 9]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@700328fb
+connections.get(node.getId()) :[0, 1, 2, 4, 7, 8, 9]
+node 5: x=3925.325945241195 y=4114.062500000002
+node 2: x=3925.325945241195 y=3464.062500000002
+node 1: x=4478.487614080851 y=4980.468749999999
+node 4: x=4575.325945241195 y=4114.062500000002
+node 3: x=4575.325945241195 y=3464.062500000002
+node 0: x=4895.885940344333 y=4626.9284604675
+Graph:
+Connections node 0: 0, 1, 3, 4, 5, 
+Connections node 1: 0, 1, 4, 5, 
+Connections node 2: 2, 3, 5, 
+Connections node 3: 0, 2, 3, 4, 
+Connections node 4: 0, 1, 3, 4, 5, 
+Connections node 5: 0, 1, 2, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@12b19e51
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@9c1afec
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+node 5: x=3925.325945241195 y=4114.062500000002
+node 0: x=4769.98033308987 y=4733.571688390769
+node 3: x=4575.325945241195 y=3464.062500000002
+node 1: x=4478.487614080851 y=4980.468749999999
+node 2: x=3925.325945241195 y=3464.062500000002
+node 4: x=4575.325945241195 y=4114.062500000002
+Graph:
+Connections node 0: 0, 1, 3, 4, 5, 
+Connections node 1: 0, 1, 4, 5, 
+Connections node 2: 2, 3, 5, 
+Connections node 3: 0, 2, 3, 4, 
+Connections node 4: 0, 1, 3, 4, 5, 
+Connections node 5: 0, 1, 2, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@70c12407
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@193defa7
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+node 3: x=4575.325945241195 y=3464.062500000002
+node 5: x=3925.325945241195 y=4114.062500000002
+node 4: x=4575.325945241195 y=4114.062500000002
+node 2: x=3925.325945241195 y=3464.062500000002
+node 1: x=4478.487614080851 y=4980.468749999999
+node 0: x=4644.0747258353895 y=4840.2149163140375
+Graph:
+Connections node 0: 0, 1, 3, 4, 5, 
+Connections node 1: 0, 1, 4, 5, 
+Connections node 2: 2, 3, 5, 
+Connections node 3: 0, 2, 3, 4, 
+Connections node 4: 0, 1, 3, 4, 5, 
+Connections node 5: 0, 1, 2, 4, 5, 
+
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@72aaa759
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+0
+1
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
+connections.get(node.getId()).stream().map(this::getNode) :java.util.stream.ReferencePipeline$3@2bbda4cc
+connections.get(node.getId()) :[0, 1, 3, 4, 5]
