@@ -1,0 +1,1180 @@
+Début de la partie
+Start i trouvé : 1
+Start j trouvé : 1
+End i trouvé : 35
+End j trouvé : 10
+La taille de la liste : 0
+La taille de la liste reefSegments : 0
+40
+13
+passe get ObstacelDetec X
+1
+passe get ObstacelDetec X
+1
+StartX: 1, StartY: 1
+EndX: 35, EndY: 10
+coucou
+startI 1
+startJ 1
+Grid existe [[Lfr.unice.polytech.si3.qgl.ajil.strategy.pathfinding.Cell;@527c8a32
+on a [1,1]
+grid existe ? 40
+Lentgh Colonne i  ? 13
+Length Colonne j  ? 13
+coucou
+startI 1
+startJ 1
+Grid existe [[Lfr.unice.polytech.si3.qgl.ajil.strategy.pathfinding.Cell;@527c8a32
+on a [1,1]
+grid existe ? 40
+Lentgh Colonne i  ? 13
+Length Colonne j  ? 13
+FAKE
+Checkpoint{position=Position{x=1520.4457648535056, y=764.9328798487974, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, 0.158
+FAKE
+FAKE
+Checkpoint{position=Position{x=2003.9172847549928, y=1256.5308130834928, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, 0.154
+FAKE
+Checkpoint{position=Position{x=2003.9172847549928, y=1256.5308130834928, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, 0.044
+Start i trouvé : 1
+Start j trouvé : 1
+End i trouvé : 33
+End j trouvé : 9
+La taille de la liste : 11
+La taille de la liste reefSegments : 4
+38
+12
+passe get ObstacelDetec X
+1
+passe get ObstacelDetec X
+1
+StartX: 1, StartY: 1
+EndX: 33, EndY: 9
+coucou
+startI 1
+startJ 1
+Grid existe [[Lfr.unice.polytech.si3.qgl.ajil.strategy.pathfinding.Cell;@658323a1
+on a [1,1]
+grid existe ? 38
+Lentgh Colonne i  ? 12
+Length Colonne j  ? 12
+coucou
+startI 1
+startJ 1
+Grid existe [[Lfr.unice.polytech.si3.qgl.ajil.strategy.pathfinding.Cell;@658323a1
+on a [1,1]
+grid existe ? 38
+Lentgh Colonne i  ? 12
+Length Colonne j  ? 12
+FAKE
+Checkpoint{position=Position{x=2037.145122702, y=1129.890306922518, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, -0.68
+FAKE
+FAKE
+Checkpoint{position=Position{x=2277.09223161146, y=1626.2742098753406, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 47.142857142857146, 0.8975979010256552
+FAKE
+Checkpoint{position=Position{x=2277.09223161146, y=1626.2742098753406, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, 0.321
+FAKE
+Checkpoint{position=Position{x=2277.09223161146, y=1626.2742098753406, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, 0.214
+Start i trouvé : 1
+Start j trouvé : 1
+End i trouvé : 31
+End j trouvé : 6
+La taille de la liste : 17
+La taille de la liste reefSegments : 8
+36
+9
+passe get ObstacelDetec X
+1
+passe get ObstacelDetec X
+1
+StartX: 1, StartY: 1
+EndX: 31, EndY: 6
+coucou
+startI 1
+startJ 1
+Grid existe [[Lfr.unice.polytech.si3.qgl.ajil.strategy.pathfinding.Cell;@380beaf4
+on a [1,1]
+grid existe ? 36
+Lentgh Colonne i  ? 9
+Length Colonne j  ? 9
+coucou
+startI 1
+startJ 1
+Grid existe [[Lfr.unice.polytech.si3.qgl.ajil.strategy.pathfinding.Cell;@380beaf4
+on a [1,1]
+grid existe ? 36
+Lentgh Colonne i  ? 9
+Length Colonne j  ? 9
+FAKE
+Checkpoint{position=Position{x=2450.3394309439013, y=1661.3095507364987, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 70.71428571428572, -1.3463968515384828
+FAKE
+FAKE
+Checkpoint{position=Position{x=2936.438983650542, y=2158.5814562612895, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, 0.444
+FAKE
+Checkpoint{position=Position{x=2936.438983650542, y=2158.5814562612895, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, 0.125
+FAKE
+Checkpoint{position=Position{x=2936.438983650542, y=2158.5814562612895, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, 0.069
+FAKE
+FAKE
+Checkpoint{position=Position{x=3424.555617324174, y=2657.6551044132975, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, -0.042
+FAKE
+Checkpoint{position=Position{x=3424.555617324174, y=2657.6551044132975, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+[(3334.709699099967,2570.7487699005137), (3507.5003903808793,2751.1706893313753)]
+Ship: Position{x=3109.3410203038657, y=2335.4267782668026, orientation=0.8069999999999947}
+Point 1: (3334.709699099967,2570.7487699005137)
+Point 2: (3507.5003903808793,2751.1706893313753)
+325.8335175035815
+Deplacement: 165.0, -0.011
+FAKE
+Checkpoint{position=Position{x=3424.555617324174, y=2657.6551044132975, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+[(3336.311333088205,2569.1229277785897), (3511.196930097393,2747.756618945133)]
+Ship: Position{x=3272.497484286414, y=2503.941440257872, orientation=0.7959999999999893}
+Point 1: (3336.311333088205,2569.1229277785897)
+Point 2: (3511.196930097393,2747.756618945133)
+91.2186034442063
+Deplacement: 70.71428571428571, -0.005
+Start i trouvé : 1
+Start j trouvé : 1
+End i trouvé : 27
+End j trouvé : 2
+La taille de la liste : 0
+La taille de la liste reefSegments : 4
+32
+5
+passe get ObstacelDetec X
+1
+passe get ObstacelDetec X
+1
+StartX: 1, StartY: 1
+EndX: 27, EndY: 2
+coucou
+startI 1
+startJ 1
+Grid existe [[Lfr.unice.polytech.si3.qgl.ajil.strategy.pathfinding.Cell;@7948b0f8
+on a [1,1]
+grid existe ? 32
+Lentgh Colonne i  ? 5
+Length Colonne j  ? 5
+coucou
+startI 1
+startJ 1
+Grid existe [[Lfr.unice.polytech.si3.qgl.ajil.strategy.pathfinding.Cell;@7948b0f8
+on a [1,1]
+grid existe ? 32
+Lentgh Colonne i  ? 5
+Length Colonne j  ? 5
+FAKE
+Checkpoint{position=Position{x=3562.1574034241685, y=2684.0517131661018, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, -0.691
+Start i trouvé : 1
+Start j trouvé : 1
+End i trouvé : 26
+End j trouvé : 2
+La taille de la liste : 5
+La taille de la liste reefSegments : 8
+31
+5
+passe get ObstacelDetec X
+1
+passe get ObstacelDetec X
+1
+StartX: 1, StartY: 1
+EndX: 26, EndY: 2
+coucou
+startI 1
+startJ 1
+Grid existe [[Lfr.unice.polytech.si3.qgl.ajil.strategy.pathfinding.Cell;@3a531d13
+on a [1,1]
+grid existe ? 31
+Lentgh Colonne i  ? 5
+Length Colonne j  ? 5
+coucou
+startI 1
+startJ 1
+Grid existe [[Lfr.unice.polytech.si3.qgl.ajil.strategy.pathfinding.Cell;@3a531d13
+on a [1,1]
+grid existe ? 31
+Lentgh Colonne i  ? 5
+Length Colonne j  ? 5
+FAKE
+Checkpoint{position=Position{x=3781.996777242548, y=2790.4176376022697, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+[(3657.677151010936,2777.393408886776), (3906.425802684891,2802.351523284233)]
+Ship: Position{x=3661.8556785792002, y=2777.812660080139, orientation=0.09999999999999204}
+Point 1: (3657.677151010936,2777.393408886776)
+Point 2: (3906.425802684891,2802.351523284233)
+4.1995076142185646
+Deplacement: 23.571428571428573, 0.005
+FAKE
+Checkpoint{position=Position{x=3781.996777242548, y=2790.4176376022697, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 82.5, 1.5707963267948966
+FAKE
+Checkpoint{position=Position{x=3781.996777242548, y=2790.4176376022697, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 82.5, 1.5707963267948966
+FAKE
+Checkpoint{position=Position{x=3781.996777242548, y=2790.4176376022697, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, 0.6
+FAKE
+FAKE
+Checkpoint{position=Position{x=4272.472242491039, y=3041.2359296821846, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 82.5, 1.5707963267948966
+FAKE
+Checkpoint{position=Position{x=4272.472242491039, y=3041.2359296821846, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 58.92857142857143, 1.121997376282069
+FAKE
+Checkpoint{position=Position{x=4272.472242491039, y=3041.2359296821846, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, 0.439
+FAKE
+Checkpoint{position=Position{x=4272.472242491039, y=3041.2359296821846, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, 0.286
+FAKE
+FAKE
+Checkpoint{position=Position{x=4762.941624650329, y=3042.8837374769996, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 47.142857142857146, -0.8975979010256552
+FAKE
+Checkpoint{position=Position{x=4762.941624650329, y=3042.8837374769996, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, -0.279
+Start i trouvé : 1
+Start j trouvé : 1
+End i trouvé : 22
+End j trouvé : 1
+La taille de la liste : 2
+La taille de la liste reefSegments : 4
+27
+4
+passe get ObstacelDetec X
+1
+passe get ObstacelDetec X
+1
+StartX: 1, StartY: 1
+EndX: 22, EndY: 1
+coucou
+startI 1
+startJ 1
+Grid existe [[Lfr.unice.polytech.si3.qgl.ajil.strategy.pathfinding.Cell;@1c0f834d
+on a [1,1]
+grid existe ? 27
+Lentgh Colonne i  ? 4
+Length Colonne j  ? 4
+coucou
+startI 1
+startJ 1
+Grid existe [[Lfr.unice.polytech.si3.qgl.ajil.strategy.pathfinding.Cell;@1c0f834d
+on a [1,1]
+grid existe ? 27
+Lentgh Colonne i  ? 4
+Length Colonne j  ? 4
+FAKE
+Checkpoint{position=Position{x=4791.47436983631, y=3110.110534228719, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, 0.344
+FAKE
+Checkpoint{position=Position{x=4791.47436983631, y=3110.110534228719, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 82.5, 1.5707963267948966
+FAKE
+Checkpoint{position=Position{x=4791.47436983631, y=3110.110534228719, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 82.5, 1.5707963267948966
+FAKE
+Checkpoint{position=Position{x=4791.47436983631, y=3110.110534228719, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 141.42857142857142, 0.391
+FAKE
+FAKE
+Checkpoint{position=Position{x=5282.662876192321, y=3112.423507445467, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 82.5, 1.5707963267948966
+FAKE
+Checkpoint{position=Position{x=5282.662876192321, y=3112.423507445467, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 47.142857142857146, 0.8975979010256552
+FAKE
+Checkpoint{position=Position{x=5282.662876192321, y=3112.423507445467, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, 0.351
+FAKE
+Checkpoint{position=Position{x=5282.662876192321, y=3112.423507445467, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, 0.366
+Start i trouvé : 1
+Start j trouvé : 1
+End i trouvé : 19
+End j trouvé : 1
+La taille de la liste : 0
+La taille de la liste reefSegments : 0
+24
+4
+passe get ObstacelDetec X
+1
+passe get ObstacelDetec X
+1
+StartX: 1, StartY: 1
+EndX: 19, EndY: 1
+coucou
+startI 1
+startJ 1
+Grid existe [[Lfr.unice.polytech.si3.qgl.ajil.strategy.pathfinding.Cell;@430f9147
+on a [1,1]
+grid existe ? 24
+Lentgh Colonne i  ? 4
+Length Colonne j  ? 4
+coucou
+startI 1
+startJ 1
+Grid existe [[Lfr.unice.polytech.si3.qgl.ajil.strategy.pathfinding.Cell;@430f9147
+on a [1,1]
+grid existe ? 24
+Lentgh Colonne i  ? 4
+Length Colonne j  ? 4
+FAKE
+Checkpoint{position=Position{x=5498.5768223106725, y=3150.0880801014187, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, -0.468
+Start i trouvé : 1
+Start j trouvé : 1
+End i trouvé : 18
+End j trouvé : 1
+La taille de la liste : 5
+La taille de la liste reefSegments : 4
+23
+4
+passe get ObstacelDetec X
+1
+passe get ObstacelDetec X
+1
+StartX: 1, StartY: 1
+EndX: 18, EndY: 1
+coucou
+startI 1
+startJ 1
+Grid existe [[Lfr.unice.polytech.si3.qgl.ajil.strategy.pathfinding.Cell;@17f0ace2
+on a [1,1]
+grid existe ? 23
+Lentgh Colonne i  ? 4
+Length Colonne j  ? 4
+coucou
+startI 1
+startJ 1
+Grid existe [[Lfr.unice.polytech.si3.qgl.ajil.strategy.pathfinding.Cell;@17f0ace2
+on a [1,1]
+grid existe ? 23
+Lentgh Colonne i  ? 4
+Length Colonne j  ? 4
+FAKE
+Checkpoint{position=Position{x=5735.010936468357, y=3151.4699053108106, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 117.85714285714285, 0.0
+FAKE
+Checkpoint{position=Position{x=5735.010936468357, y=3151.4699053108106, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 82.5, -1.5707963267948966
+FAKE
+Checkpoint{position=Position{x=5735.010936468357, y=3151.4699053108106, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 82.5, -1.5707963267948966
+FAKE
+Checkpoint{position=Position{x=5735.010936468357, y=3151.4699053108106, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, -0.108
+FAKE
+Checkpoint{position=Position{x=5735.010936468357, y=3151.4699053108106, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 141.42857142857142, -0.072
+FAKE
+Checkpoint{position=Position{x=5735.010936468357, y=3151.4699053108106, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 82.5, -1.5707963267948966
+FAKE
+Checkpoint{position=Position{x=5735.010936468357, y=3151.4699053108106, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 82.5, -1.5707963267948966
+FAKE
+FAKE
+Checkpoint{position=Position{x=6227.457074836183, y=3154.687728292582, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, -0.204
+FAKE
+Checkpoint{position=Position{x=6227.457074836183, y=3154.687728292582, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, -0.119
+FAKE
+FAKE
+Checkpoint{position=Position{x=6720.550714049299, y=3158.228163858425, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, 0.389
+FAKE
+Checkpoint{position=Position{x=6720.550714049299, y=3158.228163858425, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, 0.243
+FAKE
+FAKE
+Checkpoint{position=Position{x=7214.471629685298, y=3161.869698877099, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, -0.193
+FAKE
+Checkpoint{position=Position{x=7214.471629685298, y=3161.869698877099, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, -0.145
+Start i trouvé : 1
+Start j trouvé : 1
+End i trouvé : 11
+End j trouvé : 1
+La taille de la liste : 3
+La taille de la liste reefSegments : 8
+16
+4
+passe get ObstacelDetec X
+1
+passe get ObstacelDetec X
+1
+StartX: 1, StartY: 1
+EndX: 11, EndY: 1
+coucou
+startI 1
+startJ 1
+Grid existe [[Lfr.unice.polytech.si3.qgl.ajil.strategy.pathfinding.Cell;@617f4e4c
+on a [1,1]
+grid existe ? 16
+Lentgh Colonne i  ? 4
+Length Colonne j  ? 4
+coucou
+startI 1
+startJ 1
+Grid existe [[Lfr.unice.polytech.si3.qgl.ajil.strategy.pathfinding.Cell;@617f4e4c
+on a [1,1]
+grid existe ? 16
+Lentgh Colonne i  ? 4
+Length Colonne j  ? 4
+FAKE
+Checkpoint{position=Position{x=7365.747760240239, y=3163.0423402379147, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 141.42857142857142, -0.065
+Start i trouvé : 1
+Start j trouvé : 1
+End i trouvé : 10
+End j trouvé : 1
+La taille de la liste : 3
+La taille de la liste reefSegments : 4
+15
+4
+passe get ObstacelDetec X
+1
+passe get ObstacelDetec X
+1
+StartX: 1, StartY: 1
+EndX: 10, EndY: 1
+coucou
+startI 1
+startJ 1
+Grid existe [[Lfr.unice.polytech.si3.qgl.ajil.strategy.pathfinding.Cell;@266858db
+on a [1,1]
+grid existe ? 15
+Lentgh Colonne i  ? 4
+Length Colonne j  ? 4
+coucou
+startI 1
+startJ 1
+Grid existe [[Lfr.unice.polytech.si3.qgl.ajil.strategy.pathfinding.Cell;@266858db
+on a [1,1]
+grid existe ? 15
+Lentgh Colonne i  ? 4
+Length Colonne j  ? 4
+FAKE
+Checkpoint{position=Position{x=7625.032635540846, y=3164.962405586659, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, 0.557
+FAKE
+Checkpoint{position=Position{x=7625.032635540846, y=3164.962405586659, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 82.5, 1.5707963267948966
+Start i trouvé : 1
+Start j trouvé : 1
+End i trouvé : 9
+End j trouvé : 1
+La taille de la liste : 3
+La taille de la liste reefSegments : 8
+14
+4
+passe get ObstacelDetec X
+1
+passe get ObstacelDetec X
+1
+StartX: 1, StartY: 1
+EndX: 9, EndY: 1
+coucou
+startI 1
+startJ 1
+Grid existe [[Lfr.unice.polytech.si3.qgl.ajil.strategy.pathfinding.Cell;@7f135546
+on a [1,1]
+grid existe ? 14
+Lentgh Colonne i  ? 4
+Length Colonne j  ? 4
+coucou
+startI 1
+startJ 1
+Grid existe [[Lfr.unice.polytech.si3.qgl.ajil.strategy.pathfinding.Cell;@7f135546
+on a [1,1]
+grid existe ? 14
+Lentgh Colonne i  ? 4
+Length Colonne j  ? 4
+FAKE
+FAKE
+Checkpoint{position=Position{x=8433.128592997095, y=3419.5453332953484, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 82.5, -1.5707963267948966
+FAKE
+Checkpoint{position=Position{x=8433.128592997095, y=3419.5453332953484, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, -0.23
+FAKE
+Checkpoint{position=Position{x=8433.128592997095, y=3419.5453332953484, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, -0.109
+FAKE
+FAKE
+Checkpoint{position=Position{x=8927.38446186592, y=3174.5955719385606, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, -0.53
+FAKE
+Checkpoint{position=Position{x=8927.38446186592, y=3174.5955719385606, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, -0.212
+FAKE
+FAKE
+Checkpoint{position=Position{x=9423.856003603405, y=3178.066671112424, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, 0.557
+FAKE
+Checkpoint{position=Position{x=9423.856003603405, y=3178.066671112424, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, 0.224
+FAKE
+Checkpoint{position=Position{x=9423.856003603405, y=3178.066671112424, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, 0.54
+FAKE
+FAKE
+Checkpoint{position=Position{x=9920.783593941587, y=3181.354162407312, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 23.571428571428573, 0.0
+Start i trouvé : 1
+Start j trouvé : 1
+End i trouvé : 1
+End j trouvé : 1
+La taille de la liste : 0
+La taille de la liste reefSegments : 4
+6
+4
+passe get ObstacelDetec X
+1
+passe get ObstacelDetec X
+1
+StartX: 1, StartY: 1
+EndX: 1, EndY: 1
+coucou
+startI 1
+startJ 1
+Grid existe [[Lfr.unice.polytech.si3.qgl.ajil.strategy.pathfinding.Cell;@47842b62
+on a [1,1]
+grid existe ? 6
+Lentgh Colonne i  ? 4
+Length Colonne j  ? 4
+coucou
+startI 1
+startJ 1
+Grid existe [[Lfr.unice.polytech.si3.qgl.ajil.strategy.pathfinding.Cell;@47842b62
+on a [1,1]
+grid existe ? 6
+Lentgh Colonne i  ? 4
+Length Colonne j  ? 4
+FAKE
+Checkpoint{position=Position{x=9853.796778738084, y=3180.936540959509, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 82.5, -1.5707963267948966
+Start i trouvé : 1
+Start j trouvé : 1
+End i trouvé : 1
+End j trouvé : 1
+La taille de la liste : 0
+La taille de la liste reefSegments : 0
+6
+4
+passe get ObstacelDetec X
+1
+passe get ObstacelDetec X
+1
+StartX: 1, StartY: 1
+EndX: 1, EndY: 1
+coucou
+startI 1
+startJ 1
+Grid existe [[Lfr.unice.polytech.si3.qgl.ajil.strategy.pathfinding.Cell;@783c9557
+on a [1,1]
+grid existe ? 6
+Lentgh Colonne i  ? 4
+Length Colonne j  ? 4
+coucou
+startI 1
+startJ 1
+Grid existe [[Lfr.unice.polytech.si3.qgl.ajil.strategy.pathfinding.Cell;@783c9557
+on a [1,1]
+grid existe ? 6
+Lentgh Colonne i  ? 4
+Length Colonne j  ? 4
+FAKE
+Checkpoint{position=Position{x=10007.062638721101, y=3181.941986642714, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 141.42857142857142, -0.414
+FAKE
+REAL
+REAL
+Checkpoint{position=Position{x=3714.1724086301433, y=-2452.80275345754, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+Deplacement: 47.142857142857146, -0.8975979010256552
+Start i trouvé : 27
+Start j trouvé : 23
+End i trouvé : 1
+End j trouvé : 1
+La taille de la liste : 0
+La taille de la liste reefSegments : 0
+32
+26
+passe get ObstacelDetec X
+27
+passe get ObstacelDetec X
+27
+StartX: 27, StartY: 23
+EndX: 1, EndY: 1
+coucou
+startI 27
+startJ 23
+Grid existe [[Lfr.unice.polytech.si3.qgl.ajil.strategy.pathfinding.Cell;@cbb84e
+on a [27,23]
+grid existe ? 32
+Lentgh Colonne i  ? 26
+Length Colonne j  ? 26
+coucou
+startI 27
+startJ 23
+Grid existe [[Lfr.unice.polytech.si3.qgl.ajil.strategy.pathfinding.Cell;@cbb84e
+on a [27,23]
+grid existe ? 32
+Lentgh Colonne i  ? 26
+Length Colonne j  ? 26
+FAKE
+Checkpoint{position=Position{x=10158.082632809688, y=2981.6898378323153, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 58.92857142857143, 1.121997376282069
+FAKE
+Checkpoint{position=Position{x=10158.082632809688, y=2981.6898378323153, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 117.85714285714285, 0.329
+FAKE
+Checkpoint{position=Position{x=10158.082632809688, y=2981.6898378323153, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 82.5, 1.5707963267948966
+FAKE
+Checkpoint{position=Position{x=10158.082632809688, y=2981.6898378323153, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 82.5, 1.5707963267948966
+FAKE
+Checkpoint{position=Position{x=10158.082632809688, y=2981.6898378323153, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 23.571428571428573, 0.0
+FAKE
+FAKE
+Checkpoint{position=Position{x=9680.030070377745, y=2479.9699600154577, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 82.5, 1.5707963267948966
+FAKE
+Checkpoint{position=Position{x=9680.030070377745, y=2479.9699600154577, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, 0.137
+FAKE
+Checkpoint{position=Position{x=9680.030070377745, y=2479.9699600154577, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, 0.019
+FAKE
+Checkpoint{position=Position{x=9680.030070377745, y=2479.9699600154577, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+[(9604.559596344627,2380.32455094324), (9753.24526920519,2581.2839998155305)]
+Ship: Position{x=9951.95575518443, y=2849.855604458176, orientation=4.075396851538363}
+Point 1: (9604.559596344627,2380.32455094324)
+Point 2: (9753.24526920519,2581.2839998155305)
+334.09065245593325
+Deplacement: 165.0, 0.003
+FAKE
+Checkpoint{position=Position{x=9680.030070377745, y=2479.9699600154577, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+[(9605.762602014885,2379.4247306757024), (9753.853693625557,2580.84152513952)]
+Ship: Position{x=9854.01414924038, y=2717.068476285305, orientation=4.078396851538338}
+Point 1: (9605.762602014885,2379.4247306757024)
+Point 2: (9753.853693625557,2580.84152513952)
+169.08547864155906
+Deplacement: 165.0, 0.001
+FAKE
+FAKE
+Checkpoint{position=Position{x=9214.342711073694, y=1986.047216728593, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, -0.103
+Start i trouvé : 25
+Start j trouvé : 20
+End i trouvé : 1
+End j trouvé : 1
+La taille de la liste : 13
+La taille de la liste reefSegments : 4
+30
+23
+passe get ObstacelDetec X
+25
+passe get ObstacelDetec X
+25
+StartX: 25, StartY: 20
+EndX: 1, EndY: 1
+coucou
+startI 25
+startJ 20
+Grid existe [[Lfr.unice.polytech.si3.qgl.ajil.strategy.pathfinding.Cell;@5951a1fb
+on a [25,20]
+grid existe ? 30
+Lentgh Colonne i  ? 23
+Length Colonne j  ? 23
+coucou
+startI 25
+startJ 20
+Grid existe [[Lfr.unice.polytech.si3.qgl.ajil.strategy.pathfinding.Cell;@5951a1fb
+on a [25,20]
+grid existe ? 30
+Lentgh Colonne i  ? 23
+Length Colonne j  ? 23
+FAKE
+FAKE
+Checkpoint{position=Position{x=9220.344924911451, y=1738.3016464168259, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, 0.195
+FAKE
+Checkpoint{position=Position{x=9220.344924911451, y=1738.3016464168259, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, 0.023
+FAKE
+Checkpoint{position=Position{x=9220.344924911451, y=1738.3016464168259, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+[(9156.528097995344,1630.8194962598554), (9280.292624195752,1847.9888077007436)]
+Ship: Position{x=9470.459377052173, y=2181.6739438592663, orientation=4.194396851538299}
+Point 1: (9156.528097995344,1630.8194962598554)
+Point 2: (9280.292624195752,1847.9888077007436)
+384.06921770051684
+Deplacement: 165.0, 0.004
+FAKE
+Checkpoint{position=Position{x=9220.344924911451, y=1738.3016464168259, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+[(9158.432199135745,1629.711525378616), (9281.345484170393,1847.406787313883)]
+Ship: Position{x=9389.045882901184, y=2038.1580678253688, orientation=4.198396851538325}
+Point 1: (9158.432199135745,1629.711525378616)
+Point 2: (9281.345484170393,1847.406787313883)
+219.0557620870606
+Deplacement: 165.0, 0.002
+FAKE
+Checkpoint{position=Position{x=9220.344924911451, y=1738.3016464168259, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+[(9159.10355878656,1629.331489607397), (9281.58228290496,1847.274055704167)]
+Ship: Position{x=9308.064699205148, y=1894.3977158047323, orientation=4.200396851538338}
+Point 1: (9159.10355878656,1629.331489607397)
+Point 2: (9281.58228290496,1847.274055704167)
+54.055135874124886
+Deplacement: 47.14285714285714, 0.0
+FAKE
+FAKE
+Checkpoint{position=Position{x=8765.843168372176, y=1272.4107730896037, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, -0.256
+FAKE
+Checkpoint{position=Position{x=8765.843168372176, y=1272.4107730896037, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, -0.042
+FAKE
+Checkpoint{position=Position{x=8765.843168372176, y=1272.4107730896037, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+[(8677.658318260314,1183.819395344698), (8858.663277816131,1356.133095577722)]
+Ship: Position{x=9012.072216566345, y=1502.1758446258148, orientation=3.90239685153834}
+Point 1: (8677.658318260314,1183.819395344698)
+Point 2: (8858.663277816131,1356.133095577722)
+211.80837338970088
+Deplacement: 165.0, -0.01
+FAKE
+Checkpoint{position=Position{x=8765.843168372176, y=1272.4107730896037, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+[(8675.016674355476,1186.529762472319), (8857.797790834893,1357.0827720488323)]
+Ship: Position{x=8892.00454241109, y=1389.0010825479026, orientation=3.8923968515383187}
+Point 1: (8675.016674355476,1186.529762472319)
+Point 2: (8857.797790834893,1357.0827720488323)
+46.78547208814651
+Deplacement: 23.571428571428566, -0.005
+FAKE
+FAKE
+Checkpoint{position=Position{x=8287.831606980797, y=818.9961779339799, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+[(8190.580005954688,740.4651261273311), (8373.80967092392,909.7308048445075)]
+Ship: Position{x=8771.088257820722, y=1276.7326746682604, orientation=3.8873968515383304}
+Point 1: (8190.580005954688,740.4651261273311)
+Point 2: (8373.80967092392,909.7308048445075)
+540.8517801217363
+Deplacement: 165.0, 0.012
+Start i trouvé : 21
+Start j trouvé : 15
+End i trouvé : 1
+End j trouvé : 1
+La taille de la liste : 0
+La taille de la liste reefSegments : 0
+26
+18
+passe get ObstacelDetec X
+21
+passe get ObstacelDetec X
+21
+StartX: 21, StartY: 15
+EndX: 1, EndY: 1
+coucou
+startI 21
+startJ 15
+Grid existe [[Lfr.unice.polytech.si3.qgl.ajil.strategy.pathfinding.Cell;@4b85f3e0
+on a [21,15]
+grid existe ? 26
+Lentgh Colonne i  ? 18
+Length Colonne j  ? 18
+coucou
+startI 21
+startJ 15
+Grid existe [[Lfr.unice.polytech.si3.qgl.ajil.strategy.pathfinding.Cell;@4b85f3e0
+on a [21,15]
+grid existe ? 26
+Lentgh Colonne i  ? 18
+Length Colonne j  ? 18
+FAKE
+FAKE
+Checkpoint{position=Position{x=8290.156854533461, y=586.712903549475, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, 0.255
+FAKE
+Checkpoint{position=Position{x=8290.156854533461, y=586.712903549475, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, 0.041
+FAKE
+Checkpoint{position=Position{x=8290.156854533461, y=586.712903549475, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+[(8225.54328506337,479.7078259117261), (8349.06763724964,696.9604417518913)]
+Ship: Position{x=8461.722784073754, y=895.096476486887, orientation=4.195396851538288}
+Point 1: (8225.54328506337,479.7078259117261)
+Point 2: (8349.06763724964,696.9604417518913)
+227.92338705466395
+Deplacement: 165.0, 0.009
+FAKE
+Checkpoint{position=Position{x=8290.156854533461, y=586.712903549475, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+[(8228.609149804714,477.91547691369306), (8350.212288270353,696.3411156055809)]
+Ship: Position{x=8380.808717268008, y=751.2989450648276, orientation=4.204396851538302}
+Point 1: (8228.609149804714,477.91547691369306)
+Point 2: (8350.212288270353,696.3411156055809)
+62.90075107882396
+Deplacement: 47.14285714285714, 0.005
+FAKE
+FAKE
+Checkpoint{position=Position{x=7787.970336062272, y=115.23906636290074, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, -0.304
+Start i trouvé : 19
+Start j trouvé : 13
+End i trouvé : 1
+End j trouvé : 1
+La taille de la liste : 27
+La taille de la liste reefSegments : 4
+24
+16
+passe get ObstacelDetec X
+19
+passe get ObstacelDetec X
+19
+StartX: 19, StartY: 13
+EndX: 1, EndY: 1
+coucou
+startI 19
+startJ 13
+Grid existe [[Lfr.unice.polytech.si3.qgl.ajil.strategy.pathfinding.Cell;@792c6aa0
+on a [19,13]
+grid existe ? 24
+Lentgh Colonne i  ? 16
+Length Colonne j  ? 16
+coucou
+startI 19
+startJ 13
+Grid existe [[Lfr.unice.polytech.si3.qgl.ajil.strategy.pathfinding.Cell;@792c6aa0
+on a [19,13]
+grid existe ? 24
+Lentgh Colonne i  ? 16
+Length Colonne j  ? 16
+FAKE
+FAKE
+Checkpoint{position=Position{x=7787.970336062272, y=115.23906636290074, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, -0.045
+FAKE
+Checkpoint{position=Position{x=7787.970336062272, y=115.23906636290074, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+[(7696.494280038447,30.050269128121727), (7884.552184455394,194.592368505595)]
+Ship: Position{x=8079.313687465927, y=364.9998112696833, orientation=3.860396851538283}
+Point 1: (7696.494280038447,30.050269128121727)
+Point 2: (7884.552184455394,194.592368505595)
+258.7870545531938
+Deplacement: 165.0, -0.01
+FAKE
+Checkpoint{position=Position{x=7787.970336062272, y=115.23906636290074, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+[(7693.648156270038,33.2126901219126), (7883.42872962182,195.9403371026874)]
+Ship: Position{x=7954.599954784373, y=256.9662145088715, orientation=3.850396851538262}
+Point 1: (7693.648156270038,33.2126901219126)
+Point 2: (7883.42872962182,195.9403371026874)
+93.75233866060859
+Deplacement: 70.71428571428571, -0.004
+FAKE
+Checkpoint{position=Position{x=7787.970336062272, y=115.23906636290074, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+[(7692.967858610587,34.00157946150739), (7883.401796574044,195.97218437900574)]
+Ship: Position{x=7829.129394790308, y=149.81164261189548, orientation=3.8463968515382803}
+Point 1: (7692.967858610587,34.00157946150739)
+Point 2: (7883.401796574044,195.97218437900574)
+71.24808216091458
+Deplacement: 70.71428571428571, -0.006
+FAKE
+FAKE
+Checkpoint{position=Position{x=7283.5594998661145, y=-369.1875158660614, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, 0.078
+FAKE
+Checkpoint{position=Position{x=7283.5594998661145, y=-369.1875158660614, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+[(7189.955027567931,-452.0319650813535), (7368.000500209491,-277.0207243356199)]
+Ship: Position{x=7581.022164077896, y=-67.6293528718558, orientation=3.9183968515382634}
+Point 1: (7189.955027567931,-452.0319650813535)
+Point 2: (7368.000500209491,-277.0207243356199)
+298.7021521863205
+Deplacement: 165.0, 0.015
+FAKE
+Checkpoint{position=Position{x=7283.5594998661145, y=-369.1875158660614, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+[(7194.725654379002,-457.12810885915496), (7370.354761043026,-279.23429114766986)]
+Ship: Position{x=7464.214333639338, y=-184.16441340885376, orientation=3.933396851538273}
+Point 1: (7194.725654379002,-457.12810885915496)
+Point 2: (7370.354761043026,-279.23429114766986)
+133.59603669733568
+Deplacement: 117.85714285714285, 0.006
+FAKE
+Checkpoint{position=Position{x=7283.5594998661145, y=-369.1875158660614, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+[(7196.002325551619,-458.39929326138827), (7370.571565799236,-279.4439902944523)]
+Ship: Position{x=7348.64092687345, y=-301.92563784963284, orientation=3.939396851538268}
+Point 1: (7196.002325551619,-458.39929326138827)
+Point 2: (7370.571565799236,-279.4439902944523)
+31.406645801304027
+Deplacement: 23.571428571428566, 0.004
+FAKE
+FAKE
+Checkpoint{position=Position{x=6779.730987510219, y=-859.9394623734079, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, -0.032
+FAKE
+Checkpoint{position=Position{x=6779.730987510219, y=-859.9394623734079, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+[(6692.0107287793635,-948.9908868886214), (6871.474475827118,-775.0387418143719)]
+Ship: Position{x=7117.05727119092, y=-536.99816398393, orientation=3.911396851538262}
+Point 1: (6692.0107287793635,-948.9908868886214)
+Point 2: (6871.474475827118,-775.0387418143719)
+342.01495007170314
+Deplacement: 165.0, -0.006
+Start i trouvé : 14
+Start j trouvé : 8
+End i trouvé : 1
+End j trouvé : 1
+La taille de la liste : 29
+La taille de la liste reefSegments : 8
+19
+11
+passe get ObstacelDetec X
+14
+passe get ObstacelDetec X
+14
+StartX: 14, StartY: 8
+EndX: 1, EndY: 1
+coucou
+startI 14
+startJ 8
+Grid existe [[Lfr.unice.polytech.si3.qgl.ajil.strategy.pathfinding.Cell;@28f23f8
+on a [14,8]
+grid existe ? 19
+Lentgh Colonne i  ? 11
+Length Colonne j  ? 11
+coucou
+startI 14
+startJ 8
+Grid existe [[Lfr.unice.polytech.si3.qgl.ajil.strategy.pathfinding.Cell;@28f23f8
+on a [14,8]
+grid existe ? 19
+Lentgh Colonne i  ? 11
+Length Colonne j  ? 11
+FAKE
+FAKE
+Checkpoint{position=Position{x=6528.104561496306, y=-1106.6023762281889, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+[(6435.435669625494,-1190.4920447186523), (6615.91694042425,-1017.6417888480491)]
+Ship: Position{x=6998.239151768319, y=-651.4847257723806, orientation=3.905396851538267}
+Point 1: (6435.435669625494,-1190.4920447186523)
+Point 2: (6615.91694042425,-1017.6417888480491)
+529.3781900751277
+Deplacement: 165.0, 0.005
+FAKE
+Checkpoint{position=Position{x=6528.104561496306, y=-1106.6023762281889, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+[(6437.807118358794,-1193.03947337287), (6617.49029562985,-1019.2227989038602)]
+Ship: Position{x=6879.3574561246505, y=-765.9053783131443, orientation=3.9103968515382554}
+Point 1: (6437.807118358794,-1193.03947337287)
+Point 2: (6617.49029562985,-1019.2227989038602)
+364.3406720644062
+Deplacement: 165.0, 0.001
+FAKE
+Checkpoint{position=Position{x=6528.104561496306, y=-1106.6023762281889, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+[(6438.175128612795,-1193.4222881221758), (6617.686510787449,-1019.4239708675204)]
+Ship: Position{x=6760.821733926448, y=-880.6846460161078, orientation=3.911396851538262}
+Point 1: (6438.175128612795,-1193.4222881221758)
+Point 2: (6617.686510787449,-1019.4239708675204)
+199.339640722253
+Deplacement: 165.0, 0.001
+FAKE
+Checkpoint{position=Position{x=6528.104561496306, y=-1106.6023762281889, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+[(6438.429732638022,-1193.6852394632797), (6617.767383959855,-1019.5071509408408)]
+Ship: Position{x=6642.400850244682, y=-995.5823920318852, orientation=3.9123968515382685}
+Point 1: (6438.429732638022,-1193.6852394632797)
+Point 2: (6617.767383959855,-1019.5071509408408)
+34.339507131835596
+Deplacement: 23.571428571428566, 0.0
+FAKE
+FAKE
+Checkpoint{position=Position{x=6025.432786788067, y=-1601.6530678259135, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+[(5932.408365508455,-1685.1483194609327), (6111.607279540307,-1511.1049767422473)]
+Ship: Position{x=6524.0380000910745, y=-1110.5399307298985, orientation=3.9123968515382685}
+Point 1: (5932.408365508455,-1685.1483194609327)
+Point 2: (6111.607279540307,-1511.1049767422473)
+574.9360445657417
+Deplacement: 165.0, 0.007
+Start i trouvé : 12
+Start j trouvé : 6
+End i trouvé : 1
+End j trouvé : 1
+La taille de la liste : 13
+La taille de la liste reefSegments : 4
+17
+9
+passe get ObstacelDetec X
+12
+passe get ObstacelDetec X
+12
+StartX: 12, StartY: 6
+EndX: 1, EndY: 1
+coucou
+startI 12
+startJ 6
+Grid existe [[Lfr.unice.polytech.si3.qgl.ajil.strategy.pathfinding.Cell;@501a90ba
+on a [12,6]
+grid existe ? 17
+Lentgh Colonne i  ? 9
+Length Colonne j  ? 9
+coucou
+startI 12
+startJ 6
+Grid existe [[Lfr.unice.polytech.si3.qgl.ajil.strategy.pathfinding.Cell;@501a90ba
+on a [12,6]
+grid existe ? 17
+Lentgh Colonne i  ? 9
+Length Colonne j  ? 9
+FAKE
+FAKE
+Checkpoint{position=Position{x=6025.432786788067, y=-1601.6530678259135, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+[(5935.955624698659,-1688.9390201001652), (6114.067592697763,-1513.511867576838)]
+Ship: Position{x=6406.074428375292, y=-1225.9066702634614, orientation=3.91939685153827}
+Point 1: (5935.955624698659,-1688.9390201001652)
+Point 2: (6114.067592697763,-1513.511867576838)
+409.85941687860463
+Deplacement: 165.0, 0.001
+FAKE
+Checkpoint{position=Position{x=6025.432786788067, y=-1601.6530678259135, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+[(5936.3591625771505,-1689.350784272453), (6114.297539835443,-1513.7437073127467)]
+Ship: Position{x=6288.576506305144, y=-1341.7480965352142, orientation=3.9203968515382766}
+Point 1: (5936.3591625771505,-1689.350784272453)
+Point 2: (6114.297539835443,-1513.7437073127467)
+244.8584249734602
+Deplacement: 165.0, 0.0
+FAKE
+Checkpoint{position=Position{x=6025.432786788067, y=-1601.6530678259135, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+[(5936.359162577214,-1689.350784272432), (6114.297539835421,-1513.7437073128094)]
+Ship: Position{x=6171.137094242367, y=-1457.6488493125753, orientation=3.9203968515382766}
+Point 1: (5936.359162577214,-1689.350784272432)
+Point 2: (6114.297539835421,-1513.7437073128094)
+79.85842497349064
+Deplacement: 70.71428571428571, 0.001
+Start i trouvé : 11
+Start j trouvé : 4
+End i trouvé : 1
+End j trouvé : 1
+La taille de la liste : 23
+La taille de la liste reefSegments : 8
+16
+7
+passe get ObstacelDetec X
+11
+passe get ObstacelDetec X
+11
+StartX: 11, StartY: 4
+EndX: 1, EndY: 1
+coucou
+startI 11
+startJ 4
+Grid existe [[Lfr.unice.polytech.si3.qgl.ajil.strategy.pathfinding.Cell;@4c8d8985
+on a [11,4]
+grid existe ? 16
+Lentgh Colonne i  ? 7
+Length Colonne j  ? 7
+coucou
+startI 11
+startJ 4
+Grid existe [[Lfr.unice.polytech.si3.qgl.ajil.strategy.pathfinding.Cell;@4c8d8985
+on a [11,4]
+grid existe ? 16
+Lentgh Colonne i  ? 7
+Length Colonne j  ? 7
+FAKE
+Checkpoint{position=Position{x=6273.712137806026, y=-1598.7497700786348, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 82.5, 1.5707963267948966
+FAKE
+FAKE
+Checkpoint{position=Position{x=5774.2953557277615, y=-1849.7117842723587, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 82.5, -1.5707963267948966
+FAKE
+Checkpoint{position=Position{x=5774.2953557277615, y=-1849.7117842723587, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, -0.374
+FAKE
+Checkpoint{position=Position{x=5774.2953557277615, y=-1849.7117842723587, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, -0.189
+FAKE
+FAKE
+Checkpoint{position=Position{x=5281.422490899656, y=-1363.7425198236108, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 47.142857142857146, -0.8975979010256552
+FAKE
+Checkpoint{position=Position{x=5281.422490899656, y=-1363.7425198236108, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, -0.145
+FAKE
+Checkpoint{position=Position{x=5281.422490899656, y=-1363.7425198236108, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, -0.024
+FAKE
+Checkpoint{position=Position{x=5281.422490899656, y=-1363.7425198236108, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+[(5197.395846210298,-1271.1978118049183), (5362.408743424679,-1458.9592562829612)]
+Ship: Position{x=5503.2747462145435, y=-1619.2449346036728, orientation=2.2917989505126464}
+Point 1: (5197.395846210298,-1271.1978118049183)
+Point 2: (5362.408743424679,-1458.9592562829612)
+213.38868155721065
+Deplacement: 165.0, -0.006
+FAKE
+Checkpoint{position=Position{x=5281.422490899656, y=-1363.7425198236108, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+[(5199.098043939884,-1269.6803838028545), (5363.001615868533,-1458.4517927029447)]
+Ship: Position{x=5394.720697538183, y=-1494.9833683442826, orientation=2.2857989505126515}
+Point 1: (5199.098043939884,-1269.6803838028545)
+Point 2: (5363.001615868533,-1458.4517927029447)
+48.38032824201106
+Deplacement: 47.14285714285714, -0.003
+FAKE
+FAKE
+Checkpoint{position=Position{x=4781.11328779553, y=-1613.0182635443157, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 58.92857142857143, 1.121997376282069
+FAKE
+Checkpoint{position=Position{x=4781.11328779553, y=-1613.0182635443157, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, 0.258
+FAKE
+Checkpoint{position=Position{x=4781.11328779553, y=-1613.0182635443157, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, 0.059
+FAKE
+Checkpoint{position=Position{x=4781.11328779553, y=-1613.0182635443157, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, 0.026
+FAKE
+Checkpoint{position=Position{x=4781.11328779553, y=-1613.0182635443157, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=125.0}}
+Deplacement: 165.0, 0.028
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ajil IS ELIMINATED: fr.unice.polytech.si3.qgl.frigatesengine.interfaces.DestroyedShipError
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

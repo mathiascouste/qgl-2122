@@ -1,0 +1,80 @@
+[INFO] Init game input: {"goal":{"mode":"REGATTA","checkpoints":[{"position":{"x":5060.86956521738,"y":5309.446254071656,"orientation":0.0},"shape":{"type":"circle","radius":150.0}},{"position":{"x":7
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":1865.2173913043503,"y":1148.2084690553752,"orientation":0.0},"name":"deadbeef","deck":{"width":3,"length":8},"entities":[{"x":7,"y":1,"t
+[INFO] Current turn: 0
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":1974.2264871294185,"y":1207.7391552910042,"orientation":1.0097976286538632},"name":"deadbeef","deck":{"width":3,"length":8},"entities":[
+[INFO] Current turn: 1
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":1987.3902975434241,"y":1356.8099025706576,"orientation":2.019595257307716},"name":"deadbeef","deck":{"width":3,"length":8},"entities":[{
+[INFO] Current turn: 2
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":1994.880688798441,"y":1503.4064096122527,"orientation":1.0097976286538632},"name":"deadbeef","deck":{"width":3,"length":8},"entities":[{
+[INFO] Current turn: 3
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":2106.5808680858004,"y":1623.4966184766995,"orientation":0.6295579582638597},"name":"deadbeef","deck":{"width":3,"length":8},"entities":[
+[INFO] Current turn: 4
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":2132.342237817382,"y":1739.1147506797115,"orientation":2.088154537430553},"name":"deadbeef","deck":{"width":3,"length":8},"entities":[{"
+[INFO] Current turn: 5
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":2086.5338756367637,"y":1896.0421591084983,"orientation":1.6167571129234055},"name":"deadbeef","deck":{"width":3,"length":8},"entities":[
+[INFO] Current turn: 6
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":2057.920353044715,"y":2058.069755822273,"orientation":1.8770270436763932},"name":"deadbeef","deck":{"width":3,"length":8},"entities":[{"
+[INFO] Current turn: 7
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":1982.7643220213604,"y":2204.057999668582,"orientation":2.218832328558606},"name":"deadbeef","deck":{"width":3,"length":8},"entities":[{"
+[INFO] Current turn: 8
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":1961.0919291281862,"y":2349.237024407814,"orientation":1.209034699904749},"name":"deadbeef","deck":{"width":3,"length":8},"entities":[{"
+[INFO] Current turn: 9
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":2068.7909976072674,"y":2506.9707634598976,"orientation":0.7376192064243667},"name":"deadbeef","deck":{"width":3,"length":8},"entities":[
+[INFO] Current turn: 10
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":2188.552283714505,"y":2620.4529388824244,"orientation":0.7797699423519375},"name":"deadbeef","deck":{"width":3,"length":8},"entities":[{
+[INFO] Current turn: 11
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":2212.308533020078,"y":2750.9304354327855,"orientation":2.013967046262219},"name":"deadbeef","deck":{"width":3,"length":8},"entities":[{"
+[INFO] Current turn: 12
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":2175.710466061489,"y":2910.460286275726,"orientation":1.5742481936080945},"name":"deadbeef","deck":{"width":3,"length":8},"entities":[{"
+[INFO] Current turn: 13
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":2154.0117477295453,"y":3073.5580831980005,"orientation":1.83447561584311},"name":"deadbeef","deck":{"width":3,"length":8},"entities":[{"
+[INFO] Current turn: 14
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":2158.00899486549,"y":3236.1876926624846,"orientation":1.2521459567814455},"name":"deadbeef","deck":{"width":3,"length":8},"entities":[{"
+[INFO] Current turn: 15
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":2238.615044742483,"y":3378.9322350521975,"orientation":0.857400076466728},"name":"deadbeef","deck":{"width":3,"length":8},"entities":[{"
+[INFO] Current turn: 16
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":2367.9218453176086,"y":3528.484841475777,"orientation":0.8583559094524442},"name":"deadbeef","deck":{"width":3,"length":8},"entities":[{
+[INFO] Current turn: 17
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":2465.137330446379,"y":3661.573573733221,"orientation":1.0231339720279196},"name":"deadbeef","deck":{"width":3,"length":8},"entities":[{"
+[INFO] Current turn: 18
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":2544.9684064333337,"y":3805.9179597405996,"orientation":1.1089380357438192},"name":"deadbeef","deck":{"width":3,"length":8},"entities":[
+[INFO] Current turn: 19
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":2629.9409958034275,"y":3973.2152571985366,"orientation":1.0925846562760486},"name":"deadbeef","deck":{"width":3,"length":8},"entities":[
+[INFO] Current turn: 20
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":2709.219920069638,"y":4117.9043678636035,"orientation":1.046043613443278},"name":"deadbeef","deck":{"width":3,"length":8},"entities":[{"
+[INFO] Current turn: 21
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":2793.1155444723095,"y":4259.981219462,"orientation":1.0285723806473155},"name":"deadbeef","deck":{"width":3,"length":8},"entities":[{"x"
+[INFO] Current turn: 22
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":2922.1054178886725,"y":4355.979798918307,"orientation":0.24317422724987064},"name":"deadbeef","deck":{"width":3,"length":8},"entities":[
+[INFO] Current turn: 23
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":3134.5985170354465,"y":4357.434188320174,"orientation":-0.23419861959347568},"name":"deadbeef","deck":{"width":3,"length":8},"entities":
+[INFO] Current turn: 24
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":3294.0838407198185,"y":4315.199214300881,"orientation":-0.28405584815778523},"name":"deadbeef","deck":{"width":3,"length":8},"entities":
+[INFO] Current turn: 25
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":3437.467091689886,"y":4346.629855070753,"orientation":0.7257417804960778},"name":"deadbeef","deck":{"width":3,"length":8},"entities":[{"
+[INFO] Current turn: 26
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":3624.3854970178545,"y":4388.658623843967,"orientation":-0.28405584815778523},"name":"deadbeef","deck":{"width":3,"length":8},"entities":
+[INFO] Current turn: 27
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":3786.1189821132157,"y":4396.452116149595,"orientation":0.38706709235288744},"name":"deadbeef","deck":{"width":3,"length":8},"entities":[
+[INFO] Current turn: 28
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":3940.9380292035703,"y":4453.417446801342,"orientation":0.3173833645007829},"name":"deadbeef","deck":{"width":3,"length":8},"entities":[{
+[INFO] Current turn: 29
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":4068.2247094468057,"y":4553.0558893182515,"orientation":1.0179364466479202},"name":"deadbeef","deck":{"width":3,"length":8},"entities":[
+[INFO] Current turn: 30
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":4194.606493612374,"y":4653.912660467236,"orientation":0.32218624139190166},"name":"deadbeef","deck":{"width":3,"length":8},"entities":[{
+[INFO] Current turn: 31
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":4356.964389748053,"y":4656.469474490226,"orientation":-0.2968835191874055},"name":"deadbeef","deck":{"width":3,"length":8},"entities":[{
+[INFO] Current turn: 32
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":4500.7390149472,"y":4686.058306619825,"orientation":0.7129141094664576},"name":"deadbeef","deck":{"width":3,"length":8},"entities":[{"x"
+[INFO] Current turn: 33
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":4599.226690048506,"y":4845.500128246186,"orientation":1.3431052930871674},"name":"deadbeef","deck":{"width":3,"length":8},"entities":[{"
+[INFO] Current turn: 34
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":4696.845696894782,"y":4955.122987816155,"orientation":0.3333076644333076},"name":"deadbeef","deck":{"width":3,"length":8},"entities":[{"
+[INFO] Current turn: 35
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":4840.1107954942745,"y":5035.20557073353,"orientation":0.6896818067186948},"name":"deadbeef","deck":{"width":3,"length":8},"entities":[{"
+[INFO] Current turn: 36
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":4933.357235362223,"y":5168.820306084135,"orientation":1.2388047771848376},"name":"deadbeef","deck":{"width":3,"length":8},"entities":[{"
+[INFO] Current turn: 37
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":5016.518985066816,"y":5310.02899484758,"orientation":0.8342654049701859},"name":"deadbeef","deck":{"width":3,"length":8},"entities":[{"x
+[INFO] Current turn: 38
+[ERROR] Cannot invoke "fr.unice.polytech.si3.qgl.deadbeef.data.grid.Cell.checkObstacles(java.util.List)" because "c" is null
