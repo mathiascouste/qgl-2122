@@ -1,0 +1,45 @@
+[Order{nbSailor=5, side='LEFT'}, Order{nbSailor=5, side='RIGHT'}]
+[Order{nbSailor=7, side='LEFT'}, Order{nbSailor=7, side='RIGHT'}]
+[Order{nbSailor=7, side='LEFT'}, Order{nbSailor=7, side='RIGHT'}]
+[Order{nbSailor=7, side='LEFT'}, Order{nbSailor=7, side='RIGHT'}]
+[Order{nbSailor=7, side='LEFT'}, Order{nbSailor=7, side='RIGHT'}]
+[Order{nbSailor=7, side='LEFT'}, Order{nbSailor=7, side='RIGHT'}]
+[Order{nbSailor=7, side='LEFT'}, Order{nbSailor=7, side='RIGHT'}]
+[Order{nbSailor=7, side='LEFT'}, Order{nbSailor=7, side='RIGHT'}]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Capitaine_Igloo IS ELIMINATED: fr.unice.polytech.si3.qgl.frigatesengine.interfaces.DestroyedShipError
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

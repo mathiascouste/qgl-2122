@@ -1,0 +1,100 @@
+Json issue | Error :com.fasterxml.jackson.databind.JsonMappingException: Unexpected bite value: ship (through reference chain: fr.unice.polytech.si3.qgl.les_genies.game.game_element.NextRound["visible
+Json issue | Error :com.fasterxml.jackson.databind.JsonMappingException: Unexpected bite value: ship (through reference chain: fr.unice.polytech.si3.qgl.les_genies.game.game_element.NextRound["visible
+Json issue | Error :com.fasterxml.jackson.databind.JsonMappingException: Unexpected bite value: ship (through reference chain: fr.unice.polytech.si3.qgl.les_genies.game.game_element.NextRound["visible
+Json issue | Error :com.fasterxml.jackson.databind.JsonMappingException: Unexpected bite value: ship (through reference chain: fr.unice.polytech.si3.qgl.les_genies.game.game_element.NextRound["visible
+Json issue | Error :com.fasterxml.jackson.databind.JsonMappingException: Unexpected bite value: ship (through reference chain: fr.unice.polytech.si3.qgl.les_genies.game.game_element.NextRound["visible
+Json issue | Error :com.fasterxml.jackson.databind.JsonMappingException: Unexpected bite value: ship (through reference chain: fr.unice.polytech.si3.qgl.les_genies.game.game_element.NextRound["visible
+Json issue | Error :com.fasterxml.jackson.databind.JsonMappingException: Unexpected bite value: ship (through reference chain: fr.unice.polytech.si3.qgl.les_genies.game.game_element.NextRound["visible
+Json issue | Error :com.fasterxml.jackson.databind.JsonMappingException: Unexpected bite value: ship (through reference chain: fr.unice.polytech.si3.qgl.les_genies.game.game_element.NextRound["visible
+Json issue | Error :com.fasterxml.jackson.databind.JsonMappingException: Unexpected bite value: ship (through reference chain: fr.unice.polytech.si3.qgl.les_genies.game.game_element.NextRound["visible
+Angle : -0.3479976299759029 ( -19.93879547817454 degrees) to be aligned checkpoint : 0
+Angle : -0.3479976299759029 ( -19.93879547817454 degrees) to be aligned checkpoint : 0
+Angle : 0.5065578363467336 ( 29.023626101946487 degrees) to be aligned checkpoint : 0
+Angle : 0.07411310958378614 ( 4.246368385741519 degrees) to be aligned checkpoint : 0
+Angle : 0.015705522878878053 ( 0.8998601760058669 degrees) to be aligned checkpoint : 0
+Angle : 0.005738425763491151 ( 0.32878757729718006 degrees) to be aligned checkpoint : 0
+Angle : 0.4921241222981392 ( 28.196635204263345 degrees) to be aligned checkpoint : 1
+Angle : 0.028271166846360885 ( 1.6198185422066562 degrees) to be aligned checkpoint : 1
+Angle : 0.0018749068914418743 ( 0.1074242518596122 degrees) to be aligned checkpoint : 1
+Angle : 1.4314991602537575E-4 ( 0.008201886025906178 degrees) to be aligned checkpoint : 1
+Angle : 1.2876315449883435E-5 ( 7.377585309574167E-4 degrees) to be aligned checkpoint : 1
+Json issue | Error :com.fasterxml.jackson.databind.JsonMappingException: Unexpected bite value: ship (through reference chain: fr.unice.polytech.si3.qgl.les_genies.game.game_element.NextRound["visible
+Angle : 1.4092334428283948E-6 ( 8.074312862275761E-5 degrees) to be aligned checkpoint : 1
+Angle : 1.9690534047711594E-7 ( 1.128184497292524E-5 degrees) to be aligned checkpoint : 1
+Angle : 3.803678438885072E-8 ( 2.1793472117302427E-6 degrees) to be aligned checkpoint : 1
+Angle : -0.6781008979885592 ( -38.85231953877562 degrees) to be aligned checkpoint : 1
+Angle : -0.031104949234735724 ( -1.7821823131190369 degrees) to be aligned checkpoint : 1
+Angle : -0.0016375566499222671 ( -0.09382508475412796 degrees) to be aligned checkpoint : 1
+Angle : -9.625325501261273E-5 ( -0.005514905276619145 degrees) to be aligned checkpoint : 1
+Angle : -6.402883375056234E-6 ( -3.6685819410520236E-4 degrees) to be aligned checkpoint : 1
+Angle : -4.905446533420843E-7 ( -2.8106138299209465E-5 degrees) to be aligned checkpoint : 1
+Angle : -4.430334366034572E-8 ( -2.5383946100554818E-6 degrees) to be aligned checkpoint : 1
+Json issue | Error :com.fasterxml.jackson.databind.JsonMappingException: Unexpected bite value: ship (through reference chain: fr.unice.polytech.si3.qgl.les_genies.game.game_element.NextRound["visible
+Angle : -4.872653835974461E-9 ( -2.791824998295675E-7 degrees) to be aligned checkpoint : 1
+Angle : -6.851519351869229E-10 ( -3.9256314211431605E-8 degrees) to be aligned checkpoint : 1
+Angle : -1.3352297045798878E-10 ( -7.65030267529273E-9 degrees) to be aligned checkpoint : 1
+Angle : -0.7570836881737542 ( -43.37770007055458 degrees) to be aligned checkpoint : 1
+Angle : -0.030711421668851102 ( -1.7596348444717915 degrees) to be aligned checkpoint : 1
+Angle : -0.0014277387657868346 ( -0.08180340552680276 degrees) to be aligned checkpoint : 1
+Angle : 0.4429319612292204 ( 25.37813198988654 degrees) to be aligned checkpoint : 1
+Angle : -0.4672637844594245 ( -26.77224276883561 degrees) to be aligned checkpoint : 1
+Angle : -0.02919414535483522 ( -1.6727013153235153 degrees) to be aligned checkpoint : 1
+Angle : -0.0021252587673581402 ( -0.12176835774279712 degrees) to be aligned checkpoint : 1
+Json issue | Error :com.fasterxml.jackson.databind.JsonMappingException: Unexpected bite value: ship (through reference chain: fr.unice.polytech.si3.qgl.les_genies.game.game_element.NextRound["visible
+Angle : -1.807872067685068E-4 ( -0.01035834393779439 degrees) to be aligned checkpoint : 1
+Angle : -1.8494137392188748E-5 ( -0.0010596360183074977 degrees) to be aligned checkpoint : 1
+Angle : -2.3725089945969557E-6 ( -1.359347522472318E-4 degrees) to be aligned checkpoint : 1
+Angle : -4.07999296569983E-7 ( -2.3376637737766433E-5 degrees) to be aligned checkpoint : 1
+Angle : -0.7512177303029848 ( -43.04160544175795 degrees) to be aligned checkpoint : 1
+Angle : -0.010811849867394585 ( -0.6194733661307885 degrees) to be aligned checkpoint : 1
+Angle : -1.6823956265454854E-4 ( -0.009639416887232412 degrees) to be aligned checkpoint : 1
+Angle : 0.31054584057248924 ( 17.79296601014616 degrees) to be aligned checkpoint : 1
+Angle : 0.08791886102552837 ( 5.0373796763600005 degrees) to be aligned checkpoint : 1
+Angle : -0.41536674550432284 ( -23.798761467482258 degrees) to be aligned checkpoint : 1
+Json issue | Error :com.fasterxml.jackson.databind.JsonMappingException: Unexpected bite value: ship (through reference chain: fr.unice.polytech.si3.qgl.les_genies.game.game_element.NextRound["visible
+Angle : -0.007237231168123692 ( -0.4146628012940223 degrees) to be aligned checkpoint : 1
+Angle : -1.3258642554436761E-4 ( -0.0075966426044177925 degrees) to be aligned checkpoint : 1
+Angle : -2.5204354638930226E-6 ( -1.4441031461616798E-4 degrees) to be aligned checkpoint : 1
+Angle : -4.978695589130666E-8 ( -2.8525824473758615E-6 degrees) to be aligned checkpoint : 1
+Angle : -1.0235190472940303E-9 ( -5.864332166119884E-8 degrees) to be aligned checkpoint : 1
+Angle : -2.191491432768089E-11 ( -1.2556320993668931E-9 degrees) to be aligned checkpoint : 1
+Angle : -4.671818487622659E-13 ( -2.6767548199196958E-11 degrees) to be aligned checkpoint : 1
+Angle : -3.375077994860476E-14 ( -1.933777246329818E-12 degrees) to be aligned checkpoint : 1
+Angle : -3.907985046680551E-14 ( -2.239110495750316E-12 degrees) to be aligned checkpoint : 1
+Angle : -4.529709940470639E-14 ( -2.59533262007423E-12 degrees) to be aligned checkpoint : 1
+Json issue | Error :com.fasterxml.jackson.databind.JsonMappingException: Unexpected bite value: ship (through reference chain: fr.unice.polytech.si3.qgl.les_genies.game.game_element.NextRound["visible
+Angle : 4.085620730620576E-14 ( 2.3408882455571482E-12 degrees) to be aligned checkpoint : 1
+Angle : 4.973799150320701E-14 ( 2.849776994591311E-12 degrees) to be aligned checkpoint : 1
+Angle : -4.085620730620576E-14 ( -2.3408882455571482E-12 degrees) to be aligned checkpoint : 1
+Angle : -4.884981308350689E-14 ( -2.7988881196878947E-12 degrees) to be aligned checkpoint : 1
+Angle : 3.6415315207705135E-14 ( 2.086443871040067E-12 degrees) to be aligned checkpoint : 1
+Angle : 0.0018094512118231876 ( 0.10367391767230097 degrees) to be aligned checkpoint : 1
+Angle : 0.03198440367580879 ( 1.8325713408665603 degrees) to be aligned checkpoint : 1
+Angle : 0.04845834292542506 ( 2.7764585318244865 degrees) to be aligned checkpoint : 1
+Angle : 0.08053636316390733 ( 4.614393706624759 degrees) to be aligned checkpoint : 1
+Angle : 0.1657939880582333 ( 9.49929578437914 degrees) to be aligned checkpoint : 1
+Json issue | Error :com.fasterxml.jackson.databind.JsonMappingException: Unexpected bite value: ship (through reference chain: fr.unice.polytech.si3.qgl.les_genies.game.game_element.NextRound["visible
+Angle : 0.16401799685243645 ( 9.397538983834629 degrees) to be aligned checkpoint : 1
+Angle : -1.0724488214161685 ( -61.44679121092579 degrees) to be aligned checkpoint : 1
+Angle : -0.08022399690913495 ( -4.596496438563994 degrees) to be aligned checkpoint : 1
+Angle : -0.012258220964642241 ( -0.7023443256127851 degrees) to be aligned checkpoint : 1
+Angle : -0.0026875897474072374 ( -0.1539875495890657 degrees) to be aligned checkpoint : 1
+Angle : -0.11149243431426203 ( -6.388045933846771 degrees) to be aligned checkpoint : 1
+Angle : 0.527545313822352 ( 30.2261199839253 degrees) to be aligned checkpoint : 2
+Angle : 0.1063751335373242 ( 6.094846196829216 degrees) to be aligned checkpoint : 2
+Angle : 0.036923015428094175 ( 2.115532950926221 degrees) to be aligned checkpoint : 2
+Angle : -0.6263001490038604 ( -35.884355246335794 degrees) to be aligned checkpoint : 2
+Json issue | Error :com.fasterxml.jackson.databind.JsonMappingException: Unexpected bite value: ship (through reference chain: fr.unice.polytech.si3.qgl.les_genies.game.game_element.NextRound["visible
+Angle : -0.05828731145164934 ( -3.339616945344059 degrees) to be aligned checkpoint : 2
+Angle : -0.006918924544659255 ( -0.39642517517845016 degrees) to be aligned checkpoint : 2
+Angle : -0.001074060936661958 ( -0.06153915861059822 degrees) to be aligned checkpoint : 2
+Angle : -2.4073370432464714E-4 ( -0.013793025244352535 degrees) to be aligned checkpoint : 2
+Angle : -0.6723360159916236 ( -38.52201613096026 degrees) to be aligned checkpoint : 2
+Angle : -0.0395413977064516 ( -2.2655552046279497 degrees) to be aligned checkpoint : 2
+Angle : -0.0027473200997949476 ( -0.15740984668971064 degrees) to be aligned checkpoint : 2
+Angle : -2.213678983373768E-4 ( -0.012683446294412764 degrees) to be aligned checkpoint : 2
+Angle : -2.1223241910561796E-5 ( -0.0012160021890603567 degrees) to be aligned checkpoint : 2
+Angle : -2.5115522834795456E-6 ( -1.4390134586982246E-4 degrees) to be aligned checkpoint : 2
+Json issue | Error :com.fasterxml.jackson.databind.JsonMappingException: Unexpected bite value: ship (through reference chain: fr.unice.polytech.si3.qgl.les_genies.game.game_element.NextRound["visible
+Angle : -3.8818121073092016E-7 ( -2.224114506116015E-5 degrees) to be aligned checkpoint : 2
+Angle : -8.645743942992112E-8 ( -4.953646386842431E-6 degrees) to be aligned checkpoint : 2

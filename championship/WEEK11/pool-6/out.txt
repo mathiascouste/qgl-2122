@@ -1,0 +1,2136 @@
+Début de la partie
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9871.264238944912, y=3012.740995695042, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+Deplacement: 165.0, 0.261
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9871.264238944912, y=3012.740995695042, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+Deplacement: 165.0, -0.451
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9871.264238944912, y=3012.740995695042, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(9671.289736139579,3015.9344621191), (10043.464019238332,3114.462358578859)]
+Ship: Position{x=1729.8972221303572, y=913.5627107668116, orientation=0.25879895051282753}
+Point 1: (9671.289736139579,3015.9344621191)
+Point 2: (10043.464019238332,3114.462358578859)
+8214.966953216903
+Deplacement: 165.0, -0.006
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+Intersection repere
+On calcule AStar car non wayDirect
+Start i trouvé : 1
+Start j trouvé : 1
+End i trouvé : 55
+End j trouvé : 16
+La taille de la liste : 49
+La taille de la liste reefSegments : 8
+Grid i length : 69
+Grid j length : 30
+Algo AStar startI : 1
+Algo AStar startJ : 1
+FAKE
+FAKE
+Checkpoint{position=Position{x=2192.9429155017606, y=1180.9575876149233, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.5}}
+Deplacement: 165.0, 0.512
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+Intersection repere
+On calcule AStar car non wayDirect
+Start i trouvé : 1
+Start j trouvé : 1
+End i trouvé : 53
+End j trouvé : 15
+La taille de la liste : 43
+La taille de la liste reefSegments : 8
+Grid i length : 68
+Grid j length : 29
+Algo AStar startI : 1
+Algo AStar startJ : 1
+FAKE
+FAKE
+Checkpoint{position=Position{x=2260.857173578467, y=1300.6144201691886, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.5}}
+Deplacement: 165.0, 0.518
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+Intersection repere
+On calcule AStar car non wayDirect
+Start i trouvé : 1
+Start j trouvé : 1
+End i trouvé : 52
+End j trouvé : 14
+La taille de la liste : 32
+La taille de la liste reefSegments : 8
+Grid i length : 67
+Grid j length : 28
+Algo AStar startI : 1
+Algo AStar startJ : 1
+FAKE
+FAKE
+Checkpoint{position=Position{x=2224.335948614977, y=1482.3146495682818, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.5}}
+Deplacement: 165.0, 0.71
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+Intersection repere
+On calcule AStar car non wayDirect
+Start i trouvé : 1
+Start j trouvé : 1
+End i trouvé : 52
+End j trouvé : 12
+La taille de la liste : 26
+La taille de la liste reefSegments : 8
+Grid i length : 67
+Grid j length : 27
+Algo AStar startI : 1
+Algo AStar startJ : 1
+FAKE
+FAKE
+Checkpoint{position=Position{x=2218.492438237234, y=1637.7151952714612, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.5}}
+[(2215.5591545293414,1644.6177923698278), (2221.701727791186,1630.936518367207)]
+Ship: Position{x=2308.9346017465473, y=1436.64386612768, orientation=1.9927989505128354}
+Point 1: (2215.5591545293414,1644.6177923698278)
+Point 2: (2221.701727791186,1630.936518367207)
+212.97701522178815
+Deplacement: 165.0, 0.001
+On a essaye d'ajouter un recif, peut etre il y etait deja
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9871.264238944912, y=3012.740995695042, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+Deplacement: 82.5, -1.5707963267948966
+On a essaye d'ajouter un recif, peut etre il y etait deja
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9871.264238944912, y=3012.740995695042, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+Deplacement: 165.0, -0.247
+On a essaye d'ajouter un recif, peut etre il y etait deja
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+Intersection repere
+On calcule AStar car non wayDirect
+Start i trouvé : 1
+Start j trouvé : 1
+End i trouvé : 51
+End j trouvé : 10
+La taille de la liste : 64
+La taille de la liste reefSegments : 16
+Grid i length : 65
+Grid j length : 25
+Algo AStar startI : 1
+Algo AStar startJ : 1
+FAKE
+FAKE
+Checkpoint{position=Position{x=2574.010850200427, y=1934.457988686844, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.5}}
+Deplacement: 47.142857142857146, 0.8975979010256552
+On a essaye d'ajouter un recif, peut etre il y etait deja
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+Intersection repere
+On calcule AStar car non wayDirect
+Start i trouvé : 1
+Start j trouvé : 1
+End i trouvé : 50
+End j trouvé : 10
+La taille de la liste : 55
+La taille de la liste reefSegments : 16
+Grid i length : 65
+Grid j length : 24
+Algo AStar startI : 1
+Algo AStar startJ : 1
+FAKE
+FAKE
+Checkpoint{position=Position{x=2824.83778950282, y=2002.078969033901, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.5}}
+Deplacement: 165.0, -0.307
+On a essaye d'ajouter un recif, peut etre il y etait deja
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9871.264238944912, y=3012.740995695042, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+Deplacement: 165.0, -0.622
+On a essaye d'ajouter un recif, peut etre il y etait deja
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9871.264238944912, y=3012.740995695042, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(9678.08417034773,3064.523821967595), (10041.654166417553,3117.4657426073754)]
+Ship: Position{x=2976.42058829548, y=2088.6486250292332, orientation=0.14460052474361007}
+Point 1: (9678.08417034773,3064.523821967595)
+Point 2: (10041.654166417553,3117.4657426073754)
+6772.342812277366
+Deplacement: 165.0, -0.011
+On a essaye d'ajouter un recif, peut etre il y etait deja
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9871.264238944912, y=3012.740995695042, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(9672.550394211097,2990.095733252323), (10068.905555396976,3043.3663125275107)]
+Ship: Position{x=3237.89986086461, y=2125.271467260219, orientation=0.13360052474361017}
+Point 1: (9672.550394211097,2990.095733252323)
+Point 2: (10068.905555396976,3043.3663125275107)
+6492.507104142821
+Deplacement: 165.0, -0.001
+On a essaye d'ajouter un recif, peut etre il y etait deja
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9871.264238944912, y=3012.740995695042, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(9673.3707749039,2983.7897109244695), (10069.827539892864,3036.670381743829)]
+Ship: Position{x=3499.6790740142606, y=2160.322974055842, orientation=0.13260052474360917}
+Point 1: (9673.3707749039,2983.7897109244695)
+Point 2: (10069.827539892864,3036.670381743829)
+6228.367898925262
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9871.264238944912, y=3012.740995695042, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(9673.3707749039,2983.7897109244673), (10069.827539892864,3036.6703817438265)]
+Ship: Position{x=3761.4826002842838, y=2195.243165397304, orientation=0.13260052474360917}
+Point 1: (9673.3707749039,2983.7897109244673)
+Point 2: (10069.827539892864,3036.6703817438265)
+5964.245756478357
+Deplacement: 165.0, 0.0
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9871.264238944912, y=3012.740995695042, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(9673.370774903939,2983.7897109244695), (10069.827539892827,3036.6703817438192)]
+Ship: Position{x=4023.286126554307, y=2230.1633567387657, orientation=0.13260052474360917}
+Point 1: (9673.370774903939,2983.7897109244695)
+Point 2: (10069.827539892827,3036.6703817438192)
+5700.12361403149
+Deplacement: 165.0, 0.0
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9871.264238944912, y=3012.740995695042, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(9673.370774903966,2983.789710924805), (10069.827539892705,3036.6703817441585)]
+Ship: Position{x=4285.089652824297, y=2265.0835480802275, orientation=0.13260052474360917}
+Point 1: (9673.370774903966,2983.789710924805)
+Point 2: (10069.827539892705,3036.6703817441585)
+5436.001471584689
+Deplacement: 165.0, 0.0
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9871.264238944912, y=3012.740995695042, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(9673.370774903933,2983.7897109247883), (10069.827539892742,3036.670381744151)]
+Ship: Position{x=4546.893179094275, y=2300.0037394216893, orientation=0.13260052474360917}
+Point 1: (9673.370774903933,2983.7897109247883)
+Point 2: (10069.827539892742,3036.670381744151)
+5171.879329137795
+Deplacement: 165.0, 0.0
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9871.264238944912, y=3012.740995695042, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(9673.37077490397,2983.7897109247806), (10069.827539892709,3036.6703817441344)]
+Ship: Position{x=4808.696705364253, y=2334.923930763151, orientation=0.13260052474360917}
+Point 1: (9673.37077490397,2983.7897109247806)
+Point 2: (10069.827539892709,3036.6703817441344)
+4907.75718669097
+Deplacement: 165.0, 0.0
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9871.264238944912, y=3012.740995695042, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(9673.370774903937,2983.789710924764), (10069.827539892745,3036.6703817441266)]
+Ship: Position{x=5070.500231634231, y=2369.844122104613, orientation=0.13260052474360917}
+Point 1: (9673.370774903937,2983.789710924764)
+Point 2: (10069.827539892745,3036.6703817441266)
+4643.635044244076
+Deplacement: 165.0, 0.001
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9871.264238944912, y=3012.740995695042, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(9672.768248356853,2988.2595390299007), (10069.18024768203,3041.537757414911)]
+Ship: Position{x=5332.279926820026, y=2404.893028717155, orientation=0.13360052474361017}
+Point 1: (9672.768248356853,2988.2595390299007)
+Point 2: (10069.18024768203,3041.537757414911)
+4379.515424650546
+Deplacement: 165.0, 0.0
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9871.264238944912, y=3012.740995695042, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(9672.768248356826,2988.2595390298393), (10069.180247682072,3041.5377574148592)]
+Ship: Position{x=5594.0352494753615, y=2440.07323836668, orientation=0.13360052474361017}
+Point 1: (9672.768248356826,2988.2595390298393)
+Point 2: (10069.180247682072,3041.5377574148592)
+4115.406552990767
+Deplacement: 165.0, -0.001
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9871.264238944912, y=3012.740995695042, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(9673.29499679395,2984.3125036116035), (10069.76364310131,3037.1947591992202)]
+Ship: Position{x=5855.8144626250105, y=2475.124745162303, orientation=0.13260052474360917}
+Point 1: (9673.29499679395,2984.3125036116035)
+Point 2: (10069.76364310131,3037.1947591992202)
+3851.289368784614
+Deplacement: 165.0, 0.0
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9871.264238944912, y=3012.740995695042, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(9673.294996793917,2984.3125036115866), (10069.763643101347,3037.194759199213)]
+Ship: Position{x=6117.617988894988, y=2510.044936503765, orientation=0.13260052474360917}
+Point 1: (9673.294996793917,2984.3125036115866)
+Point 2: (10069.763643101347,3037.194759199213)
+3587.1672263377195
+Deplacement: 165.0, 0.001
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9871.264238944912, y=3012.740995695042, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(9672.833604068257,2987.735333487021), (10069.255618686386,3041.014897938664)]
+Ship: Position{x=6379.397684080784, y=2545.093843116307, orientation=0.13360052474361017}
+Point 1: (9672.833604068257,2987.735333487021)
+Point 2: (10069.255618686386,3041.014897938664)
+3323.0485473524673
+Deplacement: 165.0, 0.0
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9871.264238944912, y=3012.740995695042, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(9672.833604068335,2987.735333486974), (10069.25561868632,3041.0148979385976)]
+Ship: Position{x=6641.153006736119, y=2580.274052765832, orientation=0.13360052474361017}
+Point 1: (9672.833604068335,2987.735333486974)
+Point 2: (10069.25561868632,3041.0148979385976)
+3058.939675692794
+Deplacement: 165.0, -0.001
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+Intersection repere
+On calcule AStar car non wayDirect
+Start i trouvé : 1
+Start j trouvé : 1
+End i trouvé : 22
+End j trouvé : 5
+La taille de la liste : 37
+La taille de la liste reefSegments : 8
+Grid i length : 36
+Grid j length : 19
+Algo AStar startI : 1
+Algo AStar startJ : 1
+FAKE
+FAKE
+Checkpoint{position=Position{x=7106.698103017753, y=2817.2024935636205, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.5}}
+Deplacement: 165.0, 0.648
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+Intersection repere
+On calcule AStar car non wayDirect
+Start i trouvé : 1
+Start j trouvé : 1
+End i trouvé : 20
+End j trouvé : 4
+La taille de la liste : 30
+La taille de la liste reefSegments : 8
+Grid i length : 35
+Grid j length : 18
+Algo AStar startI : 1
+Algo AStar startJ : 1
+FAKE
+FAKE
+Checkpoint{position=Position{x=7331.047250307753, y=2924.961298824772, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.5}}
+[(7325.836883197668,2919.5666649591612), (7336.491629985195,2930.1196638655265)]
+Ship: Position{x=7127.387525013923, y=2723.0124059378754, orientation=0.7806005247436106}
+Point 1: (7325.836883197668,2919.5666649591612)
+Point 2: (7336.491629985195,2930.1196638655265)
+279.31295083283743
+Deplacement: 165.0, 0.001
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+Intersection repere
+On calcule AStar car non wayDirect
+Start i trouvé : 1
+Start j trouvé : 1
+End i trouvé : 19
+End j trouvé : 3
+La taille de la liste : 25
+La taille de la liste reefSegments : 8
+Grid i length : 34
+Grid j length : 17
+Algo AStar startI : 1
+Algo AStar startJ : 1
+FAKE
+FAKE
+Checkpoint{position=Position{x=7498.61227806927, y=3091.1559924630046, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.5}}
+[(7493.236967836518,3085.925692289764), (7503.883253959136,3096.4914224521463)]
+Ship: Position{x=7294.991316121548, y=2889.1800818711313, orientation=0.7816005247436061}
+Point 1: (7493.236967836518,3085.925692289764)
+Point 2: (7503.883253959136,3096.4914224521463)
+279.3030140240046
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+Intersection repere
+On calcule AStar car non wayDirect
+Start i trouvé : 1
+Start j trouvé : 1
+End i trouvé : 18
+End j trouvé : 2
+La taille de la liste : 18
+La taille de la liste reefSegments : 16
+Grid i length : 32
+Grid j length : 16
+Algo AStar startI : 1
+Algo AStar startJ : 1
+FAKE
+FAKE
+Checkpoint{position=Position{x=7666.008095379988, y=3107.4539622416264, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.5}}
+Deplacement: 165.0, -0.531
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+Intersection repere
+On calcule AStar car non wayDirect
+Start i trouvé : 1
+Start j trouvé : 1
+End i trouvé : 17
+End j trouvé : 1
+La taille de la liste : 17
+La taille de la liste reefSegments : 8
+Grid i length : 31
+Grid j length : 16
+Algo AStar startI : 1
+Algo AStar startJ : 1
+FAKE
+FAKE
+Checkpoint{position=Position{x=7881.830776711079, y=3333.5810060961344, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.5}}
+Deplacement: 165.0, 0.404
+On a essaye d'ajouter un recif, peut etre il y etait deja
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9871.264238944912, y=3012.740995695042, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9871.264238944912, y=3012.740995695042, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+Deplacement: 23.571428571428573, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9871.264238944912, y=3012.740995695042, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+Deplacement: 47.142857142857146, -0.8975979010256552
+On a essaye d'ajouter un recif, peut etre il y etait deja
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9871.264238944912, y=3012.740995695042, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+Deplacement: 165.0, -0.15
+On a essaye d'ajouter un recif, peut etre il y etait deja
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9871.264238944912, y=3012.740995695042, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(9695.219914721773,3107.653565509659), (10062.825436421354,2955.257888425276)]
+Ship: Position{x=8674.777072925339, y=3530.6914923680274, orientation=-0.3929973762820495}
+Point 1: (9695.219914721773,3107.653565509659)
+Point 2: (10062.825436421354,2955.257888425276)
+1104.6559106501027
+Deplacement: 165.0, -0.016
+On a essaye d'ajouter un recif, peut etre il y etait deja
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9871.264238944912, y=3012.740995695042, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(9688.352770037116,3093.632247026708), (10055.350763908607,2934.560746739171)]
+Ship: Position{x=8911.459492598513, y=3430.3686359692947, orientation=-0.40899737628204885}
+Point 1: (9688.352770037116,3093.632247026708)
+Point 2: (10055.350763908607,2934.560746739171)
+846.731693139797
+Deplacement: 165.0, -0.001
+On a essaye d'ajouter un recif, peut etre il y etait deja
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9871.264238944912, y=3012.740995695042, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(9688.063916275183,3092.975911870779), (10054.911224249863,2933.5337688251147)]
+Ship: Position{x=9146.965941028668, y=3328.1522887870533, orientation=-0.40999737628204985}
+Point 1: (9688.063916275183,3092.975911870779)
+Point 2: (10054.911224249863,2933.5337688251147)
+589.9957178449215
+Deplacement: 165.0, -0.001
+On a essaye d'ajouter un recif, peut etre il y etait deja
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9871.264238944912, y=3012.740995695042, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(9687.87971590574,3092.5540065997775), (10054.568791288217,2932.744488957531)]
+Ship: Position{x=9382.333506560451, y=3225.716392967454, orientation=-0.41099737628205085}
+Point 1: (9687.87971590574,3092.5540065997775)
+Point 2: (10054.568791288217,2932.744488957531)
+333.3027260440707
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9871.264238944912, y=3012.740995695042, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(9687.879715905707,3092.5540065997), (10054.568791288184,2932.7444889574526)]
+Ship: Position{x=9617.630838891626, y=3123.16969685123, orientation=-0.41099737628205085}
+Point 1: (9687.879715905707,3092.5540065997)
+Point 2: (10054.568791288184,2932.7444889574526)
+76.6304457204646
+Deplacement: 70.71428571428571, 0.0
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+REAL
+Checkpoint{position=Position{x=3714.1724086301433, y=-2452.80275345754, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+Deplacement: 82.5, -1.5707963267948966
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=3714.1724086301433, y=-2452.80275345754, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+Deplacement: 165.0, -0.444
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=3714.1724086301433, y=-2452.80275345754, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(3591.9334808864146,-2611.0988195617615), (3887.897931475504,-2353.7096522238207)]
+Ship: Position{x=9811.145150588145, y=2797.515998794891, orientation=-2.425793703076964}
+Point 1: (3591.9334808864146,-2611.0988195617615)
+Point 2: (3887.897931475504,-2353.7096522238207)
+7849.839700684262
+Deplacement: 165.0, -0.005
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=3714.1724086301433, y=-2452.80275345754, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(3562.2239735309126,-2582.8476421340774), (3865.3590224025647,-2321.872971451965)]
+Ship: Position{x=9686.373761032633, y=2689.548208989987, orientation=-2.430793703076952}
+Point 1: (3562.2239735309126,-2582.8476421340774)
+Point 2: (3865.3590224025647,-2321.872971451965)
+7681.051675072281
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=3714.1724086301433, y=-2452.80275345754, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(3562.2239735308385,-2582.8476421340083), (3865.359022402507,-2321.872971451882)]
+Ship: Position{x=9561.33002060426, y=2581.8956986630437, orientation=-2.430793703076952}
+Point 1: (3562.2239735308385,-2582.8476421340083)
+Point 2: (3865.359022402507,-2321.872971451882)
+7516.051675072238
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=3714.1724086301433, y=-2452.80275345754, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(3562.2239735307885,-2582.8476421339196), (3865.359022402425,-2321.872971451821)]
+Ship: Position{x=9436.286280175887, y=2474.2431883361005, orientation=-2.430793703076952}
+Point 1: (3562.2239735307885,-2582.8476421339196)
+Point 2: (3865.359022402425,-2321.872971451821)
+7351.051675072226
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=3714.1724086301433, y=-2452.80275345754, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(3562.2239735307076,-2582.8476421338564), (3865.3590224023765,-2321.87297145173)]
+Ship: Position{x=9311.242539747514, y=2366.5906780091573, orientation=-2.430793703076952}
+Point 1: (3562.2239735307076,-2582.8476421338564)
+Point 2: (3865.3590224023765,-2321.87297145173)
+7186.051675072171
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=3714.1724086301433, y=-2452.80275345754, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(3562.2239735306503,-2582.847642133773), (3865.3590224023023,-2321.8729714516608)]
+Ship: Position{x=9186.198799319141, y=2258.938167682214, orientation=-2.430793703076952}
+Point 1: (3562.2239735306503,-2582.847642133773)
+Point 2: (3865.3590224023023,-2321.8729714516608)
+7021.051675072148
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=3714.1724086301433, y=-2452.80275345754, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(3562.2239735305843,-2582.8476421336973), (3865.3590224022364,-2321.872971451585)]
+Ship: Position{x=9061.155058890768, y=2151.285657355271, orientation=-2.430793703076952}
+Point 1: (3562.2239735305843,-2582.8476421336973)
+Point 2: (3865.3590224022364,-2321.872971451585)
+6856.051675072116
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=3714.1724086301433, y=-2452.80275345754, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(3562.223973531291,-2582.847642134569), (3865.35902240295,-2321.8729714523597)]
+Ship: Position{x=8936.111318462396, y=2043.6331470283276, orientation=-2.430793703076952}
+Point 1: (3562.223973531291,-2582.847642134569)
+Point 2: (3865.35902240295,-2321.8729714523597)
+6691.051675072047
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=3714.1724086301433, y=-2452.80275345754, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(3562.2239735312223,-2582.847642134458), (3865.3590224028494,-2321.8729714522765)]
+Ship: Position{x=8811.067578034023, y=1935.9806367013844, orientation=-2.430793703076952}
+Point 1: (3562.2239735312223,-2582.847642134458)
+Point 2: (3865.3590224028494,-2321.8729714522765)
+6526.051675072036
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=3714.1724086301433, y=-2452.80275345754, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(3562.2239735311227,-2582.8476421343735), (3865.359022402782,-2321.872971452164)]
+Ship: Position{x=8686.02383760565, y=1828.3281263744411, orientation=-2.430793703076952}
+Point 1: (3562.2239735311227,-2582.8476421343735)
+Point 2: (3865.359022402782,-2321.872971452164)
+6361.051675071982
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=3714.1724086301433, y=-2452.80275345754, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(3562.223973531054,-2582.8476421342625), (3865.359022402681,-2321.872971452081)]
+Ship: Position{x=8560.980097177277, y=1720.675616047498, orientation=-2.430793703076952}
+Point 1: (3562.223973531054,-2582.8476421342625)
+Point 2: (3865.359022402681,-2321.872971452081)
+6196.05167507197
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=3714.1724086301433, y=-2452.80275345754, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(3562.223973530962,-2582.8476421341716), (3865.3590224026057,-2321.872971451976)]
+Ship: Position{x=8435.936356748904, y=1613.0231057205547, orientation=-2.430793703076952}
+Point 1: (3562.223973530962,-2582.8476421341716)
+Point 2: (3865.3590224026057,-2321.872971451976)
+6031.051675071925
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=3714.1724086301433, y=-2452.80275345754, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(3562.223973530902,-2582.8476421340533), (3865.3590224024965,-2321.8729714519)]
+Ship: Position{x=8310.89261632053, y=1505.3705953936114, orientation=-2.430793703076952}
+Point 1: (3562.223973530902,-2582.8476421340533)
+Point 2: (3865.3590224024965,-2321.8729714519)
+5866.051675071925
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=3714.1724086301433, y=-2452.80275345754, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(3562.2239735284516,-2582.847642131216), (3865.3590224002105,-2321.8729714492342)]
+Ship: Position{x=8185.848875892158, y=1397.7180850666682, orientation=-2.430793703076952}
+Point 1: (3562.2239735284516,-2582.847642131216)
+Point 2: (3865.3590224002105,-2321.8729714492342)
+5701.051675071885
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=3714.1724086301433, y=-2452.80275345754, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(3562.2239735284465,-2582.8476421311793), (3865.359022400173,-2321.872971449225)]
+Ship: Position{x=8060.805135463785, y=1290.065574739725, orientation=-2.430793703076952}
+Point 1: (3562.2239735284465,-2582.8476421311793)
+Point 2: (3865.359022400173,-2321.872971449225)
+5536.051675071875
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=3714.1724086301433, y=-2452.80275345754, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(3562.2239735284106,-2582.8476421311693), (3865.3590224001696,-2321.8729714491874)]
+Ship: Position{x=7935.761395035412, y=1182.4130644127818, orientation=-2.430793703076952}
+Point 1: (3562.2239735284106,-2582.8476421311693)
+Point 2: (3865.3590224001696,-2321.8729714491874)
+5371.05167507182
+Deplacement: 165.0, 0.0
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=3714.1724086301433, y=-2452.80275345754, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(3562.223973528383,-2582.8476421311525), (3865.3590224001578,-2321.8729714491565)]
+Ship: Position{x=7810.717654607039, y=1074.7605540858385, orientation=-2.430793703076952}
+Point 1: (3562.223973528383,-2582.8476421311525)
+Point 2: (3865.3590224001578,-2321.8729714491565)
+5206.051675071776
+Deplacement: 165.0, 0.0
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=3714.1724086301433, y=-2452.80275345754, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(3562.2239735283783,-2582.847642131115), (3865.3590224001205,-2321.872971449148)]
+Ship: Position{x=7685.673914178666, y=967.1080437588953, orientation=-2.430793703076952}
+Point 1: (3562.2239735283783,-2582.847642131115)
+Point 2: (3865.3590224001205,-2321.872971449148)
+5041.051675071765
+Deplacement: 165.0, 0.0
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=3714.1724086301433, y=-2452.80275345754, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(3562.22397352835,-2582.847642131099), (3865.359022400109,-2321.872971449117)]
+Ship: Position{x=7560.630173750293, y=859.4555334319521, orientation=-2.430793703076952}
+Point 1: (3562.22397352835,-2582.847642131099)
+Point 2: (3865.359022400109,-2321.872971449117)
+4876.051675071721
+Deplacement: 165.0, 0.0
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=3714.1724086301433, y=-2452.80275345754, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(3562.2239735283224,-2582.8476421310816), (3865.359022400097,-2321.8729714490864)]
+Ship: Position{x=7435.58643332192, y=751.8030231050088, orientation=-2.430793703076952}
+Point 1: (3562.2239735283224,-2582.8476421310816)
+Point 2: (3865.359022400097,-2321.8729714490864)
+4711.051675071677
+Deplacement: 165.0, 0.0
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=3714.1724086301433, y=-2452.80275345754, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(3562.2239735283256,-2582.847642131038), (3865.3590224000523,-2321.8729714490837)]
+Ship: Position{x=7310.542692893547, y=644.1505127780656, orientation=-2.430793703076952}
+Point 1: (3562.2239735283256,-2582.847642131038)
+Point 2: (3865.3590224000523,-2321.8729714490837)
+4546.051675071675
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=3714.1724086301433, y=-2452.80275345754, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(3562.223973528298,-2582.847642131021), (3865.35902240004,-2321.8729714490532)]
+Ship: Position{x=7185.498952465174, y=536.4980024511224, orientation=-2.430793703076952}
+Point 1: (3562.223973528298,-2582.847642131021)
+Point 2: (3865.35902240004,-2321.8729714490532)
+4381.0516750716315
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=3714.1724086301433, y=-2452.80275345754, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(3562.2239735282933,-2582.847642130984), (3865.359022400003,-2321.872971449044)]
+Ship: Position{x=7060.455212036801, y=428.84549212417915, orientation=-2.430793703076952}
+Point 1: (3562.2239735282933,-2582.847642130984)
+Point 2: (3865.359022400003,-2321.872971449044)
+4216.051675071621
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=3714.1724086301433, y=-2452.80275345754, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(3562.2239735282647,-2582.847642130968), (3865.3590223999913,-2321.8729714490137)]
+Ship: Position{x=6935.411471608428, y=321.1929817972359, orientation=-2.430793703076952}
+Point 1: (3562.2239735282647,-2582.847642130968)
+Point 2: (3865.3590223999913,-2321.8729714490137)
+4051.0516750715765
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=3714.1724086301433, y=-2452.80275345754, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(3562.223973528175,-2582.847642130883), (3865.3590223999286,-2321.872971448917)]
+Ship: Position{x=6810.367731180055, y=213.54047147029155, orientation=-2.430793703076952}
+Point 1: (3562.223973528175,-2582.847642130883)
+Point 2: (3865.3590223999286,-2321.872971448917)
+3886.051675071527
+Deplacement: 165.0, 0.0
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=3714.1724086301433, y=-2452.80275345754, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(3562.2239735281423,-2582.8476421308774), (3865.359022399928,-2321.8729714488836)]
+Ship: Position{x=6685.323990751682, y=105.88796114334578, orientation=-2.430793703076952}
+Point 1: (3562.2239735281423,-2582.8476421308774)
+Point 2: (3865.359022399928,-2321.8729714488836)
+3721.051675071471
+Deplacement: 165.0, 0.0
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=3714.1724086301433, y=-2452.80275345754, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(3562.2239735281464,-2582.8476421308496), (3865.359022399899,-2321.8729714488836)]
+Ship: Position{x=6560.280250323309, y=-1.7645491835988745, orientation=-2.430793703076952}
+Point 1: (3562.2239735281464,-2582.8476421308496)
+Point 2: (3865.359022399899,-2321.8729714488836)
+3556.0516750714587
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=3714.1724086301433, y=-2452.80275345754, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(3562.2239735281078,-2582.8476421308374), (3865.3590223998935,-2321.8729714488436)]
+Ship: Position{x=6435.236509894936, y=-109.41705951054354, orientation=-2.430793703076952}
+Point 1: (3562.2239735281078,-2582.8476421308374)
+Point 2: (3865.3590223998935,-2321.8729714488436)
+3391.0516750714028
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=3714.1724086301433, y=-2452.80275345754, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(3562.2239735281155,-2582.847642130798), (3865.359022399852,-2321.8729714488463)]
+Ship: Position{x=6310.192769466563, y=-217.06956983748935, orientation=-2.430793703076952}
+Point 1: (3562.2239735281155,-2582.847642130798)
+Point 2: (3865.359022399852,-2321.8729714488463)
+3226.051675071401
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=3714.1724086301433, y=-2452.80275345754, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(3562.223973528141,-2582.8476421308387), (3865.3590223998835,-2321.872971448871)]
+Ship: Position{x=6185.14902903819, y=-324.72208016443363, orientation=-2.430793703076952}
+Point 1: (3562.223973528141,-2582.8476421308387)
+Point 2: (3865.3590223998835,-2321.872971448871)
+3061.0516750713596
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=3714.1724086301433, y=-2452.80275345754, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(3562.22397352812,-2582.8476421308155), (3865.3590223998626,-2321.8729714488477)]
+Ship: Position{x=6060.105288609817, y=-432.37459049137686, orientation=-2.430793703076952}
+Point 1: (3562.22397352812,-2582.8476421308155)
+Point 2: (3865.3590223998626,-2321.8729714488477)
+2896.051675071327
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=3714.1724086301433, y=-2452.80275345754, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(3562.223973528092,-2582.847642130799), (3865.359022399851,-2321.872971448817)]
+Ship: Position{x=5935.061548181444, y=-540.0271008183202, orientation=-2.430793703076952}
+Point 1: (3562.223973528092,-2582.847642130799)
+Point 2: (3865.359022399851,-2321.872971448817)
+2731.0516750712827
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=3714.1724086301433, y=-2452.80275345754, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(3562.2239735280796,-2582.8476421307687), (3865.3590223998217,-2321.8729714488013)]
+Ship: Position{x=5810.017807753071, y=-647.6796111452634, orientation=-2.430793703076952}
+Point 1: (3562.2239735280796,-2582.8476421307687)
+Point 2: (3865.3590223998217,-2321.8729714488013)
+2566.0516750712613
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=3714.1724086301433, y=-2452.80275345754, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(3562.2239735280514,-2582.847642130752), (3865.3590223998103,-2321.87297144877)]
+Ship: Position{x=5684.974067324698, y=-755.3321214722066, orientation=-2.430793703076952}
+Point 1: (3562.2239735280514,-2582.847642130752)
+Point 2: (3865.3590223998103,-2321.87297144877)
+2401.0516750712163
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+Intersection repere
+On calcule AStar car non wayDirect
+Start i trouvé : 15
+Start j trouvé : 12
+End i trouvé : 1
+End j trouvé : 1
+La taille de la liste : 85
+La taille de la liste reefSegments : 16
+Grid i length : 29
+Grid j length : 27
+Algo AStar startI : 12
+Algo AStar startJ : 15
+REAL
+Checkpoint{position=Position{x=3714.1724086301433, y=-2452.80275345754, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(3562.2239735280236,-2582.847642130735), (3865.359022399798,-2321.8729714487395)]
+Ship: Position{x=5559.930326896325, y=-862.9846317991498, orientation=-2.430793703076952}
+Point 1: (3562.2239735280236,-2582.847642130735)
+Point 2: (3865.359022399798,-2321.8729714487395)
+2236.0516750711727
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+Intersection repere
+On calcule AStar car non wayDirect
+Start i trouvé : 14
+Start j trouvé : 12
+End i trouvé : 1
+End j trouvé : 1
+La taille de la liste : 85
+La taille de la liste reefSegments : 16
+Grid i length : 28
+Grid j length : 26
+Algo AStar startI : 12
+Algo AStar startJ : 14
+FAKE
+FAKE
+Checkpoint{position=Position{x=5116.725174315828, y=-972.9736620776267, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.5}}
+Deplacement: 165.0, -0.703
+On a essaye d'ajouter un recif, peut etre il y etait deja
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+Intersection repere
+On calcule AStar car non wayDirect
+Start i trouvé : 13
+Start j trouvé : 11
+End i trouvé : 1
+End j trouvé : 1
+La taille de la liste : 85
+La taille de la liste reefSegments : 16
+Grid i length : 27
+Grid j length : 26
+Algo AStar startI : 11
+Algo AStar startJ : 13
+FAKE
+FAKE
+Checkpoint{position=Position{x=4966.6845275436135, y=-1122.8520257031248, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.5}}
+Deplacement: 165.0, 0.283
+On a essaye d'ajouter un recif, peut etre il y etait deja
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+Intersection repere
+On calcule AStar car non wayDirect
+Start i trouvé : 12
+Start j trouvé : 11
+End i trouvé : 1
+End j trouvé : 1
+La taille de la liste : 85
+La taille de la liste reefSegments : 16
+Grid i length : 26
+Grid j length : 25
+Algo AStar startI : 11
+Algo AStar startJ : 12
+FAKE
+FAKE
+Checkpoint{position=Position{x=4816.581580042617, y=-1422.5734640727717, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.5}}
+Deplacement: 165.0, 0.592
+On a essaye d'ajouter un recif, peut etre il y etait deja
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+Intersection repere
+On calcule AStar car non wayDirect
+Start i trouvé : 11
+Start j trouvé : 10
+End i trouvé : 1
+End j trouvé : 1
+La taille de la liste : 85
+La taille de la liste reefSegments : 16
+Grid i length : 25
+Grid j length : 25
+Algo AStar startI : 10
+Algo AStar startJ : 11
+FAKE
+FAKE
+Checkpoint{position=Position{x=4666.606051902189, y=-1422.6363714659815, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.5}}
+Deplacement: 165.0, -0.161
+On a essaye d'ajouter un recif, peut etre il y etait deja
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=3714.1724086301433, y=-2452.80275345754, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+Deplacement: 165.0, 0.079
+On a essaye d'ajouter un recif, peut etre il y etait deja
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+Intersection repere
+On calcule AStar car non wayDirect
+Start i trouvé : 9
+Start j trouvé : 9
+End i trouvé : 1
+End j trouvé : 1
+La taille de la liste : 85
+La taille de la liste reefSegments : 16
+Grid i length : 23
+Grid j length : 23
+Algo AStar startI : 9
+Algo AStar startJ : 9
+FAKE
+FAKE
+Checkpoint{position=Position{x=4366.650810022812, y=-1422.7565558174244, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.5}}
+Deplacement: 165.0, -0.675
+On a essaye d'ajouter un recif, peut etre il y etait deja
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=3714.1724086301433, y=-2452.80275345754, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+Deplacement: 165.0, 0.719
+On a essaye d'ajouter un recif, peut etre il y etait deja
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=3714.1724086301433, y=-2452.80275345754, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+Deplacement: 165.0, 0.048
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=3714.1724086301433, y=-2452.80275345754, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(3585.600238849958,-2605.9993498884214), (3836.4427328560096,-2294.53093722454)]
+Ship: Position{x=4357.295490142029, y=-1647.7937000339043, orientation=-2.2487937030769145}
+Point 1: (3585.600238849958,-2605.9993498884214)
+Point 2: (3836.4427328560096,-2294.53093722454)
+830.3954773127234
+Deplacement: 165.0, 0.004
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=3714.1724086301433, y=-2452.80275345754, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(3589.1484138516253,-2608.908489193358), (3838.793905808991,-2296.3755101752313)]
+Ship: Position{x=4254.056500083607, y=-1776.5052948316034, orientation=-2.2447937030769327}
+Point 1: (3589.1484138516253,-2608.908489193358)
+Point 2: (3838.793905808991,-2296.3755101752313)
+665.3631061346235
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=3714.1724086301433, y=-2452.80275345754, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(3589.1484138516735,-2608.9084891933962), (3838.793905809039,-2296.3755101752686)]
+Ship: Position{x=4151.077649252329, y=-1905.4252555881285, orientation=-2.2447937030769327}
+Point 1: (3589.1484138516735,-2608.9084891933962)
+Point 2: (3838.793905809039,-2296.3755101752686)
+500.36310613463917
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=3714.1724086301433, y=-2452.80275345754, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(3589.1484138519218,-2608.9084891935745), (3838.793905809156,-2296.375510175384)]
+Ship: Position{x=4048.09879842103, y=-2034.3452163446536, orientation=-2.2447937030769327}
+Point 1: (3589.1484138519218,-2608.9084891935745)
+Point 2: (3838.793905809156,-2296.375510175384)
+335.36310613465974
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=3714.1724086301433, y=-2452.80275345754, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(3589.148413851877,-2608.908489193557), (3838.7939058091283,-2296.375510175346)]
+Ship: Position{x=3945.119947589707, y=-2163.2651771011583, orientation=-2.2447937030769327}
+Point 1: (3589.148413851877,-2608.908489193557)
+Point 2: (3838.7939058091283,-2296.375510175346)
+170.36310613465142
+Deplacement: 165.0, 0.001
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=3714.1724086301433, y=-2452.80275345754, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(3589.5289313750186,-2609.2124832627733), (3838.8619696448663,-2296.429759069283)]
+Ship: Position{x=3842.2049290402524, y=-2292.236091219195, orientation=-2.243793703076926}
+Point 1: (3589.5289313750186,-2609.2124832627733)
+Point 2: (3838.8619696448663,-2296.429759069283)
+5.363042751653619
+Deplacement: 23.571428571428573, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=3714.1724086301433, y=-2452.80275345754, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(3589.528931375034,-2609.2124832627487), (3838.861969644845,-2296.429759069304)]
+Ship: Position{x=3739.3550496376233, y=-2421.2589663493986, orientation=-2.243793703076926}
+Point 1: (3589.528931375034,-2609.2124832627487)
+Point 2: (3838.861969644845,-2296.429759069304)
+159.63695724831524
+Deplacement: 141.42857142857142, -0.001
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+REAL
+Checkpoint{position=Position{x=9582.666168046459, y=631.0502324206664, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+Deplacement: 82.5, 1.5707963267948966
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+Intersection repere
+On calcule AStar car non wayDirect
+Start i trouvé : 1
+Start j trouvé : 1
+End i trouvé : 42
+End j trouvé : 22
+La taille de la liste : 49
+La taille de la liste reefSegments : 8
+Grid i length : 56
+Grid j length : 36
+Algo AStar startI : 1
+Algo AStar startJ : 1
+FAKE
+FAKE
+Checkpoint{position=Position{x=3852.190405252754, y=-2409.884182048024, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.5}}
+Deplacement: 70.71428571428572, 1.3463968515384828
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+Intersection repere
+On calcule AStar car non wayDirect
+Start i trouvé : 1
+Start j trouvé : 1
+End i trouvé : 41
+End j trouvé : 22
+La taille de la liste : 49
+La taille de la liste reefSegments : 8
+Grid i length : 55
+Grid j length : 36
+Algo AStar startI : 1
+Algo AStar startJ : 1
+FAKE
+FAKE
+Checkpoint{position=Position{x=4003.7425253559436, y=-2410.912193271871, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.5}}
+Deplacement: 165.0, 0.128
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+Intersection repere
+On calcule AStar car non wayDirect
+Start i trouvé : 1
+Start j trouvé : 1
+End i trouvé : 39
+End j trouvé : 21
+La taille de la liste : 50
+La taille de la liste reefSegments : 8
+Grid i length : 54
+Grid j length : 35
+Algo AStar startI : 1
+Algo AStar startJ : 1
+FAKE
+FAKE
+Checkpoint{position=Position{x=4030.9057793032525, y=-2250.6290451853483, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.5}}
+Deplacement: 165.0, 0.506
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+Intersection repere
+On calcule AStar car non wayDirect
+Start i trouvé : 1
+Start j trouvé : 1
+End i trouvé : 39
+End j trouvé : 20
+La taille de la liste : 44
+La taille de la liste reefSegments : 8
+Grid i length : 53
+Grid j length : 34
+Algo AStar startI : 1
+Algo AStar startJ : 1
+FAKE
+FAKE
+Checkpoint{position=Position{x=3837.953248881562, y=-2067.670212758591, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.5}}
+Deplacement: 47.142857142857146, 0.8975979010256552
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+Intersection repere
+On calcule AStar car non wayDirect
+Start i trouvé : 1
+Start j trouvé : 1
+End i trouvé : 39
+End j trouvé : 20
+La taille de la liste : 45
+La taille de la liste reefSegments : 8
+Grid i length : 53
+Grid j length : 34
+Algo AStar startI : 1
+Algo AStar startJ : 1
+FAKE
+FAKE
+Checkpoint{position=Position{x=3839.034872791179, y=-2038.1647860448816, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.5}}
+Deplacement: 165.0, 0.213
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+Intersection repere
+On calcule AStar car non wayDirect
+Start i trouvé : 1
+Start j trouvé : 1
+End i trouvé : 39
+End j trouvé : 19
+La taille de la liste : 38
+La taille de la liste reefSegments : 8
+Grid i length : 54
+Grid j length : 33
+Algo AStar startI : 1
+Algo AStar startJ : 1
+FAKE
+FAKE
+Checkpoint{position=Position{x=3878.1266349254925, y=-1916.393913149346, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.5}}
+Deplacement: 165.0, -0.441
+On a essaye d'ajouter un recif, peut etre il y etait deja
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9582.666168046459, y=631.0502324206664, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+Deplacement: 70.71428571428572, -1.3463968515384828
+On a essaye d'ajouter un recif, peut etre il y etait deja
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9582.666168046459, y=631.0502324206664, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+Deplacement: 165.0, -0.206
+On a essaye d'ajouter un recif, peut etre il y etait deja
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9582.666168046459, y=631.0502324206664, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(9391.110197791748,573.5497084250528), (9752.584816891827,736.5379225771849)]
+Ship: Position{x=4107.597168445199, y=-1808.7762076976912, orientation=0.42360052474363175}
+Point 1: (9391.110197791748,573.5497084250528)
+Point 2: (9752.584816891827,736.5379225771849)
+5795.77317550513
+Deplacement: 165.0, -0.004
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9582.666168046459, y=631.0502324206664, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(9398.868890984118,552.1923796444926), (9764.132212156404,715.1339694634908)]
+Ship: Position{x=4341.399722086841, y=-1703.9116939753083, orientation=0.4196005247436333}
+Point 1: (9398.868890984118,552.1923796444926)
+Point 2: (9764.132212156404,715.1339694634908)
+5537.869625167278
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+Intersection repere
+On calcule AStar car non wayDirect
+Start i trouvé : 1
+Start j trouvé : 1
+End i trouvé : 35
+End j trouvé : 15
+La taille de la liste : 49
+La taille de la liste reefSegments : 16
+Grid i length : 50
+Grid j length : 30
+Algo AStar startI : 1
+Algo AStar startJ : 1
+FAKE
+FAKE
+Checkpoint{position=Position{x=4782.66389058669, y=-1385.2437693813308, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.5}}
+Deplacement: 165.0, 0.383
+On a essaye d'ajouter un recif, peut etre il y etait deja
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+Intersection repere
+On calcule AStar car non wayDirect
+Start i trouvé : 1
+Start j trouvé : 1
+End i trouvé : 34
+End j trouvé : 14
+La taille de la liste : 41
+La taille de la liste reefSegments : 16
+Grid i length : 48
+Grid j length : 29
+Algo AStar startI : 1
+Algo AStar startJ : 1
+FAKE
+FAKE
+Checkpoint{position=Position{x=4983.774936572897, y=-1245.6330277647094, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.5}}
+[(4978.578547692767,-1251.0411274857515), (4989.001090815959,-1240.2536865583943)]
+Ship: Position{x=4776.822459173123, y=-1459.860785117813, orientation=0.8026005247436333}
+Point 1: (4978.578547692767,-1251.0411274857515)
+Point 2: (4989.001090815959,-1240.2536865583943)
+290.3638556506605
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+Intersection repere
+On calcule AStar car non wayDirect
+Start i trouvé : 1
+Start j trouvé : 1
+End i trouvé : 33
+End j trouvé : 13
+La taille de la liste : 29
+La taille de la liste reefSegments : 16
+Grid i length : 47
+Grid j length : 28
+Algo AStar startI : 1
+Algo AStar startJ : 1
+FAKE
+FAKE
+Checkpoint{position=Position{x=4996.676544015918, y=-1077.002558944231, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.5}}
+Deplacement: 165.0, 0.508
+On a essaye d'ajouter un recif, peut etre il y etait deja
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+Intersection repere
+On calcule AStar car non wayDirect
+Start i trouvé : 1
+Start j trouvé : 1
+End i trouvé : 32
+End j trouvé : 12
+La taille de la liste : 23
+La taille de la liste reefSegments : 16
+Grid i length : 47
+Grid j length : 26
+Algo AStar startI : 1
+Algo AStar startJ : 1
+FAKE
+FAKE
+Checkpoint{position=Position{x=5252.506182843307, y=-893.9860547065517, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.5}}
+Deplacement: 165.0, -0.507
+On a essaye d'ajouter un recif, peut etre il y etait deja
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+Intersection repere
+On calcule AStar car non wayDirect
+Start i trouvé : 1
+Start j trouvé : 1
+End i trouvé : 32
+End j trouvé : 11
+La taille de la liste : 17
+La taille de la liste reefSegments : 16
+Grid i length : 46
+Grid j length : 25
+Algo AStar startI : 1
+Algo AStar startJ : 1
+FAKE
+FAKE
+Checkpoint{position=Position{x=5357.247052232674, y=-710.7723939724688, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.5}}
+[(5352.063350054542,-716.1926551940369), (5362.475052544626,-705.3948468811077)]
+Ship: Position{x=5150.777136384861, y=-924.9433329348198, orientation=0.8036005247436356}
+Point 1: (5352.063350054542,-716.1926551940369)
+Point 2: (5362.475052544626,-705.3948468811077)
+289.9879053869536
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9582.666168046459, y=631.0502324206664, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+Deplacement: 165.0, -0.489
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9582.666168046459, y=631.0502324206664, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(9382.66798676408,630.1973058461062), (9744.866233625322,748.0593719193093)]
+Ship: Position{x=5522.553871142763, y=-625.9132051463993, orientation=0.31460052474363853}
+Point 1: (9382.66798676408,630.1973058461062)
+Point 2: (9744.866233625322,748.0593719193093)
+4059.3465732116047
+Deplacement: 165.0, -0.014
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9582.666168046459, y=631.0502324206664, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(9390.651262161695,575.1013636379721), (9772.659121913219,693.5216457309239)]
+Ship: Position{x=5770.631950817289, y=-547.0842068635706, orientation=0.3006005247436412}
+Point 1: (9390.651262161695,575.1013636379721)
+Point 2: (9772.659121913219,693.5216457309239)
+3789.9657345612372
+Deplacement: 165.0, -0.001
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9582.666168046459, y=631.0502324206664, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(9391.706785882334,571.59845058467), (9773.887630490977,689.653579599456)]
+Ship: Position{x=6019.518133178932, y=-470.0659134803564, orientation=0.2996005247436402}
+Point 1: (9391.706785882334,571.59845058467)
+Point 2: (9773.887630490977,689.653579599456)
+3529.4080178954346
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9582.666168046459, y=631.0502324206664, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(9391.706785882345,571.5984505846354), (9773.887630490986,689.6535795994209)]
+Ship: Position{x=6268.457443695494, y=-393.16890821583485, orientation=0.2996005247436402}
+Point 1: (9391.706785882345,571.5984505846354)
+Point 2: (9773.887630490986,689.6535795994209)
+3268.862571304801
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9582.666168046459, y=631.0502324206664, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(9391.706785882323,571.5984505845909), (9773.887630491032,689.6535795993973)]
+Ship: Position{x=6517.396754212055, y=-316.2719029513133, orientation=0.2996005247436402}
+Point 1: (9391.706785882323,571.5984505845909)
+Point 2: (9773.887630491032,689.6535795993973)
+3008.3171247141327
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9582.666168046459, y=631.0502324206664, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(9391.706785882367,571.5984505845668), (9773.887630491008,689.6535795993523)]
+Ship: Position{x=6766.336064728617, y=-239.3748976867917, orientation=0.2996005247436402}
+Point 1: (9391.706785882367,571.5984505845668)
+Point 2: (9773.887630491008,689.6535795993523)
+2747.771678123533
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9582.666168046459, y=631.0502324206664, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(9391.706785882407,571.5984505845413), (9773.887630490986,689.6535795993077)]
+Ship: Position{x=7015.275375245179, y=-162.47789242227014, orientation=0.2996005247436402}
+Point 1: (9391.706785882407,571.5984505845413)
+Point 2: (9773.887630490986,689.6535795993077)
+2487.2262315329294
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9582.666168046459, y=631.0502324206664, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(9391.706785882363,571.5984505844585), (9773.887630491075,689.6535795992604)]
+Ship: Position{x=7264.214685761741, y=-85.58088715774858, orientation=0.2996005247436402}
+Point 1: (9391.706785882363,571.5984505844585)
+Point 2: (9773.887630491075,689.6535795992604)
+2226.680784942229
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9582.666168046459, y=631.0502324206664, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(9391.706785882276,571.5984505844012), (9773.887630491183,689.6535795992636)]
+Ship: Position{x=7513.153996278303, y=-8.683881893227102, orientation=0.2996005247436402}
+Point 1: (9391.706785882276,571.5984505844012)
+Point 2: (9773.887630491183,689.6535795992636)
+1966.1353383514945
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9582.666168046459, y=631.0502324206664, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(9391.70678588235,571.5984505843867), (9773.887630491126,689.6535795992077)]
+Ship: Position{x=7762.0933067948645, y=68.21312337129433, orientation=0.2996005247436402}
+Point 1: (9391.70678588235,571.5984505843867)
+Point 2: (9773.887630491126,689.6535795992077)
+1705.5898917609272
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9582.666168046459, y=631.0502324206664, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(9391.70678588242,571.5984505843944), (9773.887630491063,689.6535795991804)]
+Ship: Position{x=8011.032617311426, y=145.1101286358159, orientation=0.2996005247436402}
+Point 1: (9391.70678588242,571.5984505843944)
+Point 2: (9773.887630491063,689.6535795991804)
+1445.0444451703613
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9582.666168046459, y=631.0502324206664, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(9391.706785882427,571.5984505843671), (9773.88763049107,689.6535795991531)]
+Ship: Position{x=8259.971927827963, y=222.00713390033746, orientation=0.2996005247436402}
+Point 1: (9391.706785882427,571.5984505843671)
+Point 2: (9773.88763049107,689.6535795991531)
+1184.4989985797504
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9582.666168046459, y=631.0502324206664, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(9391.706785882398,571.598450584348), (9773.887630491106,689.653579599154)]
+Ship: Position{x=8508.911238344434, y=298.90413916485903, orientation=0.2996005247436402}
+Point 1: (9391.706785882398,571.598450584348)
+Point 2: (9773.887630491106,689.653579599154)
+923.9535519891695
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9582.666168046459, y=631.0502324206664, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(9391.706785882432,571.5984505843498), (9773.887630491075,689.6535795991354)]
+Ship: Position{x=8757.850548860904, y=375.8011444293806, orientation=0.2996005247436402}
+Point 1: (9391.706785882432,571.5984505843498)
+Point 2: (9773.887630491075,689.6535795991354)
+663.4081053986557
+Deplacement: 165.0, 0.001
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9582.666168046459, y=631.0502324206664, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(9391.549367756055,572.1064571194552), (9773.612511938707,690.5438770744013)]
+Ship: Position{x=9006.737783797624, y=452.81703633453793, orientation=0.3006005247436412}
+Point 1: (9391.549367756055,572.1064571194552)
+Point 2: (9773.612511938707,690.5438770744013)
+402.8770545213491
+Deplacement: 165.0, 0.0
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9582.666168046459, y=631.0502324206664, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(9391.549367756064,572.1064571194156), (9773.612511938729,690.5438770743431)]
+Ship: Position{x=9255.571836806419, y=529.9541894046907, orientation=0.3006005247436412}
+Point 1: (9391.549367756064,572.1064571194156)
+Point 2: (9773.612511938729,690.5438770743431)
+142.36116955355348
+Deplacement: 141.42857142857142, -0.001
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=9582.666168046459, y=631.0502324206664, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(9391.55254973261,572.0961410017962), (9773.734307736808,690.15155216317)]
+Ship: Position{x=9504.458019168062, y=606.9724827879046, orientation=0.2996005247436402}
+Point 1: (9391.55254973261,572.0961410017962)
+Point 2: (9773.734307736808,690.15155216317)
+118.16938793452803
+Deplacement: 117.85714285714285, -0.001
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+REAL
+Checkpoint{position=Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+Deplacement: 82.5, 1.5707963267948966
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+Deplacement: 165.0, 0.605
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(4358.796613674307,5140.7000341541125), (4662.294967455735,4901.634386646723)]
+Ship: Position{x=9729.73229961087, y=910.0140963856434, orientation=2.474396851538543}
+Point 1: (4358.796613674307,5140.7000341541125)
+Point 2: (4662.294967455735,4901.634386646723)
+6450.732799995943
+Deplacement: 165.0, 0.008
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(4319.976540619749,5102.4287417604855), (4636.168743608493,4857.437610076415)]
+Ship: Position{x=9599.711957518039, y=1011.5993583919577, orientation=2.482396851538551}
+Point 1: (4319.976540619749,5102.4287417604855)
+Point 2: (4636.168743608493,4857.437610076415)
+6279.110852219991
+Deplacement: 165.0, 0.0
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(4319.976540619669,5102.428741760402), (4636.168743608432,4857.437610076317)]
+Ship: Position{x=9469.281925373243, y=1112.6587800938737, orientation=2.482396851538551}
+Point 1: (4319.976540619669,5102.428741760402)
+Point 2: (4636.168743608432,4857.437610076317)
+6114.110852219925
+Deplacement: 165.0, 0.0
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(4319.9765406196175,5102.428741760298), (4636.168743608343,4857.437610076242)]
+Ship: Position{x=9338.851893228448, y=1213.7182017957898, orientation=2.482396851538551}
+Point 1: (4319.9765406196175,5102.428741760298)
+Point 2: (4636.168743608343,4857.437610076242)
+5949.110852219895
+Deplacement: 165.0, 0.0
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(4319.976540619537,5102.428741760215), (4636.168743608282,4857.437610076144)]
+Ship: Position{x=9208.421861083652, y=1314.777623497706, orientation=2.482396851538551}
+Point 1: (4319.976540619537,5102.428741760215)
+Point 2: (4636.168743608282,4857.437610076144)
+5784.110852219827
+Deplacement: 165.0, 0.0
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(4319.976540619495,5102.428741760103), (4636.168743608184,4857.437610076075)]
+Ship: Position{x=9077.991828938857, y=1415.837045199622, orientation=2.482396851538551}
+Point 1: (4319.976540619495,5102.428741760103)
+Point 2: (4636.168743608184,4857.437610076075)
+5619.110852219808
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(4319.976540619416,5102.428741760021), (4636.168743608124,4857.437610075977)]
+Ship: Position{x=8947.561796794062, y=1516.8964669015381, orientation=2.482396851538551}
+Point 1: (4319.976540619416,5102.428741760021)
+Point 2: (4636.168743608124,4857.437610075977)
+5454.110852219741
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(4319.976540619336,5102.428741759935), (4636.168743608063,4857.437610075879)]
+Ship: Position{x=8817.131764649266, y=1617.9558886034542, orientation=2.482396851538551}
+Point 1: (4319.976540619336,5102.428741759935)
+Point 2: (4636.168743608063,4857.437610075879)
+5289.110852219675
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(4319.976540619258,5102.428741759853), (4636.168743608002,4857.437610075783)]
+Ship: Position{x=8686.70173250447, y=1719.0153103053703, orientation=2.482396851538551}
+Point 1: (4319.976540619258,5102.428741759853)
+Point 2: (4636.168743608002,4857.437610075783)
+5124.110852219609
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(4319.976540619178,5102.42874175977), (4636.168743607942,4857.437610075684)]
+Ship: Position{x=8556.271700359675, y=1820.0747320072865, orientation=2.482396851538551}
+Point 1: (4319.976540619178,5102.42874175977)
+Point 2: (4636.168743607942,4857.437610075684)
+4959.110852219541
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(4319.976540619135,5102.428741759657), (4636.168743607843,4857.437610075614)]
+Ship: Position{x=8425.84166821488, y=1921.1341537092026, orientation=2.482396851538551}
+Point 1: (4319.976540619135,5102.428741759657)
+Point 2: (4636.168743607843,4857.437610075614)
+4794.110852219522
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(4319.976540619083,5102.428741759554), (4636.168743607755,4857.43761007554)]
+Ship: Position{x=8295.411636070085, y=2022.1935754111187, orientation=2.482396851538551}
+Point 1: (4319.976540619083,5102.428741759554)
+Point 2: (4636.168743607755,4857.43761007554)
+4629.110852219491
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(4319.976540617897,5102.4287417580035), (4636.168743606641,4857.437610074123)]
+Ship: Position{x=8164.981603925308, y=2123.252997113018, orientation=2.482396851538551}
+Point 1: (4319.976540617897,5102.4287417580035)
+Point 2: (4636.168743606641,4857.437610074123)
+4464.1108522194745
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(4319.976540617906,5102.428741757978), (4636.168743606614,4857.4376100741265)]
+Ship: Position{x=8034.551571780604, y=2224.3124188149113, orientation=2.482396851538551}
+Point 1: (4319.976540617906,5102.428741757978)
+Point 2: (4636.168743606614,4857.4376100741265)
+4299.110852219529
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(4319.97654061786,5102.428741757994), (4636.168743606643,4857.437610074085)]
+Ship: Position{x=7904.121539635899, y=2325.3718405168047, orientation=2.482396851538551}
+Point 1: (4319.97654061786,5102.428741757994)
+Point 2: (4636.168743606643,4857.437610074085)
+4134.110852219511
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(4319.976540617879,5102.428741757962), (4636.168743606607,4857.437610074096)]
+Ship: Position{x=7773.691507491195, y=2426.431262218698, orientation=2.482396851538551}
+Point 1: (4319.976540617879,5102.428741757962)
+Point 2: (4636.168743606607,4857.437610074096)
+3969.1108522195777
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(4319.976540617826,5102.428741757985), (4636.168743606644,4857.437610074048)]
+Ship: Position{x=7643.26147534649, y=2527.4906839205914, orientation=2.482396851538551}
+Point 1: (4319.976540617826,5102.428741757985)
+Point 2: (4636.168743606644,4857.437610074048)
+3804.1108522195505
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(4319.976540617808,5102.428741757982), (4636.168743606644,4857.43761007403)]
+Ship: Position{x=7512.831443201786, y=2628.550105622485, orientation=2.482396851538551}
+Point 1: (4319.976540617808,5102.428741757982)
+Point 2: (4636.168743606644,4857.43761007403)
+3639.1108522195705
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(4319.976540617853,5102.428741757927), (4636.16874360658,4857.437610074061)]
+Ship: Position{x=7382.4014110570815, y=2729.609527324378, orientation=2.482396851538551}
+Point 1: (4319.976540617853,5102.428741757927)
+Point 2: (4636.16874360658,4857.437610074061)
+3474.1108522196705
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(4319.976540617835,5102.4287417579235), (4636.16874360658,4857.437610074043)]
+Ship: Position{x=7251.971378912377, y=2830.6689490262715, orientation=2.482396851538551}
+Point 1: (4319.976540617835,5102.4287417579235)
+Point 2: (4636.16874360658,4857.437610074043)
+3309.1108522196905
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+Intersection repere
+On calcule AStar car non wayDirect
+Start i trouvé : 19
+Start j trouvé : 1
+End i trouvé : 1
+End j trouvé : 15
+La taille de la liste : 69
+La taille de la liste reefSegments : 16
+Grid i length : 33
+Grid j length : 29
+Algo AStar startI : 1
+Algo AStar startJ : 19
+FAKE
+FAKE
+Checkpoint{position=Position{x=6785.987614080851, y=3139.228370728165, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.5}}
+Deplacement: 165.0, 0.105
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+Deplacement: 165.0, -0.108
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(4315.56029298899,5096.4630948699905), (4630.719470663859,4850.755752034187)]
+Ship: Position{x=6850.702167192929, y=3119.9920994257786, orientation=2.4793968515385756}
+Point 1: (4315.56029298899,5096.4630948699905)
+Point 2: (4630.719470663859,4850.755752034187)
+2814.9362326842997
+Deplacement: 165.0, -0.003
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(4321.188109611232,5103.987436414724), (4635.90645228716,4857.102184927516)]
+Ship: Position{x=6720.726745583438, y=3221.635443333448, orientation=2.476396851538556}
+Point 1: (4321.188109611232,5103.987436414724)
+Point 2: (4635.90645228716,4857.102184927516)
+2649.759822738713
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(4321.188109611294,5103.987436414764), (4635.906452287184,4857.102184927586)]
+Ship: Position{x=6590.90541406435, y=3323.4756214686195, orientation=2.476396851538556}
+Point 1: (4321.188109611294,5103.987436414764)
+Point 2: (4635.906452287184,4857.102184927586)
+2484.7598227387602
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(4321.188109611337,5103.98743641482), (4635.906452287227,4857.102184927642)]
+Ship: Position{x=6461.084082545262, y=3425.3157996037908, orientation=2.476396851538556}
+Point 1: (4321.188109611337,5103.98743641482)
+Point 2: (4635.906452287227,4857.102184927642)
+2319.759822738785
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(4321.188109611363,5103.98743641489), (4635.90645228729,4857.102184927683)]
+Ship: Position{x=6331.262751026175, y=3527.155977738962, orientation=2.476396851538556}
+Point 1: (4321.188109611363,5103.98743641489)
+Point 2: (4635.90645228729,4857.102184927683)
+2154.7598227387834
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(4321.188109611424,5103.987436414931), (4635.906452287315,4857.102184927753)]
+Ship: Position{x=6201.441419507087, y=3628.9961558741334, orientation=2.476396851538556}
+Point 1: (4321.188109611424,5103.987436414931)
+Point 2: (4635.906452287315,4857.102184927753)
+1989.7598227388303
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(4321.188109611458,5103.987436414995), (4635.906452287367,4857.102184927801)]
+Ship: Position{x=6071.620087987999, y=3730.8363340093047, orientation=2.476396851538556}
+Point 1: (4321.188109611458,5103.987436414995)
+Point 2: (4635.906452287367,4857.102184927801)
+1824.7598227388426
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(4321.188109611503,5103.987436415049), (4635.906452287411,4857.102184927857)]
+Ship: Position{x=5941.798756468911, y=3832.676512144476, orientation=2.476396851538556}
+Point 1: (4321.188109611503,5103.987436415049)
+Point 2: (4635.906452287411,4857.102184927857)
+1659.759822738865
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(4321.188109611555,5103.987436415098), (4635.906452287446,4857.10218492792)]
+Ship: Position{x=5811.977424949823, y=3934.5166902796473, orientation=2.476396851538556}
+Point 1: (4321.188109611555,5103.987436415098)
+Point 2: (4635.906452287446,4857.10218492792)
+1494.7598227388999
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(4321.1881096115885,5103.98743641516), (4635.906452287498,4857.102184927968)]
+Ship: Position{x=5682.156093430735, y=4036.3568684148186, orientation=2.476396851538556}
+Point 1: (4321.1881096115885,5103.98743641516)
+Point 2: (4635.906452287498,4857.102184927968)
+1329.759822738912
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(4321.188109612021,5103.987436415623), (4635.906452287754,4857.102184928387)]
+Ship: Position{x=5552.334761911648, y=4138.19704654999, orientation=2.476396851538556}
+Point 1: (4321.188109612021,5103.987436415623)
+Point 2: (4635.906452287754,4857.102184928387)
+1164.7598227389922
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(4321.188109612002,5103.987436415653), (4635.90645228779,4857.102184928373)]
+Ship: Position{x=5422.51343039256, y=4240.037224685161, orientation=2.476396851538556}
+Point 1: (4321.188109612002,5103.987436415653)
+Point 2: (4635.90645228779,4857.102184928373)
+999.7598227389792
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(4321.188109612,5103.987436415669), (4635.906452287805,4857.102184928376)]
+Ship: Position{x=5292.692098873472, y=4341.8774028203325, orientation=2.476396851538556}
+Point 1: (4321.188109612,5103.987436415669)
+Point 2: (4635.906452287805,4857.102184928376)
+834.7598227389919
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(4321.188109612017,5103.987436415672), (4635.906452287804,4857.102184928393)]
+Ship: Position{x=5162.870767354384, y=4443.717580955504, orientation=2.476396851538556}
+Point 1: (4321.188109612017,5103.987436415672)
+Point 2: (4635.906452287804,4857.102184928393)
+669.7598227390266
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(4321.188109612032,5103.987436415675), (4635.906452287802,4857.10218492841)]
+Ship: Position{x=5033.049435835296, y=4545.557759090675, orientation=2.476396851538556}
+Point 1: (4321.188109612032,5103.987436415675)
+Point 2: (4635.906452287802,4857.10218492841)
+504.75982273906203
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(4321.188109612058,5103.987436415669), (4635.90645228779,4857.102184928433)]
+Ship: Position{x=4903.228104316208, y=4647.397937225846, orientation=2.476396851538556}
+Point 1: (4321.188109612058,5103.987436415669)
+Point 2: (4635.90645228779,4857.102184928433)
+339.7598227391092
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(4321.188109612038,5103.987436415699), (4635.906452287825,4857.102184928421)]
+Ship: Position{x=4773.4067727971205, y=4749.238115361018, orientation=2.476396851538556}
+Point 1: (4321.188109612038,5103.987436415699)
+Point 2: (4635.906452287825,4857.102184928421)
+174.75982273909668
+Deplacement: 165.0, 0.0
+On a essaye d'ajouter un recif, peut etre il y etait deja
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=4478.487614080851, y=4980.468749999999, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=200.0}}
+[(4321.188109612036,5103.987436415715), (4635.906452287842,4857.1021849284225)]
+Ship: Position{x=4643.585441278033, y=4851.078293496189, orientation=2.476396851538556}
+Point 1: (4321.188109612036,5103.987436415715)
+Point 2: (4635.906452287842,4857.1021849284225)
+9.759822739108165
+Deplacement: 23.571428571428573, 0.0

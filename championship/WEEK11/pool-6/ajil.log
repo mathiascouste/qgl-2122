@@ -1,0 +1,100 @@
+Début de la partie
+INIT GAME
+size entities0
+NextRound
+BarreurManageur est : 14
+Marin :  14veut aller vers Entity{x=7, y=2, type='rudder'}
+Marin mouvement :  X:4  Y:0
+Sail Manager est : 13
+Marin :  13veut aller vers Entity{x=3, y=1, type='sail'}
+Marin :  0veut aller vers Entity{x=7, y=0, type='oar'}
+Marin mouvement :  X:7  Y:0
+Marin :  1veut aller vers Entity{x=6, y=0, type='oar'}
+Marin mouvement :  X:6  Y:-1
+Marin :  2veut aller vers Entity{x=5, y=0, type='oar'}
+Marin mouvement :  X:5  Y:-2
+Marin :  3veut aller vers Entity{x=4, y=0, type='oar'}
+Marin mouvement :  X:4  Y:-3
+Marin :  4veut aller vers Entity{x=3, y=0, type='oar'}
+Marin mouvement :  X:2  Y:0
+Marin :  5veut aller vers Entity{x=2, y=0, type='oar'}
+Marin mouvement :  X:1  Y:-1
+Marin :  6veut aller vers Entity{x=1, y=0, type='oar'}
+Marin mouvement :  X:0  Y:-2
+Marin :  7veut aller vers Entity{x=7, y=3, type='oar'}
+Marin mouvement :  X:6  Y:0
+Marin :  8veut aller vers Entity{x=6, y=3, type='oar'}
+Marin mouvement :  X:4  Y:3
+Marin :  9veut aller vers Entity{x=5, y=3, type='oar'}
+Marin mouvement :  X:3  Y:2
+Marin :  10veut aller vers Entity{x=4, y=3, type='oar'}
+Marin mouvement :  X:2  Y:1
+Marin :  11veut aller vers Entity{x=3, y=3, type='oar'}
+Marin mouvement :  X:1  Y:0
+Marin :  12veut aller vers Entity{x=1, y=3, type='oar'}
+Marin mouvement :  X:-2  Y:3
+Marin :  15veut aller vers Entity{x=2, y=3, type='oar'}
+Marin mouvement :  X:-1  Y:0
+Prédiction :[165.0, 0.266, 141.42857142857142, 0.265, 117.85714285714286, 0.264, 94.28571428571429, 0.264, 70.71428571428571, 0.263, 47.142857142857146, 0.262, 23.571428571428573, 0.261]
+On tourne avec le gouvernail : 0.261
+size entities0
+NextRound
+Marin :  0veut aller vers Entity{x=7, y=0, type='oar'}
+Marin mouvement :  X:5  Y:0
+Marin :  1veut aller vers Entity{x=6, y=0, type='oar'}
+Marin mouvement :  X:4  Y:0
+Marin :  2veut aller vers Entity{x=5, y=0, type='oar'}
+Marin mouvement :  X:3  Y:0
+Marin :  3veut aller vers Entity{x=4, y=0, type='oar'}
+Marin mouvement :  X:2  Y:-1
+Marin :  4veut aller vers Entity{x=1, y=0, type='oar'}
+Marin mouvement :  X:-2  Y:0
+Marin :  5veut aller vers Entity{x=3, y=0, type='oar'}
+Marin mouvement :  X:1  Y:0
+Marin :  6veut aller vers Entity{x=2, y=0, type='oar'}
+Marin mouvement :  X:1  Y:0
+Marin :  7veut aller vers Entity{x=7, y=3, type='oar'}
+Marin mouvement :  X:4  Y:0
+Marin :  8veut aller vers Entity{x=1, y=3, type='oar'}
+Marin mouvement :  X:-3  Y:1
+Marin :  9veut aller vers Entity{x=2, y=3, type='oar'}
+Marin mouvement :  X:-3  Y:0
+Marin :  10veut aller vers Entity{x=6, y=3, type='oar'}
+Marin mouvement :  X:2  Y:0
+Marin :  11veut aller vers Entity{x=5, y=3, type='oar'}
+Marin mouvement :  X:2  Y:0
+Marin :  12veut aller vers Entity{x=4, y=3, type='oar'}
+Marin mouvement :  X:3  Y:0
+Marin :  15veut aller vers Entity{x=3, y=3, type='oar'}
+Marin mouvement :  X:1  Y:0
+Prédiction :[165.0, -0.459, 141.42857142857142, -0.458, 117.85714285714286, -0.457, 94.28571428571429, -0.456, 70.71428571428571, -0.454, 47.142857142857146, -0.453, 23.571428571428573, -0.452]
+On tourne avec le gouvernail : -0.451
+size entities0
+NextRound
+Prédiction :[165.0, -0.007, 141.42857142857142, -0.007, 117.85714285714286, -0.007, 94.28571428571429, -0.007, 70.71428571428571, -0.007, 47.142857142857146, -0.006, 23.571428571428573, -0.006]
+On tourne avec le gouvernail : -0.006
+size entities1
+NextRound
+Calcule A Star : Avant A star on a nbcheckpo = 4
+On vient de set nb FauxCheck : 29
+Prédiction :[165.0, 1.015, 141.42857142857142, 0.904, 117.85714285714286, 0.809, 94.28571428571429, 0.729, 70.71428571428571, 0.662, 47.142857142857146, 0.604, 23.571428571428573, 0.554]
+On tourne avec le gouvernail : 0.512
+size entities1
+NextRound
+Calcule A Star : Avant A star on a nbcheckpo = 4
+On vient de set nb FauxCheck : 28
+Prédiction :[165.0, 1.406, 141.42857142857142, 1.196, 117.85714285714286, 1.015, 94.28571428571429, 0.868, 70.71428571428571, 0.749, 47.142857142857146, 0.655, 23.571428571428573, 0.579]
+On tourne avec le gouvernail : 0.518
+size entities1
+NextRound
+Calcule A Star : Avant A star on a nbcheckpo = 4
+On vient de set nb FauxCheck : 28
+Prédiction :[165.0, 1.556, 141.42857142857142, 1.394, 117.85714285714286, 1.241, 94.28571428571429, 1.102, 70.71428571428571, 0.98, 47.142857142857146, 0.875, 23.571428571428573, 0.786]
+On tourne avec le gouvernail : 0.71
+size entities1
+NextRound
+Calcule A Star : Avant A star on a nbcheckpo = 4
+On vient de set nb FauxCheck : 27
+Prédiction :[165.0, 0.003, 141.42857142857142, 0.002, 117.85714285714286, 0.001, 94.28571428571429, 0.001, 70.71428571428571, 0.001, 47.142857142857146, 0.001, 23.571428571428573, 0.001]
+On tourne avec le gouvernail : 0.001
+size entities2

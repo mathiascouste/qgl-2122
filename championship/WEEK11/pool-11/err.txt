@@ -1,0 +1,4 @@
+Apr 26, 2022 11:43:07 PM fr.unice.polytech.si3.qgl.merj.utils.ConsoleLog log
+SEVERE: No route found
+Apr 26, 2022 11:43:08 PM fr.unice.polytech.si3.qgl.merj.utils.ConsoleLog log
+SEVERE: No route found

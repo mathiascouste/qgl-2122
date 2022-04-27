@@ -1,0 +1,2118 @@
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -1.9653580660614276
+
+-------> Reef dans Direction <--------
+SeaEntitie{shape=Shape{shapeType=POLYGONE, orientation=0.0}, position=Position{x=4126.466753585396, y=1888.0208333333337, orientation=-0.7504915783575616}, type=REEF}
+true
+{"sailorId" : "2", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3037.8096479791434, y=2441.4062500000095, orientation=1.2915436464758039}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=3037.8096479791434, y=2441.4062500000095, orientation=1.2915436464758039}}
+, Checkpoint{Position{x=3146.2925865374623, y=3085.198399083011, orientation=0.0}}
+, Checkpoint{Position{x=2906.9880951777927, y=3930.9934177437162, orientation=0.0}}
+, Checkpoint{Position{x=3643.109688394565, y=4355.993417743716, orientation=0.0}}
+, Checkpoint{Position{x=5611.876950210364, y=2535.34968195785, orientation=0.0}}
+]
+----> Nouveau Checkpoint
+Checkpoint{Position{x=3146.2925865374623, y=3085.198399083011, orientation=0.0}}
+
+Rotation ---> 0.11231476776857563
+probleme ici Checkpoint{Position{x=2906.9880951777927, y=3930.9934177437162, orientation=0.0}}
+ -- Checkpoint{Position{x=3643.109688394565, y=4355.993417743716, orientation=0.0}}
+
+
+-------> change direc <--------
+false
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3146.2925865374623, y=3085.198399083011, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=3037.8096479791434, y=2441.4062500000095, orientation=1.2915436464758039}}
+, Checkpoint{Position{x=2857.2505047928544, y=3081.9758421415527, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+]
+----> Nouveau Checkpoint
+Checkpoint{Position{x=2857.2505047928544, y=3081.9758421415527, orientation=0.0}}
+
+Rotation ---> 0.553997182547199
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=2857.2505047928544, y=3081.9758421415527, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=3037.8096479791434, y=2441.4062500000095, orientation=1.2915436464758039}}
+, Checkpoint{Position{x=2857.2505047928544, y=3081.9758421415527, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+]
+Rotation ---> 0.553997182547199
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=2857.2505047928544, y=3081.9758421415527, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=3037.8096479791434, y=2441.4062500000095, orientation=1.2915436464758039}}
+, Checkpoint{Position{x=2857.2505047928544, y=3081.9758421415527, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+]
+Rotation ---> 0.08814942595298092
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=2857.2505047928544, y=3081.9758421415527, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=3037.8096479791434, y=2441.4062500000095, orientation=1.2915436464758039}}
+, Checkpoint{Position{x=2857.2505047928544, y=3081.9758421415527, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+]
+Rotation ---> 0.021201204090418146
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=2857.2505047928544, y=3081.9758421415527, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=3037.8096479791434, y=2441.4062500000095, orientation=1.2915436464758039}}
+, Checkpoint{Position{x=2857.2505047928544, y=3081.9758421415527, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+]
+Rotation ---> 0.009745653869848159
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=2857.2505047928544, y=3081.9758421415527, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=3037.8096479791434, y=2441.4062500000095, orientation=1.2915436464758039}}
+, Checkpoint{Position{x=2857.2505047928544, y=3081.9758421415527, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+]
+----> Nouveau Checkpoint
+Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+
+Rotation ---> 0.7221780190880411
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=3037.8096479791434, y=2441.4062500000095, orientation=1.2915436464758039}}
+, Checkpoint{Position{x=2857.2505047928544, y=3081.9758421415527, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+]
+Rotation ---> 0.13891434396407476
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=3037.8096479791434, y=2441.4062500000095, orientation=1.2915436464758039}}
+, Checkpoint{Position{x=2857.2505047928544, y=3081.9758421415527, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+]
+Rotation ---> 0.045940013137257374
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=3037.8096479791434, y=2441.4062500000095, orientation=1.2915436464758039}}
+, Checkpoint{Position{x=2857.2505047928544, y=3081.9758421415527, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+]
+----> Nouveau Checkpoint
+Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+
+Rotation ---> 1.1226930564848976
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=3037.8096479791434, y=2441.4062500000095, orientation=1.2915436464758039}}
+, Checkpoint{Position{x=2857.2505047928544, y=3081.9758421415527, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+]
+Rotation ---> 0.07159583420596816
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=3037.8096479791434, y=2441.4062500000095, orientation=1.2915436464758039}}
+, Checkpoint{Position{x=2857.2505047928544, y=3081.9758421415527, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+]
+Rotation ---> 0.008247890180683282
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=3037.8096479791434, y=2441.4062500000095, orientation=1.2915436464758039}}
+, Checkpoint{Position{x=2857.2505047928544, y=3081.9758421415527, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+]
+Rotation ---> 0.001231630726826971
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=3037.8096479791434, y=2441.4062500000095, orientation=1.2915436464758039}}
+, Checkpoint{Position{x=2857.2505047928544, y=3081.9758421415527, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+]
+Rotation ---> 2.6113291209384215E-4
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=3037.8096479791434, y=2441.4062500000095, orientation=1.2915436464758039}}
+, Checkpoint{Position{x=2857.2505047928544, y=3081.9758421415527, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+]
+Rotation ---> 9.543315404858532E-5
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=3037.8096479791434, y=2441.4062500000095, orientation=1.2915436464758039}}
+, Checkpoint{Position{x=2857.2505047928544, y=3081.9758421415527, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+]
+----> Nouveau Checkpoint
+Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+
+Rotation ---> 1.3396873969043739
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=3037.8096479791434, y=2441.4062500000095, orientation=1.2915436464758039}}
+, Checkpoint{Position{x=2857.2505047928544, y=3081.9758421415527, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+]
+Rotation ---> 0.05896796450363351
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=3037.8096479791434, y=2441.4062500000095, orientation=1.2915436464758039}}
+, Checkpoint{Position{x=2857.2505047928544, y=3081.9758421415527, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+]
+Rotation ---> 0.0018056212734950394
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=3037.8096479791434, y=2441.4062500000095, orientation=1.2915436464758039}}
+, Checkpoint{Position{x=2857.2505047928544, y=3081.9758421415527, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+]
+Rotation ---> 5.887588795727705E-5
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=3037.8096479791434, y=2441.4062500000095, orientation=1.2915436464758039}}
+, Checkpoint{Position{x=2857.2505047928544, y=3081.9758421415527, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+]
+Rotation ---> 5.224664676682922E-4
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=3037.8096479791434, y=2441.4062500000095, orientation=1.2915436464758039}}
+, Checkpoint{Position{x=2857.2505047928544, y=3081.9758421415527, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+]
+Rotation ---> 7.320497118875613E-4
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=3037.8096479791434, y=2441.4062500000095, orientation=1.2915436464758039}}
+, Checkpoint{Position{x=2857.2505047928544, y=3081.9758421415527, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+]
+Rotation ---> 7.446143750836631E-4
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=3037.8096479791434, y=2441.4062500000095, orientation=1.2915436464758039}}
+, Checkpoint{Position{x=2857.2505047928544, y=3081.9758421415527, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+]
+Rotation ---> 7.502400043248869E-4
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=3037.8096479791434, y=2441.4062500000095, orientation=1.2915436464758039}}
+, Checkpoint{Position{x=2857.2505047928544, y=3081.9758421415527, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+]
+Rotation ---> 7.558709208784764E-4
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=3037.8096479791434, y=2441.4062500000095, orientation=1.2915436464758039}}
+, Checkpoint{Position{x=2857.2505047928544, y=3081.9758421415527, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+]
+Rotation ---> 7.617975709436342E-4
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=3037.8096479791434, y=2441.4062500000095, orientation=1.2915436464758039}}
+, Checkpoint{Position{x=2857.2505047928544, y=3081.9758421415527, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+]
+Rotation ---> 7.680629307474929E-4
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=3037.8096479791434, y=2441.4062500000095, orientation=1.2915436464758039}}
+, Checkpoint{Position{x=2857.2505047928544, y=3081.9758421415527, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+]
+Rotation ---> 7.747053681015359E-4
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=3037.8096479791434, y=2441.4062500000095, orientation=1.2915436464758039}}
+, Checkpoint{Position{x=2857.2505047928544, y=3081.9758421415527, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+]
+Rotation ---> 7.817693640187473E-4
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=3037.8096479791434, y=2441.4062500000095, orientation=1.2915436464758039}}
+, Checkpoint{Position{x=2857.2505047928544, y=3081.9758421415527, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+]
+Rotation ---> 7.89307461613431E-4
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=3037.8096479791434, y=2441.4062500000095, orientation=1.2915436464758039}}
+, Checkpoint{Position{x=2857.2505047928544, y=3081.9758421415527, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+]
+Rotation ---> 7.973823267294344E-4
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=3037.8096479791434, y=2441.4062500000095, orientation=1.2915436464758039}}
+, Checkpoint{Position{x=2857.2505047928544, y=3081.9758421415527, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+]
+Rotation ---> 8.060694756667486E-4
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=3037.8096479791434, y=2441.4062500000095, orientation=1.2915436464758039}}
+, Checkpoint{Position{x=2857.2505047928544, y=3081.9758421415527, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+]
+Rotation ---> 8.154609654630329E-4
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=3037.8096479791434, y=2441.4062500000095, orientation=1.2915436464758039}}
+, Checkpoint{Position{x=2857.2505047928544, y=3081.9758421415527, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+]
+Rotation ---> 8.256705029686673E-4
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=3037.8096479791434, y=2441.4062500000095, orientation=1.2915436464758039}}
+, Checkpoint{Position{x=2857.2505047928544, y=3081.9758421415527, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+]
+Rotation ---> 8.368406459264843E-4
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=3037.8096479791434, y=2441.4062500000095, orientation=1.2915436464758039}}
+, Checkpoint{Position{x=2857.2505047928544, y=3081.9758421415527, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+]
+Rotation ---> 8.491532270089586E-4
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=3037.8096479791434, y=2441.4062500000095, orientation=1.2915436464758039}}
+, Checkpoint{Position{x=2857.2505047928544, y=3081.9758421415527, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+]
+Rotation ---> 8.628448623738683E-4
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=3037.8096479791434, y=2441.4062500000095, orientation=1.2915436464758039}}
+, Checkpoint{Position{x=2857.2505047928544, y=3081.9758421415527, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+]
+Rotation ---> 8.782307931374245E-4
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=3037.8096479791434, y=2441.4062500000095, orientation=1.2915436464758039}}
+, Checkpoint{Position{x=2857.2505047928544, y=3081.9758421415527, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+]
+Rotation ---> 8.957430052357607E-4
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=3037.8096479791434, y=2441.4062500000095, orientation=1.2915436464758039}}
+, Checkpoint{Position{x=2857.2505047928544, y=3081.9758421415527, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+]
+Rotation ---> 9.159940429901425E-4
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=3037.8096479791434, y=2441.4062500000095, orientation=1.2915436464758039}}
+, Checkpoint{Position{x=2857.2505047928544, y=3081.9758421415527, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+]
+Rotation ---> 9.398901058329523E-4
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=3037.8096479791434, y=2441.4062500000095, orientation=1.2915436464758039}}
+, Checkpoint{Position{x=2857.2505047928544, y=3081.9758421415527, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+]
+Rotation ---> 9.688461546332183E-4
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=3037.8096479791434, y=2441.4062500000095, orientation=1.2915436464758039}}
+, Checkpoint{Position{x=2857.2505047928544, y=3081.9758421415527, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+]
+Rotation ---> 0.0010052340383428504
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=3037.8096479791434, y=2441.4062500000095, orientation=1.2915436464758039}}
+, Checkpoint{Position{x=2857.2505047928544, y=3081.9758421415527, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+]
+Rotation ---> 0.0010534368796357718
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=3037.8096479791434, y=2441.4062500000095, orientation=1.2915436464758039}}
+, Checkpoint{Position{x=2857.2505047928544, y=3081.9758421415527, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+]
+Rotation ---> 0.001122796103749213
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=3037.8096479791434, y=2441.4062500000095, orientation=1.2915436464758039}}
+, Checkpoint{Position{x=2857.2505047928544, y=3081.9758421415527, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+]
+Rotation ---> 0.0012383651038306853
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=3037.8096479791434, y=2441.4062500000095, orientation=1.2915436464758039}}
+, Checkpoint{Position{x=2857.2505047928544, y=3081.9758421415527, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+]
+----> Nouveau Checkpoint
+Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+
+Rotation ---> 0.7290671966681016
+
+-------> Reef dans Direction <--------
+SeaEntitie{shape=Shape{shapeType=POLYGONE, orientation=0.0}, position=Position{x=3911.3428943937456, y=566.4062500000032, orientation=2.356194490192345}, type=REEF}
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3702.4214132678344, y=414.74273962782365, orientation=5.479587667171196}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=3702.4214132678344, y=414.74273962782365, orientation=5.479587667171196}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+]
+----> Nouveau Checkpoint
+Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+
+Rotation ---> -1.8719441074191219
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=3702.4214132678344, y=414.74273962782365, orientation=5.479587667171196}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+]
+----> Nouveau Checkpoint
+Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+
+Rotation ---> 1.7891708654330654
+
+-------> Reef dans Direction <--------
+SeaEntitie{shape=Shape{shapeType=POLYGONE, orientation=0.0}, position=Position{x=3911.3428943937456, y=566.4062500000032, orientation=2.356194490192345}, type=REEF}
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3802.6720101794967, y=381.75816362311264, orientation=4.4323901159746635}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=3802.6720101794967, y=381.75816362311264, orientation=4.4323901159746635}}
+, Checkpoint{Position{x=4175.932697768777, y=88.73509862451937, orientation=0.0}}
+, Checkpoint{Position{x=4746.753091018713, y=338.7350986245192, orientation=0.0}}
+]
+----> Nouveau Checkpoint
+Checkpoint{Position{x=4175.932697768777, y=88.73509862451937, orientation=0.0}}
+
+Rotation ---> -0.6126295633483273
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=4175.932697768777, y=88.73509862451937, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=3802.6720101794967, y=381.75816362311264, orientation=4.4323901159746635}}
+, Checkpoint{Position{x=4175.932697768777, y=88.73509862451937, orientation=0.0}}
+, Checkpoint{Position{x=4746.753091018713, y=338.7350986245192, orientation=0.0}}
+]
+Rotation ---> -0.16373686178989966
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=4175.932697768777, y=88.73509862451937, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=3802.6720101794967, y=381.75816362311264, orientation=4.4323901159746635}}
+, Checkpoint{Position{x=4175.932697768777, y=88.73509862451937, orientation=0.0}}
+, Checkpoint{Position{x=4746.753091018713, y=338.7350986245192, orientation=0.0}}
+]
+Rotation ---> -0.06448296065932735
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 0.0566145712072377
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 0.003320234734853683
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 2.2037013001630773E-4
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 1.6839609021691848E-5
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 1.516232578199772E-6
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 1.6614386868368802E-7
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 2.3250528773111068E-8
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 4.500981892752165E-9
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> 1.412982848780775E-9
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+----> Nouveau Checkpoint
+Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+
+Rotation ---> 2.2890918440926846
+
+-------> Reef dans Direction <--------
+SeaEntitie{shape=Shape{shapeType=POLYGONE, orientation=0.0}, position=Position{x=4126.466753585396, y=1888.0208333333337, orientation=-0.7504915783575616}, type=REEF}
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=5668.935764009921, y=255.296579700512, orientation=0.05100598887040819}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=5668.935764009921, y=255.296579700512, orientation=0.05100598887040819}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+]
+----> Nouveau Checkpoint
+Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+
+Rotation ---> 3.1031315266646695
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=5668.935764009921, y=255.296579700512, orientation=0.05100598887040819}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+]
+Rotation ---> 0.7759374155945746
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=5668.935764009921, y=255.296579700512, orientation=0.05100598887040819}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+]
+Rotation ---> 0.03174696142819933
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=5668.935764009921, y=255.296579700512, orientation=0.05100598887040819}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+]
+Rotation ---> 0.001493732558921046
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=5668.935764009921, y=255.296579700512, orientation=0.05100598887040819}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+]
+Rotation ---> 7.75101058669847E-5
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=5668.935764009921, y=255.296579700512, orientation=0.05100598887040819}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+]
+Rotation ---> 4.482619194057236E-6
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=5668.935764009921, y=255.296579700512, orientation=0.05100598887040819}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+]
+Rotation ---> 2.927701001631533E-7
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=5668.935764009921, y=255.296579700512, orientation=0.05100598887040819}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+]
+Rotation ---> 2.1961810148241057E-8
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=5668.935764009921, y=255.296579700512, orientation=0.05100598887040819}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+]
+Rotation ---> 1.9348052049394937E-9
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=5668.935764009921, y=255.296579700512, orientation=0.05100598887040819}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+]
+Rotation ---> 2.0646284681902216E-10
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=5668.935764009921, y=255.296579700512, orientation=0.05100598887040819}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+]
+Rotation ---> 2.7960300741369792E-11
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=5668.935764009921, y=255.296579700512, orientation=0.05100598887040819}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+]
+Rotation ---> 5.151434834260726E-12
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=5668.935764009921, y=255.296579700512, orientation=0.05100598887040819}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+]
+Rotation ---> 1.5512036100062687E-12
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=5668.935764009921, y=255.296579700512, orientation=0.05100598887040819}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+]
+----> Nouveau Checkpoint
+Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+
+Rotation ---> -0.8291427808944833
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=5668.935764009921, y=255.296579700512, orientation=0.05100598887040819}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+]
+Rotation ---> -0.06814516797998449
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=5668.935764009921, y=255.296579700512, orientation=0.05100598887040819}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+]
+Rotation ---> -0.0029833779828569718
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=5668.935764009921, y=255.296579700512, orientation=0.05100598887040819}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+]
+Rotation ---> -0.001063015301145942
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=5668.935764009921, y=255.296579700512, orientation=0.05100598887040819}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+]
+Rotation ---> -0.0011463529805646466
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=5668.935764009921, y=255.296579700512, orientation=0.05100598887040819}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+]
+Rotation ---> -0.0013444939464180017
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=5668.935764009921, y=255.296579700512, orientation=0.05100598887040819}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+]
+Rotation ---> -0.0016165338813016739
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=5668.935764009921, y=255.296579700512, orientation=0.05100598887040819}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+]
+Rotation ---> -0.002002643793490133
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=5668.935764009921, y=255.296579700512, orientation=0.05100598887040819}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+]
+Rotation ---> -0.0025854809058247774
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=5668.935764009921, y=255.296579700512, orientation=0.05100598887040819}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+]
+Rotation ---> -0.0035469490787907176
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=5668.935764009921, y=255.296579700512, orientation=0.05100598887040819}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+]
+Rotation ---> -0.005367782931200438
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=5668.935764009921, y=255.296579700512, orientation=0.05100598887040819}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+]
+Rotation ---> -0.008251163008978324
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=5668.935764009921, y=255.296579700512, orientation=0.05100598887040819}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+]
+Rotation ---> -0.0026074079912605796
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=5668.935764009921, y=255.296579700512, orientation=0.05100598887040819}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+]
+----> Nouveau Checkpoint
+Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+
+Rotation ---> -1.2500511938185102
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=5668.935764009921, y=255.296579700512, orientation=0.05100598887040819}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+]
+Rotation ---> -0.022649402308964173
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=5668.935764009921, y=255.296579700512, orientation=0.05100598887040819}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+]
+Rotation ---> -0.002607558949087929
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=5668.935764009921, y=255.296579700512, orientation=0.05100598887040819}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+]
+Rotation ---> -3.888687429296489E-4
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=5668.935764009921, y=255.296579700512, orientation=0.05100598887040819}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+]
+Rotation ---> -8.229508340384939E-5
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=5668.935764009921, y=255.296579700512, orientation=0.05100598887040819}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+]
+Rotation ---> -2.9978909373284957E-5
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[Checkpoint{Position{x=5668.935764009921, y=255.296579700512, orientation=0.05100598887040819}}
+, Checkpoint{Position{x=3775.9326977687765, y=338.73509862451937, orientation=0.0}}
+, Checkpoint{Position{x=1783.9008533042308, y=2540.0941039962236, orientation=0.0}}
+, Checkpoint{Position{x=2358.781221922697, y=3314.4158860989373, orientation=0.0}}
+]
+----> Nouveau Checkpoint
+Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+
+Rotation ---> -1.3996436810816058
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -0.002937193154496809
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -3.66889369375456E-4
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -6.088984357832672E-5
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}
+{"x":6,"y":2,"type":"sail","openned":false}
+{"x":3,"y":2,"type":"sail","openned":false}
+
+----> Objectif <----
+Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+
+
+----> List RealCheckpoints <----
+[Checkpoint{Position{x=5769.230769230773, y=260.41666666666896, orientation=0.0}}
+, Checkpoint{Position{x=3148.631029986967, y=2858.0729166666674, orientation=0.0}}
+]
+
+----> List FictionalCheckpoints <----
+[]
+Rotation ---> -1.5052135585169601E-5
+true
+{"sailorId" : "3", "type" : "USE_WATCH"}

@@ -1,0 +1,100 @@
+Init game input: {"goal":{"mode":"REGATTA","checkpoints":[{"position":{"x":5769.230769230773,"y":260.41666666666896,"orientation":0.0},"shape":{"type":"circle","radius":200.0}},{"position":{"x":3148.6
+Next round input: {"ship":{"type":"ship","position":{"x":3037.8096479791434,"y":2441.4062500000095,"orientation":1.2915436464758039},"name":"d3","deck":{"width":5,"length":10},"entities":[{"x":1,"y":4
+Next round1
+Marin{id=17, x=3, y=2, name='Luffy Teach'} move => Marin{id=17, x=8, y=2, name='Luffy Teach'}
+Marin{id=17, x=8, y=2, name='Luffy Teach'} move => Marin{id=17, x=6, y=2, name='Luffy Teach'}
+Marin{id=19, x=3, y=4, name='Jack Teach'} move => Marin{id=19, x=4, y=4, name='Jack Teach'}
+Marin{id=14, x=2, y=4, name='Jack Pouce'} move => Marin{id=14, x=5, y=4, name='Jack Pouce'}
+Marin{id=18, x=3, y=3, name='Tom Pouce'} move => Marin{id=18, x=6, y=4, name='Tom Pouce'}
+Marin{id=9, x=1, y=4, name='Edward Teach'} move => Marin{id=9, x=6, y=4, name='Edward Teach'}
+Marin{id=13, x=2, y=3, name='Tom Pouce'} move => Marin{id=13, x=6, y=4, name='Tom Pouce'}
+Marin{id=21, x=4, y=1, name='Tom Pouce'} move => Marin{id=21, x=6, y=4, name='Tom Pouce'}
+Marin{id=20, x=4, y=0, name='Tom Pouce'} move => Marin{id=20, x=5, y=0, name='Tom Pouce'}
+Marin{id=15, x=3, y=0, name='Tom Teach'} move => Marin{id=15, x=6, y=0, name='Tom Teach'}
+Marin{id=10, x=2, y=0, name='Jack Teach'} move => Marin{id=10, x=7, y=0, name='Jack Teach'}
+Marin{id=16, x=3, y=1, name='Edward Pouce'} move => Marin{id=16, x=7, y=0, name='Edward Pouce'}
+Marin{id=5, x=1, y=0, name='Edward Teach'} move => Marin{id=5, x=6, y=0, name='Edward Teach'}
+Marin{id=12, x=2, y=2, name='Jack Teach'} move => Marin{id=12, x=7, y=2, name='Jack Teach'}
+Marin{id=7, x=1, y=2, name='Edward Teach'} move => Marin{id=7, x=3, y=2, name='Edward Teach'}
+Next round input: {"ship":{"type":"ship","position":{"x":3037.8096479791434,"y":2441.4062500000095,"orientation":1.2915436464758039},"name":"d3","deck":{"width":5,"length":10},"entities":[{"x":1,"y":4
+Next round2
+Marin{id=12, x=7, y=2, name='Jack Teach'} move => Marin{id=12, x=9, y=2, name='Jack Teach'}
+Marin{id=4, x=0, y=4, name='Jack Pouce'} move => Marin{id=4, x=1, y=4, name='Jack Pouce'}
+Marin{id=8, x=1, y=3, name='Luffy Teach'} move => Marin{id=8, x=2, y=4, name='Luffy Teach'}
+Marin{id=9, x=6, y=4, name='Edward Teach'} move => Marin{id=9, x=3, y=4, name='Edward Teach'}
+Marin{id=13, x=6, y=4, name='Tom Pouce'} move => Marin{id=13, x=7, y=4, name='Tom Pouce'}
+Marin{id=21, x=6, y=4, name='Tom Pouce'} move => Marin{id=21, x=8, y=4, name='Tom Pouce'}
+Marin{id=16, x=7, y=0, name='Edward Pouce'} move => Marin{id=16, x=8, y=4, name='Edward Pouce'}
+Marin{id=0, x=0, y=0, name='Luffy Pouce'} move => Marin{id=0, x=1, y=0, name='Luffy Pouce'}
+Marin{id=11, x=2, y=1, name='Jack Pouce'} move => Marin{id=11, x=2, y=0, name='Jack Pouce'}
+Marin{id=5, x=6, y=0, name='Edward Teach'} move => Marin{id=5, x=3, y=0, name='Edward Teach'}
+Marin{id=6, x=1, y=1, name='Luffy Teach'} move => Marin{id=6, x=4, y=0, name='Luffy Teach'}
+Marin{id=1, x=0, y=1, name='Jack Pouce'} move => Marin{id=1, x=4, y=0, name='Jack Pouce'}
+Marin{id=2, x=0, y=2, name='Jack Teach'} move => Marin{id=2, x=3, y=0, name='Jack Teach'}
+Next round input: {"ship":{"type":"ship","position":{"x":3037.8096479791434,"y":2441.4062500000095,"orientation":1.2915436464758039},"name":"d3","deck":{"width":5,"length":10},"entities":[{"x":1,"y":4
+Next round3
+Marin{id=3, x=0, y=3, name='Edward Teach'} move => Marin{id=3, x=0, y=2, name='Edward Teach'}
+Marin{id=16, x=8, y=4, name='Edward Pouce'} move => Marin{id=16, x=9, y=4, name='Edward Pouce'}
+Marin{id=1, x=4, y=0, name='Jack Pouce'} move => Marin{id=1, x=8, y=0, name='Jack Pouce'}
+Marin{id=2, x=3, y=0, name='Jack Teach'} move => Marin{id=2, x=8, y=0, name='Jack Teach'}
+Next round input: {"ship":{"type":"ship","position":{"x":3037.8096479791434,"y":2441.4062500000095,"orientation":1.2915436464758039},"name":"d3","deck":{"width":5,"length":10},"entities":[{"x":1,"y":4
+Next round4
+Marin{id=2, x=8, y=0, name='Jack Teach'} move => Marin{id=2, x=9, y=0, name='Jack Teach'}
+Marin{id=12, x=9, y=2, name='Jack Teach'} use rudder with rotation of 0.553997182547199
+Marin{id=0, x=1, y=0, name='Luffy Pouce'} active Oar
+Marin{id=1, x=8, y=0, name='Jack Pouce'} active Oar
+Marin{id=2, x=9, y=0, name='Jack Teach'} active Oar
+Marin{id=5, x=3, y=0, name='Edward Teach'} active Oar
+Marin{id=6, x=4, y=0, name='Luffy Teach'} active Oar
+Marin{id=10, x=7, y=0, name='Jack Teach'} active Oar
+Marin{id=11, x=2, y=0, name='Jack Pouce'} active Oar
+Marin{id=15, x=6, y=0, name='Tom Teach'} active Oar
+Marin{id=20, x=5, y=0, name='Tom Pouce'} active Oar
+Marin{id=4, x=1, y=4, name='Jack Pouce'} active Oar
+Marin{id=8, x=2, y=4, name='Luffy Teach'} active Oar
+Marin{id=9, x=3, y=4, name='Edward Teach'} active Oar
+Marin{id=13, x=7, y=4, name='Tom Pouce'} active Oar
+Marin{id=14, x=5, y=4, name='Jack Pouce'} active Oar
+Marin{id=16, x=9, y=4, name='Edward Pouce'} active Oar
+Marin{id=18, x=6, y=4, name='Tom Pouce'} active Oar
+Marin{id=19, x=4, y=4, name='Jack Teach'} active Oar
+Marin{id=21, x=8, y=4, name='Tom Pouce'} active Oar
+    - Rotation needed : 0.553997182547199
+    - Marin sur rames : true
+    - Marin sur rames à droite : [Marin{id=4, x=1, y=4, name='Jack Pouce'}, Marin{id=8, x=2, y=4, name='Luffy Teach'}, Marin{id=9, x=3, y=4, name='Edward Teach'}, Marin{id=13, x=7, y=4, name='Tom Pouc
+    - Marin sur rames à gauche : [Marin{id=0, x=1, y=0, name='Luffy Pouce'}, Marin{id=1, x=8, y=0, name='Jack Pouce'}, Marin{id=2, x=9, y=0, name='Jack Teach'}, Marin{id=5, x=3, y=0, name='Edward Teac
+    - Marin sur gouvernail : Marin{id=12, x=9, y=2, name='Jack Teach'}
+    - Marin qu'on va activé à droite : 9
+    - Marin qu'on va activé à gauche : 9
+    - Rotation du gouvernail : 0.553997182547199
+    - Marin qui doivent être activé à droite : 9.0
+    - Marin qui doivent être activé à gauche : 9.0
+Next round input: {"ship":{"type":"ship","position":{"x":3038.6280576171944,"y":2604.3024565511955,"orientation":1.8455408290230095},"name":"d3","deck":{"width":5,"length":10},"entities":[{"x":1,"y":4
+Next round5
+Marin{id=12, x=9, y=2, name='Jack Teach'} use rudder with rotation of 0.08814942595298092
+Marin{id=0, x=1, y=0, name='Luffy Pouce'} active Oar
+Marin{id=1, x=8, y=0, name='Jack Pouce'} active Oar
+Marin{id=2, x=9, y=0, name='Jack Teach'} active Oar
+Marin{id=5, x=3, y=0, name='Edward Teach'} active Oar
+Marin{id=6, x=4, y=0, name='Luffy Teach'} active Oar
+Marin{id=10, x=7, y=0, name='Jack Teach'} active Oar
+Marin{id=11, x=2, y=0, name='Jack Pouce'} active Oar
+Marin{id=15, x=6, y=0, name='Tom Teach'} active Oar
+Marin{id=20, x=5, y=0, name='Tom Pouce'} active Oar
+Marin{id=4, x=1, y=4, name='Jack Pouce'} active Oar
+Marin{id=8, x=2, y=4, name='Luffy Teach'} active Oar
+Marin{id=9, x=3, y=4, name='Edward Teach'} active Oar
+Marin{id=13, x=7, y=4, name='Tom Pouce'} active Oar
+Marin{id=14, x=5, y=4, name='Jack Pouce'} active Oar
+Marin{id=16, x=9, y=4, name='Edward Pouce'} active Oar
+Marin{id=18, x=6, y=4, name='Tom Pouce'} active Oar
+Marin{id=19, x=4, y=4, name='Jack Teach'} active Oar
+Marin{id=21, x=8, y=4, name='Tom Pouce'} active Oar
+    - Rotation needed : 0.08814942595298092
+    - Marin sur rames : true
+    - Marin sur rames à droite : [Marin{id=4, x=1, y=4, name='Jack Pouce'}, Marin{id=8, x=2, y=4, name='Luffy Teach'}, Marin{id=9, x=3, y=4, name='Edward Teach'}, Marin{id=13, x=7, y=4, name='Tom Pouc
+    - Marin sur rames à gauche : [Marin{id=0, x=1, y=0, name='Luffy Pouce'}, Marin{id=1, x=8, y=0, name='Jack Pouce'}, Marin{id=2, x=9, y=0, name='Jack Teach'}, Marin{id=5, x=3, y=0, name='Edward Teac
+    - Marin sur gouvernail : Marin{id=12, x=9, y=2, name='Jack Teach'}
+    - Marin qu'on va activé à droite : 9
+    - Marin qu'on va activé à gauche : 9
+    - Rotation du gouvernail : 0.08814942595298092
