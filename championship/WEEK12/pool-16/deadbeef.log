@@ -1,0 +1,100 @@
+[INFO] Init game input: {"goal":{"mode":"REGATTA","checkpoints":[{"position":{"x":5769.230769230773,"y":260.41666666666896,"orientation":0.0},"shape":{"type":"circle","radius":200.0}},{"position":{"x"
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":3037.8096479791434,"y":2441.4062500000095,"orientation":1.2915436464758039},"name":"deadbeef","deck":{"width":5,"length":10},"entities":
+[INFO] Current turn: 0
+[INFO] [{"sailorId":17,"xdistance":5,"ydistance":0,"type":"MOVING"},{"sailorId":18,"xdistance":1,"ydistance":1,"type":"MOVING"},{"sailorId":21,"xdistance":1,"ydistance":-1,"type":"MOVING"},{"sailorId"
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":3077.6468593396235,"y":2523.4477487427625,"orientation":0.9424777960769375},"name":"deadbeef","deck":{"width":5,"length":10},"entities":
+[INFO] Current turn: 1
+[INFO] [{"sailorId":17,"xdistance":1,"ydistance":0,"type":"MOVING"},{"sailorId":8,"xdistance":0,"ydistance":1,"type":"MOVING"},{"sailorId":11,"xdistance":-1,"ydistance":0,"type":"MOVING"},{"sailorId":
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":3156.194553264831,"y":2657.7360765204103,"orientation":1.142603792308408},"name":"deadbeef","deck":{"width":5,"length":10},"entities":[{
+[INFO] Current turn: 2
+[INFO] [{"sailorId":17,"rotation":-0.1518251740574515,"type":"TURN"},{"sailorId":0,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":10,"type":"OAR"},{"sailorId":11,"ty
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":3219.3019028015046,"y":2800.215713121119,"orientation":1.1653115434503785},"name":"deadbeef","deck":{"width":5,"length":10},"entities":[
+[INFO] Current turn: 3
+[INFO] [{"sailorId":17,"rotation":-0.30410189093256523,"type":"TURN"},{"sailorId":0,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":10,"type":"OAR"},{"sailorId":11,"t
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":3289.774763671001,"y":2939.0813044888914,"orientation":1.0357425777172495},"name":"deadbeef","deck":{"width":5,"length":10},"entities":[
+[INFO] Current turn: 4
+[INFO] [{"sailorId":17,"rotation":0.7853981533974482,"type":"TURN"},{"sailorId":0,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":10,"type":"OAR"},{"sailorId":11,"typ
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":3275.366415506712,"y":3066.1593589399017,"orientation":2.3447395067130032},"name":"deadbeef","deck":{"width":5,"length":10},"entities":[
+[INFO] Current turn: 5
+[INFO] [{"sailorId":17,"rotation":-0.432838563072899,"type":"TURN"},{"sailorId":0,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":10,"type":"OAR"},{"sailorId":11,"typ
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":3181.805577098419,"y":3190.238719917691,"orientation":2.086433868839546},"name":"deadbeef","deck":{"width":5,"length":10},"entities":[{"
+[INFO] Current turn: 6
+[INFO] [{"sailorId":17,"rotation":-0.3273258574664046,"type":"TURN"},{"sailorId":0,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":10,"type":"OAR"},{"sailorId":11,"ty
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":3115.4938411366215,"y":3331.0917603085413,"orientation":1.9336409365725697},"name":"deadbeef","deck":{"width":5,"length":10},"entities":
+[INFO] Current turn: 7
+[INFO] [{"sailorId":17,"rotation":-0.4184176544550185,"type":"TURN"},{"sailorId":0,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":10,"type":"OAR"},{"sailorId":11,"ty
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":3078.2233015266656,"y":3482.005038977192,"orientation":1.6897562073169863},"name":"deadbeef","deck":{"width":5,"length":10},"entities":[
+[INFO] Current turn: 8
+[INFO] [{"sailorId":17,"rotation":0.7853981533974482,"type":"TURN"},{"sailorId":0,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":10,"type":"OAR"},{"sailorId":11,"typ
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":2994.300790567882,"y":3606.2339037097577,"orientation":2.6496872859138585},"name":"deadbeef","deck":{"width":5,"length":10},"entities":[
+[INFO] Current turn: 9
+[INFO] [{"sailorId":17,"rotation":0.2270845249064263,"type":"TURN"},{"sailorId":0,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":10,"type":"OAR"},{"sailorId":11,"typ
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":2846.1140446012564,"y":3650.956239780842,"orientation":3.0513047360197096},"name":"deadbeef","deck":{"width":5,"length":10},"entities":[
+[INFO] Current turn: 10
+[INFO] [{"sailorId":17,"rotation":0.6744707584618403,"type":"TURN"},{"sailorId":0,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":10,"type":"OAR"},{"sailorId":11,"typ
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":2703.0751431728686,"y":3601.9668284544273,"orientation":3.900308419680963},"name":"deadbeef","deck":{"width":5,"length":10},"entities":[
+[INFO] Current turn: 11
+[INFO] [{"sailorId":17,"rotation":0.0854274714382722,"type":"TURN"},{"sailorId":0,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":10,"type":"OAR"},{"sailorId":11,"typ
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":2604.9536029496217,"y":3481.4688862878124,"orientation":4.160268816318683},"name":"deadbeef","deck":{"width":5,"length":10},"entities":[
+[INFO] Current turn: 12
+[INFO] [{"sailorId":17,"rotation":-0.002464751401045932,"type":"TURN"},{"sailorId":0,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":10,"type":"OAR"},{"sailorId":11,"
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":2534.8899041995046,"y":3342.489552279911,"orientation":4.332336990117084},"name":"deadbeef","deck":{"width":5,"length":10},"entities":[{
+[INFO] Current turn: 13
+[INFO] [{"sailorId":17,"rotation":-0.3123327056133,"type":"TURN"},{"sailorId":0,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":10,"type":"OAR"},{"sailorId":11,"type"
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":2467.405047374622,"y":3202.1634213413804,"orientation":4.194537209703223},"name":"deadbeef","deck":{"width":5,"length":10},"entities":[{
+[INFO] Current turn: 14
+[INFO] [{"sailorId":17,"rotation":-0.22013773916783713,"type":"TURN"},{"sailorId":0,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":10,"type":"OAR"},{"sailorId":11,"t
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":2387.2355168465724,"y":3068.549552149472,"orientation":4.14893239573482},"name":"deadbeef","deck":{"width":5,"length":10},"entities":[{"
+[INFO] Current turn: 15
+[INFO] [{"sailorId":17,"rotation":-0.21996299668289576,"type":"TURN"},{"sailorId":0,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":10,"type":"OAR"},{"sailorId":11,"t
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":2301.0691887779776,"y":2938.7219135016326,"orientation":4.103502324251344},"name":"deadbeef","deck":{"width":5,"length":10},"entities":[
+[INFO] Current turn: 16
+[INFO] [{"sailorId":17,"rotation":-0.2331813938067755,"type":"TURN"},{"sailorId":0,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":10,"type":"OAR"},{"sailorId":11,"ty
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":2208.280012429604,"y":2813.5530782203055,"orientation":4.044853855643974},"name":"deadbeef","deck":{"width":5,"length":10},"entities":[{
+[INFO] Current turn: 17
+[INFO] [{"sailorId":17,"rotation":-0.2599344537077652,"type":"TURN"},{"sailorId":0,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":10,"type":"OAR"},{"sailorId":11,"ty
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":2106.7560268583643,"y":2695.391520493887,"orientation":3.959452327135664},"name":"deadbeef","deck":{"width":5,"length":10},"entities":[{
+[INFO] Current turn: 18
+[INFO] [{"sailorId":17,"rotation":-0.3274910520173951,"type":"TURN"},{"sailorId":0,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":10,"type":"OAR"},{"sailorId":11,"ty
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":1992.015624577492,"y":2590.1709742347475,"orientation":3.806494200317716},"name":"deadbeef","deck":{"width":5,"length":10},"entities":[{
+[INFO] Current turn: 19
+[INFO] [{"sailorId":17,"rotation":0.7853981533974482,"type":"TURN"},{"sailorId":0,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":10,"type":"OAR"},{"sailorId":11,"typ
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":1972.0624178205042,"y":2475.0011808582467,"orientation":5.290024054512892},"name":"deadbeef","deck":{"width":5,"length":10},"entities":[
+[INFO] Current turn: 20
+[INFO] [{"sailorId":17,"rotation":-0.12462598550724749,"type":"TURN"},{"sailorId":0,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":10,"type":"OAR"},{"sailorId":11,"t
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":2068.370901119792,"y":2334.9391606159643,"orientation":5.339930994205049},"name":"deadbeef","deck":{"width":5,"length":10},"entities":[{
+[INFO] Current turn: 21
+[INFO] [{"sailorId":17,"rotation":-0.18804900397309482,"type":"TURN"},{"sailorId":0,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":10,"type":"OAR"},{"sailorId":11,"t
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":2167.483136330883,"y":2196.359044951062,"orientation":5.3264149154314255},"name":"deadbeef","deck":{"width":5,"length":10},"entities":[{
+[INFO] Current turn: 22
+[INFO] [{"sailorId":17,"rotation":-0.19256730218176993,"type":"TURN"},{"sailorId":0,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":10,"type":"OAR"},{"sailorId":11,"t
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":2261.6115451265714,"y":2059.198391419901,"orientation":5.308380538449069},"name":"deadbeef","deck":{"width":5,"length":10},"entities":[{
+[INFO] Current turn: 23
+[INFO] [{"sailorId":17,"rotation":-0.19386323711957545,"type":"TURN"},{"sailorId":0,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":10,"type":"OAR"},{"sailorId":11,"t
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":2303.402873633526,"y":1971.8308520301116,"orientation":5.289050226528951},"name":"deadbeef","deck":{"width":5,"length":10},"entities":[{
+[INFO] Current turn: 24
+[INFO] [{"sailorId":17,"rotation":-0.17748589912513837,"type":"TURN"},{"sailorId":0,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":10,"type":"OAR"},{"sailorId":11,"t
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":2343.475611931536,"y":1883.6125932124467,"orientation":5.28609725260321},"name":"deadbeef","deck":{"width":5,"length":10},"entities":[{"
+[INFO] Current turn: 25
+[INFO] [{"sailorId":17,"rotation":-0.17648936754913375,"type":"TURN"},{"sailorId":0,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":10,"type":"OAR"},{"sailorId":11,"t
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":2383.170408991929,"y":1795.211411573989,"orientation":5.284140810253484},"name":"deadbeef","deck":{"width":5,"length":10},"entities":[{"
+[INFO] Current turn: 26
+[INFO] [{"sailorId":17,"rotation":-0.1764571616284027,"type":"TURN"},{"sailorId":0,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":10,"type":"OAR"},{"sailorId":11,"ty
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":2422.566757817264,"y":1706.6666993670458,"orientation":5.282216573824532},"name":"deadbeef","deck":{"width":5,"length":10},"entities":[{
+[INFO] Current turn: 27
+[INFO] [{"sailorId":17,"rotation":-0.17649369112843966,"type":"TURN"},{"sailorId":0,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":10,"type":"OAR"},{"sailorId":11,"t
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":2461.6641390432337,"y":1617.9789899845132,"orientation":5.280255807895533},"name":"deadbeef","deck":{"width":5,"length":10},"entities":[
+[INFO] Current turn: 28
+[INFO] [{"sailorId":17,"rotation":-0.17654009136431892,"type":"TURN"},{"sailorId":0,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":10,"type":"OAR"},{"sailorId":11,"t
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":2500.455932612075,"y":1529.1459226270392,"orientation":5.278248641730614},"name":"deadbeef","deck":{"width":5,"length":10},"entities":[{
+[INFO] Current turn: 29
+[INFO] [{"sailorId":17,"rotation":-0.17659332521485616,"type":"TURN"},{"sailorId":0,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":10,"type":"OAR"},{"sailorId":11,"t
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":2538.9342142250816,"y":1440.16457165033,"orientation":5.276188241715212},"name":"deadbeef","deck":{"width":5,"length":10},"entities":[{"
+[INFO] Current turn: 30
+[INFO] [{"sailorId":17,"rotation":-0.1766548238372594,"type":"TURN"},{"sailorId":0,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":10,"type":"OAR"},{"sailorId":11,"ty
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":2577.08987829342,"y":1351.0315196819085,"orientation":5.274066343077348},"name":"deadbeef","deck":{"width":5,"length":10},"entities":[{"
+[INFO] Current turn: 31
+[INFO] [{"sailorId":17,"rotation":-0.1767271115471558,"type":"TURN"},{"sailorId":0,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":10,"type":"OAR"},{"sailorId":11,"ty
+[INFO] Next round input: {"ship":{"type":"ship","position":{"x":2614.9123290640323,"y":1261.7427284914684,"orientation":5.271872156729622},"name":"deadbeef","deck":{"width":5,"length":10},"entities":[
+[INFO] Current turn: 32
+[INFO] [{"sailorId":17,"rotation":-0.1768140452630238,"type":"TURN"},{"sailorId":0,"type":"OAR"},{"sailorId":5,"type":"OAR"},{"sailorId":6,"type":"OAR"},{"sailorId":10,"type":"OAR"},{"sailorId":11,"ty

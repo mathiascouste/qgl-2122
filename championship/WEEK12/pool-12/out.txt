@@ -1,0 +1,887 @@
+Début de la partie
+on a enelver un gars la taille vaut16 ==16
+on a enelver un gars la taille vaut15 ==15
+on a enelver un gars la taille vaut14 ==14
+sailors size vaut14
+mid est 7
+a gauche on a mis x marin,  x = 7
+a droite on a mis x marin,  x = 7
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=5124.498894380835, y=5428.510558001124, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=150.0}}
+Deplacement: 47.142857142857146, 0.8975979010256552
+taille marin gauche 7 et droite 7
+sailors size vaut14
+mid est 7
+a gauche on a mis x marin,  x = 7
+a droite on a mis x marin,  x = 7
+calcule WayDirect
+Intersection repere cord4348.113089753212 y:4365.879478827364
+On calcule AStar car non wayDirect
+Start i trouvé : 7
+Start j trouvé : 7
+End i trouvé : 29
+End j trouvé : 36
+La taille de la liste : 230
+La taille de la liste reefSegments : 64
+223
+230
+StartX: 7, StartY: 7
+EndX: 29, EndY: 36
+Grid i length : 223
+Grid j length : 230
+Algo AStar startI : 7
+Algo AStar startJ : 7
+FAKE
+FAKE
+Checkpoint{position=Position{x=2215.4218965685895, y=1457.0530900694255, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.0}}
+Deplacement: 165.0, -0.108
+taille marin gauche 7 et droite 7
+sailors size vaut14
+mid est 7
+a gauche on a mis x marin,  x = 7
+a droite on a mis x marin,  x = 7
+calcule WayDirect
+Intersection repere cord2820.2561044151685 y:2298.0190976626845
+On calcule AStar car non wayDirect
+Start i trouvé : 7
+Start j trouvé : 7
+End i trouvé : 28
+End j trouvé : 35
+La taille de la liste : 246
+La taille de la liste reefSegments : 72
+222
+229
+StartX: 7, StartY: 7
+EndX: 28, EndY: 35
+Grid i length : 222
+Grid j length : 229
+Algo AStar startI : 7
+Algo AStar startJ : 7
+FAKE
+FAKE
+Checkpoint{position=Position{x=2356.2941529672503, y=1583.5290897294576, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.0}}
+Deplacement: 165.0, 0.224
+taille marin gauche 7 et droite 7
+sailors size vaut14
+mid est 7
+a gauche on a mis x marin,  x = 7
+a droite on a mis x marin,  x = 7
+calcule WayDirect
+Intersection repere cord4360.947090823532 y:4365.879478827364
+On calcule AStar car non wayDirect
+Start i trouvé : 7
+Start j trouvé : 7
+End i trouvé : 27
+End j trouvé : 34
+La taille de la liste : 253
+La taille de la liste reefSegments : 72
+221
+228
+StartX: 7, StartY: 7
+EndX: 27, EndY: 34
+Grid i length : 221
+Grid j length : 228
+Algo AStar startI : 7
+Algo AStar startJ : 7
+FAKE
+FAKE
+Checkpoint{position=Position{x=2462.558597152765, y=1714.6596455335311, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.0}}
+Deplacement: 165.0, -0.449
+taille marin gauche 7 et droite 7
+sailors size vaut14
+mid est 7
+a gauche on a mis x marin,  x = 7
+a droite on a mis x marin,  x = 7
+calcule WayDirect
+Intersection repere cord4369.023023297247 y:4365.879478827364
+On calcule AStar car non wayDirect
+Start i trouvé : 7
+Start j trouvé : 7
+End i trouvé : 26
+End j trouvé : 33
+La taille de la liste : 269
+La taille de la liste reefSegments : 80
+220
+227
+StartX: 7, StartY: 7
+EndX: 26, EndY: 33
+Grid i length : 220
+Grid j length : 227
+Algo AStar startI : 7
+Algo AStar startJ : 7
+FAKE
+FAKE
+Checkpoint{position=Position{x=2583.065974084864, y=1833.9132562572324, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.0}}
+Deplacement: 165.0, 0.449
+taille marin gauche 7 et droite 7
+sailors size vaut14
+mid est 7
+a gauche on a mis x marin,  x = 7
+a droite on a mis x marin,  x = 7
+calcule WayDirect
+Intersection repere cord4378.120082990514 y:4365.879478827364
+On calcule AStar car non wayDirect
+Start i trouvé : 7
+Start j trouvé : 7
+End i trouvé : 25
+End j trouvé : 33
+La taille de la liste : 288
+La taille de la liste reefSegments : 88
+219
+226
+StartX: 7, StartY: 7
+EndX: 25, EndY: 33
+Grid i length : 219
+Grid j length : 226
+Algo AStar startI : 7
+Algo AStar startJ : 7
+FAKE
+FAKE
+Checkpoint{position=Position{x=2704.8300621729277, y=1952.3081388240032, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.0}}
+Deplacement: 165.0, -0.449
+taille marin gauche 7 et droite 7
+sailors size vaut14
+mid est 7
+a gauche on a mis x marin,  x = 7
+a droite on a mis x marin,  x = 7
+calcule WayDirect
+Intersection repere cord4387.3260357795225 y:4365.879478827364
+On calcule AStar car non wayDirect
+Start i trouvé : 7
+Start j trouvé : 7
+End i trouvé : 25
+End j trouvé : 32
+La taille de la liste : 290
+La taille de la liste reefSegments : 88
+218
+226
+StartX: 7, StartY: 7
+EndX: 25, EndY: 32
+Grid i length : 218
+Grid j length : 226
+Algo AStar startI : 7
+Algo AStar startJ : 7
+FAKE
+FAKE
+Checkpoint{position=Position{x=2825.3373220530643, y=2071.5615552884387, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.0}}
+Deplacement: 165.0, 0.449
+taille marin gauche 7 et droite 7
+sailors size vaut14
+mid est 7
+a gauche on a mis x marin,  x = 7
+a droite on a mis x marin,  x = 7
+calcule WayDirect
+Intersection repere cord2915.61423326001 y:2257.1513281577527
+On calcule AStar car non wayDirect
+Start i trouvé : 7
+Start j trouvé : 7
+End i trouvé : 24
+End j trouvé : 31
+La taille de la liste : 290
+La taille de la liste reefSegments : 88
+218
+225
+StartX: 7, StartY: 7
+EndX: 24, EndY: 31
+Grid i length : 218
+Grid j length : 225
+Algo AStar startI : 7
+Algo AStar startJ : 7
+FAKE
+FAKE
+Checkpoint{position=Position{x=2947.0631550698104, y=2049.978385394743, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.0}}
+Deplacement: 165.0, -0.782
+taille marin gauche 7 et droite 7
+sailors size vaut14
+mid est 7
+a gauche on a mis x marin,  x = 7
+a droite on a mis x marin,  x = 7
+calcule WayDirect
+Intersection repere cord2966.1894802637075 y:2235.4762222990253
+On calcule AStar car non wayDirect
+Start i trouvé : 7
+Start j trouvé : 7
+End i trouvé : 23
+End j trouvé : 30
+La taille de la liste : 299
+La taille de la liste reefSegments : 88
+217
+224
+StartX: 7, StartY: 7
+EndX: 23, EndY: 30
+Grid i length : 217
+Grid j length : 224
+Algo AStar startI : 7
+Algo AStar startJ : 7
+FAKE
+FAKE
+Checkpoint{position=Position{x=3085.225212875919, y=2146.245919565997, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.0}}
+Deplacement: 165.0, 0.449
+taille marin gauche 7 et droite 7
+sailors size vaut14
+mid est 7
+a gauche on a mis x marin,  x = 7
+a droite on a mis x marin,  x = 7
+calcule WayDirect
+Intersection repere cord4449.905837095344 y:4365.879478827364
+On calcule AStar car non wayDirect
+Start i trouvé : 7
+Start j trouvé : 7
+End i trouvé : 22
+End j trouvé : 30
+La taille de la liste : 292
+La taille de la liste reefSegments : 88
+215
+223
+StartX: 7, StartY: 7
+EndX: 22, EndY: 30
+Grid i length : 215
+Grid j length : 223
+Algo AStar startI : 7
+Algo AStar startJ : 7
+FAKE
+FAKE
+Checkpoint{position=Position{x=3246.6258306628706, y=2083.070563007391, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.0}}
+Deplacement: 47.142857142857146, -0.8975979010256552
+taille marin gauche 7 et droite 7
+sailors size vaut14
+mid est 7
+a gauche on a mis x marin,  x = 7
+a droite on a mis x marin,  x = 7
+calcule WayDirect
+Intersection repere cord3175.679594507734 y:2318.6375027911345
+On calcule AStar car non wayDirect
+Start i trouvé : 7
+Start j trouvé : 7
+End i trouvé : 21
+End j trouvé : 29
+La taille de la liste : 295
+La taille de la liste reefSegments : 88
+215
+223
+StartX: 7, StartY: 7
+EndX: 21, EndY: 29
+Grid i length : 215
+Grid j length : 223
+Algo AStar startI : 7
+Algo AStar startJ : 7
+FAKE
+FAKE
+Checkpoint{position=Position{x=3325.5914891828797, y=2120.6901721573363, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.0}}
+Deplacement: 165.0, -0.035
+taille marin gauche 7 et droite 7
+sailors size vaut14
+mid est 7
+a gauche on a mis x marin,  x = 7
+a droite on a mis x marin,  x = 7
+calcule WayDirect
+Intersection repere cord3377.6435864299533 y:2405.193499329229
+On calcule AStar car non wayDirect
+Start i trouvé : 7
+Start j trouvé : 7
+End i trouvé : 20
+End j trouvé : 29
+La taille de la liste : 302
+La taille de la liste reefSegments : 88
+214
+223
+StartX: 7, StartY: 7
+EndX: 20, EndY: 29
+Grid i length : 214
+Grid j length : 223
+Algo AStar startI : 7
+Algo AStar startJ : 7
+FAKE
+FAKE
+Checkpoint{position=Position{x=3509.955250430891, y=2300.2968075569856, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.0}}
+Deplacement: 165.0, 0.035
+taille marin gauche 7 et droite 7
+sailors size vaut14
+mid est 7
+a gauche on a mis x marin,  x = 7
+a droite on a mis x marin,  x = 7
+calcule WayDirect
+Intersection repere cord4562.933303939873 y:4365.879478827364
+On calcule AStar car non wayDirect
+Start i trouvé : 7
+Start j trouvé : 7
+End i trouvé : 18
+End j trouvé : 29
+La taille de la liste : 285
+La taille de la liste reefSegments : 88
+212
+223
+StartX: 7, StartY: 7
+EndX: 18, EndY: 29
+Grid i length : 212
+Grid j length : 223
+Algo AStar startI : 7
+Algo AStar startJ : 7
+FAKE
+FAKE
+Checkpoint{position=Position{x=3694.1061035115135, y=2480.6566131936993, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.0}}
+Deplacement: 165.0, 0.783
+taille marin gauche 7 et droite 7
+sailors size vaut14
+mid est 7
+a gauche on a mis x marin,  x = 7
+a droite on a mis x marin,  x = 7
+calcule WayDirect
+Intersection repere cord4591.00905212414 y:4365.879478827364
+On calcule AStar car non wayDirect
+Start i trouvé : 7
+Start j trouvé : 7
+End i trouvé : 17
+End j trouvé : 28
+La taille de la liste : 344
+La taille de la liste reefSegments : 96
+211
+222
+StartX: 7, StartY: 7
+EndX: 17, EndY: 28
+Grid i length : 211
+Grid j length : 222
+Algo AStar startI : 7
+Algo AStar startJ : 7
+FAKE
+FAKE
+Checkpoint{position=Position{x=3833.5618966517472, y=2575.5185017335516, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.0}}
+Deplacement: 165.0, -0.449
+taille marin gauche 7 et droite 7
+sailors size vaut14
+mid est 7
+a gauche on a mis x marin,  x = 7
+a droite on a mis x marin,  x = 7
+calcule WayDirect
+Intersection repere cord4610.920115498684 y:4365.879478827364
+On calcule AStar car non wayDirect
+Start i trouvé : 7
+Start j trouvé : 7
+End i trouvé : 16
+End j trouvé : 27
+La taille de la liste : 362
+La taille de la liste reefSegments : 104
+210
+221
+StartX: 7, StartY: 7
+EndX: 16, EndY: 27
+Grid i length : 210
+Grid j length : 221
+Algo AStar startI : 7
+Algo AStar startJ : 7
+FAKE
+FAKE
+Checkpoint{position=Position{x=3953.8875787919796, y=2694.8901266269963, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.0}}
+Deplacement: 165.0, 0.449
+taille marin gauche 7 et droite 7
+sailors size vaut14
+mid est 7
+a gauche on a mis x marin,  x = 7
+a droite on a mis x marin,  x = 7
+calcule WayDirect
+Intersection repere cord4633.111907078261 y:4365.879478827364
+On calcule AStar car non wayDirect
+Start i trouvé : 7
+Start j trouvé : 7
+End i trouvé : 16
+End j trouvé : 26
+La taille de la liste : 354
+La taille de la liste reefSegments : 104
+209
+220
+StartX: 7, StartY: 7
+EndX: 16, EndY: 26
+Grid i length : 209
+Grid j length : 220
+Algo AStar startI : 7
+Algo AStar startJ : 7
+FAKE
+FAKE
+Checkpoint{position=Position{x=4075.476355811939, y=2813.4016519798906, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.0}}
+Deplacement: 165.0, -0.448
+taille marin gauche 7 et droite 7
+sailors size vaut14
+mid est 7
+a gauche on a mis x marin,  x = 7
+a droite on a mis x marin,  x = 7
+calcule WayDirect
+Intersection repere cord4656.675582403079 y:4365.879478827364
+On calcule AStar car non wayDirect
+Start i trouvé : 7
+Start j trouvé : 7
+End i trouvé : 15
+End j trouvé : 26
+La taille de la liste : 343
+La taille de la liste reefSegments : 104
+209
+219
+StartX: 7, StartY: 7
+EndX: 15, EndY: 26
+Grid i length : 209
+Grid j length : 219
+Algo AStar startI : 7
+Algo AStar startJ : 7
+FAKE
+FAKE
+Checkpoint{position=Position{x=4195.733412421977, y=2932.8368747876825, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.0}}
+Deplacement: 165.0, 0.448
+taille marin gauche 7 et droite 7
+sailors size vaut14
+mid est 7
+a gauche on a mis x marin,  x = 7
+a droite on a mis x marin,  x = 7
+calcule WayDirect
+Intersection repere cord4683.062781378508 y:4365.879478827364
+On calcule AStar car non wayDirect
+Start i trouvé : 7
+Start j trouvé : 7
+End i trouvé : 14
+End j trouvé : 25
+La taille de la liste : 336
+La taille de la liste reefSegments : 104
+208
+219
+StartX: 7, StartY: 7
+EndX: 14, EndY: 25
+Grid i length : 208
+Grid j length : 219
+Algo AStar startI : 7
+Algo AStar startJ : 7
+FAKE
+FAKE
+Checkpoint{position=Position{x=4317.252740976188, y=3051.413642984751, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.0}}
+Deplacement: 165.0, -0.448
+taille marin gauche 7 et droite 7
+sailors size vaut14
+mid est 7
+a gauche on a mis x marin,  x = 7
+a droite on a mis x marin,  x = 7
+calcule WayDirect
+Intersection repere cord4711.42569784474 y:4365.879478827364
+On calcule AStar car non wayDirect
+Start i trouvé : 7
+Start j trouvé : 7
+End i trouvé : 13
+End j trouvé : 24
+La taille de la liste : 330
+La taille de la liste reefSegments : 104
+207
+218
+StartX: 7, StartY: 7
+EndX: 13, EndY: 24
+Grid i length : 207
+Grid j length : 218
+Algo AStar startI : 7
+Algo AStar startJ : 7
+FAKE
+FAKE
+Checkpoint{position=Position{x=4297.600609239421, y=3170.8051195138696, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.0}}
+Deplacement: 165.0, 0.784
+taille marin gauche 7 et droite 7
+sailors size vaut14
+mid est 7
+a gauche on a mis x marin,  x = 7
+a droite on a mis x marin,  x = 7
+calcule WayDirect
+Intersection repere cord4731.602737621125 y:4365.879478827364
+On calcule AStar car non wayDirect
+Start i trouvé : 7
+Start j trouvé : 7
+End i trouvé : 12
+End j trouvé : 23
+La taille de la liste : 331
+La taille de la liste reefSegments : 104
+206
+217
+StartX: 7, StartY: 7
+EndX: 12, EndY: 23
+Grid i length : 206
+Grid j length : 217
+Algo AStar startI : 7
+Algo AStar startJ : 7
+FAKE
+FAKE
+Checkpoint{position=Position{x=4393.168453830728, y=3296.984039759306, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.0}}
+Deplacement: 165.0, -0.448
+taille marin gauche 7 et droite 7
+sailors size vaut14
+mid est 7
+a gauche on a mis x marin,  x = 7
+a droite on a mis x marin,  x = 7
+calcule WayDirect
+Intersection repere cord4738.151355594434 y:4365.879478827364
+On calcule AStar car non wayDirect
+Start i trouvé : 7
+Start j trouvé : 7
+End i trouvé : 12
+End j trouvé : 22
+La taille de la liste : 359
+La taille de la liste reefSegments : 112
+206
+216
+StartX: 7, StartY: 7
+EndX: 12, EndY: 22
+Grid i length : 206
+Grid j length : 216
+Algo AStar startI : 7
+Algo AStar startJ : 7
+FAKE
+FAKE
+Checkpoint{position=Position{x=4171.524776802921, y=3420.6384079439345, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.0}}
+Deplacement: 70.71428571428572, 1.3463968515384828
+taille marin gauche 7 et droite 7
+sailors size vaut14
+mid est 7
+a gauche on a mis x marin,  x = 7
+a droite on a mis x marin,  x = 7
+calcule WayDirect
+Intersection repere cord4737.632520074214 y:4365.879478827364
+On calcule AStar car non wayDirect
+Start i trouvé : 7
+Start j trouvé : 7
+End i trouvé : 12
+End j trouvé : 22
+La taille de la liste : 354
+La taille de la liste reefSegments : 112
+206
+215
+StartX: 7, StartY: 7
+EndX: 12, EndY: 22
+Grid i length : 206
+Grid j length : 215
+Algo AStar startI : 7
+Algo AStar startJ : 7
+FAKE
+FAKE
+Checkpoint{position=Position{x=4055.004630911314, y=3492.321726307853, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.0}}
+Deplacement: 165.0, 0.362
+taille marin gauche 7 et droite 7
+sailors size vaut14
+mid est 7
+a gauche on a mis x marin,  x = 7
+a droite on a mis x marin,  x = 7
+calcule WayDirect
+Intersection repere cord4689.063980687026 y:4365.879478827364
+On calcule AStar car non wayDirect
+Start i trouvé : 7
+Start j trouvé : 7
+End i trouvé : 12
+End j trouvé : 21
+La taille de la liste : 400
+La taille de la liste reefSegments : 120
+206
+215
+StartX: 7, StartY: 7
+EndX: 12, EndY: 21
+Grid i length : 206
+Grid j length : 215
+Algo AStar startI : 7
+Algo AStar startJ : 7
+FAKE
+FAKE
+Checkpoint{position=Position{x=3998.5907906219395, y=3621.8873086762837, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.0}}
+Deplacement: 165.0, 0.449
+taille marin gauche 7 et droite 7
+sailors size vaut14
+mid est 7
+a gauche on a mis x marin,  x = 7
+a droite on a mis x marin,  x = 7
+calcule WayDirect
+Intersection repere cord4620.1574832879105 y:4365.879478827364
+On calcule AStar car non wayDirect
+Start i trouvé : 7
+Start j trouvé : 7
+End i trouvé : 13
+End j trouvé : 20
+La taille de la liste : 389
+La taille de la liste reefSegments : 120
+207
+214
+StartX: 7, StartY: 7
+EndX: 13, EndY: 20
+Grid i length : 207
+Grid j length : 214
+Algo AStar startI : 7
+Algo AStar startJ : 7
+FAKE
+FAKE
+Checkpoint{position=Position{x=3899.502640406194, y=3715.9475227928124, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.0}}
+Deplacement: 165.0, -0.449
+taille marin gauche 7 et droite 7
+sailors size vaut14
+mid est 7
+a gauche on a mis x marin,  x = 7
+a droite on a mis x marin,  x = 7
+calcule WayDirect
+Intersection repere cord4543.744036831291 y:4365.879478827364
+On calcule AStar car non wayDirect
+Start i trouvé : 7
+Start j trouvé : 7
+End i trouvé : 14
+End j trouvé : 19
+La taille de la liste : 381
+La taille de la liste reefSegments : 120
+207
+213
+StartX: 7, StartY: 7
+EndX: 14, EndY: 19
+Grid i length : 207
+Grid j length : 213
+Algo AStar startI : 7
+Algo AStar startJ : 7
+FAKE
+FAKE
+Checkpoint{position=Position{x=3799.5672417052133, y=3809.115184563604, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.0}}
+Deplacement: 165.0, 0.449
+taille marin gauche 7 et droite 7
+sailors size vaut14
+mid est 7
+a gauche on a mis x marin,  x = 7
+a droite on a mis x marin,  x = 7
+calcule WayDirect
+Intersection repere cord4459.000130345098 y:4365.879478827364
+On calcule AStar car non wayDirect
+Start i trouvé : 7
+Start j trouvé : 7
+End i trouvé : 14
+End j trouvé : 19
+La taille de la liste : 373
+La taille de la liste reefSegments : 120
+208
+212
+StartX: 7, StartY: 7
+EndX: 14, EndY: 19
+Grid i length : 208
+Grid j length : 212
+Algo AStar startI : 7
+Algo AStar startJ : 7
+FAKE
+FAKE
+Checkpoint{position=Position{x=3840.3967946082535, y=3903.221854114944, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.0}}
+Deplacement: 165.0, -0.762
+taille marin gauche 7 et droite 7
+sailors size vaut14
+mid est 7
+a gauche on a mis x marin,  x = 7
+a droite on a mis x marin,  x = 7
+calcule WayDirect
+Intersection repere cord4369.799983409021 y:4365.879478827364
+On calcule AStar car non wayDirect
+Start i trouvé : 7
+Start j trouvé : 7
+End i trouvé : 15
+End j trouvé : 18
+La taille de la liste : 369
+La taille de la liste reefSegments : 120
+209
+212
+StartX: 7, StartY: 7
+EndX: 15, EndY: 18
+Grid i length : 209
+Grid j length : 212
+Algo AStar startI : 7
+Algo AStar startJ : 7
+FAKE
+FAKE
+Checkpoint{position=Position{x=3758.377895199509, y=4007.7336762415885, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.0}}
+Deplacement: 165.0, 0.448
+taille marin gauche 7 et droite 7
+sailors size vaut14
+mid est 7
+a gauche on a mis x marin,  x = 7
+a droite on a mis x marin,  x = 7
+calcule WayDirect
+Intersection repere cord4270.307795139287 y:4365.879478827364
+On calcule AStar car non wayDirect
+Start i trouvé : 7
+Start j trouvé : 7
+End i trouvé : 15
+End j trouvé : 17
+La taille de la liste : 397
+La taille de la liste reefSegments : 128
+209
+211
+StartX: 7, StartY: 7
+EndX: 15, EndY: 17
+Grid i length : 209
+Grid j length : 211
+Algo AStar startI : 7
+Algo AStar startJ : 7
+FAKE
+FAKE
+Checkpoint{position=Position{x=3833.0487537291638, y=4127.855052398825, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.0}}
+Deplacement: 47.142857142857146, -0.8975979010256552
+taille marin gauche 7 et droite 7
+sailors size vaut14
+mid est 7
+a gauche on a mis x marin,  x = 7
+a droite on a mis x marin,  x = 7
+calcule WayDirect
+Intersection repere cord4233.270894033318 y:4365.879478827364
+On calcule AStar car non wayDirect
+Start i trouvé : 7
+Start j trouvé : 7
+End i trouvé : 16
+End j trouvé : 17
+La taille de la liste : 390
+La taille de la liste reefSegments : 128
+209
+211
+StartX: 7, StartY: 7
+EndX: 16, EndY: 17
+Grid i length : 209
+Grid j length : 211
+Algo AStar startI : 7
+Algo AStar startJ : 7
+FAKE
+FAKE
+Checkpoint{position=Position{x=3810.9579195735764, y=4167.688157541732, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.0}}
+Deplacement: 165.0, -0.018
+taille marin gauche 7 et droite 7
+sailors size vaut14
+mid est 7
+a gauche on a mis x marin,  x = 7
+a droite on a mis x marin,  x = 7
+calcule WayDirect
+Intersection repere cord4118.364794785526 y:4365.879478827364
+On calcule AStar car non wayDirect
+Start i trouvé : 7
+Start j trouvé : 7
+End i trouvé : 16
+End j trouvé : 16
+La taille de la liste : 383
+La taille de la liste reefSegments : 128
+210
+210
+StartX: 7, StartY: 7
+EndX: 16, EndY: 16
+Grid i length : 210
+Grid j length : 210
+Algo AStar startI : 7
+Algo AStar startJ : 7
+FAKE
+FAKE
+Checkpoint{position=Position{x=3774.0532820858516, y=4303.018425858623, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.0}}
+Deplacement: 165.0, -0.449
+taille marin gauche 7 et droite 7
+sailors size vaut14
+mid est 7
+a gauche on a mis x marin,  x = 7
+a droite on a mis x marin,  x = 7
+calcule WayDirect
+Intersection repere cord4023.5891613691474 y:4385.879478827364
+On calcule AStar car non wayDirect
+Start i trouvé : 7
+Start j trouvé : 7
+End i trouvé : 16
+End j trouvé : 15
+La taille de la liste : 379
+La taille de la liste reefSegments : 128
+210
+209
+StartX: 7, StartY: 7
+EndX: 16, EndY: 15
+Grid i length : 210
+Grid j length : 209
+Algo AStar startI : 7
+Algo AStar startJ : 7
+FAKE
+FAKE
+Checkpoint{position=Position{x=3908.587869590573, y=4439.6541295713, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=7.0}}
+Deplacement: 165.0, -0.033
+taille marin gauche 7 et droite 7
+sailors size vaut14
+mid est 7
+a gauche on a mis x marin,  x = 7
+a droite on a mis x marin,  x = 7
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=5124.498894380835, y=5428.510558001124, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=150.0}}
+Deplacement: 70.71428571428571, 0.0
+taille marin gauche 7 et droite 7
+sailors size vaut14
+mid est 7
+a gauche on a mis x marin,  x = 7
+a droite on a mis x marin,  x = 7
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=5124.498894380835, y=5428.510558001124, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=150.0}}
+Deplacement: 165.0, -0.474
+taille marin gauche 7 et droite 7
+sailors size vaut14
+mid est 7
+a gauche on a mis x marin,  x = 7
+a droite on a mis x marin,  x = 7
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=5124.498894380835, y=5428.510558001124, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=150.0}}
+Deplacement: 165.0, -0.498
+taille marin gauche 7 et droite 7
+sailors size vaut14
+mid est 7
+a gauche on a mis x marin,  x = 7
+a droite on a mis x marin,  x = 7
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=5124.498894380835, y=5428.510558001124, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=150.0}}
+Deplacement: 165.0, 0.446
+taille marin gauche 7 et droite 7
+sailors size vaut14
+mid est 7
+a gauche on a mis x marin,  x = 7
+a droite on a mis x marin,  x = 7
+calcule WayDirect
+aucune inter repere
+on ne calcule pas a Star
+REAL
+Checkpoint{position=Position{x=5124.498894380835, y=5428.510558001124, orientation=0.0}, shape=Shape{type='circle'}Circle{radius=150.0}}
+Deplacement: 165.0, -0.446
+taille marin gauche 7 et droite 7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ajil IS ELIMINATED: fr.unice.polytech.si3.qgl.frigatesengine.interfaces.DestroyedShipError
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
