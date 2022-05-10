@@ -1,0 +1,100 @@
+Init game input: {"goal":{"mode":"REGATTA","checkpoints":[{"position":{"x":2279.6317218053687,"y":2879.047015765768,"orientation":0.0},"shape":{"type":"circle","radius":100.0}},{"position":{"x":2256.4
+Next round input: {"ship":{"type":"ship","position":{"x":2185.3061761027725,"y":-227.86458333333408,"orientation":1.5882496193148399},"name":"d3","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0
+Next round1
+Marin{id=4, x=1, y=1, name='Tom Pouce'} move => Marin{id=4, x=3, y=1, name='Tom Pouce'}
+Marin{id=5, x=1, y=2, name='Jack Pouce'} move => Marin{id=5, x=2, y=2, name='Jack Pouce'}
+Next round input: {"ship":{"type":"ship","position":{"x":2185.3061761027725,"y":-227.86458333333408,"orientation":1.5882496193148399},"name":"d3","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0
+Next round2
+Marin{id=2, x=0, y=2, name='Luffy Teach'} move => Marin{id=2, x=1, y=2, name='Luffy Teach'}
+Next round input: {"ship":{"type":"ship","position":{"x":2185.3061761027725,"y":-227.86458333333408,"orientation":1.5882496193148399},"name":"d3","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0
+Next round3
+Marin{id=1, x=0, y=1, name='Luffy Pouce'} move => Marin{id=1, x=0, y=2, name='Luffy Pouce'}
+Marin{id=4, x=3, y=1, name='Tom Pouce'} use rudder with rotation of -0.047803876373950116
+Marin{id=0, x=0, y=0, name='Tom Teach'} active Oar
+Marin{id=3, x=1, y=0, name='Edward Teach'} active Oar
+Marin{id=6, x=2, y=0, name='Edward Teach'} active Oar
+Marin{id=1, x=0, y=2, name='Luffy Pouce'} active Oar
+Marin{id=2, x=1, y=2, name='Luffy Teach'} active Oar
+Marin{id=5, x=2, y=2, name='Jack Pouce'} active Oar
+    - Rotation needed : -0.047803876373950116
+    - Marin sur rames : true
+    - Marin sur rames à droite : [Marin{id=1, x=0, y=2, name='Luffy Pouce'}, Marin{id=2, x=1, y=2, name='Luffy Teach'}, Marin{id=5, x=2, y=2, name='Jack Pouce'}]
+    - Marin sur rames à gauche : [Marin{id=0, x=0, y=0, name='Tom Teach'}, Marin{id=3, x=1, y=0, name='Edward Teach'}, Marin{id=6, x=2, y=0, name='Edward Teach'}]
+    - Marin sur gouvernail : Marin{id=4, x=3, y=1, name='Tom Pouce'}
+    - Marin qu'on va activé à droite : 3
+    - Marin qu'on va activé à gauche : 3
+    - Rotation du gouvernail : -0.047803876373950116
+    - Marin qui doivent être activé à droite : 3.0
+    - Marin qui doivent être activé à gauche : 3.0
+Next round input: {"ship":{"type":"ship","position":{"x":2186.33066031007,"y":-62.88347297872803,"orientation":1.5404457429408869},"name":"d3","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"t
+Next round4
+Marin{id=4, x=3, y=1, name='Tom Pouce'} use rudder with rotation of -0.0013530203662643903
+Marin{id=0, x=0, y=0, name='Tom Teach'} active Oar
+Marin{id=3, x=1, y=0, name='Edward Teach'} active Oar
+Marin{id=6, x=2, y=0, name='Edward Teach'} active Oar
+Marin{id=1, x=0, y=2, name='Luffy Pouce'} active Oar
+Marin{id=2, x=1, y=2, name='Luffy Teach'} active Oar
+Marin{id=5, x=2, y=2, name='Jack Pouce'} active Oar
+    - Rotation needed : -0.0013530203662643903
+    - Marin sur rames : true
+    - Marin sur rames à droite : [Marin{id=1, x=0, y=2, name='Luffy Pouce'}, Marin{id=2, x=1, y=2, name='Luffy Teach'}, Marin{id=5, x=2, y=2, name='Jack Pouce'}]
+    - Marin sur rames à gauche : [Marin{id=0, x=0, y=0, name='Tom Teach'}, Marin{id=3, x=1, y=0, name='Edward Teach'}, Marin{id=6, x=2, y=0, name='Edward Teach'}]
+    - Marin sur gouvernail : Marin{id=4, x=3, y=1, name='Tom Pouce'}
+    - Marin qu'on va activé à droite : 3
+    - Marin qu'on va activé à gauche : 3
+    - Rotation du gouvernail : -0.0013530203662643903
+    - Marin qui doivent être activé à droite : 3.0
+    - Marin qui doivent être activé à gauche : 3.0
+Next round input: {"ship":{"type":"ship","position":{"x":2191.4481933682896,"y":102.03713429184454,"orientation":1.5390927225746298},"name":"d3","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,
+Next round5
+Marin{id=4, x=3, y=1, name='Tom Pouce'} use rudder with rotation of -4.0577315207679376E-5
+Marin{id=0, x=0, y=0, name='Tom Teach'} active Oar
+Marin{id=3, x=1, y=0, name='Edward Teach'} active Oar
+Marin{id=6, x=2, y=0, name='Edward Teach'} active Oar
+Marin{id=1, x=0, y=2, name='Luffy Pouce'} active Oar
+Marin{id=2, x=1, y=2, name='Luffy Teach'} active Oar
+Marin{id=5, x=2, y=2, name='Jack Pouce'} active Oar
+    - Rotation needed : -4.0577315207679376E-5
+    - Marin sur rames : true
+    - Marin sur rames à droite : [Marin{id=1, x=0, y=2, name='Luffy Pouce'}, Marin{id=2, x=1, y=2, name='Luffy Teach'}, Marin{id=5, x=2, y=2, name='Jack Pouce'}]
+    - Marin sur rames à gauche : [Marin{id=0, x=0, y=0, name='Tom Teach'}, Marin{id=3, x=1, y=0, name='Edward Teach'}, Marin{id=6, x=2, y=0, name='Edward Teach'}]
+    - Marin sur gouvernail : Marin{id=4, x=3, y=1, name='Tom Pouce'}
+    - Marin qu'on va activé à droite : 3
+    - Marin qu'on va activé à gauche : 3
+    - Rotation du gouvernail : -4.0577315207679376E-5
+    - Marin qui doivent être activé à droite : 3.0
+    - Marin qui doivent être activé à gauche : 3.0
+Next round input: {"ship":{"type":"ship","position":{"x":2196.6817242823645,"y":266.95411386167603,"orientation":1.539052145259433},"name":"d3","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"
+Next round6
+Marin{id=4, x=3, y=1, name='Tom Pouce'} use rudder with rotation of -1.2937525706302466E-6
+Marin{id=0, x=0, y=0, name='Tom Teach'} active Oar
+Marin{id=3, x=1, y=0, name='Edward Teach'} active Oar
+Marin{id=6, x=2, y=0, name='Edward Teach'} active Oar
+Marin{id=1, x=0, y=2, name='Luffy Pouce'} active Oar
+Marin{id=2, x=1, y=2, name='Luffy Teach'} active Oar
+Marin{id=5, x=2, y=2, name='Jack Pouce'} active Oar
+    - Rotation needed : -1.2937525706302466E-6
+    - Marin sur rames : true
+    - Marin sur rames à droite : [Marin{id=1, x=0, y=2, name='Luffy Pouce'}, Marin{id=2, x=1, y=2, name='Luffy Teach'}, Marin{id=5, x=2, y=2, name='Jack Pouce'}]
+    - Marin sur rames à gauche : [Marin{id=0, x=0, y=0, name='Tom Teach'}, Marin{id=3, x=1, y=0, name='Edward Teach'}, Marin{id=6, x=2, y=0, name='Edward Teach'}]
+    - Marin sur gouvernail : Marin{id=4, x=3, y=1, name='Tom Pouce'}
+    - Marin qu'on va activé à droite : 3
+    - Marin qu'on va activé à gauche : 3
+    - Rotation du gouvernail : -1.2937525706302466E-6
+    - Marin qui doivent être activé à droite : 3.0
+    - Marin qui doivent être activé à gauche : 3.0
+Next round input: {"ship":{"type":"ship","position":{"x":2201.918740213276,"y":431.87098281126407,"orientation":1.5390508515068613},"name":"d3","deck":{"width":3,"length":4},"entities":[{"x":0,"y":0,"
+Next round7
+Marin{id=4, x=3, y=1, name='Tom Pouce'} use rudder with rotation of -4.402918740709083E-8
+Marin{id=0, x=0, y=0, name='Tom Teach'} active Oar
+Marin{id=3, x=1, y=0, name='Edward Teach'} active Oar
+Marin{id=6, x=2, y=0, name='Edward Teach'} active Oar
+Marin{id=1, x=0, y=2, name='Luffy Pouce'} active Oar
+Marin{id=2, x=1, y=2, name='Luffy Teach'} active Oar
+Marin{id=5, x=2, y=2, name='Jack Pouce'} active Oar
+    - Rotation needed : -4.402918740709083E-8
+    - Marin sur rames : true
+    - Marin sur rames à droite : [Marin{id=1, x=0, y=2, name='Luffy Pouce'}, Marin{id=2, x=1, y=2, name='Luffy Teach'}, Marin{id=5, x=2, y=2, name='Jack Pouce'}]
+    - Marin sur rames à gauche : [Marin{id=0, x=0, y=0, name='Tom Teach'}, Marin{id=3, x=1, y=0, name='Edward Teach'}, Marin{id=6, x=2, y=0, name='Edward Teach'}]
+    - Marin sur gouvernail : Marin{id=4, x=3, y=1, name='Tom Pouce'}
+    - Marin qu'on va activé à droite : 3
